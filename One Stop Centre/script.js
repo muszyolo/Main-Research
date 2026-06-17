@@ -193,3 +193,44 @@ document.addEventListener('mousemove', (e) => {
     document.body.style.setProperty('--mouse-x', `${e.clientX}px`);
     document.body.style.setProperty('--mouse-y', `${e.clientY}px`);
 });
+
+
+// Dynamic KPI Calculation
+document.addEventListener('DOMContentLoaded', () => {
+    setTimeout(() => {
+        try {
+            if (typeof MASTER_REFERENCES !== 'undefined') {
+                const papersCount = MASTER_REFERENCES.length;
+                const papersEl = document.getElementById('count-papers-reviewed');
+                if (papersEl) {
+                    animateValue(papersEl, 0, papersCount, 1500);
+                }
+                
+                const autismCount = MASTER_REFERENCES.filter(r => 
+                    (r.title && r.title.toLowerCase().includes('autism')) || 
+                    (r.title && r.title.toLowerCase().includes('asd')) ||
+                    (r.abstract && r.abstract.toLowerCase().includes('autism'))
+                ).length;
+                const autismEl = document.getElementById('count-autism-studies');
+                if (autismEl) {
+                    animateValue(autismEl, 0, autismCount, 1500);
+                }
+            }
+        } catch (e) {
+            console.error('Could not calculate dynamic KPIs', e);
+        }
+    }, 500);
+});
+
+function animateValue(obj, start, end, duration) {
+    let startTimestamp = null;
+    const step = (timestamp) => {
+        if (!startTimestamp) startTimestamp = timestamp;
+        const progress = Math.min((timestamp - startTimestamp) / duration, 1);
+        obj.innerHTML = Math.floor(progress * (end - start) + start);
+        if (progress < 1) {
+            window.requestAnimationFrame(step);
+        }
+    };
+    window.requestAnimationFrame(step);
+}
