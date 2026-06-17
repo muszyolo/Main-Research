@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UiTM Academic Calendar - March 2026</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="app-container">
+        <!-- Sidebar for details -->
+        <aside class="sidebar">
+            <div class="sidebar-header">
+                <img src="UiTM_Universiti_Teknologi_MARA_logo.svg" alt="UiTM Logo" class="logo">
+                <h2>Academic Calendar</h2>
+                <p>Semester March 2026</p>
+            </div>
+
+            <div class="mode-toggle-container">
+                <label>Study Mode</label>
+                <div class="toggle-group">
+                    <button class="toggle-btn active" data-mode="all">All</button>
+                    <button class="toggle-btn" data-mode="coursework">Coursework</button>
+                    <button class="toggle-btn" data-mode="research">Research</button>
+                </div>
+            </div>
+
+            <div class="selected-date-info">
+                <h3 id="sidebar-date-title">Select a date</h3>
+                <div id="sidebar-events-list" class="events-list">
+                    <p class="placeholder-text">Click on any highlighted date on the calendar to view its scheduled events.</p>
+                </div>
+            </div>
+
+            <div class="pdf-download">
+                <a href="calendar.pdf" target="_blank" class="pdf-btn">
+                    <svg viewBox="0 0 24 24" width="18" height="18" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="16" y1="13" x2="8" y2="13"></line><line x1="16" y1="17" x2="8" y2="17"></line><polyline points="10 9 9 9 8 9"></polyline></svg>
+                    View Original PDF
+                </a>
+            </div>
+        </aside>
+
+        <!-- Main Calendar Area -->
+        <main class="calendar-main">
+            <nav class="top-nav">
+                <button id="theme-toggle" class="nav-link theme-btn">
+                    <svg viewBox="0 0 24 24" width="16" height="16" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="5"></circle><line x1="12" y1="1" x2="12" y2="3"></line><line x1="12" y1="21" x2="12" y2="23"></line><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line><line x1="1" y1="12" x2="3" y2="12"></line><line x1="21" y1="12" x2="23" y2="12"></line><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line></svg>
+                </button>
+                <a href="https://ipsis.uitm.edu.my/" target="_blank" class="nav-link">IPSIS</a>
+                <a href="https://tncpi-apps.uitm.edu.my/irmis/" target="_blank" class="nav-link">IRMIS</a>
+                <a href="https://simsweb.uitm.edu.my/SPORTAL_APP/SPORTAL_LOGIN/index_login.htm" target="_blank" class="nav-link">iStudent Portal</a>
+                <a href="https://permata.uitm.edu.my/index.php" target="_blank" class="nav-link">PERMATA UiTM</a>
+                <a href="https://ufuture.uitm.edu.my/login" target="_blank" class="nav-link">UFUTURE</a>
+                <a href="https://uptracks.uitm.edu.my/ap-admin/login_guest.cfm?ty=student" target="_blank" class="nav-link">UPTRACK</a>
+            </nav>
+
+            <div class="calendar-header">
+                <button id="prev-month" class="nav-btn">&larr;</button>
+                <h1 id="current-month-year">March 2026</h1>
+                <button id="next-month" class="nav-btn">&rarr;</button>
+            </div>
+            
+            <div class="calendar-container">
+                <div class="weekdays">
+                    <div>Sun</div>
+                    <div>Mon</div>
+                    <div>Tue</div>
+                    <div>Wed</div>
+                    <div>Thu</div>
+                    <div>Fri</div>
+                    <div>Sat</div>
+                </div>
+                <div id="calendar-grid" class="days-grid">
+                    <!-- Days will be generated here by JS -->
+                </div>
+            </div>
+
+            <div class="legend">
+                <div class="legend-item"><span class="dot cat-registration"></span> Registration</div>
+                <div class="legend-item"><span class="dot cat-coursework"></span> Coursework</div>
+                <div class="legend-item"><span class="dot cat-research"></span> Research</div>
+                <div class="legend-item"><span class="dot cat-fees"></span> Fees</div>
+                <div class="legend-item"><span class="dot cat-general"></span> General / Other</div>
+                <div class="legend-item"><span class="dot cat-holiday"></span> Public Holiday</div>
+                <div class="legend-item"><span class="dot cat-convocation"></span> Convocation</div>
+            </div>
+        </main>
+    </div>
+
+    <script src="events.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>

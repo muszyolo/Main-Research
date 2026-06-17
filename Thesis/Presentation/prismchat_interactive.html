@@ -1,0 +1,423 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PrismChat Prototype</title>
+    <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-color: #f0f4f8;
+            --primary: #4a90e2;
+            --primary-light: #e6f0fa;
+            --text-main: #333;
+            --text-muted: #666;
+            --white: #ffffff;
+            --accent-green: #2ecc71;
+            --accent-green-light: #eafaf1;
+            --accent-purple: #9b59b6;
+        }
+
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: #d1d8e0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+
+        .phone-container {
+            width: 375px;
+            height: 812px;
+            background-color: var(--bg-color);
+            border-radius: 40px;
+            box-shadow: 0 20px 50px rgba(0,0,0,0.2);
+            overflow: hidden;
+            position: relative;
+            display: flex;
+            flex-direction: column;
+            border: 8px solid #333;
+        }
+
+        /* --- HEADER --- */
+        .header {
+            padding: 40px 20px 15px;
+            background-color: var(--white);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border-bottom: 1px solid #eee;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.02);
+        }
+
+        .logo {
+            font-weight: 700;
+            font-size: 20px;
+            color: var(--primary);
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        .logo-icon {
+            width: 24px; height: 24px;
+            background: linear-gradient(135deg, var(--primary), var(--accent-purple));
+            border-radius: 6px;
+        }
+
+        /* --- SCREENS --- */
+        .screen {
+            flex: 1;
+            overflow-y: auto;
+            padding: 20px;
+            display: none;
+        }
+        .screen.active {
+            display: block;
+            animation: fadeIn 0.3s ease;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        /* --- DASHBOARD SCREEN --- */
+        .greeting {
+            margin-bottom: 25px;
+        }
+        .greeting h1 {
+            font-size: 24px;
+            margin: 0 0 5px 0;
+            color: var(--text-main);
+        }
+        .greeting p {
+            margin: 0;
+            color: var(--text-muted);
+            font-size: 14px;
+        }
+
+        .card {
+            background: var(--white);
+            border-radius: 16px;
+            padding: 20px;
+            margin-bottom: 20px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.03);
+        }
+        .card h3 {
+            margin: 0 0 15px 0;
+            font-size: 16px;
+            color: var(--text-main);
+        }
+
+        /* Mood Tracker */
+        .mood-selector {
+            display: flex;
+            justify-content: space-between;
+        }
+        .mood-btn {
+            font-size: 28px;
+            background: none;
+            border: none;
+            cursor: pointer;
+            transition: transform 0.2s;
+            filter: grayscale(100%);
+            opacity: 0.5;
+        }
+        .mood-btn.selected, .mood-btn:hover {
+            filter: grayscale(0%);
+            opacity: 1;
+            transform: scale(1.2);
+        }
+
+        /* Resources */
+        .resource-item {
+            display: flex;
+            align-items: center;
+            padding: 12px;
+            background: var(--primary-light);
+            border-radius: 10px;
+            margin-bottom: 10px;
+            cursor: pointer;
+        }
+        .resource-item.green { background: var(--accent-green-light); }
+        .resource-icon {
+            font-size: 24px;
+            margin-right: 15px;
+        }
+        .resource-text h4 { margin: 0 0 4px 0; font-size: 14px; color: var(--primary); }
+        .resource-item.green .resource-text h4 { color: var(--accent-green); }
+        .resource-text p { margin: 0; font-size: 12px; color: var(--text-muted); }
+
+        /* --- CHAT SCREEN --- */
+        .chat-container {
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+            padding-bottom: 80px;
+        }
+        .message {
+            max-width: 80%;
+            padding: 12px 16px;
+            border-radius: 18px;
+            font-size: 14px;
+            line-height: 1.4;
+            animation: fadeIn 0.3s ease;
+        }
+        .msg-bot {
+            background: var(--white);
+            color: var(--text-main);
+            align-self: flex-start;
+            border-bottom-left-radius: 4px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+        }
+        .msg-user {
+            background: var(--primary);
+            color: var(--white);
+            align-self: flex-end;
+            border-bottom-right-radius: 4px;
+        }
+        .typing-indicator {
+            align-self: flex-start;
+            color: var(--text-muted);
+            font-size: 12px;
+            font-style: italic;
+            display: none;
+        }
+
+        .quick-replies {
+            position: absolute;
+            bottom: 70px;
+            left: 0; right: 0;
+            padding: 10px 20px;
+            display: flex;
+            gap: 10px;
+            overflow-x: auto;
+            background: linear-gradient(transparent, var(--bg-color) 20%);
+        }
+        .quick-replies::-webkit-scrollbar { display: none; }
+        .reply-btn {
+            background: var(--white);
+            border: 1px solid var(--primary);
+            color: var(--primary);
+            padding: 8px 16px;
+            border-radius: 20px;
+            font-size: 13px;
+            font-weight: 600;
+            cursor: pointer;
+            white-space: nowrap;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+        }
+
+        /* --- NAV BAR --- */
+        .bottom-nav {
+            position: absolute;
+            bottom: 0; width: 100%;
+            height: 65px;
+            background-color: var(--white);
+            display: flex;
+            justify-content: space-around;
+            align-items: center;
+            border-top: 1px solid #eee;
+            border-bottom-left-radius: 32px;
+            border-bottom-right-radius: 32px;
+        }
+        .nav-item {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            color: var(--text-muted);
+            font-size: 11px;
+            cursor: pointer;
+            padding: 10px;
+        }
+        .nav-item.active {
+            color: var(--primary);
+            font-weight: 600;
+        }
+        .nav-icon {
+            font-size: 20px;
+            margin-bottom: 4px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="phone-container">
+    
+    <!-- Header -->
+    <div class="header">
+        <div class="logo">
+            <div class="logo-icon"></div>
+            PrismChat
+        </div>
+        <div style="width: 32px; height: 32px; border-radius: 50%; background: #ccc; overflow: hidden;">
+            <img src="https://api.dicebear.com/7.x/avataaars/svg?seed=Felix" alt="Profile" style="width:100%; height:100%;">
+        </div>
+    </div>
+
+    <!-- Dashboard Screen -->
+    <div id="screen-dashboard" class="screen active">
+        <div class="greeting">
+            <h1>Hi, Sarah 👋</h1>
+            <p>Welcome back to your safe space.</p>
+        </div>
+
+        <!-- Mood Tracker -->
+        <div class="card">
+            <h3>How are you feeling today?</h3>
+            <div class="mood-selector">
+                <button class="mood-btn" onclick="selectMood(this)">😫</button>
+                <button class="mood-btn" onclick="selectMood(this)">😔</button>
+                <button class="mood-btn" onclick="selectMood(this)">😐</button>
+                <button class="mood-btn" onclick="selectMood(this)">🙂</button>
+                <button class="mood-btn" onclick="selectMood(this)">😊</button>
+            </div>
+        </div>
+
+        <!-- Targeted Interventions -->
+        <div class="card">
+            <h3>Your Targeted Programs</h3>
+            
+            <div class="resource-item" onclick="switchTab('chat')">
+                <div class="resource-icon">💬</div>
+                <div class="resource-text">
+                    <h4>Start Counseling Session</h4>
+                    <p>Connect with your virtual support guide.</p>
+                </div>
+            </div>
+
+            <div class="resource-item green">
+                <div class="resource-icon">🧘‍♀️</div>
+                <div class="resource-text">
+                    <h4>Mindfulness for Overwhelm</h4>
+                    <p>A 5-minute audio exercise for caregivers.</p>
+                </div>
+            </div>
+            
+            <div class="resource-item">
+                <div class="resource-icon">🤝</div>
+                <div class="resource-text">
+                    <h4>Community Support Groups</h4>
+                    <p>Connect with other parents locally.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Chat Screen -->
+    <div id="screen-chat" class="screen">
+        <div class="chat-container" id="chat-box">
+            <div class="message msg-bot">Hello Sarah, I'm here to support you. How has your day been with Aiden?</div>
+        </div>
+        
+        <div class="typing-indicator" id="typing">Counselor is typing...</div>
+
+        <div class="quick-replies" id="quick-replies">
+            <button class="reply-btn" onclick="sendReply('I felt overwhelmed today.')">I felt overwhelmed today.</button>
+            <button class="reply-btn" onclick="sendReply('We had a breakthrough!')">We had a breakthrough!</button>
+            <button class="reply-btn" onclick="sendReply('I need advice on routines.')">I need advice on routines.</button>
+        </div>
+    </div>
+
+    <!-- Bottom Navigation -->
+    <div class="bottom-nav">
+        <div class="nav-item active" onclick="switchTab('dashboard')" id="nav-dashboard">
+            <span class="nav-icon">🏠</span>
+            <span>Home</span>
+        </div>
+        <div class="nav-item" onclick="switchTab('chat')" id="nav-chat">
+            <span class="nav-icon">💬</span>
+            <span>Counselor</span>
+        </div>
+    </div>
+
+</div>
+
+<script>
+    // Tab Switching
+    function switchTab(tabId) {
+        document.querySelectorAll('.screen').forEach(s => s.classList.remove('active'));
+        document.querySelectorAll('.nav-item').forEach(n => n.classList.remove('active'));
+        
+        document.getElementById('screen-' + tabId).classList.add('active');
+        document.getElementById('nav-' + tabId).classList.add('active');
+    }
+
+    // Mood Selector interaction
+    function selectMood(element) {
+        document.querySelectorAll('.mood-btn').forEach(btn => btn.classList.remove('selected'));
+        element.classList.add('selected');
+    }
+
+    // Chat Logic
+    const chatBox = document.getElementById('chat-box');
+    const quickReplies = document.getElementById('quick-replies');
+    const typingIndicator = document.getElementById('typing');
+
+    const botResponses = {
+        'I felt overwhelmed today.': "I'm so sorry to hear that. Caregiver burnout is incredibly common and valid. Can you tell me what specific moment felt the heaviest?",
+        'We had a breakthrough!': "That is wonderful news! Celebrating small victories is so important. What coping strategy helped you get there?",
+        'I need advice on routines.': "Establishing routines is a great way to regain a sense of control. Let's break down tomorrow's schedule step-by-step."
+    };
+
+    function sendReply(text) {
+        // Hide buttons temporarily
+        quickReplies.style.display = 'none';
+
+        // Add user message
+        const userMsg = document.createElement('div');
+        userMsg.className = 'message msg-user';
+        userMsg.innerText = text;
+        chatBox.appendChild(userMsg);
+
+        // Scroll down
+        chatBox.parentElement.scrollTop = chatBox.parentElement.scrollHeight;
+
+        // Show typing indicator
+        setTimeout(() => {
+            typingIndicator.style.display = 'block';
+            chatBox.parentElement.scrollTop = chatBox.parentElement.scrollHeight;
+        }, 300);
+
+        // Add bot response
+        setTimeout(() => {
+            typingIndicator.style.display = 'none';
+            const botMsg = document.createElement('div');
+            botMsg.className = 'message msg-bot';
+            botMsg.innerText = botResponses[text] || "I understand. I am here to listen.";
+            chatBox.appendChild(botMsg);
+            
+            chatBox.parentElement.scrollTop = chatBox.parentElement.scrollHeight;
+            
+            // Show new contextual buttons
+            updateQuickReplies(text);
+            quickReplies.style.display = 'flex';
+        }, 1500);
+    }
+
+    function updateQuickReplies(lastText) {
+        quickReplies.innerHTML = ''; // clear current
+        
+        let newOptions = [];
+        if(lastText === 'I felt overwhelmed today.') {
+            newOptions = ['The sensory overload was too much.', 'I felt isolated from my family.', 'Thank you for listening.'];
+        } else if (lastText === 'We had a breakthrough!') {
+            newOptions = ['We used visual schedules.', 'I practiced mindfulness first.', 'It was just a lucky day.'];
+        } else {
+            newOptions = ['Tell me more.', 'I need to take a break now.'];
+        }
+
+        newOptions.forEach(opt => {
+            const btn = document.createElement('button');
+            btn.className = 'reply-btn';
+            btn.innerText = opt;
+            btn.onclick = () => sendReply(opt);
+            quickReplies.appendChild(btn);
+        });
+    }
+</script>
+
+</body>
+</html>

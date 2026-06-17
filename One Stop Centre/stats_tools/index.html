@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Statistics Suite</title>
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="../style.css">
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.jsdelivr.net/npm/jstat@latest/dist/jstat.min.js"></script>
+</head>
+<body>
+    <div class="app-container">
+        <!-- Sidebar -->
+        <aside class="sidebar">
+            <div class="sidebar-brand" style="margin-bottom: 12px;">
+                <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f310/512.png" class="brand-logo" alt="Hub Logo">
+                <div class="brand-text">
+                    <h1>Statistics</h1>
+                    <p>Research Hub</p>
+                </div>
+            </div>
+            <div class="autosave-indicator" style="display: flex; align-items: center; gap: 8px; font-size: 12px; color: var(--text-muted); background: #ffffff05; padding: 6px 12px; border-radius: 20px; border: 1px solid var(--border-light); margin-bottom: 24px; align-self: flex-start;">
+                <span class="dot" style="width: 8px; height: 8px; background-color: var(--primary); border-radius: 50%; box-shadow: 0 0 8px var(--primary);"></span>
+                System Live
+            </div>
+            
+            <nav class="sidebar-nav">
+                <a href="../index.html" class="nav-btn" style="color: var(--text-muted);">
+                    ← Back to Overview
+                </a>
+                <a href="#" class="nav-btn active">
+                    <img class="nav-icon" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9ee/512.png" alt="Statistics Suite">
+                    Statistics Suite
+                </a>
+            </nav>
+
+
+        </aside>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            <header class="content-header" style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 32px;">
+                <div class="header-title">
+                    <h2 style="font-family: var(--font-heading); font-size: 28px; font-weight: 700;">Statistics Suite</h2>
+                    <p style="color: var(--text-muted); font-size: 14px;">Instant browser-based calculations for your research data.</p>
+                </div>
+                <button class="theme-toggle" id="theme-toggle" title="Toggle Theme">
+                    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f319/512.png" id="theme-toggle-icon" alt="Dark Mode">
+                </button>
+            </header>
+
+            <div class="stats-grid">
+                <!-- Input Section -->
+                <section class="card data-input">
+                    <h3 style="font-family: var(--font-heading); font-size: 18px; font-weight: 600; margin-bottom: 8px;">1. Latent Variable Estimation (PLS-SEM)</h3>
+                    <p class="subtitle" style="color: var(--text-muted); font-size: 13px; margin-bottom: 20px;">Simulate extraction of latent scores from ordinal survey responses (CSI-PASD).</p>
+                    <div class="input-group">
+                        <label style="display: block; margin-bottom: 8px; color: var(--text-muted); font-size: 13px;">Sample Size (N):</label>
+                        <input type="number" id="sampleSize" value="200" style="background-color: #ffffff05; border: 1px solid var(--border-light); border-radius: 8px; color: var(--text-light); padding: 10px; width: 100%;">
+                    </div>
+                    <div class="input-group" style="margin-top: 16px;">
+                        <label style="display: block; margin-bottom: 8px; color: var(--text-muted); font-size: 13px;">Variance/Noise Level: <span id="varianceValue" style="color: var(--primary); font-weight: 600;">5</span></label>
+                        <input type="range" id="varianceLevel" min="1" max="10" value="5" style="width: 100%;" oninput="document.getElementById('varianceValue').innerText = this.value">
+                    </div>
+                    <button class="btn btn-primary" onclick="generateLatentScores()" style="margin-top: 24px; width: 100%; background-color: var(--primary); color: white; border: none; padding: 12px; border-radius: 8px; font-family: var(--font-heading); font-weight: 600; cursor: pointer;">Generate PLS-SEM Scores</button>
+                </section>
+
+                <!-- Actions Section -->
+                <section class="card test-actions">
+                    <h3 style="font-family: var(--font-heading); font-size: 18px; font-weight: 600; margin-bottom: 8px;">2. Algorithmic Optimization (K-Means)</h3>
+                    <p class="subtitle" style="color: var(--text-muted); font-size: 13px; margin-bottom: 20px;">Partition latent variables using Euclidean distance.</p>
+                    <div class="input-group">
+                        <label style="display: block; margin-bottom: 8px; color: var(--text-muted); font-size: 13px;">Target Clusters (k):</label>
+                        <input type="number" id="kValue" value="3" min="2" max="10" style="background-color: #ffffff05; border: 1px solid var(--border-light); border-radius: 8px; color: var(--text-light); padding: 10px; width: 100%;">
+                    </div>
+                    <button class="btn btn-secondary" onclick="runKMeans()" style="margin-top: 24px; width: 100%; background-color: var(--secondary); color: white; border: none; padding: 12px; border-radius: 8px; font-family: var(--font-heading); font-weight: 600; cursor: pointer;">Run K-Means Clustering</button>
+                </section>
+            </div>
+
+            <!-- Results Section -->
+            <section class="card results-section" style="margin-top: 24px;">
+                <h3 style="font-family: var(--font-heading); font-size: 18px; font-weight: 600; margin-bottom: 20px;">3. Cluster Validation & Results</h3>
+                <div id="results-output" class="results-box" style="background: #ffffff05; border: 1px solid var(--border-dark); border-radius: 12px; padding: 20px; font-family: var(--font-body); font-size: 14px; line-height: 1.6;">
+                    <p style="color: var(--text-muted); text-align: center; padding: 40px 0;">Generate scores and run K-Means to see cluster validation metrics (Silhouette Coefficient & WCSS).</p>
+                </div>
+            </section>
+        </main>
+    </div>
+    <script src="script.js"></script>
+    <script>
+        // Theme Toggle Logic
+        const savedTheme = localStorage.getItem("lr_shield_theme") || "dark";
+        const themeIcon = document.getElementById("theme-toggle-icon");
+        if (savedTheme === "light") {
+            document.body.classList.add("light-theme");
+            if (themeIcon) {
+                themeIcon.src = "https://fonts.gstatic.com/s/e/notoemoji/latest/2600_fe0f/512.png";
+                themeIcon.alt = "Light Mode";
+            }
+        }
+        const themeToggleBtn = document.getElementById("theme-toggle");
+        if (themeToggleBtn) {
+            themeToggleBtn.addEventListener("click", () => {
+                const isLight = document.body.classList.toggle("light-theme");
+                if (isLight) {
+                    localStorage.setItem("lr_shield_theme", "light");
+                    if (themeIcon) themeIcon.src = "https://fonts.gstatic.com/s/e/notoemoji/latest/2600_fe0f/512.png";
+                } else {
+                    localStorage.setItem("lr_shield_theme", "dark");
+                    if (themeIcon) themeIcon.src = "https://fonts.gstatic.com/s/e/notoemoji/latest/1f319/512.png";
+                }
+            });
+        }
+    </script>
+    <script src="../script.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            initTicker([
+                "Transform ordinal Likert data into Latent Variable Scores using PLS-SEM before clustering.",
+                "Always calculate the Silhouette Coefficient alongside the Elbow Method to validate 'k'.",
+                "Use K-Means clustering (unsupervised machine learning) to discover underlying caregiver profiles.",
+                "Remember: Your design is Explanatory Sequential Mixed Methods (Quantitative → Qualitative)."
+            ]);
+        });
+    </script>
+</body>
+</html>

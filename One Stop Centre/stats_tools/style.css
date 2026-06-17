@@ -1,0 +1,137 @@
+/* Stats Suite Specific Styles */
+
+.stats-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 24px; }
+
+.input-group { margin-bottom: 16px; }
+.input-group label { display: block; margin-bottom: 8px; font-family: var(--font-heading); font-weight: 500; font-size: 14px; }
+.input-group textarea {
+    width: 100%; height: 80px; padding: 12px; border-radius: 8px;
+    background: #00000033; border: 1px solid var(--border-light);
+    color: var(--text-light); font-family: var(--font-body); resize: vertical;
+    transition: border-color 0.25s;
+}
+body.light-theme .input-group textarea {
+    background: #ffffff;
+    color: var(--text-dark);
+}
+.input-group textarea:focus { outline: none; border-color: var(--primary); }
+
+.action-buttons { display: flex; flex-direction: column; gap: 12px; }
+.btn {
+    background: rgba(255,255,255,0.05); color: var(--text-light);
+    border: 1px solid var(--border-light); padding: 12px 16px;
+    border-radius: 8px; font-weight: 500; cursor: pointer; transition: all 0.2s ease;
+    text-align: left; font-family: var(--font-body);
+}
+body.light-theme .btn {
+    color: var(--text-dark);
+}
+.btn:hover { background: rgba(var(--primary-rgb), 0.15); border-color: var(--primary); transform: translateX(5px); }
+
+.results-box {
+    background: #0000004d; padding: 24px; border-radius: 8px;
+    border: 1px solid var(--border-light); min-height: 150px;
+    font-family: monospace; font-size: 15px; line-height: 1.6; white-space: pre-wrap;
+    color: var(--text-light);
+}
+body.light-theme .results-box {
+    background: #ffffff;
+    color: var(--text-dark);
+}
+.results-box .res-highlight { color: var(--secondary); font-weight: bold; }
+
+
+/* ============================================================
+   GLASSMORPHIC MIRROR EFFECT (SYNCED FROM PUBJOURNEY)
+   ============================================================ */
+.card, .stat-card, .tier-box, .diagnostic-box, .evidence-gate-calculator, .timeline-item, .kanban-card {
+  box-shadow: 
+    0 8px 32px rgba(0,0,0,0.35),
+    inset 0 1px 1px rgba(255,255,255,0.15),
+    inset 0 -1px 1px rgba(0,0,0,0.3) !important;
+  transform-style: preserve-3d;
+  position: relative;
+}
+
+.card:hover, .stat-card:hover, .tier-box:hover, .timeline-item:hover, .kanban-card:hover {
+  box-shadow: 
+    0 20px 40px rgba(0,0,0,0.65),
+    inset 0 1px 2px rgba(255,255,255,0.3),
+    inset 0 -1px 1px rgba(0,0,0,0.4) !important;
+  z-index: 10;
+}
+
+.card::after, .stat-card::after, .tier-box::after, .diagnostic-box::after, .evidence-gate-calculator::after, .timeline-item::after, .kanban-card::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
+  background: linear-gradient(135deg, rgba(255,255,255,0.12) 0%, transparent 40%);
+  pointer-events: none;
+  opacity: 0.3;
+  transition: opacity 0.3s ease;
+}
+
+.card:hover::after, .stat-card:hover::after, .tier-box:hover::after, .timeline-item:hover::after, .kanban-card:hover::after {
+  opacity: 1;
+}
+
+/* 3D Glassmorphic Mirror Glare - LIGHT MODE */
+body.light-theme .card,
+body.light-theme .stat-card,
+body.light-theme .tier-box,
+body.light-theme .diagnostic-box,
+body.light-theme .evidence-gate-calculator,
+body.light-theme .timeline-item,
+body.light-theme .kanban-card {
+  background: rgba(255, 255, 255, 0.6) !important; /* Translucent base so the white glare is visible */
+  backdrop-filter: blur(24px) !important;
+  -webkit-backdrop-filter: blur(24px) !important;
+  border: 1px solid rgba(255, 255, 255, 0.8) !important;
+  box-shadow: 
+    0 8px 32px rgba(31, 38, 135, 0.05),
+    inset 0 1px 2px rgba(255, 255, 255, 1),
+    inset 0 -1px 1px rgba(0, 0, 0, 0.05) !important;
+}
+
+body.light-theme .card:hover,
+body.light-theme .stat-card:hover,
+body.light-theme .tier-box:hover,
+body.light-theme .timeline-item:hover,
+body.light-theme .kanban-card:hover {
+  background: rgba(255, 255, 255, 0.8) !important;
+  box-shadow: 
+    0 16px 40px rgba(31, 38, 135, 0.1),
+    inset 0 1px 2px rgba(255, 255, 255, 1),
+    inset 0 -1px 1px rgba(0, 0, 0, 0.08) !important;
+}
+
+body.light-theme .card::after,
+body.light-theme .stat-card::after,
+body.light-theme .tier-box::after,
+body.light-theme .diagnostic-box::after,
+body.light-theme .evidence-gate-calculator::after,
+body.light-theme .timeline-item::after,
+body.light-theme .kanban-card::after {
+  background: linear-gradient(135deg, rgba(255,255,255,0.9) 0%, transparent 60%);
+  opacity: 0.4;
+}
+
+/* Ensure text and content sit ABOVE the glare */
+body.light-theme .card > *,
+body.light-theme .stat-card > *,
+body.light-theme .tier-box > *,
+body.light-theme .diagnostic-box > *,
+body.light-theme .kanban-card > * {
+  position: relative;
+  z-index: 1;
+}
+
+
+body.light-theme .card:hover::after,
+body.light-theme .stat-card:hover::after,
+body.light-theme .tier-box:hover::after,
+body.light-theme .timeline-item:hover::after,
+body.light-theme .kanban-card:hover::after {
+  opacity: 1;
+}

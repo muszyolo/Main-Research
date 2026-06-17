@@ -1,0 +1,65 @@
+# =============================================
+# Main Research Hub - .gitignore
+# =============================================
+
+# --- Documents & PDFs (Too large/binary for GitHub) ---
+*.pdf
+*.docx
+*.xlsx
+*.pptx
+
+# --- Auto-generated JS files are INCLUDED so GitHub Pages shows articles ---
+# auto_import.js   <-- tracked
+# auto_abstracts_v2.js  <-- tracked
+
+# --- Specific PDF Database Folders in LR Matrix ---
+"Research Proposal/LR Matrix/Scopus/"
+"Research Proposal/LR Matrix/PubMed/"
+"Research Proposal/LR Matrix/Springer Nature/"
+"Research Proposal/LR Matrix/Web of Science/"
+"Research Proposal/LR Matrix/Google Scholar/"
+"Research Proposal/LR Matrix/OpenAlex/"
+"Research Proposal/LR Matrix/PsycINFO/"
+"Research Proposal/LR Matrix/MyJurnal/"
+"Research Proposal/LR Matrix/Old Database/"
+
+# --- Scratch / Debug / Utility Scripts ---
+scratch_*.py
+scratch_*.js
+script_dump_*.js
+debug.py
+find_*.py
+fix_*.py
+patch_*.py
+check_*.py
+add_tips.py
+extract_checkboxes.py
+move_*.py
+wrap_*.py
+rebuild_grid.py
+rebuild_index.py
+inject_abstract.py
+test.js
+fix.py
+fix_css.js
+fix_wiring.py
+fix_script_tags.py
+fix_syntax.py
+fix_lit.py
+*.txt
+
+# --- Python cache ---
+__pycache__/
+*.pyc
+*.pyo
+
+# --- OS Files ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Extracted JSON (large, regenerated) ---
+Extracted_Master_References.json
+
+# --- Logs ---
+*.log

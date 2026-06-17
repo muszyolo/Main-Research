@@ -1,0 +1,174 @@
+<svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1480 800" style="background-color: transparent; font-family: 'Times New Roman', Times, serif;">
+  <style>
+    :root.light-theme [fill="#1e293b"] { fill: #FFFFFF !important; }
+    :root.light-theme [fill="#f8fafc"] { fill: #0F172A !important; }
+    :root.light-theme [fill="#818cf8"] { fill: #1e3c78 !important; }
+    :root.light-theme [fill="#94a3b8"] { fill: #475569 !important; }
+    :root.light-theme [fill="#cbd5e1"] { fill: #334155 !important; }
+    :root.light-theme [stroke="#334155"] { stroke: #E2E8F0 !important; }
+    :root.light-theme [stroke="#475569"] { stroke: #CBD5E1 !important; }
+    
+    /* Dashed box backgrounds */
+    :root.light-theme [fill="#0f2942"] { fill: #E0F2FE !important; }
+    :root.light-theme [fill="#361f0e"] { fill: #FFEDD5 !important; }
+    :root.light-theme [fill="#0f2b29"] { fill: #CCFBF1 !important; }
+    :root.light-theme [fill="#26123b"] { fill: #F3E8FF !important; }
+    :root.light-theme [fill="#3b1527"] { fill: #FCE7F3 !important; }
+    :root.light-theme [fill="#052e16"] { fill: #DCFCE7 !important; }
+    
+    /* Accents */
+    :root.light-theme [fill="#38bdf8"] { fill: #0284C7 !important; }
+    :root.light-theme [stroke="#38bdf8"] { stroke: #0284C7 !important; }
+    :root.light-theme [fill="#fb923c"] { fill: #C2410C !important; }
+    :root.light-theme [stroke="#fb923c"] { stroke: #C2410C !important; }
+    :root.light-theme [fill="#2dd4bf"] { fill: #0F766E !important; }
+    :root.light-theme [stroke="#2dd4bf"] { stroke: #0F766E !important; }
+    :root.light-theme [fill="#c084fc"] { fill: #7E22CE !important; }
+    :root.light-theme [stroke="#c084fc"] { stroke: #7E22CE !important; }
+    :root.light-theme [fill="#4ade80"] { fill: #15803D !important; }
+    :root.light-theme [stroke="#4ade80"] { stroke: #15803D !important; }
+  </style>
+
+  <script type="text/javascript"><![CDATA[
+    window.addEventListener('message', (e) => {
+      if(e.data && e.data.theme === 'light') {
+        document.documentElement.classList.add('light-theme');
+      } else if (e.data && e.data.theme === 'dark') {
+        document.documentElement.classList.remove('light-theme');
+      }
+    });
+  ]]></script>
+
+  
+  <!-- Title -->
+  <rect x="0" y="0" width="1480" height="80" fill="#f8fafc" />
+  <text x="740" y="40" fill="#1e293b" font-size="28" font-weight="bold" text-anchor="middle">Malaysian Context Profile</text>
+  <text x="740" y="65" fill="#94A3B8" font-size="16" text-anchor="middle">Service Gaps, Digital Barriers, and ASEAN Policy Implications</text>
+
+  <!-- Step Labels on the Left Margin -->
+  <text x="20" y="210" fill="#94a3b8" font-size="14" font-weight="bold" text-anchor="middle" transform="rotate(-90 20 210)">THEORETICAL DOMAIN</text>
+  <text x="20" y="420" fill="#94a3b8" font-size="14" font-weight="bold" text-anchor="middle" transform="rotate(-90 20 420)">CORE COMPONENTS</text>
+  <text x="20" y="650" fill="#94a3b8" font-size="14" font-weight="bold" text-anchor="middle" transform="rotate(-90 20 650)">THESIS RELEVANCE</text>
+
+  <!-- ==================== COLUMN 1: SERVICE GAP ==================== -->
+  <rect x="40" y="100" width="440" height="670" rx="15" fill="#F0F9FF" stroke="#BAE6FD" stroke-width="2" />
+  
+  <rect x="40" y="100" width="440" height="50" rx="15" fill="#38bdf8" />
+  <rect x="40" y="125" width="440" height="25" fill="#38bdf8" />
+  <text x="260" y="132" fill="#1e293b" font-size="20" font-weight="bold" text-anchor="middle">Service Gap</text>
+
+  <rect x="80" y="160" width="360" height="120" rx="10" fill="#1e293b" stroke="#7DD3FC" stroke-width="2" />
+  <text x="260" y="190" fill="#38bdf8" font-size="16" font-weight="bold" text-anchor="middle">Healthcare Access Disparity</text>
+  <text x="260" y="210" fill="#cbd5e1" font-size="13" text-anchor="middle">The physical and systemic shortages in mental health support.</text>
+  <rect x="220" y="235" width="80" height="30" rx="4" fill="#BAE6FD" />
+  <rect x="230" y="235" width="60" height="30" rx="4" fill="#38BDF8" />
+  <path d="M 260 235 L 260 265" stroke="#F0F9FF" stroke-width="2" />
+
+  <path d="M 260 290 L 260 320" stroke="#94A3B8" stroke-width="3" fill="none" marker-end="url(#arrow)" />
+
+  <rect x="80" y="330" width="360" height="180" rx="10" fill="#1e293b" stroke="#7DD3FC" stroke-width="2" />
+  <text x="260" y="360" fill="#38bdf8" font-size="16" font-weight="bold" text-anchor="middle">Systemic Shortfalls</text>
+  <text x="260" y="380" fill="#cbd5e1" font-size="13" text-anchor="middle">Current limitations of traditional therapy infrastructure.</text>
+  <circle cx="120" cy="400" r="4" fill="#38bdf8" />
+  <text x="140" y="405" fill="#f8fafc" font-size="14" font-weight="bold">Severe Shortage of ASD Specialists</text>
+  <circle cx="120" cy="430" r="4" fill="#38bdf8" />
+  <text x="140" y="435" fill="#f8fafc" font-size="14" font-weight="bold">Urban vs Rural Resource Divide</text>
+  <circle cx="120" cy="460" r="4" fill="#38bdf8" />
+  <text x="140" y="465" fill="#f8fafc" font-size="14" font-weight="bold">Public Sector Wait Times</text>
+  <circle cx="120" cy="490" r="4" fill="#38bdf8" />
+  <text x="140" y="495" fill="#f8fafc" font-size="14" font-weight="bold">Prohibitive Private Sector Costs</text>
+
+  <path d="M 260 520 L 260 550" stroke="#94A3B8" stroke-width="3" fill="none" marker-end="url(#arrow)" />
+
+  <rect x="80" y="560" width="360" height="180" rx="10" fill="#1e293b" stroke="#7DD3FC" stroke-width="2" />
+  <text x="260" y="590" fill="#38bdf8" font-size="16" font-weight="bold" text-anchor="middle">Impact on Virtual Counseling</text>
+  <text x="260" y="610" fill="#cbd5e1" font-size="13" text-anchor="middle">Justifies the critical need for scalable digital solutions.</text>
+  <rect x="100" y="650" width="320" height="60" rx="8" fill="#0f2942" stroke="#38bdf8" stroke-dasharray="4" />
+  <text x="260" y="672" fill="#38bdf8" font-size="13" font-weight="bold" text-anchor="middle">Requires:</text>
+  <text x="260" y="692" fill="#38bdf8" font-size="13" font-weight="bold" text-anchor="middle">Democratized, Scalable Access</text>
+
+  <!-- ==================== COLUMN 2: DIGITAL BARRIERS ==================== -->
+  <rect x="520" y="100" width="440" height="670" rx="15" fill="#FFF1F2" stroke="#FECDD3" stroke-width="2" />
+  
+  <rect x="520" y="100" width="440" height="50" rx="15" fill="#BE123C" />
+  <rect x="520" y="125" width="440" height="25" fill="#BE123C" />
+  <text x="740" y="132" fill="#1e293b" font-size="20" font-weight="bold" text-anchor="middle">Digital Barriers</text>
+
+  <rect x="560" y="160" width="360" height="120" rx="10" fill="#1e293b" stroke="#FDA4AF" stroke-width="2" />
+  <text x="740" y="190" fill="#BE123C" font-size="16" font-weight="bold" text-anchor="middle">Technological Limitations</text>
+  <text x="740" y="210" fill="#cbd5e1" font-size="13" text-anchor="middle">The physical and skills-based limits on platform use.</text>
+  <rect x="710" y="235" width="60" height="25" rx="3" stroke="#BE123C" stroke-width="2" fill="none" />
+  <rect x="772" y="242" width="4" height="10" fill="#BE123C" />
+  <rect x="714" y="239" width="15" height="17" rx="1" fill="#F43F5E" />
+  <rect x="732" y="239" width="15" height="17" rx="1" fill="#FFE4E6" />
+  <rect x="750" y="239" width="15" height="17" rx="1" fill="#FFE4E6" />
+
+  <path d="M 740 290 L 740 320" stroke="#94A3B8" stroke-width="3" fill="none" marker-end="url(#arrow)" />
+
+  <rect x="560" y="330" width="360" height="180" rx="10" fill="#1e293b" stroke="#FDA4AF" stroke-width="2" />
+  <text x="740" y="360" fill="#BE123C" font-size="16" font-weight="bold" text-anchor="middle">Infrastructural Constraints</text>
+  <text x="740" y="380" fill="#cbd5e1" font-size="13" text-anchor="middle">Issues impacting reliable digital therapy delivery.</text>
+  <circle cx="600" cy="400" r="4" fill="#BE123C" />
+  <text x="620" y="405" fill="#f8fafc" font-size="14" font-weight="bold">Broadband Reliability &amp; Speeds</text>
+  <circle cx="600" cy="430" r="4" fill="#BE123C" />
+  <text x="620" y="435" fill="#f8fafc" font-size="14" font-weight="bold">Digital Literacy Disparities</text>
+  <circle cx="600" cy="460" r="4" fill="#BE123C" />
+  <text x="620" y="465" fill="#f8fafc" font-size="14" font-weight="bold">Device Availability &amp; Affordability</text>
+  <circle cx="600" cy="490" r="4" fill="#BE123C" />
+  <text x="620" y="495" fill="#f8fafc" font-size="14" font-weight="bold">Data Privacy &amp; Security Apprehension</text>
+
+  <path d="M 740 520 L 740 550" stroke="#94A3B8" stroke-width="3" fill="none" marker-end="url(#arrow)" />
+
+  <rect x="560" y="560" width="360" height="180" rx="10" fill="#1e293b" stroke="#FDA4AF" stroke-width="2" />
+  <text x="740" y="590" fill="#BE123C" font-size="16" font-weight="bold" text-anchor="middle">Impact on Virtual Counseling</text>
+  <text x="740" y="610" fill="#cbd5e1" font-size="13" text-anchor="middle">Constraints that shape UX and platform requirements.</text>
+  <rect x="580" y="650" width="320" height="60" rx="8" fill="#FFE4E6" stroke="#BE123C" stroke-dasharray="4" />
+  <text x="740" y="672" fill="#BE123C" font-size="13" font-weight="bold" text-anchor="middle">Requires:</text>
+  <text x="740" y="692" fill="#BE123C" font-size="13" font-weight="bold" text-anchor="middle">Low-Bandwidth, High-Security UX</text>
+
+  <!-- ==================== COLUMN 3: ASEAN POLICY ==================== -->
+  <rect x="1000" y="100" width="440" height="670" rx="15" fill="#F0FDF4" stroke="#BBF7D0" stroke-width="2" />
+  
+  <rect x="1000" y="100" width="440" height="50" rx="15" fill="#4ade80" />
+  <rect x="1000" y="125" width="440" height="25" fill="#4ade80" />
+  <text x="1220" y="132" fill="#1e293b" font-size="20" font-weight="bold" text-anchor="middle">ASEAN Policy</text>
+
+  <rect x="1040" y="160" width="360" height="120" rx="10" fill="#1e293b" stroke="#86EFAC" stroke-width="2" />
+  <text x="1220" y="190" fill="#4ade80" font-size="16" font-weight="bold" text-anchor="middle">Regional Frameworks</text>
+  <text x="1220" y="210" fill="#cbd5e1" font-size="13" text-anchor="middle">The governmental directives guiding digital health.</text>
+  <path d="M 1190 250 L 1220 235 L 1250 250 L 1220 265 Z" stroke="#22C55E" stroke-width="2" fill="none" />
+  <circle cx="1190" cy="250" r="5" fill="#4ade80" />
+  <circle cx="1220" cy="235" r="5" fill="#4ade80" />
+  <circle cx="1250" cy="250" r="5" fill="#4ade80" />
+  <circle cx="1220" cy="265" r="5" fill="#4ade80" />
+
+  <path d="M 1220 290 L 1220 320" stroke="#94A3B8" stroke-width="3" fill="none" marker-end="url(#arrow)" />
+
+  <rect x="1040" y="330" width="360" height="180" rx="10" fill="#1e293b" stroke="#86EFAC" stroke-width="2" />
+  <text x="1220" y="360" fill="#4ade80" font-size="16" font-weight="bold" text-anchor="middle">Governance &amp; Scaling</text>
+  <text x="1220" y="380" fill="#cbd5e1" font-size="13" text-anchor="middle">Policies enabling or restricting platform rollout.</text>
+  <circle cx="1080" cy="400" r="4" fill="#4ade80" />
+  <text x="1100" y="405" fill="#f8fafc" font-size="14" font-weight="bold">ASEAN Mental Health Mandates</text>
+  <circle cx="1080" cy="430" r="4" fill="#4ade80" />
+  <text x="1100" y="435" fill="#f8fafc" font-size="14" font-weight="bold">Cross-Border Telehealth Standards</text>
+  <circle cx="1080" cy="460" r="4" fill="#4ade80" />
+  <text x="1100" y="465" fill="#f8fafc" font-size="14" font-weight="bold">Malaysia Digital Economy Blueprint</text>
+  <circle cx="1080" cy="490" r="4" fill="#4ade80" />
+  <text x="1100" y="495" fill="#f8fafc" font-size="14" font-weight="bold">Government Subsidies &amp; Support</text>
+
+  <path d="M 1220 520 L 1220 550" stroke="#94A3B8" stroke-width="3" fill="none" marker-end="url(#arrow)" />
+
+  <rect x="1040" y="560" width="360" height="180" rx="10" fill="#1e293b" stroke="#86EFAC" stroke-width="2" />
+  <text x="1220" y="590" fill="#4ade80" font-size="16" font-weight="bold" text-anchor="middle">Impact on Virtual Counseling</text>
+  <text x="1220" y="610" fill="#cbd5e1" font-size="13" text-anchor="middle">Ensures intervention compliance and regional scaling.</text>
+  <rect x="1060" y="650" width="320" height="60" rx="8" fill="#052e16" stroke="#4ade80" stroke-dasharray="4" />
+  <text x="1220" y="672" fill="#4ade80" font-size="13" font-weight="bold" text-anchor="middle">Requires:</text>
+  <text x="1220" y="692" fill="#4ade80" font-size="13" font-weight="bold" text-anchor="middle">Policy Alignment &amp; Standards</text>
+
+  <!-- Definitions -->
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#94A3B8" />
+    </marker>
+  </defs>
+</svg>

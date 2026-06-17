@@ -1,0 +1,187 @@
+\chapter{Methodology}
+
+\section{Research Design Overview}
+This study employs a quantitative, non-experimental comparative research design. Rather than relying on a single statistical algorithm, this methodology is designed to evaluate and compare the efficacy of three distinct unsupervised machine learning models: K-Means Clustering, Latent Profile Analysis (LPA), and Two-Stage Clustering. By testing the extracted latent variables against both distance-based and probability-based algorithms, this study will mathematically determine the optimal framework for profiling caregiver heterogeneity.
+
+\section{Methodological Justification: Person-Centered vs. Variable-Centered Approach}
+Traditional psychological studies frequently rely on variable-centered approaches, such as Multivariate Regression or Covariance-Based Structural Equation Modeling (CB-SEM), to determine the causal relationships between predictors across an entire population. However, variable-centered methods are constrained by the assumption of population homogeneity, effectively calculating an "average" effect that may not exist in reality.
+
+Because the ultimate objective of this study is to inform a Targeted Virtual Counseling Model, calculating a population average is insufficient. Therefore, this research deliberately pivots to a person-centered analytical framework. By utilizing unsupervised algorithmic clustering, the methodology seeks to discover hidden, multi-dimensional profiles (typologies) of caregivers. This person-centered approach acknowledges the heterogeneity of the ASD caregiver population, allowing for the design of precise, cluster-specific digital health interventions.
+
+\section{Analytical Framework}
+The analytical framework of this study integrates the psychological dimensions of the Theory of Planned Behavior (TPB) with advanced machine learning techniques. As illustrated in Figure \ref{fig:framework}, the caregivers' Attitude, Subjective Norms, and Perceived Behavioral Control serve as the primary psychometric inputs. These continuous latent scores are subsequently processed through Unsupervised Algorithmic Clustering (comparing K-Means, Latent Profile Analysis, and Two-Stage Clustering). The mathematically optimal algorithm will identify distinct caregiver typologies, which directly inform the design parameters of the final Targeted Virtual Counseling Model.
+
+\clearpage
+\clearpage
+\begin{figure}[p] % 'p' explicitly requests it takes up the entire page
+    \centering
+    \vspace*{\fill}
+    \begin{tikzpicture}[
+        node distance=3.5cm and 0.5cm,
+        io/.style={trapezium, trapezium left angle=75, trapezium right angle=105, trapezium stretches body=true, draw, thick, align=center, minimum width=4.5cm, text width=3.8cm, minimum height=1.8cm},
+        process/.style={rectangle, draw, thick, align=center, minimum width=13.5cm, minimum height=1.8cm},
+        terminal/.style={rectangle, rounded corners=15pt, draw, thick, align=center, minimum width=13.5cm, minimum height=1.8cm},
+        arrow/.style={-{Stealth[scale=1.2]}, thick}
+    ]
+    
+    % Level 1: TPB Predictors (Data Inputs)
+    \node[io] (att) {Attitude \\ (ATT)};
+    \node[io, right=of att] (sn) {Subjective \\ Norms (SN)};
+    \node[io, right=of sn] (pbc) {Perceived \\ Behavioral \\ Control (PBC)};
+    
+    % Level 2: Intention (Intermediate Input)
+    \node[io, below=3.5cm of sn] (bi) {Behavioral \\ Intention (BI)};
+    
+    % Level 3: Behavior (Intermediate Input)
+    \node[io, below=3cm of bi] (b) {Actual \\ Help-Seeking \\ Behavior (B)};
+    
+    % Level 4: Clustering (Algorithmic Process)
+    \node[process, below=3.5cm of b] (cluster) {Unsupervised Algorithmic Clustering \\ (K-Means / LPA / Two-Stage)};
+    
+    % Level 5: Outcome (Terminal / End State)
+    \node[terminal, below=3cm of cluster] (model) {Targeted Virtual Counseling Model \\ (Tailored Digital Interventions)};
+    
+    % Connecting Arrows (Level 1 to 2 - Diagonal Funnel)
+    \draw[arrow] (att.south) -- (bi.north west);
+    \draw[arrow] (sn.south) -- (bi.north);
+    \draw[arrow] (pbc.south) -- (bi.north east);
+    
+    % Connecting Arrows (Level 2 to 3)
+    \draw[arrow] (bi.south) -- (b.north);
+    
+    % Connecting Arrows (Level 3 to 4)
+    \draw[arrow] (b.south) -- (cluster.north);
+    
+    % Connecting Arrows (Level 4 to 5)
+    \draw[arrow] (cluster.south) -- (model.north);
+    
+    \end{tikzpicture}
+    \caption{5-Step Analytical Framework Connecting TPB Progression to Algorithmic Outcomes}
+    \label{fig:framework}
+    \vspace*{\fill}
+\end{figure}
+\clearpage
+
+\section{Sampling and Secondary Data Collection}
+This study will utilize a secondary dataset comprising $N=250$ responses, previously collected as part of a broader, collaborative multi-disciplinary research initiative. The primary data collection targeted parents and primary caregivers of children formally diagnosed with Autism Spectrum Disorder (ASD) in Malaysia. The provided dataset consists of responses to the digital survey instrument utilizing a 5-point Likert scale, adapted to measure the core constructs of the Theory of Planned Behavior (TPB): Attitude, Subjective Norms, and Perceived Behavioral Control (PBC), alongside logistical variables such as geographic accessibility. The methodological focus of this thesis officially begins post-data collection, encompassing the data pre-processing, latent variable extraction, and algorithmic clustering phases.
+
+\section{Data De-identification and Ethical Compliance}
+To ensure strict adherence to institutional ethical guidelines regarding human subjects and data privacy, the primary research team will execute a Safe Harbor de-identification protocol prior to the dataset hand-off \citep{Vayena2018_97, WorldHealthOrganization2021_86}. This protocol guarantees the absolute removal of all Personally Identifiable Information (PII) from the $N=250$ dataset, including but not limited to respondent names, email addresses, phone numbers, IP addresses, and exact geographical coordinates. 
+
+Consequently, the secondary dataset utilized in this thesis will consist exclusively of anonymized, numerical, and categorical codes. By ensuring that the computational analysis is performed solely on a fully de-identified matrix, this study bypasses the risks associated with primary data breaches, thereby remaining in full compliance with standard academic ethics board regulations for secondary data analysis \citep{OrganisationforEconomicCooperationandDevelopment2022_81}.
+
+\section{Research Instrument (CSI-PASD)}
+Data will be collected using the Bilingual Autism Caregiver Support Instrument (CSI-PASD). The instrument is structured into four primary sections to capture both demographic contexts and psychological variables, as outlined in Table \ref{tab:instrument}.
+
+\begin{table}[H]
+    \centering
+    \linespread{1.5}\selectfont
+    \caption{Structure of the CSI-PASD Instrument}
+    \vspace{0.2cm}
+    \begin{tabular}{llp{6.5cm}}
+        \toprule
+        \textbf{Section} & \textbf{Format / Scale} & \textbf{Variables Measured} \\
+        \midrule
+        \textbf{Section 1} & Binary (Yes/No) & Screening \& Consent (Primary caregiver in Malaysia). \\
+        \addlinespace
+        \textbf{Section 2} & Categorical & Demographic Data (State of Residence, B40/M40/T20 Income, Child's Severity Level). \\
+        \addlinespace
+        \textbf{Section 3} & 5-point Likert Scale & Psychological TPB Domains (Attitude, Subjective Norm, Perceived Behavioral Control, Behavioral Intention, Help-Seeking Behavior). \\
+        \addlinespace
+        \textbf{Section 4} & Open-Ended Text & Qualitative narratives regarding systemic barriers and resilience. \\
+        \bottomrule
+    \end{tabular}
+    \label{tab:instrument}
+\end{table}
+
+\section{Validity and Reliability}
+To ensure the rigour of the CSI-PASD instrument prior to data collection, Face and Content Validity will be evaluated by a specialized three-expert panel. The composition of this panel and their respective evaluation criteria are detailed in Table \ref{tab:expert_panel}.
+
+\begin{table}[H]
+    \centering
+    \linespread{1.5}\selectfont
+    \caption{Composition of the Expert Validation Panel for Face and Content Validity}
+    \vspace{0.2cm}
+    \begin{tabular}{llp{7cm}}
+        \toprule
+        \textbf{Panel Member} & \textbf{Field of Expertise} & \textbf{Primary Validation Focus} \\
+        \midrule
+        Expert 1 & Statistics \& Psychometrics & Construct validity, PLS-SEM algorithmic assumptions, and scale reliability (AVE, CR, HTMT thresholds). \\
+        \addlinespace
+        Expert 2 & Clinical Psychology & Clinical accuracy of ASD terminology and psychological constructs within the TPB framework. \\
+        \addlinespace
+        Expert 3 & Social Science Research & Cultural appropriateness, questionnaire phrasing, and logistical relevance for the Malaysian demographic. \\
+        \bottomrule
+    \end{tabular}
+    \label{tab:expert_panel}
+\end{table}
+
+Following data collection, Construct Validity will be mathematically verified utilizing Partial Least Squares Structural Equation Modeling (PLS-SEM). The strict statistical thresholds utilized for model validation are summarized in Table \ref{tab:validity_thresholds}.
+
+\begin{table}[H]
+    \centering
+    \linespread{1.5}\selectfont
+    \caption{Statistical Thresholds for Construct Validity and Reliability}
+    \vspace{0.2cm}
+    \begin{tabular}{llc}
+        \toprule
+        \textbf{Metric} & \textbf{Validation Purpose} & \textbf{Acceptance Threshold} \\
+        \midrule
+        Composite Reliability (CR) & Internal Consistency & $> 0.70$ \\
+        \addlinespace
+        Cronbach's Alpha ($\alpha$) & Internal Consistency & $> 0.70$ \\
+        \addlinespace
+        Average Variance Extracted (AVE) & Convergent Validity & $> 0.50$ \\
+        \addlinespace
+        Heterotrait-Monotrait Ratio (HTMT) & Discriminant Validity & $< 0.90$ \\
+        \bottomrule
+    \end{tabular}
+    \label{tab:validity_thresholds}
+\end{table}
+
+\section{Data Pre-processing and Bias Testing}
+Prior to executing the primary structural equation modeling and algorithmic clustering, the dataset will undergo rigorous pre-processing to ensure data integrity and mathematically eliminate respondent bias.
+First, the dataset will be cleaned to address missing values and unengaged responses (e.g., straight-lining, where a respondent provides the exact same Likert response across all items). Responses exhibiting severe unengaged patterns will be excluded to prevent algorithmic distortion.
+Next, the normality of the data distribution will be evaluated using Skewness and Kurtosis thresholds. Because social science survey data often violates strict multivariate normality, verifying the distribution justifies the subsequent use of PLS-SEM, which is highly robust against non-normal data.
+Finally, to address the quantitative risk of respondent bias inherent in self-reported questionnaires, \textbf{Common Method Bias (CMB)} will be evaluated using \textbf{Harman's Single Factor Test}. All items will be loaded into an unrotated exploratory factor analysis. If the total variance extracted by a single factor is less than the critical threshold of 50\%, it mathematically confirms that no single latent factor (such as temporary respondent mood or survey fatigue) artificially inflates the variance, thereby ensuring the dataset is unbiased and ready for K-Means processing.
+
+\section{Latent Variable Estimation (PLS-SEM)}
+Because survey data is ordinal, it mathematically violates the continuity assumptions of distance-based clustering. To resolve this, Partial Least Squares Structural Equation Modeling (PLS-SEM) will first be utilized \citep{Hair2021}. By validating internal consistency and construct validity, PLS-SEM allows for the extraction of \textbf{Latent Variable Scores}. This process transforms ordinal variables into standardized, continuous latent vectors ($\mu = 0, \sigma = 1$), providing a mathematically robust input matrix for the subsequent clustering algorithms.
+
+\section{Comparative Clustering Algorithms}
+
+\subsection{Model 1: K-Means Clustering (Distance-Based)}
+K-Means is a non-hierarchical, deterministic algorithm that partitions observations into $k$ distinct sets $S = \{S_1, S_2, \dots, S_k\}$. It operates by minimizing the within-cluster sum of squares (WCSS), defined as:
+\begin{equation}
+    \text{WCSS} = \sum_{j=1}^{k} \sum_{x_i \in S_j} ||x_i - \mu_j||^2
+\end{equation}
+where $x_i$ represents the latent psychometric vector of a caregiver, and $\mu_j$ is the centroid of cluster $S_j$. K-Means utilizes "hard assignment," making it computationally efficient and highly effective at minimizing spatial variance \citep{Hastie2009}.
+
+\subsection{Model 2: Latent Profile Analysis (Probability-Based)}
+Unlike K-Means, Latent Profile Analysis (LPA) assumes that the caregiver population is a mixture of underlying, unobserved probability distributions. LPA utilizes a Gaussian Mixture Model (GMM) to estimate the probability that a specific caregiver belongs to a certain latent profile. The model assumes a probability density function:
+\begin{equation}
+    f(x_i) = \sum_{j=1}^{k} \pi_j \phi(x_i | \mu_j, \Sigma_j)
+\end{equation}
+where $\pi_j$ is the mixing proportion of profile $j$, and $\phi$ is the multivariate normal density with mean vector $\mu_j$ and covariance matrix $\Sigma_j$. LPA provides "soft assignment," acknowledging the probabilistic nuances of human psychology.
+
+\subsection{Model 3: Two-Stage Clustering}
+The Two-Stage Clustering approach integrates both hierarchical and partitioning methods to overcome the limitations of isolated algorithms. In the first stage, a hierarchical algorithm (such as Ward's method) is employed to iteratively construct a dendrogram and determine the optimal number of clusters ($k$). In the second stage, the centroids identified by the hierarchical method are used as the initial, non-random "seed" values for a K-Means algorithm, potentially leading to more stable and replicable final assignments.
+
+
+\section{Model Evaluation Criteria}
+To declare the mathematically optimal model for ASD caregiver profiling, the outputs of all three algorithms will be subjected to rigorous comparative evaluation.
+
+For the distance-based models (K-Means, Two-Stage), the primary metric will be the \textbf{Silhouette Score}, which measures cluster cohesion versus separation:
+\begin{equation}
+    s(i) = \frac{b(i) - a(i)}{\max\{a(i), b(i)\}}
+\end{equation}
+where $a(i)$ is the mean intra-cluster distance and $b(i)$ is the mean nearest-cluster distance. A score approaching $+1$ indicates excellent cluster separation.
+
+For the probability-based model (LPA), model fit will be evaluated using Information Criteria, specifically the \textbf{Bayesian Information Criterion (BIC)} and \textbf{Akaike Information Criterion (AIC)}:
+\begin{equation}
+    \text{BIC} = -2 \ln(\hat{L}) + p \ln(n)
+\end{equation}
+where $\hat{L}$ is the maximized likelihood of the model and $p$ is the number of estimated parameters. Models with lower BIC values will be prioritized, penalizing unnecessary algorithmic complexity to prevent overfitting.
+
+\section{Post-Clustering Profile Interpretation}
+Following the mathematical selection of the optimal clustering model, the final phase of the methodology involves transforming the statistical groupings (e.g., Cluster 1, Cluster 2) into human-interpretable caregiver profiles. This will be achieved by conducting Cross-Tabulation and Analysis of Variance (ANOVA/Chi-Square) to map the psychological TPB clusters against the demographic variables collected in Section 2 of the CSI-PASD (Income, State of Residence, Child's Severity Level). By correlating the statistical clusters with socio-demographic contexts, the research can identify holistic, actionable personas (e.g., "The Overwhelmed Rural Caregiver") to inform targeted counseling recommendations.

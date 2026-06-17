@@ -1,0 +1,124 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 350" width="1100" height="350" font-family="'Times New Roman', Times, serif">
+  
+  <!-- Background -->
+  <rect width="1100" height="350" fill="#f8f9fc"/>
+
+  <!-- TITLE -->
+  <text x="540" y="40" text-anchor="middle" font-size="12" font-weight="bold" fill="#1e3c78">
+    PICOC Framework: Targeted Virtual Counseling Model
+  </text>
+
+  <!-- ARROWS DEF -->
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L8,3 z" fill="#f0a500"/>
+    </marker>
+  </defs>
+
+  <!-- ══════════════════════════════════════════════
+       P: POPULATION
+  ══════════════════════════════════════════════ -->
+  <rect x="30" y="80" width="180" height="170" rx="8" ry="8" fill="#1e3c78" stroke="#0d2458" stroke-width="1.5"/>
+  <rect x="30" y="80" width="180" height="40" rx="8" ry="8" fill="#163066"/>
+  <rect x="30" y="108" width="180" height="12" fill="#163066"/>
+  
+  <text x="120" y="98" text-anchor="middle" font-size="12" font-weight="bold" fill="#f0c040">P</text>
+  <text x="120" y="113" text-anchor="middle" font-size="12" font-weight="bold" fill="white">POPULATION</text>
+  
+  <line x1="50" y1="128" x2="190" y2="128" stroke="#f0c040" stroke-width="0.8" stroke-dasharray="3,3"/>
+  <text x="120" y="145" text-anchor="middle" font-size="12" font-style="italic" fill="white">Who is studied?</text>
+  
+  <text x="120" y="170" text-anchor="middle" font-size="12" fill="#cce0ff">• Autism Caregivers</text>
+  <text x="120" y="190" text-anchor="middle" font-size="12" fill="#cce0ff">• Caregiver Burden</text>
+  <text x="120" y="210" text-anchor="middle" font-size="12" fill="#cce0ff">• Neurodivergent Needs</text>
+
+  <!-- Arrow P -> I -->
+  <line x1="210" y1="165" x2="235" y2="165" stroke="#f0a500" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- ══════════════════════════════════════════════
+       I: INTERVENTION
+  ══════════════════════════════════════════════ -->
+  <rect x="240" y="80" width="180" height="170" rx="8" ry="8" fill="#1e3c78" stroke="#0d2458" stroke-width="1.5"/>
+  <rect x="240" y="80" width="180" height="40" rx="8" ry="8" fill="#163066"/>
+  <rect x="240" y="108" width="180" height="12" fill="#163066"/>
+  
+  <text x="330" y="98" text-anchor="middle" font-size="12" font-weight="bold" fill="#f0c040">I</text>
+  <text x="330" y="113" text-anchor="middle" font-size="12" font-weight="bold" fill="white">INTERVENTION</text>
+  
+  <line x1="260" y1="128" x2="400" y2="128" stroke="#f0c040" stroke-width="0.8" stroke-dasharray="3,3"/>
+  <text x="330" y="145" text-anchor="middle" font-size="12" font-style="italic" fill="white">What is the approach?</text>
+  
+  <text x="330" y="170" text-anchor="middle" font-size="12" fill="#cce0ff">• Clustering Methods</text>
+  <text x="330" y="190" text-anchor="middle" font-size="12" fill="#cce0ff">• TPB Constructs</text>
+  <text x="330" y="210" text-anchor="middle" font-size="12" fill="#cce0ff">• CSI-PASD Tool</text>
+
+  <!-- Arrow I -> C -->
+  <line x1="420" y1="165" x2="445" y2="165" stroke="#f0a500" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- ══════════════════════════════════════════════
+       C: COMPARISON
+  ══════════════════════════════════════════════ -->
+  <rect x="450" y="80" width="180" height="170" rx="8" ry="8" fill="#1e3c78" stroke="#0d2458" stroke-width="1.5"/>
+  <rect x="450" y="80" width="180" height="40" rx="8" ry="8" fill="#163066"/>
+  <rect x="450" y="108" width="180" height="12" fill="#163066"/>
+  
+  <text x="540" y="98" text-anchor="middle" font-size="12" font-weight="bold" fill="#f0c040">C</text>
+  <text x="540" y="113" text-anchor="middle" font-size="12" font-weight="bold" fill="white">COMPARISON</text>
+  
+  <line x1="470" y1="128" x2="610" y2="128" stroke="#f0c040" stroke-width="0.8" stroke-dasharray="3,3"/>
+  <text x="540" y="145" text-anchor="middle" font-size="12" font-style="italic" fill="white">What is the alternative?</text>
+  
+  <text x="540" y="170" text-anchor="middle" font-size="12" fill="#cce0ff">• "One-size-fits-all"</text>
+  <text x="540" y="190" text-anchor="middle" font-size="12" fill="#cce0ff">• Traditional Counseling</text>
+  <text x="540" y="210" text-anchor="middle" font-size="12" fill="#cce0ff">• Generic Peer Support</text>
+
+  <!-- Arrow C -> O -->
+  <line x1="630" y1="165" x2="655" y2="165" stroke="#f0a500" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- ══════════════════════════════════════════════
+       O: OUTCOMES
+  ══════════════════════════════════════════════ -->
+  <rect x="660" y="80" width="180" height="170" rx="8" ry="8" fill="#1e3c78" stroke="#0d2458" stroke-width="1.5"/>
+  <rect x="660" y="80" width="180" height="40" rx="8" ry="8" fill="#163066"/>
+  <rect x="660" y="108" width="180" height="12" fill="#163066"/>
+  
+  <text x="750" y="98" text-anchor="middle" font-size="12" font-weight="bold" fill="#f0c040">O</text>
+  <text x="750" y="113" text-anchor="middle" font-size="12" font-weight="bold" fill="white">OUTCOMES</text>
+  
+  <line x1="680" y1="128" x2="820" y2="128" stroke="#f0c040" stroke-width="0.8" stroke-dasharray="3,3"/>
+  <text x="750" y="145" text-anchor="middle" font-size="12" font-style="italic" fill="white">What is the result?</text>
+  
+  <text x="750" y="170" text-anchor="middle" font-size="12" fill="#cce0ff">• Virtual Counseling Model</text>
+  <text x="750" y="190" text-anchor="middle" font-size="12" fill="#cce0ff">• Tailored Support</text>
+  <text x="750" y="210" text-anchor="middle" font-size="12" fill="#cce0ff">• Counseling Archetypes</text>
+
+  <!-- Arrow O -> C -->
+  <line x1="840" y1="165" x2="865" y2="165" stroke="#f0a500" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- ══════════════════════════════════════════════
+       C: CONTEXT
+  ══════════════════════════════════════════════ -->
+  <rect x="870" y="80" width="180" height="170" rx="8" ry="8" fill="#1e3c78" stroke="#0d2458" stroke-width="1.5"/>
+  <rect x="870" y="80" width="180" height="40" rx="8" ry="8" fill="#163066"/>
+  <rect x="870" y="108" width="180" height="12" fill="#163066"/>
+  
+  <text x="960" y="98" text-anchor="middle" font-size="12" font-weight="bold" fill="#f0c040">C</text>
+  <text x="960" y="113" text-anchor="middle" font-size="12" font-weight="bold" fill="white">CONTEXT</text>
+  
+  <line x1="890" y1="128" x2="1030" y2="128" stroke="#f0c040" stroke-width="0.8" stroke-dasharray="3,3"/>
+  <text x="960" y="145" text-anchor="middle" font-size="12" font-style="italic" fill="white">What is the setting?</text>
+  
+  <text x="960" y="170" text-anchor="middle" font-size="12" fill="#cce0ff">• Malaysian Context</text>
+  <text x="960" y="190" text-anchor="middle" font-size="12" fill="#cce0ff">• Digital Barriers</text>
+  <text x="960" y="210" text-anchor="middle" font-size="12" fill="#cce0ff">• Service Gaps</text>
+
+  <!-- ══════════════════════════════════════════════
+       LEGEND / FOOTER
+  ══════════════════════════════════════════════ -->
+  <rect x="30" y="280" width="1020" height="40" rx="6" fill="#eef2fb" stroke="#c0c8dc" stroke-width="1"/>
+  <text x="540" y="304" text-anchor="middle" font-size="12" font-weight="bold" fill="#1e3c78">
+    This PICOC framework maps directly to the Conceptual Framework, defining the scope for the Systematic Literature Review.
+  </text>
+
+</svg>
+

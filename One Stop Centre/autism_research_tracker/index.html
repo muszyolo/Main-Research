@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Autism Caregiver Research - Progress Tracker</title>
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <!-- Frappe Gantt CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/frappe-gantt/0.6.1/frappe-gantt.min.css">
+    <link rel="stylesheet" href="../style.css">
+    <link rel="stylesheet" href="style.css">
+<style>
+/* Super Robust Real Picture Backgrounds */
+.card-bg-layer {
+  position: absolute !important; /* Force override of light-theme relative positioning */
+  inset: 0 !important;
+  border-radius: inherit;
+  background-size: cover;
+  background-position: center;
+  z-index: 10 !important; 
+}
+.card-bg-overlay {
+  position: absolute !important; /* Force override of light-theme relative positioning */
+  inset: 0 !important;
+  border-radius: inherit;
+  background: rgba(15, 23, 42, 0.75); 
+  z-index: 11 !important; 
+}
+body.light-theme .card-bg-overlay {
+  background: rgba(255, 255, 255, 0.75) !important; /* 75% white so the image is clearly visible */
+}
+
+/* Hide the native glare pseudo-element to prevent conflicts */
+.card::after, .stat-card::after, .toolkit-card::after {
+  display: none !important;
+}
+
+/* Ensure ALL text sits above background layers in both modes */
+.card > *:not(.card-bg-layer):not(.card-bg-overlay) {
+  position: relative !important;
+  z-index: 20 !important;
+}
+.stat-details {
+  position: relative !important;
+  z-index: 20 !important;
+}
+
+/* Fix text colors for maximum readability */
+.card h3, .card .stat-label {
+  color: #ffffff !important;
+  text-shadow: 0 1px 4px rgba(0,0,0,0.8);
+}
+.card p {
+  color: rgba(255, 255, 255, 0.95) !important;
+  text-shadow: 0 1px 4px rgba(0,0,0,0.8);
+}
+
+body.light-theme .card h3, body.light-theme .card .stat-label {
+  color: #0f172a !important;
+  text-shadow: none !important;
+}
+body.light-theme .card p {
+  color: #334155 !important;
+  text-shadow: none !important;
+}
+
+/* Nav Button Pictures */
+.nav-btn {
+  position: relative;
+  overflow: hidden;
+}
+.nav-btn-bg-layer {
+  position: absolute !important;
+  inset: 0 !important;
+  background-size: cover;
+  background-position: center;
+  z-index: 0 !important;
+  opacity: 0.6;
+  transition: opacity 0.3s;
+}
+.nav-btn:hover .nav-btn-bg-layer {
+  opacity: 1;
+}
+.nav-btn-overlay {
+  position: absolute !important;
+  inset: 0 !important;
+  background: rgba(15, 23, 42, 0.85);
+  z-index: 1 !important;
+  transition: background 0.3s;
+}
+body.light-theme .nav-btn-overlay {
+  background: rgba(255, 255, 255, 0.85) !important;
+}
+.nav-btn.active .nav-btn-overlay {
+  background: rgba(15, 23, 42, 0.7) !important;
+}
+body.light-theme .nav-btn.active .nav-btn-overlay {
+  background: rgba(79, 70, 229, 0.1) !important;
+}
+.nav-btn span.nav-text {
+  position: relative !important;
+  z-index: 10 !important;
+  font-weight: 600;
+  text-shadow: 0 1px 2px rgba(0,0,0,0.5);
+}
+body.light-theme .nav-btn span.nav-text {
+  text-shadow: none;
+}
+
+/* Fix text color on hover for nav buttons */
+.nav-btn span.nav-text {
+  color: #e2e8f0 !important;
+  transition: color 0.3s;
+}
+.nav-btn:hover span.nav-text, .nav-btn.active span.nav-text {
+  color: #ffffff !important;
+}
+
+body.light-theme .nav-btn span.nav-text {
+  color: #334155 !important;
+}
+body.light-theme .nav-btn:hover span.nav-text {
+  color: #0f172a !important;
+}
+body.light-theme .nav-btn.active span.nav-text {
+  color: #000000 !important;
+  font-weight: 800 !important;
+}
+
+/* Black & White Outlines for Cards and Nav */
+.card {
+  border: 1px solid rgba(255, 255, 255, 0.4) !important;
+}
+.nav-btn {
+  border: 1px solid rgba(255, 255, 255, 0.4) !important;
+  border-left: none !important; /* Keep it attached to the left edge */
+}
+body.light-theme .card {
+  border: 1px solid rgba(0, 0, 0, 0.4) !important;
+}
+body.light-theme .nav-btn {
+  border: 1px solid rgba(0, 0, 0, 0.4) !important;
+  border-left: none !important;
+}
+
+/* Ensure active nav-btn still shows its primary color on the right border */
+.nav-btn.active {
+  border-right: 3px solid var(--primary) !important;
+}
+
+/* Black & White Outlines for Cards and Nav */
+.card {
+  border: 1px solid rgba(255, 255, 255, 0.4) !important;
+}
+.nav-btn {
+  border: 1px solid rgba(255, 255, 255, 0.4) !important;
+  border-left: none !important; /* Keep it attached to the left edge */
+}
+body.light-theme .card {
+  border: 1px solid rgba(0, 0, 0, 0.4) !important;
+}
+body.light-theme .nav-btn {
+  border: 1px solid rgba(0, 0, 0, 0.4) !important;
+  border-left: none !important;
+}
+
+/* Ensure active nav-btn still shows its primary color on the right border */
+.nav-btn.active {
+  border-right: 3px solid var(--primary) !important;
+}
+</style>
+</head>
+<body>
+    <div class="app-container">
+        <!-- Sidebar -->
+        <aside class="sidebar">
+            <div class="sidebar-brand" style="margin-bottom: 12px;">
+                <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f310/512.png" class="brand-logo" alt="Hub Logo">
+                <div class="brand-text">
+                    <h1>Autism Study</h1>
+                    <p>Research Hub</p>
+                </div>
+            </div>
+            <div class="autosave-indicator" style="display: flex; align-items: center; gap: 8px; font-size: 12px; color: var(--text-muted); background: #ffffff05; padding: 6px 12px; border-radius: 20px; border: 1px solid var(--border-light); margin-bottom: 24px; align-self: flex-start;">
+                <span class="dot" style="width: 8px; height: 8px; background-color: var(--primary); border-radius: 50%; box-shadow: 0 0 8px var(--primary);"></span>
+                System Live
+            </div>
+            
+            <nav class="sidebar-nav">
+                <a href="../index.html" class="nav-btn">
+                    <div class="nav-btn-bg-layer" style="background-image: url('https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?q=80&w=400&auto=format&fit=crop');"></div>
+                    <div class="nav-btn-overlay"></div>
+                    <span class="nav-text">← Back to Overview</span>
+                </a>
+                <a href="#" class="nav-btn active">
+                    <div class="nav-btn-bg-layer" style="background-image: url('https://images.unsplash.com/photo-1559757175-5700dde675bc?q=80&w=400&auto=format&fit=crop');"></div>
+                    <div class="nav-btn-overlay"></div>
+                    <span class="nav-text">Autism Tracker</span>
+                </a>
+            </nav>
+
+
+        </aside>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            <header class="content-header" style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 32px;">
+                <div class="header-title">
+                    <h2 style="font-family: var(--font-heading); font-size: 28px; font-weight: 700;">Research Progress Tracker</h2>
+                    <p style="color: var(--text-muted); font-size: 14px;">Autism Caregiver Study Gantt Chart.</p>
+                </div>
+                <div class="header-actions" style="display: flex; align-items: center; gap: 16px;">
+                    <button class="btn primary-btn" id="viewModeWeek">Week View</button>
+                    <button class="btn secondary-btn" id="viewModeMonth">Month View</button>
+                    <button class="theme-toggle" id="theme-toggle" title="Toggle Theme" style="margin-left: 12px;">
+                        <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f319/512.png" id="theme-toggle-icon" alt="Dark Mode">
+                    </button>
+                </div>
+            </header>
+
+            <div class="card gantt-wrapper">
+                <div class="card-bg-layer" style="background-image: url('https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?q=80&w=1200&auto=format&fit=crop'); opacity: 0.8;"></div>
+                <div class="card-bg-overlay"></div>
+                <svg id="gantt"></svg>
+            </div>
+        </main>
+    </div>
+
+    <!-- Frappe Gantt JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/frappe-gantt/0.6.1/frappe-gantt.min.js"></script>
+    <script src="script.js"></script>
+    <script>
+        // Theme Toggle Logic
+        const savedTheme = localStorage.getItem("lr_shield_theme") || "dark";
+        const themeIcon = document.getElementById("theme-toggle-icon");
+        if (savedTheme === "light") {
+            document.body.classList.add("light-theme");
+            if (themeIcon) {
+                themeIcon.src = "https://fonts.gstatic.com/s/e/notoemoji/latest/2600_fe0f/512.png";
+                themeIcon.alt = "Light Mode";
+            }
+        }
+        const themeToggleBtn = document.getElementById("theme-toggle");
+        if (themeToggleBtn) {
+            themeToggleBtn.addEventListener("click", () => {
+                const isLight = document.body.classList.toggle("light-theme");
+                if (isLight) {
+                    localStorage.setItem("lr_shield_theme", "light");
+                    if (themeIcon) themeIcon.src = "https://fonts.gstatic.com/s/e/notoemoji/latest/2600_fe0f/512.png";
+                } else {
+                    localStorage.setItem("lr_shield_theme", "dark");
+                    if (themeIcon) themeIcon.src = "https://fonts.gstatic.com/s/e/notoemoji/latest/1f319/512.png";
+                }
+            });
+        }
+    </script>
+    <script src="../script.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            initTicker([
+                "Follow up with non-responsive caregivers every 3 days.",
+                "Ensure all survey data is anonymized before exporting to the Statistics Suite.",
+                "Keep an eye on the Phase 3 drop-off rate to ensure statistical power."
+            ]);
+        });
+    </script>
+</body>
+</html>

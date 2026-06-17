@@ -1,0 +1,165 @@
+<svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1480 800" style="background-color: transparent; font-family: 'Times New Roman', Times, serif;">
+  <style>
+    :root.light-theme [fill="#1e293b"] { fill: #FFFFFF !important; }
+    :root.light-theme [fill="#f8fafc"] { fill: #0F172A !important; }
+    :root.light-theme [fill="#818cf8"] { fill: #1e3c78 !important; }
+    :root.light-theme [fill="#94a3b8"] { fill: #475569 !important; }
+    :root.light-theme [fill="#cbd5e1"] { fill: #334155 !important; }
+    :root.light-theme [stroke="#334155"] { stroke: #E2E8F0 !important; }
+    :root.light-theme [stroke="#475569"] { stroke: #CBD5E1 !important; }
+    
+    /* Dashed box backgrounds */
+    :root.light-theme [fill="#052e16"] { fill: #E0F2FE !important; }
+    :root.light-theme [fill="#3b1527"] { fill: #FFEDD5 !important; }
+    :root.light-theme [fill="#0f2b29"] { fill: #CCFBF1 !important; }
+    :root.light-theme [fill="#0f2b29"] { fill: #F3E8FF !important; }
+    :root.light-theme [fill="#3b1527"] { fill: #FCE7F3 !important; }
+    :root.light-theme [fill="#052e16"] { fill: #DCFCE7 !important; }
+    
+    /* Accents */
+    :root.light-theme [fill="#4ade80"] { fill: #15803D !important; }
+    :root.light-theme [stroke="#4ade80"] { stroke: #15803D !important; }
+    :root.light-theme [fill="#f43f5e"] { fill: #BE123C !important; }
+    :root.light-theme [stroke="#f43f5e"] { stroke: #BE123C !important; }
+    :root.light-theme [fill="#2dd4bf"] { fill: #0F766E !important; }
+    :root.light-theme [stroke="#2dd4bf"] { stroke: #0F766E !important; }
+    :root.light-theme [fill="#2dd4bf"] { fill: #0F766E !important; }
+    :root.light-theme [stroke="#2dd4bf"] { stroke: #0F766E !important; }
+    :root.light-theme [fill="#4ade80"] { fill: #15803D !important; }
+    :root.light-theme [stroke="#4ade80"] { stroke: #15803D !important; }
+  </style>
+
+  <script type="text/javascript"><![CDATA[
+    window.addEventListener('message', (e) => {
+      if(e.data && e.data.theme === 'light') {
+        document.documentElement.classList.add('light-theme');
+      } else if (e.data && e.data.theme === 'dark') {
+        document.documentElement.classList.remove('light-theme');
+      }
+    });
+  ]]></script>
+
+  
+  <!-- Title -->
+  <rect x="0" y="0" width="1480" height="80" fill="#f8fafc" />
+  <text x="740" y="40" fill="#1e293b" font-size="28" font-weight="bold" text-anchor="middle">Caregiver Characteristics Profile</text>
+  <text x="740" y="65" fill="#94A3B8" font-size="16" text-anchor="middle">Logistical, Cultural, and Psychological Factors Influencing Virtual Counseling Adoption</text>
+
+  <!-- Step Labels on the Left Margin -->
+  <text x="20" y="210" fill="#94a3b8" font-size="14" font-weight="bold" text-anchor="middle" transform="rotate(-90 20 210)">THEORETICAL DOMAIN</text>
+  <text x="20" y="420" fill="#94a3b8" font-size="14" font-weight="bold" text-anchor="middle" transform="rotate(-90 20 420)">CORE COMPONENTS</text>
+  <text x="20" y="650" fill="#94a3b8" font-size="14" font-weight="bold" text-anchor="middle" transform="rotate(-90 20 650)">THESIS RELEVANCE</text>
+
+  <!-- ==================== COLUMN 1: LOGISTICAL ==================== -->
+  <rect x="40" y="100" width="440" height="670" rx="15" fill="#052e16" stroke="#DCFCE7" stroke-width="2" />
+  
+  <rect x="40" y="100" width="440" height="50" rx="15" fill="#4ade80" />
+  <rect x="40" y="125" width="440" height="25" fill="#4ade80" />
+  <text x="260" y="132" fill="#1e293b" font-size="20" font-weight="bold" text-anchor="middle">Logistical Variables</text>
+
+  <rect x="80" y="160" width="360" height="120" rx="10" fill="#1e293b" stroke="#86efac" stroke-width="2" />
+  <text x="260" y="190" fill="#4ade80" font-size="16" font-weight="bold" text-anchor="middle">Structural &amp; Practical Barriers</text>
+  <text x="260" y="210" fill="#cbd5e1" font-size="13" text-anchor="middle">External constraints on time, resources, and access.</text>
+  <rect x="220" y="235" width="80" height="30" rx="4" fill="#DCFCE7" />
+  <rect x="230" y="235" width="60" height="30" rx="4" fill="#4ade80" />
+  <path d="M 260 235 L 260 265" stroke="#F0F9FF" stroke-width="2" />
+
+  <path d="M 260 290 L 260 320" stroke="#94A3B8" stroke-width="3" fill="none" marker-end="url(#arrow)" />
+
+  <rect x="80" y="330" width="360" height="180" rx="10" fill="#1e293b" stroke="#86efac" stroke-width="2" />
+  <text x="260" y="360" fill="#4ade80" font-size="16" font-weight="bold" text-anchor="middle">Specific Caregiver Challenges</text>
+  <text x="260" y="380" fill="#cbd5e1" font-size="13" text-anchor="middle">The tangible variables affecting service utilization.</text>
+  <circle cx="120" cy="420" r="4" fill="#4ade80" />
+  <text x="140" y="425" fill="#f8fafc" font-size="14" font-weight="bold">Time Constraints &amp; Fatigue</text>
+  <circle cx="120" cy="450" r="4" fill="#4ade80" />
+  <text x="140" y="455" fill="#f8fafc" font-size="14" font-weight="bold">Financial Cost / Affordability</text>
+  <circle cx="120" cy="480" r="4" fill="#4ade80" />
+  <text x="140" y="485" fill="#f8fafc" font-size="14" font-weight="bold">Digital Literacy &amp; Device Access</text>
+
+  <path d="M 260 520 L 260 550" stroke="#94A3B8" stroke-width="3" fill="none" marker-end="url(#arrow)" />
+
+  <rect x="80" y="560" width="360" height="180" rx="10" fill="#1e293b" stroke="#86efac" stroke-width="2" />
+  <text x="260" y="590" fill="#4ade80" font-size="16" font-weight="bold" text-anchor="middle">Impact on Virtual Counseling</text>
+  <text x="260" y="610" fill="#cbd5e1" font-size="13" text-anchor="middle">Determines platform viability and design needs.</text>
+  <rect x="100" y="650" width="320" height="60" rx="8" fill="#052e16" stroke="#4ade80" stroke-dasharray="4" />
+  <text x="260" y="672" fill="#4ade80" font-size="13" font-weight="bold" text-anchor="middle">Requires:</text>
+  <text x="260" y="692" fill="#4ade80" font-size="13" font-weight="bold" text-anchor="middle">Asynchronous, Low-Cost, Mobile-First</text>
+
+  <!-- ==================== COLUMN 2: CULTURAL STIGMA ==================== -->
+  <rect x="520" y="100" width="440" height="670" rx="15" fill="#3b1527" stroke="#FCE7F3" stroke-width="2" />
+  
+  <rect x="520" y="100" width="440" height="50" rx="15" fill="#f43f5e" />
+  <rect x="520" y="125" width="440" height="25" fill="#f43f5e" />
+  <text x="740" y="132" fill="#1e293b" font-size="20" font-weight="bold" text-anchor="middle">Cultural Stigma</text>
+
+  <rect x="560" y="160" width="360" height="120" rx="10" fill="#1e293b" stroke="#FCE7F3" stroke-width="2" />
+  <text x="740" y="190" fill="#f43f5e" font-size="16" font-weight="bold" text-anchor="middle">Social &amp; Internalized Barriers</text>
+  <text x="740" y="210" fill="#cbd5e1" font-size="13" text-anchor="middle">Societal judgment and cultural pressures in Malaysia.</text>
+  <path d="M 720 250 Q 740 230 760 250 Q 740 270 720 250 Z" stroke="#F9A8D4" stroke-width="3" fill="none" />
+  <circle cx="740" cy="250" r="5" fill="#e11d48" />
+
+  <path d="M 740 290 L 740 320" stroke="#94A3B8" stroke-width="3" fill="none" marker-end="url(#arrow)" />
+
+  <rect x="560" y="330" width="360" height="180" rx="10" fill="#1e293b" stroke="#FCE7F3" stroke-width="2" />
+  <text x="740" y="360" fill="#f43f5e" font-size="16" font-weight="bold" text-anchor="middle">Specific Social Pressures</text>
+  <text x="740" y="380" fill="#cbd5e1" font-size="13" text-anchor="middle">The emotional factors driving service avoidance.</text>
+  <circle cx="600" cy="420" r="4" fill="#f43f5e" />
+  <text x="620" y="425" fill="#f8fafc" font-size="14" font-weight="bold">Fear of Social Judgment</text>
+  <circle cx="600" cy="450" r="4" fill="#f43f5e" />
+  <text x="620" y="455" fill="#f8fafc" font-size="14" font-weight="bold">Extended Family Misconceptions</text>
+  <circle cx="600" cy="480" r="4" fill="#f43f5e" />
+  <text x="620" y="485" fill="#f8fafc" font-size="14" font-weight="bold">Mental Health Service Taboos</text>
+
+  <path d="M 740 520 L 740 550" stroke="#94A3B8" stroke-width="3" fill="none" marker-end="url(#arrow)" />
+
+  <rect x="560" y="560" width="360" height="180" rx="10" fill="#1e293b" stroke="#FCE7F3" stroke-width="2" />
+  <text x="740" y="590" fill="#f43f5e" font-size="16" font-weight="bold" text-anchor="middle">Impact on Virtual Counseling</text>
+  <text x="740" y="610" fill="#cbd5e1" font-size="13" text-anchor="middle">Drives emotional resistance to traditional clinics.</text>
+  <rect x="580" y="650" width="320" height="60" rx="8" fill="#3b1527" stroke="#f43f5e" stroke-dasharray="4" />
+  <text x="740" y="672" fill="#f43f5e" font-size="13" font-weight="bold" text-anchor="middle">Requires:</text>
+  <text x="740" y="692" fill="#f43f5e" font-size="13" font-weight="bold" text-anchor="middle">High Privacy, Anonymity, Trust</text>
+
+  <!-- ==================== COLUMN 3: TPB CONSTRUCTS ==================== -->
+  <rect x="1000" y="100" width="440" height="670" rx="15" fill="#0f2b29" stroke="#CCFBF1" stroke-width="2" />
+  
+  <rect x="1000" y="100" width="440" height="50" rx="15" fill="#2dd4bf" />
+  <rect x="1000" y="125" width="440" height="25" fill="#2dd4bf" />
+  <text x="1220" y="132" fill="#1e293b" font-size="20" font-weight="bold" text-anchor="middle">TPB Constructs</text>
+
+  <rect x="1040" y="160" width="360" height="120" rx="10" fill="#1e293b" stroke="#5eead4" stroke-width="2" />
+  <text x="1220" y="190" fill="#2dd4bf" font-size="16" font-weight="bold" text-anchor="middle">Psychological Drivers</text>
+  <text x="1220" y="210" fill="#cbd5e1" font-size="13" text-anchor="middle">Cognitive mechanisms predicting help-seeking intent.</text>
+  <circle cx="1220" cy="250" r="15" stroke="#5eead4" stroke-width="3" fill="none" stroke-dasharray="4,4" />
+  <circle cx="1220" cy="250" r="5" fill="#2dd4bf" />
+
+  <path d="M 1220 290 L 1220 320" stroke="#94A3B8" stroke-width="3" fill="none" marker-end="url(#arrow)" />
+
+  <rect x="1040" y="330" width="360" height="180" rx="10" fill="#1e293b" stroke="#5eead4" stroke-width="2" />
+  <text x="1220" y="360" fill="#2dd4bf" font-size="16" font-weight="bold" text-anchor="middle">The CSI-PASD Variables</text>
+  <text x="1220" y="380" fill="#cbd5e1" font-size="13" text-anchor="middle">The exact variables measured by your instrument.</text>
+  <circle cx="1080" cy="410" r="4" fill="#2dd4bf" />
+  <text x="1100" y="415" fill="#f8fafc" font-size="14" font-weight="bold">Attitude (ATT)</text>
+  <circle cx="1080" cy="435" r="4" fill="#2dd4bf" />
+  <text x="1100" y="440" fill="#f8fafc" font-size="14" font-weight="bold">Subjective Norm (SN)</text>
+  <circle cx="1080" cy="460" r="4" fill="#2dd4bf" />
+  <text x="1100" y="465" fill="#f8fafc" font-size="14" font-weight="bold">Perceived Behavioral Control (PBC)</text>
+  <circle cx="1080" cy="485" r="4" fill="#2dd4bf" />
+  <text x="1100" y="490" fill="#f8fafc" font-size="14" font-weight="bold">Behavioral Intention (BI)</text>
+
+  <path d="M 1220 520 L 1220 550" stroke="#94A3B8" stroke-width="3" fill="none" marker-end="url(#arrow)" />
+
+  <rect x="1040" y="560" width="360" height="180" rx="10" fill="#1e293b" stroke="#5eead4" stroke-width="2" />
+  <text x="1220" y="590" fill="#2dd4bf" font-size="16" font-weight="bold" text-anchor="middle">Impact on Virtual Counseling</text>
+  <text x="1220" y="610" fill="#cbd5e1" font-size="13" text-anchor="middle">Forms the quantitative basis for the clustering models.</text>
+  <rect x="1060" y="650" width="320" height="60" rx="8" fill="#0f2b29" stroke="#2dd4bf" stroke-dasharray="4" />
+  <text x="1220" y="672" fill="#2dd4bf" font-size="13" font-weight="bold" text-anchor="middle">Requires:</text>
+  <text x="1220" y="692" fill="#2dd4bf" font-size="13" font-weight="bold" text-anchor="middle">Latent Scoring &amp; Cluster Profiling</text>
+
+
+  <!-- Definitions -->
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#94A3B8" />
+    </marker>
+  </defs>
+</svg>

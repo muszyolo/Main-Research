@@ -1,0 +1,238 @@
+<svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 520" font-family="Times New Roman, Times, serif">
+  <style>
+    :root.light-theme [fill="#1e293b"] { fill: #FFFFFF !important; }
+    :root.light-theme [fill="#f8fafc"] { fill: #0F172A !important; }
+    :root.light-theme [fill="#818cf8"] { fill: #1e3c78 !important; }
+    :root.light-theme [fill="#94a3b8"] { fill: #475569 !important; }
+    :root.light-theme [fill="#cbd5e1"] { fill: #334155 !important; }
+    :root.light-theme [stroke="#334155"] { stroke: #E2E8F0 !important; }
+    :root.light-theme [stroke="#475569"] { stroke: #CBD5E1 !important; }
+    
+    /* Dashed box backgrounds */
+    :root.light-theme [fill="#0f2942"] { fill: #E0F2FE !important; }
+    :root.light-theme [fill="#361f0e"] { fill: #FFEDD5 !important; }
+    :root.light-theme [fill="#0f2b29"] { fill: #CCFBF1 !important; }
+    :root.light-theme [fill="#26123b"] { fill: #F3E8FF !important; }
+    :root.light-theme [fill="#3b1527"] { fill: #FCE7F3 !important; }
+    :root.light-theme [fill="#052e16"] { fill: #DCFCE7 !important; }
+    
+    /* Accents */
+    :root.light-theme [fill="#38bdf8"] { fill: #0284C7 !important; }
+    :root.light-theme [stroke="#38bdf8"] { stroke: #0284C7 !important; }
+    :root.light-theme [fill="#fb923c"] { fill: #C2410C !important; }
+    :root.light-theme [stroke="#fb923c"] { stroke: #C2410C !important; }
+    :root.light-theme [fill="#2dd4bf"] { fill: #0F766E !important; }
+    :root.light-theme [stroke="#2dd4bf"] { stroke: #0F766E !important; }
+    :root.light-theme [fill="#c084fc"] { fill: #7E22CE !important; }
+    :root.light-theme [stroke="#c084fc"] { stroke: #7E22CE !important; }
+    :root.light-theme [fill="#4ade80"] { fill: #15803D !important; }
+    :root.light-theme [stroke="#4ade80"] { stroke: #15803D !important; }
+  </style>
+
+  <script type="text/javascript"><![CDATA[
+    window.addEventListener('message', (e) => {
+      if(e.data && e.data.theme === 'light') {
+        document.documentElement.classList.add('light-theme');
+      } else if (e.data && e.data.theme === 'dark') {
+        document.documentElement.classList.remove('light-theme');
+      }
+    });
+  ]]></script>
+
+
+  <!-- Background -->
+  <rect width="1100" height="520" fill="transparent"/>
+
+  <style>
+    .clickable { cursor: pointer; transition: all 0.2s ease; outline: none; }
+    .clickable:focus { outline: none; }
+    .clickable:hover rect { fill: #2c529d; } /* Removed the mustard yellow stroke */
+  </style>
+
+  <!-- ══════════════════════════════════════════════
+       TITLE
+  ══════════════════════════════════════════════ -->
+  <text x="550" y="32" text-anchor="middle" font-size="12" font-weight="bold" fill="#818cf8">
+    Conceptual Framework: Targeted Virtual Counseling Model for Autism Caregiver
+  </text>
+
+  <!-- ══════════════════════════════════════════════
+       TOP ROW — 5 BOXES
+  ══════════════════════════════════════════════ -->
+
+  <!-- BOX 1: Malaysian Context -->
+  <a href="malaysian_context_framework.svg" target="detail_view" class="clickable">
+  <rect x="30" y="55" width="170" height="130" rx="8" ry="8" fill="#1e3c78" stroke="#0d2458" stroke-width="1.5"/>
+  <rect x="30" y="55" width="170" height="30" rx="8" ry="8" fill="#163066"/>
+  <rect x="30" y="73" width="170" height="12" fill="#163066"/>
+  <text x="115" y="75" text-anchor="middle" font-size="12" font-weight="bold" fill="#f0c040">Section 2.1</text>
+  <text x="115" y="100" text-anchor="middle" font-size="12" font-weight="bold" fill="white">Malaysian</text>
+  <text x="115" y="116" text-anchor="middle" font-size="12" font-weight="bold" fill="white">Context</text>
+  <line x1="50" y1="128" x2="180" y2="128" stroke="#f0c040" stroke-width="0.8" stroke-dasharray="3,3"/>
+  <text x="115" y="144" text-anchor="middle" font-size="12" fill="#cce0ff">• Service Gap</text>
+  <text x="115" y="160" text-anchor="middle" font-size="12" fill="#cce0ff">• Digital Barriers</text>
+  <text x="115" y="176" text-anchor="middle" font-size="12" fill="#cce0ff">• ASEAN Policy</text>
+  </a>
+
+  <!-- BOX 2: Virtual Counseling -->
+  <a href="virtual_counseling_framework.svg" target="detail_view" class="clickable">
+  <rect x="235" y="55" width="170" height="130" rx="8" ry="8" fill="#1e3c78" stroke="#0d2458" stroke-width="1.5"/>
+  <rect x="235" y="55" width="170" height="30" rx="8" ry="8" fill="#163066"/>
+  <rect x="235" y="73" width="170" height="12" fill="#163066"/>
+  <text x="320" y="75" text-anchor="middle" font-size="12" font-weight="bold" fill="#f0c040">Section 2.2</text>
+  <text x="320" y="100" text-anchor="middle" font-size="12" font-weight="bold" fill="white">Virtual</text>
+  <text x="320" y="116" text-anchor="middle" font-size="12" font-weight="bold" fill="white">Counseling</text>
+  <line x1="255" y1="128" x2="385" y2="128" stroke="#f0c040" stroke-width="0.8" stroke-dasharray="3,3"/>
+  <text x="320" y="144" text-anchor="middle" font-size="12" fill="#cce0ff">• Global Evidence</text>
+  <text x="320" y="160" text-anchor="middle" font-size="12" fill="#cce0ff">• Local Implementation</text>
+  <text x="320" y="176" text-anchor="middle" font-size="12" fill="#cce0ff">• Modality Types</text>
+  </a>
+
+  <!-- BOX 3: Autism Caregiver -->
+  <a href="autism_caregiver_framework.svg" target="detail_view" class="clickable">
+  <rect x="440" y="55" width="170" height="130" rx="8" ry="8" fill="#1e3c78" stroke="#0d2458" stroke-width="1.5"/>
+  <rect x="440" y="55" width="170" height="30" rx="8" ry="8" fill="#163066"/>
+  <rect x="440" y="73" width="170" height="12" fill="#163066"/>
+  <text x="525" y="75" text-anchor="middle" font-size="12" font-weight="bold" fill="#f0c040">Section 2.3</text>
+  <text x="525" y="100" text-anchor="middle" font-size="12" font-weight="bold" fill="white">Autism</text>
+  <text x="525" y="116" text-anchor="middle" font-size="12" font-weight="bold" fill="white">Caregiver</text>
+  <line x1="460" y1="128" x2="590" y2="128" stroke="#f0c040" stroke-width="0.8" stroke-dasharray="3,3"/>
+  <text x="525" y="144" text-anchor="middle" font-size="12" fill="#cce0ff">• Neurodivergence</text>
+  <text x="525" y="160" text-anchor="middle" font-size="12" fill="#cce0ff">• Caregiver Burden</text>
+  <text x="525" y="176" text-anchor="middle" font-size="12" fill="#cce0ff">• Peer Support</text>
+  </a>
+
+  <!-- BOX 4: Caregiver Characteristics -->
+  <a href="caregiver_characteristics.svg" target="detail_view" class="clickable">
+  <rect x="645" y="55" width="185" height="130" rx="8" ry="8" fill="#1e3c78" stroke="#0d2458" stroke-width="1.5"/>
+  <rect x="645" y="55" width="185" height="30" rx="8" ry="8" fill="#163066"/>
+  <rect x="645" y="73" width="185" height="12" fill="#163066"/>
+  <text x="737" y="75" text-anchor="middle" font-size="12" font-weight="bold" fill="#f0c040">Section 2.4 (a)(b)</text>
+  <text x="737" y="100" text-anchor="middle" font-size="12" font-weight="bold" fill="white">Caregiver</text>
+  <text x="737" y="116" text-anchor="middle" font-size="12" font-weight="bold" fill="white">Characteristics</text>
+  <line x1="665" y1="128" x2="810" y2="128" stroke="#f0c040" stroke-width="0.8" stroke-dasharray="3,3"/>
+  <text x="737" y="144" text-anchor="middle" font-size="12" fill="#cce0ff">• Logistical Variables</text>
+  <text x="737" y="160" text-anchor="middle" font-size="12" fill="#cce0ff">• Cultural Stigma</text>
+  <text x="737" y="176" text-anchor="middle" font-size="12" fill="#cce0ff">• TPB Constructs</text>
+  </a>
+
+  <!-- BOX 5: Clustering Methods -->
+  <a href="clustering_comparison_framework.svg" target="detail_view" class="clickable">
+  <rect x="865" y="55" width="175" height="130" rx="8" ry="8" fill="#1e3c78" stroke="#0d2458" stroke-width="1.5"/>
+  <rect x="865" y="55" width="175" height="30" rx="8" ry="8" fill="#163066"/>
+  <rect x="865" y="73" width="175" height="12" fill="#163066"/>
+  <text x="952" y="75" text-anchor="middle" font-size="12" font-weight="bold" fill="#f0c040">Section 2.5 (a)(b)(c)</text>
+  <text x="952" y="100" text-anchor="middle" font-size="12" font-weight="bold" fill="white">Clustering</text>
+  <text x="952" y="116" text-anchor="middle" font-size="12" font-weight="bold" fill="white">Methods</text>
+  <line x1="885" y1="128" x2="1020" y2="128" stroke="#f0c040" stroke-width="0.8" stroke-dasharray="3,3"/>
+  <text x="952" y="144" text-anchor="middle" font-size="12" fill="#cce0ff">• K-Means</text>
+  <text x="952" y="160" text-anchor="middle" font-size="12" fill="#cce0ff">• Hierarchical</text>
+  <text x="952" y="176" text-anchor="middle" font-size="12" fill="#cce0ff">• LCA</text>
+  </a>
+
+  <!-- ══════════════════════════════════════════════
+       HORIZONTAL ARROWS BETWEEN TOP BOXES
+  ══════════════════════════════════════════════ -->
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L8,3 z" fill="#f0a500"/>
+    </marker>
+  </defs>
+
+  <!-- Arrow Box1 → Box2 -->
+  <line x1="202" y1="120" x2="231" y2="120" stroke="#f0a500" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- Arrow Box2 → Box3 -->
+  <line x1="407" y1="120" x2="436" y2="120" stroke="#f0a500" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- Arrow Box3 → Box4 -->
+  <line x1="612" y1="120" x2="641" y2="120" stroke="#f0a500" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- Arrow Box4 → Box5 -->
+  <line x1="832" y1="120" x2="861" y2="120" stroke="#f0a500" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- ══════════════════════════════════════════════
+       INTERMEDIATE ROW: TPB / CSI-PASD INSTRUMENT BOX
+  ══════════════════════════════════════════════ -->
+
+  <!-- Vertical arrow from Box4 (Caregiver Characteristics) downward -->
+  <!-- Connecting line from all top boxes down to a horizontal collector -->
+
+  <!-- Vertical lines from each top box to horizontal collector (y=250) -->
+  <!-- Box1 center_x = 115 -->
+  <line x1="115" y1="185" x2="115" y2="265" stroke="#f0a500" stroke-width="1.8" stroke-dasharray="5,3"/>
+  <!-- Box2 center_x = 320 -->
+  <line x1="320" y1="185" x2="320" y2="265" stroke="#f0a500" stroke-width="1.8" stroke-dasharray="5,3"/>
+  <!-- Box3 center_x = 525 -->
+  <line x1="525" y1="185" x2="525" y2="265" stroke="#f0a500" stroke-width="1.8" stroke-dasharray="5,3"/>
+  <!-- Box4 center_x = 737 -->
+  <line x1="737" y1="185" x2="737" y2="265" stroke="#f0a500" stroke-width="1.8" stroke-dasharray="5,3"/>
+  <!-- Box5 center_x = 952 -->
+  <line x1="952" y1="185" x2="952" y2="265" stroke="#f0a500" stroke-width="1.8" stroke-dasharray="5,3"/>
+
+  <!-- Horizontal collector line -->
+  <line x1="115" y1="265" x2="952" y2="265" stroke="#f0a500" stroke-width="1.8"/>
+
+  <!-- Arrow from collector line down to output box -->
+  <line x1="533" y1="265" x2="533" y2="305" stroke="#f0a500" stroke-width="2.5" marker-end="url(#arrow)"/>
+
+  <!-- Dots at junction points on horizontal line -->
+  <circle cx="115" cy="265" r="4" fill="#f0a500"/>
+  <circle cx="320" cy="265" r="4" fill="#f0a500"/>
+  <circle cx="525" cy="265" r="4" fill="#f0a500"/>
+  <circle cx="737" cy="265" r="4" fill="#f0a500"/>
+  <circle cx="952" cy="265" r="4" fill="#f0a500"/>
+
+  <!-- Instrument label on the collector line -->
+  <rect x="370" y="250" width="320" height="22" rx="11" fill="#1e293b" stroke="#f0a500" stroke-width="1"/>
+  <text x="530" y="265" text-anchor="middle" font-size="12" fill="#f8fafc" font-style="italic">
+    Data collected via CSI-PASD (TPB-validated instrument)
+  </text>
+
+  <!-- ══════════════════════════════════════════════
+       OUTPUT BOX: Targeted Virtual Counseling Model
+  ══════════════════════════════════════════════ -->
+  <rect x="183" y="308" width="700" height="125" rx="10" ry="10" fill="#0d2458" stroke="#f0a500" stroke-width="2.5"/>
+
+  <!-- Top accent bar -->
+  <rect x="183" y="308" width="700" height="28" rx="10" ry="10" fill="#f0a500"/>
+  <rect x="183" y="324" width="700" height="12" fill="#f0a500"/>
+  <text x="533" y="328" text-anchor="middle" font-size="12" font-weight="bold" fill="#0d2458">OUTPUT</text>
+
+  <text x="533" y="360" text-anchor="middle" font-size="12" font-weight="bold" fill="white">
+    Targeted Virtual Counseling Model
+  </text>
+  <text x="533" y="380" text-anchor="middle" font-size="12" fill="#f0c040">
+    for Autism Caregiver in Malaysia
+  </text>
+
+  <line x1="213" y1="392" x2="853" y2="392" stroke="#f0a500" stroke-width="0.8" stroke-dasharray="4,3"/>
+
+  <!-- 3 cluster labels inside output box -->
+  <text x="320" y="410" text-anchor="middle" font-size="12" fill="#cce0ff">Cluster 1:</text>
+  <text x="320" y="423" text-anchor="middle" font-size="12" fill="white">Attitude-Focused</text>
+
+  <text x="533" y="410" text-anchor="middle" font-size="12" fill="#cce0ff">Cluster 2:</text>
+  <text x="533" y="423" text-anchor="middle" font-size="12" fill="white">Norm-Focused</text>
+
+  <text x="746" y="410" text-anchor="middle" font-size="12" fill="#cce0ff">Cluster 3:</text>
+  <text x="746" y="423" text-anchor="middle" font-size="12" fill="white">Control-Focused</text>
+
+  <!-- Vertical dividers inside output box -->
+  <line x1="426" y1="395" x2="426" y2="430" stroke="#f0a500" stroke-width="0.8" stroke-dasharray="3,2"/>
+  <line x1="640" y1="395" x2="640" y2="430" stroke="#f0a500" stroke-width="0.8" stroke-dasharray="3,2"/>
+
+  <!-- ══════════════════════════════════════════════
+       LEGEND / THEORY ANCHOR
+  ══════════════════════════════════════════════ -->
+  <rect x="30" y="450" width="1040" height="62" rx="6" fill="#1e293b" stroke="#334155" stroke-width="1"/>
+  <text x="550" y="470" text-anchor="middle" font-size="12" font-weight="bold" fill="#818cf8">Theoretical Foundation</text>
+  <text x="550" y="486" text-anchor="middle" font-size="12" fill="#94a3b8">
+    Theory of Planned Behavior (Ajzen, 1991, 2006)  |  Attitude  ·  Subjective Norm  ·  Perceived Behavioral Control  ·  Behavioral Intention
+  </text>
+  <text x="550" y="502" text-anchor="middle" font-size="12" fill="#94a3b8">
+    Validation: Lynn (1986)  ·  Polit &amp; Beck (2006)  ·  Yusoff (2019)   |   Clustering: K-Means · Hierarchical · LCA
+  </text>
+
+</svg>
+

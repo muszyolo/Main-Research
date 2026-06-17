@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Journal Progress - Kanban & Timeline</title>
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="../style.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="app-container">
+        <!-- Sidebar -->
+        <aside class="sidebar">
+            <div class="sidebar-brand" style="margin-bottom: 12px;">
+                <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f310/512.png" class="brand-logo" alt="Hub Logo">
+                <div class="brand-text">
+                    <h1>Progress</h1>
+                    <p>Research Hub</p>
+                </div>
+            </div>
+            <div class="autosave-indicator" style="display: flex; align-items: center; gap: 8px; font-size: 12px; color: var(--text-muted); background: #ffffff05; padding: 6px 12px; border-radius: 20px; border: 1px solid var(--border-light); margin-bottom: 24px; align-self: flex-start;">
+                <span class="dot" style="width: 8px; height: 8px; background-color: var(--primary); border-radius: 50%; box-shadow: 0 0 8px var(--primary);"></span>
+                System Live
+            </div>
+            
+            <nav class="sidebar-nav">
+                <a href="../index.html" class="nav-btn" style="color: var(--text-muted);">
+                    ← Back to Overview
+                </a>
+                <a href="#" class="nav-btn active">
+                    <img class="nav-icon" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4d6/512.png" alt="Journal Progress">
+                    Journal Progress
+                </a>
+            </nav>
+
+
+        </aside>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            <header class="content-header" style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 32px;">
+                <div class="header-title">
+                    <h2 style="font-family: var(--font-heading); font-size: 28px; font-weight: 700;">Journal Progress</h2>
+                    <p style="color: var(--text-muted); font-size: 14px;">Tracking your Thesis and TPB Papers.</p>
+                </div>
+                <button class="theme-toggle" id="theme-toggle" title="Toggle Theme">
+                    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f319/512.png" id="theme-toggle-icon" alt="Dark Mode">
+                </button>
+            </header>
+
+            <section class="timeline-section card">
+                <h3 style="font-family: var(--font-heading); font-size: 18px; font-weight: 600; margin-bottom: 20px;">Milestone Timeline</h3>
+                <div class="timeline">
+                    <div class="timeline-item completed">
+                        <div class="marker"></div>
+                        <div class="content">
+                            <h4>Phase 1: Literature Review</h4>
+                            <p>Thesis background gathered.</p>
+                        </div>
+                    </div>
+                    <div class="timeline-item active">
+                        <div class="marker"></div>
+                        <div class="content">
+                            <h4>Phase 2: TPB Survey Design</h4>
+                            <p>Currently drafting the questionnaire.</p>
+                        </div>
+                    </div>
+                    <div class="timeline-item">
+                        <div class="marker"></div>
+                        <div class="content">
+                            <h4>Phase 3: Data Collection</h4>
+                            <p>Expected next month.</p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section class="kanban-board">
+                <div class="kanban-column card" id="todo" ondrop="drop(event)" ondragover="allowDrop(event)">
+                    <h3 style="font-family: var(--font-heading); font-size: 15px; text-transform: uppercase; letter-spacing: 0.5px; color: var(--text-muted);">To Do</h3>
+                    <div class="kanban-card" draggable="true" ondragstart="drag(event)" id="card1">
+                        <h4 style="font-size: 14px; margin-bottom: 8px;">TPB: Draft Introduction</h4>
+                        <span class="tag tpb-tag">TPB</span>
+                    </div>
+                    <div class="kanban-card" draggable="true" ondragstart="drag(event)" id="card2">
+                        <h4 style="font-size: 14px; margin-bottom: 8px;">Thesis: Define Variables</h4>
+                        <span class="tag thesis-tag">Thesis</span>
+                    </div>
+                </div>
+
+                <div class="kanban-column card" id="reading" ondrop="drop(event)" ondragover="allowDrop(event)">
+                    <h3 style="font-family: var(--font-heading); font-size: 15px; text-transform: uppercase; letter-spacing: 0.5px; color: var(--text-muted);">Reading/Research</h3>
+                    <div class="kanban-card" draggable="true" ondragstart="drag(event)" id="card3">
+                        <h4 style="font-size: 14px; margin-bottom: 8px;">Thesis: Read 5 related papers</h4>
+                        <span class="tag thesis-tag">Thesis</span>
+                    </div>
+                </div>
+
+                <div class="kanban-column card" id="drafting" ondrop="drop(event)" ondragover="allowDrop(event)">
+                    <h3 style="font-family: var(--font-heading); font-size: 15px; text-transform: uppercase; letter-spacing: 0.5px; color: var(--text-muted);">Drafting</h3>
+                    <div class="kanban-card" draggable="true" ondragstart="drag(event)" id="card4">
+                        <h4 style="font-size: 14px; margin-bottom: 8px;">TPB: Methodology Section</h4>
+                        <span class="tag tpb-tag">TPB</span>
+                    </div>
+                </div>
+
+                <div class="kanban-column card" id="reviewing" ondrop="drop(event)" ondragover="allowDrop(event)">
+                    <h3 style="font-family: var(--font-heading); font-size: 15px; text-transform: uppercase; letter-spacing: 0.5px; color: var(--text-muted);">Reviewing</h3>
+                </div>
+
+                <div class="kanban-column card" id="completed" ondrop="drop(event)" ondragover="allowDrop(event)">
+                    <h3 style="font-family: var(--font-heading); font-size: 15px; text-transform: uppercase; letter-spacing: 0.5px; color: var(--text-muted);">Completed</h3>
+                    <div class="kanban-card" draggable="true" ondragstart="drag(event)" id="card5">
+                        <h4 style="font-size: 14px; margin-bottom: 8px;">Thesis: Abstract Outline</h4>
+                        <span class="tag thesis-tag">Thesis</span>
+                    </div>
+                </div>
+            </section>
+        </main>
+    </div>
+    <script src="script.js"></script>
+    <script>
+        // Theme Toggle Logic
+        const savedTheme = localStorage.getItem("lr_shield_theme") || "dark";
+        const themeIcon = document.getElementById("theme-toggle-icon");
+        if (savedTheme === "light") {
+            document.body.classList.add("light-theme");
+            if (themeIcon) {
+                themeIcon.src = "https://fonts.gstatic.com/s/e/notoemoji/latest/2600_fe0f/512.png";
+                themeIcon.alt = "Light Mode";
+            }
+        }
+        const themeToggleBtn = document.getElementById("theme-toggle");
+        if (themeToggleBtn) {
+            themeToggleBtn.addEventListener("click", () => {
+                const isLight = document.body.classList.toggle("light-theme");
+                if (isLight) {
+                    localStorage.setItem("lr_shield_theme", "light");
+                    if (themeIcon) themeIcon.src = "https://fonts.gstatic.com/s/e/notoemoji/latest/2600_fe0f/512.png";
+                } else {
+                    localStorage.setItem("lr_shield_theme", "dark");
+                    if (themeIcon) themeIcon.src = "https://fonts.gstatic.com/s/e/notoemoji/latest/1f319/512.png";
+                }
+            });
+        }
+    </script>
+    <script src="../script.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            initTicker([
+                "A 'Major Revision' is NOT a rejection. Address every reviewer comment point-by-point.",
+                "Never submit to a journal without checking Beall's List for predatory publishers.",
+                "Draft your cover letter to highlight the novel contribution of your TPB paper."
+            ]);
+        });
+    </script>
+</body>
+</html>

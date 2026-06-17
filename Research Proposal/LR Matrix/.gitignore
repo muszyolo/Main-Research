@@ -1,0 +1,68 @@
+# =============================================
+# LR Shield - .gitignore
+# =============================================
+
+# --- PDF Database Folders (too large for GitHub) ---
+Scopus/
+PubMed/
+Springer Nature/
+Web of Science/
+Google Scholar/
+OpenAlex/
+PsycINFO/
+MyJurnal/
+Old Database/
+
+# --- Auto-generated JS files are INCLUDED so GitHub Pages shows articles ---
+# auto_import.js   <-- tracked
+# auto_abstracts_v2.js  <-- tracked
+
+# --- Scratch / Debug / Utility Scripts ---
+scratch_*.py
+scratch_*.js
+script_dump_*.js
+debug.py
+find_*.py
+fix_*.py
+patch_*.py
+check_*.py
+add_tips.py
+extract_checkboxes.py
+move_*.py
+wrap_*.py
+rebuild_grid.py
+rebuild_index.py
+inject_abstract.py
+test.js
+fix.py
+fix_css.js
+fix_wiring.py
+fix_script_tags.py
+fix_syntax.py
+fix_lit.py
+
+# --- Generated text output files ---
+checkboxes.txt
+checkbox_array.txt
+tier_counts.txt
+daily_summary.md
+summary_condensed.md
+
+# --- Python cache ---
+__pycache__/
+*.pyc
+*.pyo
+
+# --- OS Files ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Excel raw data ---
+*.xlsx
+
+# --- Extracted JSON (large, regenerated) ---
+Extracted_Master_References.json
+
+# --- Logs ---
+*.log

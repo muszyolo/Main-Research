@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>LR Shield - Conceptual Framework</title>
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../../One Stop Centre/style.css">
+  <style>
+    iframe {
+      width: 100%;
+      height: 100%;
+      border: none;
+      background-color: transparent;
+    }
+    /* Rest of the layout works with style.css except maybe the card container for the iframe */
+    .app-container {
+      display: flex;
+      height: 100vh;
+      overflow: hidden;
+    }
+    .main-content {
+      flex: 1;
+      padding: 40px;
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+    }
+    .card {
+      background-color: var(--bg-card);
+      backdrop-filter: blur(12px);
+      -webkit-backdrop-filter: blur(12px);
+      border: 1px solid var(--border-light);
+      border-radius: 16px;
+      flex: 1;
+      overflow: hidden;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 10px;
+    }
+  </style>
+</head>
+<body>
+  <div class="app-container">
+    
+    <!-- Sidebar Navigation -->
+    <aside class="sidebar">
+      <div class="sidebar-brand" style="margin-bottom: 12px;">
+        <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6e1_fe0f/512.png" class="brand-logo" alt="Shield Logo">
+        <div class="brand-text">
+          <h1>LR Shield</h1>
+          <p>Conceptual Framework</p>
+        </div>
+      </div>
+      <div class="autosave-indicator" style="display: flex; align-items: center; gap: 8px; font-size: 12px; color: var(--text-muted); background: #ffffff05; padding: 6px 12px; border-radius: 20px; border: 1px solid var(--border-light); margin-bottom: 24px; align-self: flex-start;">
+        <span class="dot" style="width: 8px; height: 8px; background-color: var(--primary); border-radius: 50%; box-shadow: 0 0 8px var(--primary);"></span>
+        System Live
+      </div>
+      
+      <nav class="sidebar-nav">
+        <a href="../../Research Proposal/LR Matrix/index.html" class="nav-btn" style="color: var(--text-muted); text-decoration: none;">
+            ← Back to LR Shield
+        </a>
+        <button class="nav-btn active" data-target="Conceptual_Framework.svg" data-title="Conceptual Framework Map" data-sub="Interactive overview of your Master's thesis methodology and frameworks.">
+          <span class="emoji-icon">🗺️</span> Map Overview
+        </button>
+        <button class="nav-btn" data-target="malaysian_context_framework.svg" data-title="2.1 Malaysian Context" data-sub="Service gaps, digital barriers, and ASEAN policy implications.">
+          <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1f2-1f1fe.svg" class="emoji-icon" style="width: 20px; height: 20px; vertical-align: middle; margin-bottom: 2px;" alt="MY Flag"> 2.1 Malaysian Context
+        </button>
+        <button class="nav-btn" data-target="virtual_counseling_framework.svg" data-title="2.2 Virtual Counseling" data-sub="Global evidence, local implementation, and telehealth modalities.">
+          <span class="emoji-icon">💻</span> 2.2 Virtual Counseling
+        </button>
+        <button class="nav-btn" data-target="autism_caregiver_framework.svg" data-title="2.3 Autism Caregiver" data-sub="Neurodivergence traits, caregiver burden, and peer support strategies.">
+          <span class="emoji-icon">🧠</span> 2.3 Autism Caregiver
+        </button>
+        <button class="nav-btn" data-target="caregiver_characteristics.svg" data-title="2.4 Caregiver Characteristics" data-sub="Logistics, stigma, and Theory of Planned Behavior (TPB) constructs.">
+          <span class="emoji-icon">📊</span> 2.4 Characteristics
+        </button>
+        <button class="nav-btn" data-target="clustering_comparison_framework.svg" data-title="2.5 Clustering Methods" data-sub="Statistical comparison of K-Means, Hierarchical, and LCA algorithms.">
+          <span class="emoji-icon">🧩</span> 2.5 Clustering Methods
+        </button>
+      </nav>
+    </aside>
+
+    <!-- Main Content -->
+    <main class="main-content">
+      <header class="content-header" style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 32px;">
+        <div class="header-title">
+          <h2 id="page-title" style="font-family: var(--font-heading); font-size: 28px; font-weight: 700;">Conceptual Framework Map</h2>
+          <p id="page-subtitle" style="color: var(--text-muted); font-size: 14px; margin-top: 4px;">Interactive overview of your Master's thesis methodology and frameworks.</p>
+        </div>
+        <button class="theme-toggle" id="theme-toggle" title="Toggle Theme">
+          <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f319/512.png" id="theme-toggle-icon" alt="Dark Mode">
+        </button>
+      </header>
+      
+      <div class="card">
+        <!-- SVG iframe targets detail_view, allowing clicks inside the SVG to load new views here -->
+        <iframe name="detail_view" id="main-display" src="Conceptual_Framework.svg" title="Framework Viewer"></iframe>
+      </div>
+    </main>
+
+  </div>
+
+  <script>
+    document.addEventListener("DOMContentLoaded", () => {
+      const navButtons = document.querySelectorAll('.nav-btn');
+      const displayIframe = document.getElementById('main-display');
+      const pageTitle = document.getElementById('page-title');
+      const pageSubtitle = document.getElementById('page-subtitle');
+
+      navButtons.forEach(btn => {
+        if (!btn.hasAttribute('data-target')) return;
+        btn.addEventListener('click', () => {
+          // Update active styling
+          navButtons.forEach(b => b.classList.remove('active'));
+          btn.classList.add('active');
+
+          // Update iframe
+          const targetFile = btn.getAttribute('data-target');
+          displayIframe.src = targetFile;
+
+          // Update Headers
+          pageTitle.textContent = btn.getAttribute('data-title');
+          pageSubtitle.textContent = btn.getAttribute('data-sub');
+        });
+      });
+
+      // Light Mode Logic
+      const themeToggle = document.getElementById('theme-toggle');
+      const themeIcon = document.getElementById('theme-toggle-icon');
+      
+      // Sync initial state from global local storage
+      const savedTheme = localStorage.getItem("lr_shield_theme") || "dark";
+      if (savedTheme === "light") {
+          document.body.classList.add("light-theme");
+          if (themeIcon) {
+              themeIcon.src = "https://fonts.gstatic.com/s/e/notoemoji/latest/2600_fe0f/512.png";
+              themeIcon.alt = "Light Mode";
+          }
+      }
+
+      themeToggle.addEventListener('click', () => {
+        const isLight = document.body.classList.toggle('light-theme');
+        if (isLight) {
+            localStorage.setItem("lr_shield_theme", "light");
+            if (themeIcon) themeIcon.src = "https://fonts.gstatic.com/s/e/notoemoji/latest/2600_fe0f/512.png";
+        } else {
+            localStorage.setItem("lr_shield_theme", "dark");
+            if (themeIcon) themeIcon.src = "https://fonts.gstatic.com/s/e/notoemoji/latest/1f319/512.png";
+        }
+        
+        // Notify iframe
+        displayIframe.contentWindow.postMessage({ theme: isLight ? 'light' : 'dark' }, '*');
+      });
+
+      // Ensure iframe gets current theme on load
+      displayIframe.addEventListener('load', () => {
+        const isLight = document.body.classList.contains('light-theme');
+        displayIframe.contentWindow.postMessage({ theme: isLight ? 'light' : 'dark' }, '*');
+      });
+    });
+  </script>
+
+  <!-- BREAKING NEWS TICKER -->
+  <style>
+    .news-ticker-container {
+      position: fixed;
+      bottom: 0;
+      left: 280px;
+      right: 0;
+      height: 40px;
+      background: var(--bg-card);
+      backdrop-filter: blur(12px);
+      -webkit-backdrop-filter: blur(12px);
+      border-top: 1px solid var(--border-light);
+      display: flex;
+      align-items: center;
+      z-index: 50;
+      overflow: hidden;
+    }
+    @media (max-width: 768px) {
+      .news-ticker-container { left: 0; }
+    }
+    .news-ticker-label {
+      background: #ef4444;
+      color: white;
+      font-weight: 700;
+      font-size: 11px;
+      letter-spacing: 1px;
+      padding: 0 16px;
+      height: 100%;
+      display: flex;
+      align-items: center;
+      text-transform: uppercase;
+      position: relative;
+      z-index: 2;
+      box-shadow: 2px 0 10px rgba(0,0,0,0.2);
+      flex-shrink: 0;
+    }
+    .ticker-clock {
+      background: rgba(0, 0, 0, 0.2);
+      color: var(--text-light);
+      font-family: 'Courier New', Courier, monospace;
+      font-size: 13px;
+      font-weight: 600;
+      padding: 0 16px;
+      height: 100%;
+      display: flex;
+      align-items: center;
+      border-right: 1px solid var(--border-light);
+      flex-shrink: 0;
+      z-index: 2;
+      box-shadow: inset 0 0 10px rgba(0,0,0,0.1);
+    }
+    .news-ticker-wrap {
+      flex: 1;
+      overflow: hidden;
+      position: relative;
+      height: 100%;
+      display: flex;
+      align-items: center;
+      mask-image: linear-gradient(to right, transparent, black 5%, black 95%, transparent);
+      -webkit-mask-image: linear-gradient(to right, transparent, black 5%, black 95%, transparent);
+    }
+    .news-ticker-content {
+      display: inline-block;
+      white-space: nowrap;
+      padding-left: 100%;
+      animation: ticker 50s linear infinite;
+      color: var(--text-muted);
+      font-size: 13px;
+    }
+    .news-ticker-content:hover { animation-play-state: paused; }
+    .ticker-item {
+      display: inline-block;
+      padding: 0 2rem;
+    }
+    .ticker-item span {
+      color: #ef4444;
+      margin-right: 0.5rem;
+    }
+    @keyframes ticker {
+      0% { transform: translateX(0); }
+      100% { transform: translateX(-100%); }
+    }
+  </style>
+
+  <div class="news-ticker-container">
+    <div class="news-ticker-label">Breaking Tip</div>
+    <div class="ticker-clock" id="global-ticker-clock">00:00:00</div>
+    <div class="news-ticker-wrap">
+      <div class="news-ticker-content" id="global-ticker-content"></div>
+    </div>
+  </div>
+
+  <script>
+    document.addEventListener('DOMContentLoaded', () => {
+      // Setup Clock
+      function updateClock() {
+          const now = new Date();
+          document.getElementById('global-ticker-clock').textContent = now.toLocaleTimeString('en-US', { hour12: false });
+      }
+      setInterval(updateClock, 1000);
+      updateClock();
+
+      // Populate Tips
+      const tipsArray = [
+          "Ensure conceptual links explicitly connect Theory of Planned Behavior to help-seeking barriers.",
+          "Keep the service gap mapping clearly tied to Malaysian policy context (e.g., ASEAN framework).",
+          "Virtual counseling models should highlight accessibility improvements for B40 families."
+      ];
+      
+      const tickerContent = document.getElementById('global-ticker-content');
+      
+      let fullTips = [];
+      while (fullTips.length < 12) {
+          fullTips = fullTips.concat(tipsArray);
+      }
+      
+      tickerContent.innerHTML = fullTips.map(tip => `
+          <div class="ticker-item">
+              <span>⚡</span> ${tip}
+          </div>
+      `).join('');
+      tickerContent.style.animationDuration = '';
+    });
+  </script>
+</body>
+</html>

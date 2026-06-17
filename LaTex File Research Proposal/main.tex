@@ -1,0 +1,79 @@
+\documentclass[12pt,a4paper]{report}
+
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath, amsfonts, amssymb}
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{subcaption}
+\usepackage{booktabs}
+\usepackage{tikz}
+\usetikzlibrary{shapes.geometric, arrows.meta, positioning}
+\usepackage{hyperref}
+\usepackage[left=3.8cm, right=2.5cm, top=2.5cm, bottom=2.5cm]{geometry}
+\usepackage{natbib}
+\usepackage{mathptmx} % Times New Roman font
+\usepackage{setspace}
+\usepackage{indentfirst} % Forces indent on first paragraph after heading
+\onehalfspacing
+
+% --- Chapter Title Formatting ---
+\usepackage{fmtcount} % Allows numbers to be spelled out (e.g. ONE)
+\usepackage{titlesec}
+
+% \large is exactly 14.4pt when the base font is 12pt
+\titleformat{\chapter}[display]
+  {\centering\normalfont\large\bfseries} % Center alignment, 14pt (large), Bold
+  {\MakeUppercase{\chaptertitlename}\ \thechapter} % Prints "CHAPTER 1"
+  {1\baselineskip} % Space between "CHAPTER 1" and the title
+  {\MakeUppercase} % Formats the actual title text (e.g., INTRODUCTION)
+\titlespacing*{\chapter}{0pt}{-20pt}{1.5cm} % Pull up to top margin, gap after
+
+% \normalsize is exactly 12pt when the base font is 12pt
+\titleformat{\section}
+  {\normalfont\normalsize\bfseries} % 12pt, Bold
+  {\thesection}
+  {1.27cm} % Matches the 0.5 inch tab indent
+  {}
+\titlespacing*{\section}{0pt}{1.5\baselineskip}{0pt}
+
+\titleformat{\subsection}
+  {\normalfont\normalsize\bfseries} % 12pt, Bold
+  {\thesubsection}
+  {1.27cm}
+  {}
+\titlespacing*{\subsection}{0pt}{1.5\baselineskip}{0pt}
+
+\titleformat{\subsubsection}
+  {\normalfont\normalsize\bfseries\itshape} % 12pt, Bold, Italic
+  {\thesubsubsection}
+  {1.27cm}
+  {}
+\titlespacing*{\subsubsection}{0pt}{1.5\baselineskip}{0pt}
+% --------------------------------
+
+\setlength{\parindent}{1.27cm} % Exactly 0.5 inch indent for paragraphs
+
+\title{\textbf{Uncovering Parent Profiles Through Cluster Analysis for Targeted Virtual Counseling} \\ \vspace{0.5cm} \Large Master by Research Proposal}
+\author{Statistics Faculty Candidate}
+\date{\today}
+
+\begin{document}
+
+\pagenumbering{roman}
+
+\maketitle
+
+\tableofcontents
+\clearpage
+
+\pagenumbering{arabic}
+\include{chapter1}
+\include{chapter2}
+\include{chapter3}
+
+\bibliographystyle{apalike}
+\bibliography{references}
+
+\include{gantt_chart}
+
+\end{document}

@@ -1,0 +1,406 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>My Publication Journey — UiTM Research Plan</title>
+  <meta name="description" content="A personalized academic publication roadmap for UiTM MSc researchers. Track your journey from research to indexed publication."/>
+  <link rel="preconnect" href="https://fonts.googleapis.com"/>
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Inter:ital,opsz,wght@0,14..32,300;0,14..32,400;0,14..32,500;0,14..32,600;0,14..32,700;0,14..32,800;1,14..32,400&family=Space+Grotesk:wght@400;500;600;700;800&display=swap" rel="stylesheet"/>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+
+  <!-- SIDEBAR -->
+  <aside class="sidebar" id="sidebar">
+    <div class="sidebar-logo">
+      <div class="logo-icon">📚</div>
+      <div class="logo-text">
+        <span class="logo-title">PubJourney</span>
+        <span class="logo-sub">MusYolo Research</span>
+      </div>
+    </div>
+
+    <nav class="sidebar-nav">
+      <div class="nav-section-label">Overview</div>
+      <a href="#dashboard" class="nav-item active" data-page="dashboard" id="nav-dashboard">
+        <span class="nav-icon">⊞</span>
+        <span>Dashboard</span>
+      </a>
+      <a href="#timeline" class="nav-item" data-page="timeline" id="nav-timeline">
+        <span class="nav-icon">◷</span>
+        <span>Timeline</span>
+      </a>
+      <div class="nav-section-label">Publication Steps</div>
+      <a href="#phases" class="nav-item" data-page="phases" id="nav-phases">
+        <span class="nav-icon">◈</span>
+        <span>My 6 Phases</span>
+      </a>
+      <a href="#checklist" class="nav-item" data-page="checklist" id="nav-checklist">
+        <span class="nav-icon">◻</span>
+        <span>Task Checklist</span>
+      </a>
+      <a href="#kanban" class="nav-item" data-page="kanban" id="nav-kanban">
+        <span class="nav-icon">◫</span>
+        <span>Kanban Board</span>
+      </a>
+      <div class="nav-section-label">Support</div>
+      <a href="#contacts" class="nav-item" data-page="contacts" id="nav-contacts">
+        <span class="nav-icon">◎</span>
+        <span>Who to Meet</span>
+      </a>
+      <a href="#meetings" class="nav-item" data-page="meetings" id="nav-meetings">
+        <span class="nav-icon">📝</span>
+        <span>Meeting Log</span>
+      </a>
+      <a href="#resources" class="nav-item" data-page="resources" id="nav-resources">
+        <span class="nav-icon">◉</span>
+        <span>Resources</span>
+      </a>
+    </nav>
+
+    <div class="sidebar-footer">
+      <div class="progress-mini">
+        <div class="progress-mini-label">
+          <span>Overall Progress</span>
+          <span id="sidebar-progress-text">0%</span>
+        </div>
+        <div class="progress-mini-bar">
+          <div class="progress-mini-fill" id="sidebar-progress-fill"></div>
+        </div>
+      </div>
+    </div>
+  </aside>
+
+  <!-- MOBILE HEADER -->
+  <header class="mobile-header">
+    <button class="hamburger" id="hamburger" aria-label="Open menu">☰</button>
+    <span class="mobile-title">📚 PubJourney</span>
+    <span id="mobile-progress-badge" class="mobile-badge">0%</span>
+  </header>
+
+  <!-- OVERLAY -->
+  <div class="overlay" id="overlay"></div>
+
+  <!-- MAIN CONTENT -->
+  <main class="main-content" id="main-content">
+
+    <!-- ===== DASHBOARD PAGE ===== -->
+    <section class="page active" id="page-dashboard">
+      <div class="page-header">
+        <div>
+          <h1 class="page-title">Publication Dashboard</h1>
+          <p class="page-subtitle">Your personal academic publishing roadmap · UiTM MSc Research</p>
+        </div>
+        <select class="header-badge" id="journey-select" style="cursor: pointer; outline: none; appearance: none; -webkit-appearance: none; padding-right: 28px; background-image: url('data:image/svg+xml;charset=US-ASCII,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22292.4%22%20height%3D%22292.4%22%3E%3Cpath%20fill%3D%22%237c7ff5%22%20d%3D%22M287%2069.4a17.6%2017.6%200%200%200-13-5.4H18.4c-5%200-9.3%201.8-12.9%205.4A17.6%2017.6%200%200%200%200%2082.2c0%205%201.8%209.3%205.4%2012.9l128%20127.9c3.6%203.6%207.8%205.4%2012.8%205.4s9.2-1.8%2012.8-5.4L287%2095c3.5-3.5%205.4-7.8%205.4-12.8%200-5-1.9-9.2-5.5-12.8z%22%2F%3E%3C%2Fsvg%3E'); background-repeat: no-repeat; background-position: right 10px top 50%; background-size: 8px auto;">
+          <option value="msc">MSc Journey</option>
+          <option value="phd">PhD Journey</option>
+        </select>
+      </div>
+
+      <!-- STATS ROW -->
+      <div class="stats-grid">
+        <div class="stat-card stat-purple">
+          <div class="stat-icon">✦</div>
+          <div class="stat-info">
+            <div class="stat-value" id="stat-tasks-done">0</div>
+            <div class="stat-label">Tasks Done</div>
+          </div>
+          <div class="ai-indicator" id="ai-indicator">Booing you 👻</div>
+        </div>
+        <div class="stat-card stat-blue">
+          <div class="stat-icon">◈</div>
+          <div class="stat-info">
+            <div class="stat-value" id="stat-phases-active">0</div>
+            <div class="stat-label">Phases Started</div>
+          </div>
+        </div>
+        <div class="stat-card stat-green">
+          <div class="stat-icon">◉</div>
+          <div class="stat-info">
+            <div class="stat-value" id="stat-phases-done">0</div>
+            <div class="stat-label">Phases Complete</div>
+          </div>
+        </div>
+        <div class="stat-card liquid-card">
+          <div class="liquid-sphere">
+            <div class="liquid-wave" id="liquid-wave" style="top: 100%;"></div>
+            <div class="liquid-text" id="stat-overall-liquid">0%</div>
+          </div>
+          <div class="stat-info" style="text-align: center; margin-top: 8px;">
+            <div class="stat-label">Overall Progress</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- OVERALL PROGRESS BAR -->
+      <div class="progress-card">
+        <div class="progress-header">
+          <span class="progress-title">Publication Journey Progress</span>
+          <span class="progress-percent" id="main-progress-text">0% Complete</span>
+        </div>
+        <div class="progress-track">
+          <div class="progress-fill" id="main-progress-fill"></div>
+        </div>
+        <div class="phase-dots">
+          <div class="phase-dot" data-phase="1" title="Phase 1: Research Readiness">
+            <div class="dot" id="dot-1"></div>
+            <span>Research</span>
+          </div>
+          <div class="phase-dot" data-phase="2" title="Phase 2: Choose Journal">
+            <div class="dot" id="dot-2"></div>
+            <span>Journal</span>
+          </div>
+          <div class="phase-dot" data-phase="3" title="Phase 3: Write Paper">
+            <div class="dot" id="dot-3"></div>
+            <span>Write</span>
+          </div>
+          <div class="phase-dot" data-phase="4" title="Phase 4: Submit">
+            <div class="dot" id="dot-4"></div>
+            <span>Submit</span>
+          </div>
+          <div class="phase-dot" data-phase="5" title="Phase 5: Peer Review">
+            <div class="dot" id="dot-5"></div>
+            <span>Review</span>
+          </div>
+          <div class="phase-dot" data-phase="6" title="Phase 6: Post-Acceptance">
+            <div class="dot" id="dot-6"></div>
+            <span>Publish</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Removed TIP CARD -->      <!-- PHASE CARDS GRID -->
+      <h2 class="section-title">Your 6 Phases</h2>
+      <div class="phase-cards-grid" id="phase-cards-grid">
+        <!-- Injected by JS -->
+      </div>
+    </section>
+
+    <!-- ===== PHASES PAGE ===== -->
+    <section class="page" id="page-phases">
+      <div class="page-header">
+        <div>
+          <h1 class="page-title">My 6 Phases</h1>
+          <p class="page-subtitle">Expand any phase to view tasks and track your progress</p>
+        </div>
+      </div>
+      <div class="phases-list" id="phases-list">
+        <!-- Injected by JS -->
+      </div>
+    </section>
+
+    <!-- ===== CHECKLIST PAGE ===== -->
+    <section class="page" id="page-checklist">
+      <div class="page-header">
+        <div>
+          <h1 class="page-title">Task Checklist</h1>
+          <p class="page-subtitle">Track every task — your progress is saved automatically</p>
+        </div>
+        <button class="btn-secondary" id="reset-all-btn">🔄 Reset All</button>
+      </div>
+      <div class="checklist-filter">
+        <button class="filter-btn active" data-filter="all">All Tasks</button>
+        <button class="filter-btn" data-filter="pending">Pending</button>
+        <button class="filter-btn" data-filter="done">Done</button>
+      </div>
+      <div class="checklist-all" id="checklist-all">
+        <!-- Injected by JS -->
+      </div>
+    </section>
+
+    <!-- ===== CONTACTS PAGE ===== -->
+    <section class="page" id="page-contacts">
+      <div class="page-header">
+        <div>
+          <h1 class="page-title">Who to Meet</h1>
+          <p class="page-subtitle">Key people to consult at each phase of your journey</p>
+        </div>
+      </div>
+      <div class="contacts-grid" id="contacts-grid">
+        <!-- Injected by JS -->
+      </div>
+    </section>
+
+    </section>
+
+    <!-- ===== SUPERVISOR MEETING LOG PAGE ===== -->
+    <section class="page" id="page-meetings">
+      <div class="page-header">
+        <div>
+          <h1 class="page-title">Supervisor Meeting Log</h1>
+          <p class="page-subtitle">Record your discussions, feedback, and action items</p>
+        </div>
+      </div>
+      
+      <div class="meeting-form-card card-3d">
+        <h3 class="meeting-form-title">Log a New Meeting</h3>
+        <div class="meeting-form-grid">
+          <div class="form-group">
+            <label>Date of Meeting</label>
+            <input type="date" id="ml-date" class="form-input">
+          </div>
+          <div class="form-group">
+            <label>Supervisor Name</label>
+            <select id="ml-supervisor" class="form-input" style="cursor: pointer;">
+              <option value="Dr Hezlin Aryani binti Abdul Rahman">Dr Hezlin Aryani binti Abdul Rahman</option>
+              <option value="Prof Madya Dr Ahmad Nazim bin Aimran">Prof Madya Dr Ahmad Nazim bin Aimran</option>
+            </select>
+          </div>
+          <div class="form-group full-width">
+            <label>Core Topic / Discussion</label>
+            <input type="text" id="ml-topic" class="form-input" placeholder="What did you discuss?">
+          </div>
+          <div class="form-group full-width">
+            <label>Key Feedback Received</label>
+            <textarea id="ml-feedback" class="form-textarea" placeholder="Summarize their advice or criticism..."></textarea>
+          </div>
+          <div class="form-group full-width">
+            <label>Action Items / To-Dos</label>
+            <textarea id="ml-action" class="form-textarea" placeholder="What must you do before the next meeting?"></textarea>
+          </div>
+        </div>
+        <div class="meeting-form-submit">
+          <button class="btn btn-primary" onclick="saveMeeting()">Save Meeting Log</button>
+        </div>
+      </div>
+
+      <div class="meeting-feed" id="meeting-feed">
+        <!-- Injected by JS -->
+      </div>
+    </section>
+
+    <!-- ===== RESOURCES PAGE ===== -->
+    <section class="page" id="page-resources">
+      <div class="page-header">
+        <div>
+          <h1 class="page-title">Resources &amp; Tools</h1>
+          <p class="page-subtitle">Official links and databases for your publication journey</p>
+        </div>
+      </div>
+      <div class="resources-grid" id="resources-grid">
+        <!-- Injected by JS -->
+      </div>
+
+      <div class="warning-card">
+        <div class="warning-icon">⚠️</div>
+        <div>
+          <div class="warning-title">Avoid Predatory Journals!</div>
+          <div class="warning-text">Always verify a journal's indexing status directly on Scopus or WoS. Do NOT trust claims on the journal's own website. When in doubt, ask UiTM PTAR librarians.</div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===== TIMELINE PAGE ===== -->
+    <section class="page" id="page-timeline">
+      <div class="page-header">
+        <div>
+          <h1 class="page-title">Publication Timeline</h1>
+          <p class="page-subtitle">Your 1–2 year roadmap — select a track to get started</p>
+        </div>
+      </div>
+
+      <div class="timeline-toggle">
+        <button class="toggle-btn active" id="toggle-journal" data-type="journal">📘 Journal Track</button>
+        <button class="toggle-btn" id="toggle-conf" data-type="conference">🎤 Conference Track</button>
+      </div>
+
+      <div class="timeline-container" id="timeline-container">
+        <!-- Injected by JS -->
+      </div>
+
+      <div class="decision-box">
+        <h3 class="decision-title">🤔 Journal vs. Conference Proceeding?</h3>
+        <div class="decision-grid">
+          <div class="decision-col decision-journal">
+            <h4>📘 Indexed Journal</h4>
+            <ul>
+              <li>⏱️ 12–18 months total</li>
+              <li>💪 Higher academic prestige</li>
+              <li>📖 Deeper, complete research</li>
+              <li>✅ Counts for MSc graduation</li>
+              <li>💰 May have APC fees</li>
+            </ul>
+          </div>
+          <div class="decision-col decision-conf">
+            <h4>🎤 Conference Proceeding</h4>
+            <ul>
+              <li>⚡ 6–9 months total</li>
+              <li>🌐 Networking opportunity</li>
+              <li>🗣️ Present your work live</li>
+              <li>✅ Counts for MSc graduation</li>
+              <li>💰 Registration fee required</li>
+            </ul>
+          </div>
+        </div>
+        <div class="decision-rec">
+          <span>⭐ Recommended Strategy:</span> Start with a <strong>conference proceeding</strong> for a quick win, then publish a full journal paper to expand the work.
+        </div>
+      </div>
+    </section>
+
+    <!-- ===== KANBAN PAGE ===== -->
+    <section class="page" id="page-kanban">
+      <div class="page-header" style="display: flex; justify-content: space-between; align-items: center;">
+        <div>
+          <h1 class="page-title">Manuscript Board</h1>
+          <p class="page-subtitle">Track your papers through the publication pipeline.</p>
+        </div>
+        <button class="kanban-add-btn" onclick="addKanbanCard()">+ New Paper</button>
+      </div>
+      <div class="kanban-board" id="kanban-board">
+        <!-- Injected by JS -->
+      </div>
+    </section>
+
+  </main>
+
+  <!-- CELEBRATION MODAL -->
+  <div class="modal-overlay" id="celebration-modal">
+    <div class="modal-box">
+      <span class="modal-emoji" id="modal-emoji">🎉</span>
+      <div class="modal-title" id="modal-title">Phase Complete!</div>
+      <div class="modal-text" id="modal-text">Amazing work! Keep going!</div>
+      <button class="modal-close" id="modal-close-btn">Keep Going! 🚀</button>
+    </div>
+  </div>
+
+  <!-- BREAKING NEWS TICKER -->
+  <div class="news-ticker-container">
+    <div class="ticker-clock" id="ticker-clock">00:00:00</div>
+    <div class="news-ticker-label">BREAKING TIP</div>
+    <div class="news-ticker-wrap">
+      <div class="news-ticker-content" id="news-ticker-content">
+        <!-- Injected by JS -->
+      </div>
+    </div>
+  </div>
+
+  <!-- AI CHATBOX WIDGET -->
+  <div class="chat-widget-container">
+    <div class="chat-widget-panel" id="chat-widget-panel">
+      <div class="chat-header">
+        <div class="chat-title">
+          <span>🤖</span> AI Research Assistant
+        </div>
+        <button class="chat-close" onclick="toggleChat()">✕</button>
+      </div>
+      <div class="chat-body" id="chat-body">
+        <div class="chat-msg ai">Hello! I am your simulated AI research assistant. What would you like help with today?</div>
+      </div>
+      <div class="chat-input-area">
+        <input type="text" id="chat-input" placeholder="Ask a question..." onkeypress="handleChatEnter(event)">
+        <button class="chat-send-btn" onclick="sendChatMessage()">➤</button>
+      </div>
+    </div>
+    <button class="chat-fab" onclick="toggleChat()" id="chat-fab">
+      💬
+    </button>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.6.0/dist/confetti.browser.min.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
+

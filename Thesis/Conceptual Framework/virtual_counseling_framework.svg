@@ -1,0 +1,173 @@
+<svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1480 800" style="background-color: transparent; font-family: 'Times New Roman', Times, serif;">
+  <style>
+    :root.light-theme [fill="#1e293b"] { fill: #FFFFFF !important; }
+    :root.light-theme [fill="#f8fafc"] { fill: #0F172A !important; }
+    :root.light-theme [fill="#818cf8"] { fill: #1e3c78 !important; }
+    :root.light-theme [fill="#94a3b8"] { fill: #475569 !important; }
+    :root.light-theme [fill="#cbd5e1"] { fill: #334155 !important; }
+    :root.light-theme [stroke="#334155"] { stroke: #E2E8F0 !important; }
+    :root.light-theme [stroke="#475569"] { stroke: #CBD5E1 !important; }
+    
+    /* Dashed box backgrounds */
+    :root.light-theme [fill="#0f2942"] { fill: #E0F2FE !important; }
+    :root.light-theme [fill="#361f0e"] { fill: #FFEDD5 !important; }
+    :root.light-theme [fill="#0f2b29"] { fill: #CCFBF1 !important; }
+    :root.light-theme [fill="#26123b"] { fill: #F3E8FF !important; }
+    :root.light-theme [fill="#3b1527"] { fill: #FCE7F3 !important; }
+    :root.light-theme [fill="#052e16"] { fill: #DCFCE7 !important; }
+    
+    /* Accents */
+    :root.light-theme [fill="#38bdf8"] { fill: #0284C7 !important; }
+    :root.light-theme [stroke="#38bdf8"] { stroke: #0284C7 !important; }
+    :root.light-theme [fill="#fb923c"] { fill: #C2410C !important; }
+    :root.light-theme [stroke="#fb923c"] { stroke: #C2410C !important; }
+    :root.light-theme [fill="#2dd4bf"] { fill: #0F766E !important; }
+    :root.light-theme [stroke="#2dd4bf"] { stroke: #0F766E !important; }
+    :root.light-theme [fill="#c084fc"] { fill: #7E22CE !important; }
+    :root.light-theme [stroke="#c084fc"] { stroke: #7E22CE !important; }
+    :root.light-theme [fill="#4ade80"] { fill: #15803D !important; }
+    :root.light-theme [stroke="#4ade80"] { stroke: #15803D !important; }
+  </style>
+
+  <script type="text/javascript"><![CDATA[
+    window.addEventListener('message', (e) => {
+      if(e.data && e.data.theme === 'light') {
+        document.documentElement.classList.add('light-theme');
+      } else if (e.data && e.data.theme === 'dark') {
+        document.documentElement.classList.remove('light-theme');
+      }
+    });
+  ]]></script>
+
+  
+  <!-- Title -->
+  <rect x="0" y="0" width="1480" height="80" fill="#f8fafc" />
+  <text x="740" y="40" fill="#1e293b" font-size="28" font-weight="bold" text-anchor="middle">Virtual Counseling Framework</text>
+  <text x="740" y="65" fill="#94A3B8" font-size="16" text-anchor="middle">Global Evidence, Local Implementation, and Modality Types (Section 2.2)</text>
+
+  <!-- Step Labels on the Left Margin -->
+  <text x="20" y="210" fill="#94a3b8" font-size="14" font-weight="bold" text-anchor="middle" transform="rotate(-90 20 210)">THEORETICAL DOMAIN</text>
+  <text x="20" y="420" fill="#94a3b8" font-size="14" font-weight="bold" text-anchor="middle" transform="rotate(-90 20 420)">CORE COMPONENTS</text>
+  <text x="20" y="650" fill="#94a3b8" font-size="14" font-weight="bold" text-anchor="middle" transform="rotate(-90 20 650)">THESIS RELEVANCE</text>
+
+  <!-- ==================== COLUMN 1: GLOBAL EVIDENCE ==================== -->
+  <rect x="40" y="100" width="440" height="670" rx="15" fill="#F0FDFA" stroke="#99F6E4" stroke-width="2" />
+  
+  <rect x="40" y="100" width="440" height="50" rx="15" fill="#2dd4bf" />
+  <rect x="40" y="125" width="440" height="25" fill="#2dd4bf" />
+  <text x="260" y="132" fill="#1e293b" font-size="20" font-weight="bold" text-anchor="middle">Global Evidence</text>
+
+  <rect x="80" y="160" width="360" height="120" rx="10" fill="#1e293b" stroke="#5EEAD4" stroke-width="2" />
+  <text x="260" y="190" fill="#2dd4bf" font-size="16" font-weight="bold" text-anchor="middle">International Efficacy</text>
+  <text x="260" y="210" fill="#cbd5e1" font-size="13" text-anchor="middle">Empirical validation of telehealth across borders.</text>
+  <circle cx="240" cy="250" r="12" stroke="#14B8A6" stroke-width="3" fill="none" />
+  <circle cx="280" cy="250" r="12" stroke="#14B8A6" stroke-width="3" fill="none" />
+  <circle cx="260" cy="250" r="4" fill="#2dd4bf" />
+
+  <path d="M 260 290 L 260 320" stroke="#94A3B8" stroke-width="3" fill="none" marker-end="url(#arrow)" />
+
+  <rect x="80" y="330" width="360" height="180" rx="10" fill="#1e293b" stroke="#5EEAD4" stroke-width="2" />
+  <text x="260" y="360" fill="#2dd4bf" font-size="16" font-weight="bold" text-anchor="middle">Established Outcomes</text>
+  <text x="260" y="380" fill="#cbd5e1" font-size="13" text-anchor="middle">The benchmark metrics for digital interventions.</text>
+  <circle cx="120" cy="400" r="4" fill="#2dd4bf" />
+  <text x="140" y="405" fill="#f8fafc" font-size="14" font-weight="bold">Clinical Trial Parity to In-Person</text>
+  <circle cx="120" cy="430" r="4" fill="#2dd4bf" />
+  <text x="140" y="435" fill="#f8fafc" font-size="14" font-weight="bold">Long-Term Cost-Effectiveness</text>
+  <circle cx="120" cy="460" r="4" fill="#2dd4bf" />
+  <text x="140" y="465" fill="#f8fafc" font-size="14" font-weight="bold">Scalability in Developed Nations</text>
+  <circle cx="120" cy="490" r="4" fill="#2dd4bf" />
+  <text x="140" y="495" fill="#f8fafc" font-size="14" font-weight="bold">Accessibility Improvements</text>
+
+  <path d="M 260 520 L 260 550" stroke="#94A3B8" stroke-width="3" fill="none" marker-end="url(#arrow)" />
+
+  <rect x="80" y="560" width="360" height="180" rx="10" fill="#1e293b" stroke="#5EEAD4" stroke-width="2" />
+  <text x="260" y="590" fill="#2dd4bf" font-size="16" font-weight="bold" text-anchor="middle">Impact on Virtual Counseling</text>
+  <text x="260" y="610" fill="#cbd5e1" font-size="13" text-anchor="middle">Provides the foundational justification for telehealth.</text>
+  <rect x="100" y="650" width="320" height="60" rx="8" fill="#0f2b29" stroke="#2dd4bf" stroke-dasharray="4" />
+  <text x="260" y="672" fill="#2dd4bf" font-size="13" font-weight="bold" text-anchor="middle">Requires:</text>
+  <text x="260" y="692" fill="#2dd4bf" font-size="13" font-weight="bold" text-anchor="middle">Evidence-Based Baseline</text>
+
+  <!-- ==================== COLUMN 2: LOCAL IMPLEMENTATION ==================== -->
+  <rect x="520" y="100" width="440" height="670" rx="15" fill="#FFFBEB" stroke="#FDE68A" stroke-width="2" />
+  
+  <rect x="520" y="100" width="440" height="50" rx="15" fill="#B45309" />
+  <rect x="520" y="125" width="440" height="25" fill="#B45309" />
+  <text x="740" y="132" fill="#1e293b" font-size="20" font-weight="bold" text-anchor="middle">Local Implementation</text>
+
+  <rect x="560" y="160" width="360" height="120" rx="10" fill="#1e293b" stroke="#FCD34D" stroke-width="2" />
+  <text x="740" y="190" fill="#B45309" font-size="16" font-weight="bold" text-anchor="middle">Malaysian Adaptation</text>
+  <text x="740" y="210" fill="#cbd5e1" font-size="13" text-anchor="middle">Translating global evidence into the local context.</text>
+  <rect x="710" y="235" width="60" height="25" rx="3" stroke="#B45309" stroke-width="2" fill="none" />
+  <rect x="714" y="239" width="15" height="17" rx="1" fill="#F59E0B" />
+  <rect x="732" y="239" width="15" height="17" rx="1" fill="#FEF3C7" />
+  <rect x="750" y="239" width="15" height="17" rx="1" fill="#FEF3C7" />
+
+  <path d="M 740 290 L 740 320" stroke="#94A3B8" stroke-width="3" fill="none" marker-end="url(#arrow)" />
+
+  <rect x="560" y="330" width="360" height="180" rx="10" fill="#1e293b" stroke="#FCD34D" stroke-width="2" />
+  <text x="740" y="360" fill="#B45309" font-size="16" font-weight="bold" text-anchor="middle">Contextual Variables</text>
+  <text x="740" y="380" fill="#cbd5e1" font-size="13" text-anchor="middle">The localized constraints and cultural nuances.</text>
+  <circle cx="600" cy="400" r="4" fill="#B45309" />
+  <text x="620" y="405" fill="#f8fafc" font-size="14" font-weight="bold">Multilingual &amp; Cultural Nuances</text>
+  <circle cx="600" cy="430" r="4" fill="#B45309" />
+  <text x="620" y="435" fill="#f8fafc" font-size="14" font-weight="bold">Internet Infrastructure Disparities</text>
+  <circle cx="600" cy="460" r="4" fill="#B45309" />
+  <text x="620" y="465" fill="#f8fafc" font-size="14" font-weight="bold">Public vs Private Healthcare Integration</text>
+  <circle cx="600" cy="490" r="4" fill="#B45309" />
+  <text x="620" y="495" fill="#f8fafc" font-size="14" font-weight="bold">Regulatory &amp; Licensing Frameworks</text>
+
+  <path d="M 740 520 L 740 550" stroke="#94A3B8" stroke-width="3" fill="none" marker-end="url(#arrow)" />
+
+  <rect x="560" y="560" width="360" height="180" rx="10" fill="#1e293b" stroke="#FCD34D" stroke-width="2" />
+  <text x="740" y="590" fill="#B45309" font-size="16" font-weight="bold" text-anchor="middle">Impact on Virtual Counseling</text>
+  <text x="740" y="610" fill="#cbd5e1" font-size="13" text-anchor="middle">Identifies specific localization needs for the prototype.</text>
+  <rect x="580" y="650" width="320" height="60" rx="8" fill="#FEF3C7" stroke="#B45309" stroke-dasharray="4" />
+  <text x="740" y="672" fill="#B45309" font-size="13" font-weight="bold" text-anchor="middle">Requires:</text>
+  <text x="740" y="692" fill="#B45309" font-size="13" font-weight="bold" text-anchor="middle">Culturally Adapted Workflows</text>
+
+  <!-- ==================== COLUMN 3: MODALITY TYPES ==================== -->
+  <rect x="1000" y="100" width="440" height="670" rx="15" fill="#EEF2FF" stroke="#C7D2FE" stroke-width="2" />
+  
+  <rect x="1000" y="100" width="440" height="50" rx="15" fill="#4338CA" />
+  <rect x="1000" y="125" width="440" height="25" fill="#4338CA" />
+  <text x="1220" y="132" fill="#1e293b" font-size="20" font-weight="bold" text-anchor="middle">Modality Types</text>
+
+  <rect x="1040" y="160" width="360" height="120" rx="10" fill="#1e293b" stroke="#A5B4FC" stroke-width="2" />
+  <text x="1220" y="190" fill="#4338CA" font-size="16" font-weight="bold" text-anchor="middle">Delivery Mechanisms</text>
+  <text x="1220" y="210" fill="#cbd5e1" font-size="13" text-anchor="middle">The technological architecture of the intervention.</text>
+  <path d="M 1190 250 L 1220 235 L 1250 250 L 1220 265 Z" stroke="#6366F1" stroke-width="2" fill="none" />
+  <circle cx="1190" cy="250" r="5" fill="#4338CA" />
+  <circle cx="1220" cy="235" r="5" fill="#4338CA" />
+  <circle cx="1250" cy="250" r="5" fill="#4338CA" />
+  <circle cx="1220" cy="265" r="5" fill="#4338CA" />
+
+  <path d="M 1220 290 L 1220 320" stroke="#94A3B8" stroke-width="3" fill="none" marker-end="url(#arrow)" />
+
+  <rect x="1040" y="330" width="360" height="180" rx="10" fill="#1e293b" stroke="#A5B4FC" stroke-width="2" />
+  <text x="1220" y="360" fill="#4338CA" font-size="16" font-weight="bold" text-anchor="middle">Intervention Formats</text>
+  <text x="1220" y="380" fill="#cbd5e1" font-size="13" text-anchor="middle">The diverse mediums for patient-provider interaction.</text>
+  <circle cx="1080" cy="400" r="4" fill="#4338CA" />
+  <text x="1100" y="405" fill="#f8fafc" font-size="14" font-weight="bold">Synchronous Video &amp; Voice</text>
+  <circle cx="1080" cy="430" r="4" fill="#4338CA" />
+  <text x="1100" y="435" fill="#f8fafc" font-size="14" font-weight="bold">Asynchronous Text &amp; Messaging</text>
+  <circle cx="1080" cy="460" r="4" fill="#4338CA" />
+  <text x="1100" y="465" fill="#f8fafc" font-size="14" font-weight="bold">Self-Guided &amp; AI-Assisted Modules</text>
+  <circle cx="1080" cy="490" r="4" fill="#4338CA" />
+  <text x="1100" y="495" fill="#f8fafc" font-size="14" font-weight="bold">Hybrid / Blended Care Models</text>
+
+  <path d="M 1220 520 L 1220 550" stroke="#94A3B8" stroke-width="3" fill="none" marker-end="url(#arrow)" />
+
+  <rect x="1040" y="560" width="360" height="180" rx="10" fill="#1e293b" stroke="#A5B4FC" stroke-width="2" />
+  <text x="1220" y="590" fill="#4338CA" font-size="16" font-weight="bold" text-anchor="middle">Impact on Virtual Counseling</text>
+  <text x="1220" y="610" fill="#cbd5e1" font-size="13" text-anchor="middle">Determines the user experience and platform specs.</text>
+  <rect x="1060" y="650" width="320" height="60" rx="8" fill="#E0E7FF" stroke="#4338CA" stroke-dasharray="4" />
+  <text x="1220" y="672" fill="#4338CA" font-size="13" font-weight="bold" text-anchor="middle">Requires:</text>
+  <text x="1220" y="692" fill="#4338CA" font-size="13" font-weight="bold" text-anchor="middle">Multi-Modal Support Engine</text>
+
+  <!-- Definitions -->
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#94A3B8" />
+    </marker>
+  </defs>
+</svg>

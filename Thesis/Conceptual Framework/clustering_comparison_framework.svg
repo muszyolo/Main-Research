@@ -1,0 +1,221 @@
+<svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1480 800" style="background-color: transparent; font-family: 'Times New Roman', Times, serif;">
+  <style>
+    :root.light-theme [fill="#1e293b"] { fill: #FFFFFF !important; }
+    :root.light-theme [fill="#f8fafc"] { fill: #0F172A !important; }
+    :root.light-theme [fill="#818cf8"] { fill: #1e3c78 !important; }
+    :root.light-theme [fill="#94a3b8"] { fill: #475569 !important; }
+    :root.light-theme [fill="#cbd5e1"] { fill: #334155 !important; }
+    :root.light-theme [stroke="#334155"] { stroke: #E2E8F0 !important; }
+    :root.light-theme [stroke="#475569"] { stroke: #CBD5E1 !important; }
+    
+    /* Dashed box backgrounds */
+    :root.light-theme [fill="#0f2942"] { fill: #E0F2FE !important; }
+    :root.light-theme [fill="#361f0e"] { fill: #FFEDD5 !important; }
+    :root.light-theme [fill="#0f2b29"] { fill: #CCFBF1 !important; }
+    :root.light-theme [fill="#26123b"] { fill: #F3E8FF !important; }
+    :root.light-theme [fill="#3b1527"] { fill: #FCE7F3 !important; }
+    :root.light-theme [fill="#052e16"] { fill: #DCFCE7 !important; }
+    
+    /* Accents */
+    :root.light-theme [fill="#38bdf8"] { fill: #0284C7 !important; }
+    :root.light-theme [stroke="#38bdf8"] { stroke: #0284C7 !important; }
+    :root.light-theme [fill="#fb923c"] { fill: #C2410C !important; }
+    :root.light-theme [stroke="#fb923c"] { stroke: #C2410C !important; }
+    :root.light-theme [fill="#2dd4bf"] { fill: #0F766E !important; }
+    :root.light-theme [stroke="#2dd4bf"] { stroke: #0F766E !important; }
+    :root.light-theme [fill="#c084fc"] { fill: #7E22CE !important; }
+    :root.light-theme [stroke="#c084fc"] { stroke: #7E22CE !important; }
+    :root.light-theme [fill="#4ade80"] { fill: #15803D !important; }
+    :root.light-theme [stroke="#4ade80"] { stroke: #15803D !important; }
+  </style>
+
+  <script type="text/javascript"><![CDATA[
+    window.addEventListener('message', (e) => {
+      if(e.data && e.data.theme === 'light') {
+        document.documentElement.classList.add('light-theme');
+      } else if (e.data && e.data.theme === 'dark') {
+        document.documentElement.classList.remove('light-theme');
+      }
+    });
+  ]]></script>
+
+  
+  <!-- Title -->
+  <rect x="0" y="0" width="1480" height="80" fill="#f8fafc" />
+  <text x="740" y="40" fill="#1e293b" font-size="28" font-weight="bold" text-anchor="middle">Clustering Methodology: K-Means vs. Hierarchical vs. LCA</text>
+  <text x="740" y="65" fill="#94A3B8" font-size="16" text-anchor="middle">Comparing Distance-Based Geometric Profiling vs. Probabilistic Model-Based Profiling</text>
+
+  <!-- Step Labels on the Left Margin -->
+  <text x="20" y="210" fill="#94a3b8" font-size="14" font-weight="bold" text-anchor="middle" transform="rotate(-90 20 210)">STEP 1: INITIALIZATION</text>
+  <text x="20" y="420" fill="#94a3b8" font-size="14" font-weight="bold" text-anchor="middle" transform="rotate(-90 20 420)">STEP 2: PROCESS</text>
+  <text x="20" y="650" fill="#94a3b8" font-size="14" font-weight="bold" text-anchor="middle" transform="rotate(-90 20 650)">STEP 3: OUTPUT</text>
+
+  <!-- ==================== COLUMN 1: K-MEANS ==================== -->
+  <rect x="40" y="100" width="440" height="670" rx="15" fill="#0f2942" stroke="#BAE6FD" stroke-width="2" />
+  
+  <rect x="40" y="100" width="440" height="50" rx="15" fill="#38bdf8" />
+  <rect x="40" y="125" width="440" height="25" fill="#38bdf8" />
+  <text x="260" y="132" fill="#1e293b" font-size="20" font-weight="bold" text-anchor="middle">K-Means Clustering</text>
+
+  <rect x="80" y="160" width="360" height="120" rx="10" fill="#1e293b" stroke="#7DD3FC" stroke-width="2" />
+  <text x="260" y="190" fill="#38bdf8" font-size="16" font-weight="bold" text-anchor="middle">Define 'k' Centroids (k=3)</text>
+  <text x="260" y="210" fill="#cbd5e1" font-size="13" text-anchor="middle">Algorithm requires pre-specified cluster count.</text>
+  <circle cx="160" cy="240" r="4" fill="#94A3B8" />
+  <circle cx="190" cy="260" r="4" fill="#94A3B8" />
+  <circle cx="230" cy="235" r="4" fill="#94A3B8" />
+  <circle cx="280" cy="265" r="4" fill="#94A3B8" />
+  <circle cx="330" cy="245" r="4" fill="#94A3B8" />
+  <circle cx="360" cy="230" r="4" fill="#94A3B8" />
+  <path d="M 170 230 L 180 240 M 180 230 L 170 240" stroke="#38bdf8" stroke-width="3" />
+  <path d="M 250 255 L 260 265 M 260 255 L 250 265" stroke="#38bdf8" stroke-width="3" />
+  <path d="M 340 250 L 350 260 M 350 250 L 340 260" stroke="#38bdf8" stroke-width="3" />
+
+  <path d="M 260 290 L 260 320" stroke="#94A3B8" stroke-width="3" fill="none" marker-end="url(#arrow)" />
+
+  <rect x="80" y="330" width="360" height="180" rx="10" fill="#1e293b" stroke="#7DD3FC" stroke-width="2" />
+  <text x="260" y="360" fill="#38bdf8" font-size="16" font-weight="bold" text-anchor="middle">Distance Optimization</text>
+  <text x="260" y="380" fill="#cbd5e1" font-size="13" text-anchor="middle">Dots pull toward the nearest mathematical centroid.</text>
+  <circle cx="160" cy="430" r="4" fill="#38bdf8" />
+  <circle cx="190" cy="450" r="4" fill="#38bdf8" />
+  <path d="M 175 440 L 165 435" stroke="#BAE6FD" stroke-width="2" marker-end="url(#arrowBlue)" />
+  <circle cx="230" cy="425" r="4" fill="#0EA5E9" />
+  <circle cx="280" cy="455" r="4" fill="#0EA5E9" />
+  <path d="M 255 440 L 240 430" stroke="#BAE6FD" stroke-width="2" marker-end="url(#arrowBlue)" />
+  <circle cx="330" cy="435" r="4" fill="#38BDF8" />
+  <circle cx="360" cy="420" r="4" fill="#38BDF8" />
+  <path d="M 345 428 L 335 433" stroke="#BAE6FD" stroke-width="2" marker-end="url(#arrowBlue)" />
+  <path d="M 170 420 L 180 430 M 180 420 L 170 430" stroke="#38bdf8" stroke-width="3" />
+  <path d="M 250 445 L 260 455 M 260 445 L 250 455" stroke="#0EA5E9" stroke-width="3" />
+  <path d="M 340 440 L 350 450 M 350 440 L 340 450" stroke="#38BDF8" stroke-width="3" />
+
+  <path d="M 260 520 L 260 550" stroke="#94A3B8" stroke-width="3" fill="none" marker-end="url(#arrow)" />
+
+  <rect x="80" y="560" width="360" height="180" rx="10" fill="#1e293b" stroke="#7DD3FC" stroke-width="2" />
+  <text x="260" y="590" fill="#38bdf8" font-size="16" font-weight="bold" text-anchor="middle">Rigid Geometric Profiles</text>
+  <text x="260" y="610" fill="#cbd5e1" font-size="13" text-anchor="middle">Caregivers forced into distinct spherical clusters.</text>
+  <circle cx="170" cy="670" r="35" fill="#0f2942" stroke="#38bdf8" stroke-width="2" stroke-dasharray="4" />
+  <circle cx="160" cy="660" r="4" fill="#38bdf8" />
+  <circle cx="180" cy="680" r="4" fill="#38bdf8" />
+  <circle cx="170" cy="690" r="4" fill="#38bdf8" />
+  <text x="170" y="720" fill="#38bdf8" font-size="12" font-weight="bold" text-anchor="middle">Cluster 1</text>
+  <circle cx="260" cy="650" r="35" fill="#0f2942" stroke="#0EA5E9" stroke-width="2" stroke-dasharray="4" />
+  <circle cx="250" cy="640" r="4" fill="#0EA5E9" />
+  <circle cx="270" cy="655" r="4" fill="#0EA5E9" />
+  <circle cx="260" cy="635" r="4" fill="#0EA5E9" />
+  <text x="260" y="700" fill="#0EA5E9" font-size="12" font-weight="bold" text-anchor="middle">Cluster 2</text>
+  <circle cx="350" cy="680" r="35" fill="#0f2942" stroke="#38BDF8" stroke-width="2" stroke-dasharray="4" />
+  <circle cx="340" cy="670" r="4" fill="#38BDF8" />
+  <circle cx="360" cy="690" r="4" fill="#38BDF8" />
+  <text x="350" y="735" fill="#38BDF8" font-size="12" font-weight="bold" text-anchor="middle">Cluster 3</text>
+
+  <!-- ==================== COLUMN 2: HIERARCHICAL ==================== -->
+  <rect x="520" y="100" width="440" height="670" rx="15" fill="#361f0e" stroke="#FED7AA" stroke-width="2" />
+  
+  <rect x="520" y="100" width="440" height="50" rx="15" fill="#fb923c" />
+  <rect x="520" y="125" width="440" height="25" fill="#fb923c" />
+  <text x="740" y="132" fill="#1e293b" font-size="20" font-weight="bold" text-anchor="middle">Hierarchical Clustering</text>
+
+  <rect x="560" y="160" width="360" height="120" rx="10" fill="#1e293b" stroke="#FED7AA" stroke-width="2" />
+  <text x="740" y="190" fill="#fb923c" font-size="16" font-weight="bold" text-anchor="middle">Every Caregiver is Unique</text>
+  <text x="740" y="210" fill="#cbd5e1" font-size="13" text-anchor="middle">No 'k' specified. Everyone starts as own cluster.</text>
+  <circle cx="640" cy="240" r="4" fill="#fb923c" />
+  <circle cx="660" cy="260" r="4" fill="#fb923c" />
+  <circle cx="700" cy="235" r="4" fill="#fb923c" />
+  <circle cx="720" cy="265" r="4" fill="#fb923c" />
+  <circle cx="780" cy="245" r="4" fill="#fb923c" />
+  <circle cx="820" cy="250" r="4" fill="#fb923c" />
+
+  <path d="M 740 290 L 740 320" stroke="#94A3B8" stroke-width="3" fill="none" marker-end="url(#arrow)" />
+
+  <rect x="560" y="330" width="360" height="180" rx="10" fill="#1e293b" stroke="#FED7AA" stroke-width="2" />
+  <text x="740" y="360" fill="#fb923c" font-size="16" font-weight="bold" text-anchor="middle">Agglomerative Merging</text>
+  <text x="740" y="380" fill="#cbd5e1" font-size="13" text-anchor="middle">Closest caregivers merge iteratively upwards.</text>
+  <circle cx="620" cy="480" r="4" fill="#EA580C" />
+  <circle cx="660" cy="480" r="4" fill="#EA580C" />
+  <circle cx="700" cy="480" r="4" fill="#EA580C" />
+  <circle cx="740" cy="480" r="4" fill="#EA580C" />
+  <circle cx="780" cy="480" r="4" fill="#EA580C" />
+  <circle cx="820" cy="480" r="4" fill="#EA580C" />
+  <path d="M 620 480 L 620 450 L 660 450 L 660 480" stroke="#FDBA74" stroke-width="3" fill="none" />
+  <path d="M 700 480 L 700 440 L 740 440 L 740 480" stroke="#FDBA74" stroke-width="3" fill="none" />
+  <path d="M 780 480 L 780 460 L 820 460 L 820 480" stroke="#FDBA74" stroke-width="3" fill="none" />
+  <path d="M 640 450 L 640 420 L 720 420 L 720 440" stroke="#FDBA74" stroke-width="3" fill="none" />
+  <path d="M 800 460 L 800 410" stroke="#FDBA74" stroke-width="3" fill="none" />
+
+  <path d="M 740 520 L 740 550" stroke="#94A3B8" stroke-width="3" fill="none" marker-end="url(#arrow)" />
+
+  <rect x="560" y="560" width="360" height="180" rx="10" fill="#1e293b" stroke="#FED7AA" stroke-width="2" />
+  <text x="740" y="590" fill="#fb923c" font-size="16" font-weight="bold" text-anchor="middle">Slicing the Dendrogram</text>
+  <text x="740" y="610" fill="#cbd5e1" font-size="13" text-anchor="middle">Manually cutting the tree to reveal optimal profiles.</text>
+  <path d="M 600 730 L 600 690 L 660 690 L 660 730" stroke="#fb923c" stroke-width="3" fill="none" />
+  <path d="M 700 730 L 700 685 L 760 685 L 760 730" stroke="#fb923c" stroke-width="3" fill="none" />
+  <path d="M 820 730 L 820 675 L 880 675 L 880 730" stroke="#fb923c" stroke-width="3" fill="none" />
+  <path d="M 630 690 L 630 655 L 730 655 L 730 685" stroke="#fb923c" stroke-width="3" fill="none" />
+  <path d="M 680 655 L 680 630 L 850 630 L 850 675" stroke="#fb923c" stroke-width="3" fill="none" />
+  <line x1="580" y1="665" x2="900" y2="665" stroke="#EA580C" stroke-width="3" stroke-dasharray="8,4" />
+  <text x="890" y="660" fill="#EA580C" font-size="12" font-weight="bold">Cut (k=3)</text>
+  <rect x="605" y="740" width="50" height="20" rx="4" fill="#361f0e" />
+  <text x="630" y="754" fill="#fb923c" font-size="10" font-weight="bold" text-anchor="middle">Profile 1</text>
+  <rect x="705" y="740" width="50" height="20" rx="4" fill="#361f0e" />
+  <text x="730" y="754" fill="#fb923c" font-size="10" font-weight="bold" text-anchor="middle">Profile 2</text>
+  <rect x="825" y="740" width="50" height="20" rx="4" fill="#361f0e" />
+  <text x="850" y="754" fill="#fb923c" font-size="10" font-weight="bold" text-anchor="middle">Profile 3</text>
+
+
+  <!-- ==================== COLUMN 3: LCA ==================== -->
+  <rect x="1000" y="100" width="440" height="670" rx="15" fill="#26123b" stroke="#E9D5FF" stroke-width="2" />
+  
+  <rect x="1000" y="100" width="440" height="50" rx="15" fill="#c084fc" />
+  <rect x="1000" y="125" width="440" height="25" fill="#c084fc" />
+  <text x="1220" y="132" fill="#1e293b" font-size="20" font-weight="bold" text-anchor="middle">Latent Class Analysis (LCA)</text>
+
+  <rect x="1040" y="160" width="360" height="120" rx="10" fill="#1e293b" stroke="#D8B4FE" stroke-width="2" />
+  <text x="1220" y="190" fill="#c084fc" font-size="16" font-weight="bold" text-anchor="middle">Define 'k' Unobserved Classes</text>
+  <text x="1220" y="210" fill="#cbd5e1" font-size="13" text-anchor="middle">Statistical tests (e.g. BIC) find optimal profile count.</text>
+  <path d="M 1120 260 Q 1150 210 1180 260" stroke="#C084FC" stroke-width="3" fill="none" />
+  <path d="M 1160 260 Q 1190 220 1220 260" stroke="#9333EA" stroke-width="3" fill="none" />
+  <path d="M 1200 260 Q 1230 200 1260 260" stroke="#c084fc" stroke-width="3" fill="none" />
+  <line x1="1100" y1="260" x2="1280" y2="260" stroke="#475569" stroke-width="2" />
+
+  <path d="M 1220 290 L 1220 320" stroke="#94A3B8" stroke-width="3" fill="none" marker-end="url(#arrow)" />
+
+  <rect x="1040" y="330" width="360" height="180" rx="10" fill="#1e293b" stroke="#D8B4FE" stroke-width="2" />
+  <text x="1220" y="360" fill="#c084fc" font-size="16" font-weight="bold" text-anchor="middle">Probabilistic Assignment</text>
+  <text x="1220" y="380" fill="#cbd5e1" font-size="13" text-anchor="middle">Caregivers get a % probability of belonging to each class.</text>
+  <circle cx="1220" cy="480" r="8" fill="#c084fc" />
+  <path d="M 1210 470 L 1150 430" stroke="#D8B4FE" stroke-width="2" marker-end="url(#arrowPurple)" />
+  <text x="1140" y="420" fill="#c084fc" font-size="12" font-weight="bold" text-anchor="middle">85% Class 1</text>
+  <path d="M 1220 465 L 1220 420" stroke="#D8B4FE" stroke-width="2" marker-end="url(#arrowPurple)" />
+  <text x="1220" y="410" fill="#c084fc" font-size="12" font-weight="bold" text-anchor="middle">10% Class 2</text>
+  <path d="M 1230 470 L 1290 430" stroke="#D8B4FE" stroke-width="2" marker-end="url(#arrowPurple)" />
+  <text x="1300" y="420" fill="#c084fc" font-size="12" font-weight="bold" text-anchor="middle">5% Class 3</text>
+
+  <path d="M 1220 520 L 1220 550" stroke="#94A3B8" stroke-width="3" fill="none" marker-end="url(#arrow)" />
+
+  <rect x="1040" y="560" width="360" height="180" rx="10" fill="#1e293b" stroke="#D8B4FE" stroke-width="2" />
+  <text x="1220" y="590" fill="#c084fc" font-size="16" font-weight="bold" text-anchor="middle">Soft Probabilistic Profiles</text>
+  <text x="1220" y="610" fill="#cbd5e1" font-size="13" text-anchor="middle">Profiles have overlapping distributions (soft boundaries).</text>
+  
+  <ellipse cx="1140" cy="670" rx="40" ry="30" fill="#E9D5FF" fill-opacity="0.6" stroke="#9333EA" stroke-width="2" stroke-dasharray="4" />
+  <text x="1140" y="720" fill="#c084fc" font-size="12" font-weight="bold" text-anchor="middle">Profile 1</text>
+  
+  <ellipse cx="1220" cy="650" rx="45" ry="35" fill="#D8B4FE" fill-opacity="0.6" stroke="#c084fc" stroke-width="2" stroke-dasharray="4" />
+  <text x="1220" y="700" fill="#c084fc" font-size="12" font-weight="bold" text-anchor="middle">Profile 2</text>
+  
+  <ellipse cx="1300" cy="680" rx="40" ry="30" fill="#C084FC" fill-opacity="0.6" stroke="#9333EA" stroke-width="2" stroke-dasharray="4" />
+  <text x="1300" y="735" fill="#c084fc" font-size="12" font-weight="bold" text-anchor="middle">Profile 3</text>
+
+
+  <!-- Definitions -->
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#94A3B8" />
+    </marker>
+    <marker id="arrowBlue" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#BAE6FD" />
+    </marker>
+    <marker id="arrowPurple" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#D8B4FE" />
+    </marker>
+  </defs>
+</svg>

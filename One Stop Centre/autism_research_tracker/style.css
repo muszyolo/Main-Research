@@ -1,0 +1,211 @@
+/* Autism Tracker Specific Styles */
+
+.btn {
+    padding: 8px 16px;
+    border-radius: 8px;
+    font-weight: 500;
+    font-size: 14px;
+    font-family: var(--font-body);
+    cursor: pointer;
+    transition: all 0.2s ease;
+    border: none;
+}
+
+.primary-btn {
+    background: var(--primary);
+    color: white;
+}
+
+.primary-btn:hover {
+    background: var(--primary-hover);
+}
+
+.secondary-btn {
+    background: transparent;
+    color: var(--text-light);
+    border: 1px solid var(--border-light);
+}
+
+body.light-theme .secondary-btn {
+    color: var(--text-dark);
+}
+
+.secondary-btn:hover {
+    background: rgba(255, 255, 255, 0.05);
+}
+
+body.light-theme .secondary-btn:hover {
+    background: rgba(0, 0, 0, 0.05);
+}
+
+.gantt-wrapper {
+    min-height: 400px;
+    overflow-x: auto;
+    padding: 24px;
+}
+
+/* Customize Frappe Gantt for Dark Mode */
+.gantt .grid-header, .gantt .grid-row, .gantt .tick {
+    stroke: var(--border-light) !important;
+}
+
+body.light-theme .gantt .grid-header, body.light-theme .gantt .grid-row, body.light-theme .gantt .tick {
+    stroke: var(--border-dark) !important;
+}
+
+.gantt .grid-row {
+    fill: transparent !important;
+}
+
+.gantt .grid-row:nth-child(even) {
+    fill: rgba(255, 255, 255, 0.02) !important;
+}
+body.light-theme .gantt .grid-row:nth-child(even) {
+    fill: rgba(0, 0, 0, 0.02) !important;
+}
+
+.gantt .tick text {
+    fill: var(--text-muted) !important;
+    font-family: var(--font-body) !important;
+}
+
+.gantt .bar-wrapper .bar {
+    fill: var(--secondary) !important;
+    rx: 4px;
+    ry: 4px;
+}
+
+.gantt .bar-wrapper .bar-progress {
+    fill: var(--primary) !important;
+}
+
+.gantt .bar-wrapper .bar-label {
+    fill: #fff !important;
+    font-family: var(--font-body) !important;
+    font-weight: 500 !important;
+}
+
+.gantt .bar-wrapper:hover .bar {
+    fill: #818cf8 !important;
+}
+
+.gantt-container {
+    background: transparent !important;
+}
+.gantt-container svg {
+    background: transparent !important;
+}
+
+.gantt .details-container {
+    background: var(--bg-deep) !important;
+    border: 1px solid var(--border-light);
+    border-radius: 8px;
+    color: var(--text-light);
+    padding: 10px;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.5);
+}
+body.light-theme .gantt .details-container {
+    color: var(--text-dark);
+}
+
+.gantt .details-container .heading {
+    color: var(--primary) !important;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+
+/* ============================================================
+   GLASSMORPHIC MIRROR EFFECT (SYNCED FROM PUBJOURNEY)
+   ============================================================ */
+.card, .stat-card, .tier-box, .diagnostic-box, .evidence-gate-calculator, .timeline-item, .kanban-card {
+  box-shadow: 
+    0 8px 32px rgba(0,0,0,0.35),
+    inset 0 1px 1px rgba(255,255,255,0.15),
+    inset 0 -1px 1px rgba(0,0,0,0.3) !important;
+  transform-style: preserve-3d;
+  position: relative;
+}
+
+.card:hover, .stat-card:hover, .tier-box:hover, .timeline-item:hover, .kanban-card:hover {
+  box-shadow: 
+    0 20px 40px rgba(0,0,0,0.65),
+    inset 0 1px 2px rgba(255,255,255,0.3),
+    inset 0 -1px 1px rgba(0,0,0,0.4) !important;
+  z-index: 10;
+}
+
+.card::after, .stat-card::after, .tier-box::after, .diagnostic-box::after, .evidence-gate-calculator::after, .timeline-item::after, .kanban-card::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
+  background: linear-gradient(135deg, rgba(255,255,255,0.12) 0%, transparent 40%);
+  pointer-events: none;
+  opacity: 0.3;
+  transition: opacity 0.3s ease;
+}
+
+.card:hover::after, .stat-card:hover::after, .tier-box:hover::after, .timeline-item:hover::after, .kanban-card:hover::after {
+  opacity: 1;
+}
+
+/* 3D Glassmorphic Mirror Glare - LIGHT MODE */
+body.light-theme .card,
+body.light-theme .stat-card,
+body.light-theme .tier-box,
+body.light-theme .diagnostic-box,
+body.light-theme .evidence-gate-calculator,
+body.light-theme .timeline-item,
+body.light-theme .kanban-card {
+  background: rgba(255, 255, 255, 0.6) !important; /* Translucent base so the white glare is visible */
+  backdrop-filter: blur(24px) !important;
+  -webkit-backdrop-filter: blur(24px) !important;
+  border: 1px solid rgba(255, 255, 255, 0.8) !important;
+  box-shadow: 
+    0 8px 32px rgba(31, 38, 135, 0.05),
+    inset 0 1px 2px rgba(255, 255, 255, 1),
+    inset 0 -1px 1px rgba(0, 0, 0, 0.05) !important;
+}
+
+body.light-theme .card:hover,
+body.light-theme .stat-card:hover,
+body.light-theme .tier-box:hover,
+body.light-theme .timeline-item:hover,
+body.light-theme .kanban-card:hover {
+  background: rgba(255, 255, 255, 0.8) !important;
+  box-shadow: 
+    0 16px 40px rgba(31, 38, 135, 0.1),
+    inset 0 1px 2px rgba(255, 255, 255, 1),
+    inset 0 -1px 1px rgba(0, 0, 0, 0.08) !important;
+}
+
+body.light-theme .card::after,
+body.light-theme .stat-card::after,
+body.light-theme .tier-box::after,
+body.light-theme .diagnostic-box::after,
+body.light-theme .evidence-gate-calculator::after,
+body.light-theme .timeline-item::after,
+body.light-theme .kanban-card::after {
+  background: linear-gradient(135deg, rgba(255,255,255,0.9) 0%, transparent 60%);
+  opacity: 0.4;
+}
+
+/* Ensure text and content sit ABOVE the glare */
+body.light-theme .card > *,
+body.light-theme .stat-card > *,
+body.light-theme .tier-box > *,
+body.light-theme .diagnostic-box > *,
+body.light-theme .kanban-card > * {
+  position: relative;
+  z-index: 1;
+}
+
+
+body.light-theme .card:hover::after,
+body.light-theme .stat-card:hover::after,
+body.light-theme .tier-box:hover::after,
+body.light-theme .timeline-item:hover::after,
+body.light-theme .kanban-card:hover::after {
+  opacity: 1;
+}

@@ -1,0 +1,232 @@
+/* Journal Progress Specific Styles */
+
+/* Timeline */
+.timeline-section {
+    padding: 24px;
+    margin-bottom: 24px;
+}
+
+.timeline {
+    display: flex;
+    gap: 32px;
+}
+
+.timeline-item {
+    flex: 1;
+    position: relative;
+    padding-top: 24px;
+}
+
+.timeline-item .marker {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 16px;
+    height: 16px;
+    border-radius: 50%;
+    background: var(--bg-deep);
+    border: 2px solid var(--text-muted);
+}
+
+.timeline-item::before {
+    content: '';
+    position: absolute;
+    top: 7px;
+    left: 16px;
+    width: calc(100% + 32px - 16px);
+    height: 2px;
+    background: var(--border-light);
+    z-index: -1;
+}
+
+.timeline-item:last-child::before {
+    display: none;
+}
+
+.timeline-item.completed .marker {
+    background: #10b981;
+    border-color: #10b981;
+}
+
+.timeline-item.completed::before {
+    background: #10b981;
+}
+
+.timeline-item.active .marker {
+    background: var(--primary);
+    border-color: var(--primary);
+    box-shadow: 0 0 10px var(--primary);
+}
+
+.timeline-item h4 {
+    font-size: 15px;
+    margin-bottom: 4px;
+    font-family: var(--font-heading);
+    font-weight: 600;
+}
+
+.timeline-item p {
+    font-size: 13px;
+    color: var(--text-muted);
+}
+
+/* Kanban Board */
+.kanban-board {
+    display: flex;
+    gap: 24px;
+    overflow-x: auto;
+    padding-bottom: 16px;
+}
+
+.kanban-column {
+    flex: 1;
+    min-width: 250px;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    border: 1px dashed transparent;
+    transition: border 0.25s ease;
+    padding: 20px;
+}
+
+.kanban-column.drag-over {
+    border-color: var(--primary);
+    background: rgba(var(--primary-rgb), 0.1);
+}
+
+.kanban-card {
+    background: var(--bg-deep);
+    border: 1px solid var(--border-light);
+    border-radius: 12px;
+    padding: 16px;
+    cursor: grab;
+    transition: transform 0.25s ease, box-shadow 0.25s ease, border-color 0.25s ease;
+}
+body.light-theme .kanban-card {
+    background: #ffffff;
+}
+
+.kanban-card:active {
+    cursor: grabbing;
+}
+
+.kanban-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    border-color: var(--primary);
+}
+
+.tag {
+    font-size: 11px;
+    padding: 4px 10px;
+    border-radius: 12px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.tpb-tag {
+    background: rgba(168, 85, 247, 0.15);
+    color: var(--secondary);
+}
+
+.thesis-tag {
+    background: rgba(129, 140, 248, 0.15);
+    color: var(--primary);
+}
+
+
+/* ============================================================
+   GLASSMORPHIC MIRROR EFFECT (SYNCED FROM PUBJOURNEY)
+   ============================================================ */
+.card, .stat-card, .tier-box, .diagnostic-box, .evidence-gate-calculator, .timeline-item, .kanban-card {
+  box-shadow: 
+    0 8px 32px rgba(0,0,0,0.35),
+    inset 0 1px 1px rgba(255,255,255,0.15),
+    inset 0 -1px 1px rgba(0,0,0,0.3) !important;
+  transform-style: preserve-3d;
+  position: relative;
+}
+
+.card:hover, .stat-card:hover, .tier-box:hover, .timeline-item:hover, .kanban-card:hover {
+  box-shadow: 
+    0 20px 40px rgba(0,0,0,0.65),
+    inset 0 1px 2px rgba(255,255,255,0.3),
+    inset 0 -1px 1px rgba(0,0,0,0.4) !important;
+  z-index: 10;
+}
+
+.card::after, .stat-card::after, .tier-box::after, .diagnostic-box::after, .evidence-gate-calculator::after, .timeline-item::after, .kanban-card::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
+  background: linear-gradient(135deg, rgba(255,255,255,0.12) 0%, transparent 40%);
+  pointer-events: none;
+  opacity: 0.3;
+  transition: opacity 0.3s ease;
+}
+
+.card:hover::after, .stat-card:hover::after, .tier-box:hover::after, .timeline-item:hover::after, .kanban-card:hover::after {
+  opacity: 1;
+}
+
+/* 3D Glassmorphic Mirror Glare - LIGHT MODE */
+body.light-theme .card,
+body.light-theme .stat-card,
+body.light-theme .tier-box,
+body.light-theme .diagnostic-box,
+body.light-theme .evidence-gate-calculator,
+body.light-theme .timeline-item,
+body.light-theme .kanban-card {
+  background: rgba(255, 255, 255, 0.6) !important; /* Translucent base so the white glare is visible */
+  backdrop-filter: blur(24px) !important;
+  -webkit-backdrop-filter: blur(24px) !important;
+  border: 1px solid rgba(255, 255, 255, 0.8) !important;
+  box-shadow: 
+    0 8px 32px rgba(31, 38, 135, 0.05),
+    inset 0 1px 2px rgba(255, 255, 255, 1),
+    inset 0 -1px 1px rgba(0, 0, 0, 0.05) !important;
+}
+
+body.light-theme .card:hover,
+body.light-theme .stat-card:hover,
+body.light-theme .tier-box:hover,
+body.light-theme .timeline-item:hover,
+body.light-theme .kanban-card:hover {
+  background: rgba(255, 255, 255, 0.8) !important;
+  box-shadow: 
+    0 16px 40px rgba(31, 38, 135, 0.1),
+    inset 0 1px 2px rgba(255, 255, 255, 1),
+    inset 0 -1px 1px rgba(0, 0, 0, 0.08) !important;
+}
+
+body.light-theme .card::after,
+body.light-theme .stat-card::after,
+body.light-theme .tier-box::after,
+body.light-theme .diagnostic-box::after,
+body.light-theme .evidence-gate-calculator::after,
+body.light-theme .timeline-item::after,
+body.light-theme .kanban-card::after {
+  background: linear-gradient(135deg, rgba(255,255,255,0.9) 0%, transparent 60%);
+  opacity: 0.4;
+}
+
+/* Ensure text and content sit ABOVE the glare */
+body.light-theme .card > *,
+body.light-theme .stat-card > *,
+body.light-theme .tier-box > *,
+body.light-theme .diagnostic-box > *,
+body.light-theme .kanban-card > * {
+  position: relative;
+  z-index: 1;
+}
+
+
+body.light-theme .card:hover::after,
+body.light-theme .stat-card:hover::after,
+body.light-theme .tier-box:hover::after,
+body.light-theme .timeline-item:hover::after,
+body.light-theme .kanban-card:hover::after {
+  opacity: 1;
+}
