@@ -382,6 +382,42 @@ body.light-theme #panel-abstracts-archive select {
   color: #0f172a !important;
   border-color: rgba(0,0,0,0.15) !important;
 }
+/* ── Dark Mode: Select / Dropdown Overrides ────────────────────────────────── */
+select,
+select.form-input,
+.filters-row select {
+  background-color: var(--bg-raised, #1c2230) !important;
+  color: var(--text-light, #e6edf3) !important;
+  border: 1px solid var(--border-light, rgba(255,255,255,0.12)) !important;
+  border-radius: 8px;
+  padding: 8px 12px;
+  font-family: var(--font-body);
+  font-size: 14px;
+  cursor: pointer;
+  appearance: auto;
+  -webkit-appearance: auto;
+}
+select option {
+  background-color: #1c2230 !important;
+  color: #e6edf3 !important;
+}
+select:focus,
+select:hover {
+  border-color: var(--primary, #6366f1) !important;
+  outline: none;
+}
+/* Light theme overrides for selects */
+body.light-theme select,
+body.light-theme select.form-input,
+body.light-theme .filters-row select {
+  background-color: rgba(255,255,255,0.9) !important;
+  color: #0f172a !important;
+  border-color: rgba(0,0,0,0.15) !important;
+}
+body.light-theme select option {
+  background-color: #ffffff !important;
+  color: #0f172a !important;
+}
 /* ── Utility Classes ───────────────────────────────────────────────────────── */
 /* Replaces repeated: style="position: relative; overflow: hidden;" (was 8x) */
 .rel-hidden { position: relative !important; overflow: hidden !important; }

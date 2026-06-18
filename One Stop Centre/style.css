@@ -360,3 +360,41 @@ body.light-theme .timeline-item:hover::after,
 body.light-theme .kanban-card:hover::after {
   opacity: 1;
 }
+
+/* ====================================================
+   DARK MODE: Global Select / Dropdown Overrides
+   Applies across ALL dashboards that import this CSS
+   ==================================================== */
+select,
+select.form-input {
+  background-color: var(--bg-raised, #1c2230) !important;
+  color: var(--text-light, #e6edf3) !important;
+  border: 1px solid var(--border-light, rgba(255,255,255,0.12)) !important;
+  border-radius: 8px !important;
+  padding: 8px 12px !important;
+  font-family: var(--font-body) !important;
+  font-size: 14px !important;
+  cursor: pointer !important;
+  appearance: auto !important;
+  -webkit-appearance: auto !important;
+}
+select option {
+  background-color: #1c2230 !important;
+  color: #e6edf3 !important;
+}
+select:focus,
+select:hover {
+  border-color: var(--primary, #6366f1) !important;
+  outline: none !important;
+}
+/* Light theme overrides */
+body.light-theme select,
+body.light-theme select.form-input {
+  background-color: rgba(255,255,255,0.9) !important;
+  color: #0f172a !important;
+  border-color: rgba(0,0,0,0.15) !important;
+}
+body.light-theme select option {
+  background-color: #ffffff !important;
+  color: #0f172a !important;
+}

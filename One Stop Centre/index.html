@@ -339,6 +339,32 @@ body.light-theme .nav-btn {
                 "Use the Statistics Suite for instant descriptive stats on your demographic data.",
                 "Keep your LR Shield matrix updated whenever you read a new paper."
             ]);
+
+            // ── Dynamic KPI Calculation from LR Shield ──
+            function animateCount(el, target, duration) {
+                if (!el) return;
+                let start = 0;
+                const step = (timestamp) => {
+                    if (!step.startTime) step.startTime = timestamp;
+                    const progress = Math.min((timestamp - step.startTime) / duration, 1);
+                    el.textContent = Math.floor(progress * target);
+                    if (progress < 1) requestAnimationFrame(step);
+                    else el.textContent = target;
+                };
+                requestAnimationFrame(step);
+            }
+
+            if (typeof MASTER_REFERENCES !== 'undefined' && Array.isArray(MASTER_REFERENCES)) {
+                const total = MASTER_REFERENCES.length;
+
+                const autismCount = MASTER_REFERENCES.filter(r =>
+                    (r.title && (r.title.toLowerCase().includes('autism') || r.title.toLowerCase().includes('asd'))) ||
+                    (r.abstract && (r.abstract.toLowerCase().includes('autism') || r.abstract.toLowerCase().includes('asd')))
+                ).length;
+
+                animateCount(document.getElementById('count-papers-reviewed'), total, 1500);
+                animateCount(document.getElementById('count-autism-studies'), autismCount, 1500);
+            }
         });
     </script>
 </body>
