@@ -202,13 +202,27 @@ content = content.replace(
     '<title>[Public] LR Shield'
 )
 
+
+import os
+import shutil
+
+# Ensure docs directory exists at the root of the repository
+docs_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..', 'docs'))
+os.makedirs(docs_dir, exist_ok=True)
+
 # ─────────────────────────────────────────────
-# Write output
+# Write output to docs/index.html
 # ─────────────────────────────────────────────
-with open('public.html', 'w', encoding='utf-8') as f:
+out_html = os.path.join(docs_dir, 'index.html')
+with open(out_html, 'w', encoding='utf-8') as f:
     f.write(content)
 
-print("✅ public.html generated successfully.")
+# ─────────────────────────────────────────────
+# Copy dependency JS files
+# ─────────────────────────────────────────────
+shutil.copy('auto_import.js', os.path.join(docs_dir, 'auto_import.js'))
+shutil.copy('auto_abstracts_v2.js', os.path.join(docs_dir, 'auto_abstracts_v2.js'))
+
+print("✅ docs/index.html generated successfully.")
 print("   - index.html is untouched.")
-print("   - Disabled: Edit, Delete, Export CSV, Export/Import Backup, Download Mindmap, Quick Backup, Clear DB, Add Article form, Search Log form.")
-print("   - Public banner added at top.")
+print("   - JS dependencies copied to docs/.")
