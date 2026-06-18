@@ -262,7 +262,7 @@ for db_folder in database_folders:
                 lit_type = "White Literature (Academic Journal)"
             if abstract_text:
                 lower_abs = abstract_text.lower()
-                if re.search(r'\b(world health organization|who)\b', lower_abs):
+                if re.search(r'\b(world health organization|w\.h\.o\.)\b', lower_abs):
                     lit_type = "Grey Literature (World Health Organization)"
                 elif re.search(r'\b(national autism society of malaysia|nasom)\b', lower_abs):
                     lit_type = "Grey Literature (NASOM)"
