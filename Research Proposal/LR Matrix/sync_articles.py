@@ -98,7 +98,7 @@ for db_folder in database_folders:
                 # LITERATURE TYPE & CATEGORY DETERMINATION
                 # ==========================================
                 lit_type = "White Literature (Academic Journal)"
-                if re.search(r' (world health organization|who) ', lower_text):
+                if re.search(r'\b(world health organization|w\.h\.o\.)\b', lower_text):
                       lit_type = "Grey Literature (World Health Organization)"
                 elif re.search(r' (national autism society of malaysia|nasom) ', lower_text):
                       lit_type = "Grey Literature (NASOM)"
@@ -221,12 +221,14 @@ for db_folder in database_folders:
 
                 score = len(quality_checks)
                 
-                if score >= 9:
+                if score >= 8:
                     tier = "Tier 1 (Core)"
                 elif score >= 6:
                     tier = "Tier 2 (Supporting)"
-                else:
+                elif score >= 5:
                     tier = "Tier 3 (Contextual)"
+                else:
+                    tier = "Reject"
 
                 # ==========================================
                 # TPB ADAPTATION EXTRACTION
