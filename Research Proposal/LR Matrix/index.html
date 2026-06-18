@@ -130,7 +130,40 @@ DB_GROUPS.forEach(grp=>{
         <input type="checkbox" class="quality-checkbox" value="${a.id}">
         <span>${a.text}</span>
       </label>
-    `;a.type==="dealbreaker"?o.innerHTML+=t:e.innerHTML+=t}),document.querySelectorAll(".quality-checkbox").forEach(a=>{a.addEventListener("change",t=>{const n=t.target.closest(".check-item");t.target.checked?n.classList.add("checked"):n.classList.remove("checked"),T()})})}function T(){const o=Array.from(document.querySelectorAll(".quality-checkbox:checked")).map(i=>i.value),e=M(o);document.getElementById("calc-current-score").textContent=`${e.score} / 11`;const a=document.getElementById("calc-recommended-tier");a.textContent=e.recommendedTier;const t=document.getElementById("calc-tier-desc");t.textContent=e.tierDesc;const n=document.getElementById("calc-verdict-box");n.className="calc-verdict-box",e.recommendedTier==="Tier 1 (Core)"?n.classList.add("verdict-t1"):e.recommendedTier==="Tier 2 (Supporting)"?n.classList.add("verdict-t2"):e.recommendedTier==="Tier 3 (Contextual)"?n.classList.add("verdict-t3"):n.classList.add("verdict-reject")}function v(){const o=document.getElementById("articles-table-body"),e=document.getElementById("empty-table-state");o.innerHTML="";const a=document.getElementById("archive-search").value.toLowerCase().trim(),t=document.getElementById("filter-database").value,n=document.getElementById("filter-category").value,i=document.getElementById("filter-tier").value,c=d.filter(r=>{if(t&&r.database!==t||n&&r.category!==n||i&&r.tier!==i&&(i==="Reject"&&r.tier!=="Reject"||i!=="Reject"&&r.tier==="Reject"||r.tier!==i))return!1;if(a){const s=r.title.toLowerCase().includes(a),l=r.authors.toLowerCase().includes(a),u=r.journal.toLowerCase().includes(a),g=r.doi&&r.doi.toLowerCase().includes(a);if(!s&&!l&&!u&&!g)return!1}return!0});c.length===0?e.style.display="flex":(e.style.display="none",c.forEach((r,idx)=>{let s="t3-badge";r.tier==="Tier 1 (Core)"&&(s="t1-badge"),r.tier==="Tier 2 (Supporting)"&&(s="t2-badge"),r.tier==="Reject"&&(s="reject-badge");let l="";r.dangerFlags.status==="danger"?l=`<span class="badge flagged-predatory" title="${r.dangerFlags.reason}"><img class="badge-emoji" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6ab/512.png" alt="Predatory" style="width: 12px; height: 12px; vertical-align: middle; margin-right: 4px;"> Predatory Publisher</span>`:r.dangerFlags.status==="warning"&&(l='<span class="badge flagged-preprint" style="background: rgba(245,158,11,0.1); border: 1px solid var(--warning); color: var(--warning); margin-right: 4px;"><img class="badge-emoji" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4dd/512.png" alt="Preprint" style="width: 12px; height: 12px; vertical-align: middle; margin-right: 4px;"> Preprint</span>'),o.innerHTML+=`
+    `;a.type==="dealbreaker"?o.innerHTML+=t:e.innerHTML+=t}),document.querySelectorAll(".quality-checkbox").forEach(a=>{a.addEventListener("change",t=>{const n=t.target.closest(".check-item");t.target.checked?n.classList.add("checked"):n.classList.remove("checked"),T()})})}function T(){const o=Array.from(document.querySelectorAll(".quality-checkbox:checked")).map(i=>i.value),e=M(o);document.getElementById("calc-current-score").textContent=`${e.score} / 11`;const a=document.getElementById("calc-recommended-tier");a.textContent=e.recommendedTier;const t=document.getElementById("calc-tier-desc");t.textContent=e.tierDesc;const n=document.getElementById("calc-verdict-box");n.className="calc-verdict-box",e.recommendedTier==="Tier 1 (Core)"?n.classList.add("verdict-t1"):e.recommendedTier==="Tier 2 (Supporting)"?n.classList.add("verdict-t2"):e.recommendedTier==="Tier 3 (Contextual)"?n.classList.add("verdict-t3"):n.classList.add("verdict-reject")}
+window.archiveSortCol = null;
+window.archiveSortAsc = true;
+window.setArchiveSort = function(col) {
+    if (window.archiveSortCol === col) {
+        window.archiveSortAsc = !window.archiveSortAsc;
+    } else {
+        window.archiveSortCol = col;
+        window.archiveSortAsc = true;
+    }
+    // Update headers UI
+    document.querySelectorAll('.sort-icon').forEach(el => el.innerHTML = '&#8693;');
+    const activeHeader = document.getElementById('sort-icon-' + col);
+    if(activeHeader) {
+        activeHeader.innerHTML = window.archiveSortAsc ? '&#9652;' : '&#9662;';
+        activeHeader.style.color = 'var(--primary)';
+    }
+    v();
+};
+
+function v(){const o=document.getElementById("articles-table-body"),e=document.getElementById("empty-table-state");o.innerHTML="";const a=document.getElementById("archive-search").value.toLowerCase().trim(),t=document.getElementById("filter-database").value,n=document.getElementById("filter-category").value,i=document.getElementById("filter-tier").value,c=d.filter(r=>{if(t&&r.database!==t||n&&r.category!==n||i&&r.tier!==i&&(i==="Reject"&&r.tier!=="Reject"||i!=="Reject"&&r.tier==="Reject"||r.tier!==i))return!1;if(a){const s=r.title.toLowerCase().includes(a),l=r.authors.toLowerCase().includes(a),u=r.journal.toLowerCase().includes(a),g=r.doi&&r.doi.toLowerCase().includes(a);if(!s&&!l&&!u&&!g)return!1}return!0});
+    if(window.archiveSortCol) {
+        c.sort((A,B) => {
+            let valA = '', valB = '';
+            if(window.archiveSortCol === 'title') { valA = A.title.toLowerCase(); valB = B.title.toLowerCase(); }
+            else if(window.archiveSortCol === 'year') { valA = parseInt(A.year) || 0; valB = parseInt(B.year) || 0; }
+            else if(window.archiveSortCol === 'database') { valA = A.database.toLowerCase(); valB = B.database.toLowerCase(); }
+            else if(window.archiveSortCol === 'tier') { valA = A.tier.toLowerCase(); valB = B.tier.toLowerCase(); }
+            if (valA < valB) return window.archiveSortAsc ? -1 : 1;
+            if (valA > valB) return window.archiveSortAsc ? 1 : -1;
+            return 0;
+        });
+    }
+c.length===0?e.style.display="flex":(e.style.display="none",c.forEach((r,idx)=>{let s="t3-badge";r.tier==="Tier 1 (Core)"&&(s="t1-badge"),r.tier==="Tier 2 (Supporting)"&&(s="t2-badge"),r.tier==="Reject"&&(s="reject-badge");let l="";r.dangerFlags.status==="danger"?l=`<span class="badge flagged-predatory" title="${r.dangerFlags.reason}"><img class="badge-emoji" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6ab/512.png" alt="Predatory" style="width: 12px; height: 12px; vertical-align: middle; margin-right: 4px;"> Predatory Publisher</span>`:r.dangerFlags.status==="warning"&&(l='<span class="badge flagged-preprint" style="background: rgba(245,158,11,0.1); border: 1px solid var(--warning); color: var(--warning); margin-right: 4px;"><img class="badge-emoji" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4dd/512.png" alt="Preprint" style="width: 12px; height: 12px; vertical-align: middle; margin-right: 4px;"> Preprint</span>'),o.innerHTML+=`
         <tr>
           <td style="font-weight: 700; color: var(--text-muted); text-align: center;">${idx + 1}</td>
           <td>
@@ -912,10 +945,10 @@ body.light-theme .vis-tooltip {
             <thead>
               <tr>
                 <th style="width: 40px; text-align: center;">#</th>
-                <th style="width: 35%">Article Title & Authors</th>
-                <th style="width: 20%">Journal & Year</th>
-                <th style="width: 15%">Database & Category</th>
-                <th style="width: 15%">Quality / Tier</th>
+                <th style="width: 35%; cursor: pointer;" onclick="window.setArchiveSort('title')">Article Title & Authors <span id="sort-icon-title" class="sort-icon" style="float: right; opacity: 0.5;">&#8693;</span></th>
+                <th style="width: 20%; cursor: pointer;" onclick="window.setArchiveSort('year')">Journal & Year <span id="sort-icon-year" class="sort-icon" style="float: right; opacity: 0.5;">&#8693;</span></th>
+                <th style="width: 15%; cursor: pointer;" onclick="window.setArchiveSort('database')">Database & Category <span id="sort-icon-database" class="sort-icon" style="float: right; opacity: 0.5;">&#8693;</span></th>
+                <th style="width: 15%; cursor: pointer;" onclick="window.setArchiveSort('tier')">Quality / Tier <span id="sort-icon-tier" class="sort-icon" style="float: right; opacity: 0.5;">&#8693;</span></th>
                 <th style="width: 15%">Actions</th>
               </tr>
             </thead>
