@@ -213,6 +213,10 @@ os.makedirs(docs_dir, exist_ok=True)
 # ─────────────────────────────────────────────
 # Write output to docs/index.html
 # ─────────────────────────────────────────────
+# Disable external navigation links for public version in docs/
+content = content.replace('<a href="../../One Stop Centre/index.html" class="nav-btn">', '<a href="#" class="nav-btn" style="opacity:0.35;cursor:not-allowed;" title="Not available in public view" onclick="return false;">')
+content = content.replace('<a href="../../Thesis/Conceptual Framework/Chapter 2 Compilation.html" class="nav-btn">', '<a href="#" class="nav-btn" style="opacity:0.35;cursor:not-allowed;" title="Not available in public view" onclick="return false;">')
+
 out_html = os.path.join(docs_dir, 'index.html')
 with open(out_html, 'w', encoding='utf-8') as f:
     f.write(content)

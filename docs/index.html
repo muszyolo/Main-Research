@@ -642,10 +642,10 @@ body.light-theme .vis-tooltip {
         </div>
       </div>
       <nav class="sidebar-nav">
-        <a href="../../One Stop Centre/index.html" class="nav-btn">
+        <a href="#" class="nav-btn" style="opacity:0.35;cursor:not-allowed;" title="Not available in public view" onclick="return false;">
           <div class="nav-btn-bg-layer" style="background-image: url(&quot;https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?q=80&w=400&auto=format&fit=crop&quot;);"></div>
           <div class="nav-btn-overlay"></div>
-          <span class="nav-text">â† Back to Overview</span>
+          <span class="nav-text">&#11013; Back to Overview</span>
         </a>
         <button class="nav-btn active" data-target="dashboard">
           <div class="nav-btn-bg-layer" style="background-image: url(&quot;https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=400&auto=format&fit=crop&quot;);"></div>
@@ -683,7 +683,7 @@ body.light-theme .vis-tooltip {
           <div class="nav-btn-overlay"></div>
           <span class="nav-text">Danger Lists</span>
         </button>
-        <a href="../../Thesis/Conceptual Framework/Chapter 2 Compilation.html" class="nav-btn">
+        <a href="#" class="nav-btn" style="opacity:0.35;cursor:not-allowed;" title="Not available in public view" onclick="return false;">
           <div class="nav-btn-bg-layer" style="background-image: url(&quot;https://images.unsplash.com/photo-1456324504439-367cee3b3c32?q=80&w=400&auto=format&fit=crop&quot;);"></div>
           <div class="nav-btn-overlay"></div>
           <span class="nav-text">Conceptual Framework</span>
@@ -1844,9 +1844,9 @@ window.renderAbstracts = function() {
         
         const srcColor = sourceColors[abs.source] || '#94a3b8';
         const srcBadge = abs.source ? `<span style="background: ${srcColor}22; color: ${srcColor}; border: 1px solid ${srcColor}55; padding: 2px 8px; border-radius: 20px; font-size: 0.75rem;">via ${abs.source}</span>` : '';
-        const catBadge = abs.category ? `<span style="background: rgba(236,72,153,0.2); color: #f472b6; border: 1px solid rgba(236,72,153,0.4); padding: 2px 8px; border-radius: 20px; font-size: 0.75rem;">ðŸ·ï¸ ${abs.category}</span>` : '';
+        const catBadge = abs.category ? `<span style="background: rgba(236,72,153,0.2); color: #f472b6; border: 1px solid rgba(236,72,153,0.4); padding: 2px 8px; border-radius: 20px; font-size: 0.75rem;">&#127991; ${abs.category}</span>` : '';
         const subcatBadges = abs.subcategories ? abs.subcategories.split(',').filter(x=>x.trim()).map(sub => `<span style="background: rgba(236,72,153,0.1); color: #ec4899; border: 1px dashed rgba(236,72,153,0.3); padding: 2px 8px; border-radius: 20px; font-size: 0.70rem;">+ ${sub.trim()}</span>`).join(' ') : '';
-        const dbBadge = abs.database ? `<span style="background: rgba(168,85,247,0.2); color: #d8b4fe; border: 1px solid rgba(168,85,247,0.4); padding: 2px 8px; border-radius: 20px; font-size: 0.75rem;">ðŸ“‚ ${abs.database}</span>` : '';
+        const dbBadge = abs.database ? `<span style="background: rgba(168,85,247,0.2); color: #d8b4fe; border: 1px solid rgba(168,85,247,0.4); padding: 2px 8px; border-radius: 20px; font-size: 0.75rem;">&#128206; ${abs.database}</span>` : '';
 
         div.innerHTML = `
             <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 1rem; flex-wrap: wrap; gap: 1rem;">
