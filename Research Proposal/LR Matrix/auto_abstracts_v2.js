@@ -53,7 +53,7 @@ window.AUTO_ABSTRACTS = [
     "database": "Old Database",
     "category": "TPB Help-Seeking",
     "litType": "Grey Literature (Other Report / News)",
-    "abstract": "ABSTRACT In a capitalist economy, prices serve to equilibrate supply and demand for goods and services, continually changing to reallocate resources to their most efficient uses. However, secondary stock market prices, often viewed as the most \u201cinformationally efficient\u201d prices in the economy, have no direct role in the allocation of equity capital since managers have discretion in determining the level of investment. What is the link between stock price informational efficiency and economic efficiency? We present a model of the stock market in which: (i) managers have discretion in making investments and must be given the right incentives; and (ii) stock market traders may have important information that managers do not have about the value of prospective investment opportunities. In equilibrium, information in stock prices will guide investment decisions because managers will be compensated based on informative stock prices in the future. The stock market indirectly guides investment by transferring two kinds of information: information about investment opportunities and information about managers' past decisions. However, because this role is only indirect, the link between price efficiency and economic efficiency is tenuous. We show that stock price efficiency is not sufficient for economic efficiency by showing that the model may have another equilibrium in which prices are strong\u2010form efficient, but investment decisions are suboptimal. We also suggest that stock market efficiency is not necessary for investment efficiency by considering a banking system that can serve as an alternative institution for the efficient allocation of investment resources.",
+    "abstract": "ABSTRACT In a capitalist economy, prices serve to equilibrate supply and demand for goods and services, continually changing to reallocate resources to their most efficient uses. However, secondary stock market prices, often viewed as the most “informationally efficient” prices in the economy, have no direct role in the allocation of equity capital since managers have discretion in determining the level of investment. What is the link between stock price informational efficiency and economic efficiency? We present a model of the stock market in which: (i) managers have discretion in making investments and must be given the right incentives; and (ii) stock market traders may have important information that managers do not have about the value of prospective investment opportunities. In equilibrium, information in stock prices will guide investment decisions because managers will be compensated based on informative stock prices in the future. The stock market indirectly guides investment by transferring two kinds of information: information about investment opportunities and information about managers' past decisions. However, because this role is only indirect, the link between price efficiency and economic efficiency is tenuous. We show that stock price efficiency is not sufficient for economic efficiency by showing that the model may have another equilibrium in which prices are strong‐form efficient, but investment decisions are suboptimal. We also suggest that stock market efficiency is not necessary for investment efficiency by considering a banking system that can serve as an alternative institution for the efficient allocation of investment resources.",
     "keywords": [
       "Economics",
       "Stock (firearms)",
@@ -77,7 +77,7 @@ window.AUTO_ABSTRACTS = [
     "database": "Old Database",
     "category": "TPB Help-Seeking",
     "litType": "Grey Literature (Other Report / News)",
-    "abstract": "Article Free Access Share on On solving covering problems Author: Olivier Coudert Synopsys Inc., 700 East Middlefield Rd., Mountain View, CA Synopsys Inc., 700 East Middlefield Rd., Mountain View, CAView Profile Authors Info & Claims DAC '96: Proceedings of the 33rd annual Design Automation ConferenceJune 1996 Pages 197\u2013202https://doi.org/10.1145/240518.240555Online:01 June 1996Publication History 87citation747DownloadsMetricsTotal Citations87Total Downloads747Last 12 Months16Last 6 weeks1 Get Citation AlertsNew Citation Alert added!This alert has been successfully added and will be sent to:You will be notified whenever a record that you have chosen has been cited.To manage your alert preferences, click on the button below.Manage my AlertsNew Citation Alert!Please log in to your account Save to BinderSave to BinderCreate a New BinderNameCancelCreateExport CitationPublisher SiteeReaderPDF",
+    "abstract": "Article Free Access Share on On solving covering problems Author: Olivier Coudert Synopsys Inc., 700 East Middlefield Rd., Mountain View, CA Synopsys Inc., 700 East Middlefield Rd., Mountain View, CAView Profile Authors Info & Claims DAC '96: Proceedings of the 33rd annual Design Automation ConferenceJune 1996 Pages 197–202https://doi.org/10.1145/240518.240555Online:01 June 1996Publication History 87citation747DownloadsMetricsTotal Citations87Total Downloads747Last 12 Months16Last 6 weeks1 Get Citation AlertsNew Citation Alert added!This alert has been successfully added and will be sent to:You will be notified whenever a record that you have chosen has been cited.To manage your alert preferences, click on the button below.Manage my AlertsNew Citation Alert!Please log in to your account Save to BinderSave to BinderCreate a New BinderNameCancelCreateExport CitationPublisher SiteeReaderPDF",
     "keywords": [
       "Citation",
       "Computer science",
@@ -96,7 +96,7 @@ window.AUTO_ABSTRACTS = [
     "database": "Old Database",
     "category": "TPB Help-Seeking",
     "litType": "Grey Literature (Other Report / News)",
-    "abstract": "Parkinson's disease (PD) is the fastest-growing neurodegeneration disease, characterized typically by a progressive loss of dopaminergic neurons in the substantia nigra, and there are no effective therapeutic agents to cure PD. Rotenone (Rot) is a common and widely used pesticide which can directly inhibit mitochondrial complex I, leading to a loss of dopaminergic neurons. Our previous studies proved that the JWA gene (arl6ip5) may play a prominent role in resisting aging, oxidative stress and inflammation, and JWA knockout in astrocytes increases the susceptibility of mice to 1-Methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP)-induced PD. JWA-activating compound 4 (JAC4) is a small-molecule activator of the JWA gene, but its role in and mechanism against PD have not yet been clarified. In the present study, we showed that the JWA expression level is strongly related to tyrosine hydroxylase (TH) in different growth periods of mice. Additionally, we constructed models with Rot in vivo and in vitro to observe the neuroprotective effects of JAC4. Our results demonstrated that JAC4 prophylactic intervention improved motor dysfunction and dopaminergic neuron loss in mice. Mechanistically, JAC4 reduced oxidative stress damage by reversing mitochondrial complex I damage, reducing nuclear factor kappa-B (NF-\u03baB) translocation and repressing nucleotide-binding domain, leucine-rich-containing family and pyrin domain-containing-3 (NLRP3) inflammasome activation. Overall, our results provide proof that JAC4 could serve as a novel effective agent for PD prevention.",
+    "abstract": "Parkinson's disease (PD) is the fastest-growing neurodegeneration disease, characterized typically by a progressive loss of dopaminergic neurons in the substantia nigra, and there are no effective therapeutic agents to cure PD. Rotenone (Rot) is a common and widely used pesticide which can directly inhibit mitochondrial complex I, leading to a loss of dopaminergic neurons. Our previous studies proved that the JWA gene (arl6ip5) may play a prominent role in resisting aging, oxidative stress and inflammation, and JWA knockout in astrocytes increases the susceptibility of mice to 1-Methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP)-induced PD. JWA-activating compound 4 (JAC4) is a small-molecule activator of the JWA gene, but its role in and mechanism against PD have not yet been clarified. In the present study, we showed that the JWA expression level is strongly related to tyrosine hydroxylase (TH) in different growth periods of mice. Additionally, we constructed models with Rot in vivo and in vitro to observe the neuroprotective effects of JAC4. Our results demonstrated that JAC4 prophylactic intervention improved motor dysfunction and dopaminergic neuron loss in mice. Mechanistically, JAC4 reduced oxidative stress damage by reversing mitochondrial complex I damage, reducing nuclear factor kappa-B (NF-κB) translocation and repressing nucleotide-binding domain, leucine-rich-containing family and pyrin domain-containing-3 (NLRP3) inflammasome activation. Overall, our results provide proof that JAC4 could serve as a novel effective agent for PD prevention.",
     "keywords": [
       "Rotenone",
       "Parkinson's disease",
@@ -122,7 +122,7 @@ window.AUTO_ABSTRACTS = [
     "database": "Old Database",
     "category": "TPB Help-Seeking",
     "litType": "Grey Literature (Other Report / News)",
-    "abstract": "BACKGROUND: Community pharmacists are among the most accessible healthcare professionals and are likely to experience the full brunt of public health crises. In Lebanon, the COVID-19 pandemic, added to a severe economic meltdown, have significantly disrupted an already suffering profession. METHODS: The objective of this study was to determine the level of resilience and its relationship to burnout, job satisfaction, intention to quit, and changes in practice. The study utilized a cross-sectional design to survey community pharmacists using an online questionnaire that included the Connor-Davidson Resilience Scale and the Copenhagen Burnout Inventory. All community pharmacists were invited to participate. Multiple logistic regression identified variables significantly associated with the resilience of pharmacists. RESULTS: A total of 459 community pharmacists completed the questionnaire. Respondents had a relatively low resilience level (68.0 \u00b1 13.37). They also had higher scores on the client-related burnout (58.06 \u00b1 17.46), followed by the personal burnout (56.51 \u00b1 16.68) and the work-related burnout (55.75 \u00b1 13.82). In this sample, 52.3% of pharmacists indicated that they are dissatisfied with their job and 41.1% indicated an intention to quit in the coming year. According to multivariate analysis, marital status (\u00df = 0.38; 95% CI 0.16-0.91; p = 0.03), intention to quit (\u00df = 0.384; 95% CI 0.149-0.987; p = 0.047), workload (\u00df = 0.275; 95% CI 0.096-0.783; p = 0.016), perception of safety (\u00df = 0.267; 95% CI 0.078-0.909; p = 0.035), and personal burnout (\u00df = 0.321; 95% CI 0.152-0.677; p = 0.003) were independent influencing factors for resilience. CONCLUSIONS: Multiple challenges and crises have culminated to the low job satisfaction, high burnout, and high the intention to quit of community pharmacists. This seriously destabilized the labor market of pharmacists which could negatively affect public safety. Effective interventions are essential to enhance the well-being and job satisfaction of pharmacists during public health crisis.",
+    "abstract": "BACKGROUND: Community pharmacists are among the most accessible healthcare professionals and are likely to experience the full brunt of public health crises. In Lebanon, the COVID-19 pandemic, added to a severe economic meltdown, have significantly disrupted an already suffering profession. METHODS: The objective of this study was to determine the level of resilience and its relationship to burnout, job satisfaction, intention to quit, and changes in practice. The study utilized a cross-sectional design to survey community pharmacists using an online questionnaire that included the Connor-Davidson Resilience Scale and the Copenhagen Burnout Inventory. All community pharmacists were invited to participate. Multiple logistic regression identified variables significantly associated with the resilience of pharmacists. RESULTS: A total of 459 community pharmacists completed the questionnaire. Respondents had a relatively low resilience level (68.0 ± 13.37). They also had higher scores on the client-related burnout (58.06 ± 17.46), followed by the personal burnout (56.51 ± 16.68) and the work-related burnout (55.75 ± 13.82). In this sample, 52.3% of pharmacists indicated that they are dissatisfied with their job and 41.1% indicated an intention to quit in the coming year. According to multivariate analysis, marital status (ß = 0.38; 95% CI 0.16-0.91; p = 0.03), intention to quit (ß = 0.384; 95% CI 0.149-0.987; p = 0.047), workload (ß = 0.275; 95% CI 0.096-0.783; p = 0.016), perception of safety (ß = 0.267; 95% CI 0.078-0.909; p = 0.035), and personal burnout (ß = 0.321; 95% CI 0.152-0.677; p = 0.003) were independent influencing factors for resilience. CONCLUSIONS: Multiple challenges and crises have culminated to the low job satisfaction, high burnout, and high the intention to quit of community pharmacists. This seriously destabilized the labor market of pharmacists which could negatively affect public safety. Effective interventions are essential to enhance the well-being and job satisfaction of pharmacists during public health crisis.",
     "keywords": [
       "Burnout",
       "Marital status",
@@ -154,7 +154,7 @@ window.AUTO_ABSTRACTS = [
     "database": "Old Database",
     "category": "TPB Help-Seeking",
     "litType": "Grey Literature (Other Report / News)",
-    "abstract": "The pre\u2010Tertiary oceanic crust exposed on the west coast of Costa Rica has been broadly referred to as the Nicoya Complex. This study was designed to determine the age of the Nicoya Complex in the Nicoya Peninsula, Playa Jac\u00f3, and the Quepos Peninsula using 40 Ar\u2010 39 Ar radiometric dating and to assess the petrologic relationships between the different localities using major element, trace element, and Sr, Nd, Pb isotopic data. Radiometric ages of basalts and diabases from the Nicoya Peninsula are 88\u201390 Ma (with a weighted mean of 88.5 Ma), and those of two intrusive rocks (a gabbro and plagiogranite) are both 83\u201384 Ma. The combined geochemical data indicate that the sampled Nicoya Peninsula rocks belong to a single suite related by fractional crystallization of similar parental magmas. Nd and Pb isotopic ratios indicate a common mantle source distinct from that of mid\u2010ocean ridge basalts. Both the age and composition of the Nicoya rocks are consistent with the idea that they are a part of the Caribbean Cretaceous oceanic plateau [ Donnelly , 1994]. The Jac\u00f3 lavas are geochemically similar to the Nicoya Peninsula suite, and a single age of 84 Ma is identical to the age of the Nicoya Peninsula intrusives. The one analyzed Quepos basalt has a radiometric age of \u223c64 Ma, and it is enriched in incompatible elements relative to the Nicoya rocks. Similarities in Nd and Pb isotopic ratios indicate that the Quepos and Nicoya/Jac\u00f3 lavas were derived from a similar mantle source to that which produced the Nicoya rocks, possibly the Galapagos plume.",
+    "abstract": "The pre‐Tertiary oceanic crust exposed on the west coast of Costa Rica has been broadly referred to as the Nicoya Complex. This study was designed to determine the age of the Nicoya Complex in the Nicoya Peninsula, Playa Jacó, and the Quepos Peninsula using 40 Ar‐ 39 Ar radiometric dating and to assess the petrologic relationships between the different localities using major element, trace element, and Sr, Nd, Pb isotopic data. Radiometric ages of basalts and diabases from the Nicoya Peninsula are 88–90 Ma (with a weighted mean of 88.5 Ma), and those of two intrusive rocks (a gabbro and plagiogranite) are both 83–84 Ma. The combined geochemical data indicate that the sampled Nicoya Peninsula rocks belong to a single suite related by fractional crystallization of similar parental magmas. Nd and Pb isotopic ratios indicate a common mantle source distinct from that of mid‐ocean ridge basalts. Both the age and composition of the Nicoya rocks are consistent with the idea that they are a part of the Caribbean Cretaceous oceanic plateau [ Donnelly , 1994]. The Jacó lavas are geochemically similar to the Nicoya Peninsula suite, and a single age of 84 Ma is identical to the age of the Nicoya Peninsula intrusives. The one analyzed Quepos basalt has a radiometric age of ∼64 Ma, and it is enriched in incompatible elements relative to the Nicoya rocks. Similarities in Nd and Pb isotopic ratios indicate that the Quepos and Nicoya/Jacó lavas were derived from a similar mantle source to that which produced the Nicoya rocks, possibly the Galapagos plume.",
     "keywords": [
       "Geology",
       "Basalt",
@@ -209,7 +209,7 @@ window.AUTO_ABSTRACTS = [
     "database": "Old Database",
     "category": "Uncategorized",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "Capillary electrophoresis",
       "Dendrimer",
@@ -233,7 +233,7 @@ window.AUTO_ABSTRACTS = [
     "database": "Old Database",
     "category": "TPB Help-Seeking",
     "litType": "Grey Literature (Other Report / News)",
-    "abstract": "BACKGROUND: KwaZulu-Natal (KZN) Province in South Africa has the highest HIV disease burden in the country, with an estimated population prevalence of 24.7%. A pilot sentinel surveillance project was undertaken in KZN to classify the proportion of adult patients failing first-line ART and to describe the patterns of drug resistance mutations (DRMs) in patients with virological failure (VF). METHODS: Cross-sectional surveillance of acquired HIV drug resistance was conducted in 15 sentinel ART clinics between August and November 2013. Two population groups were surveyed: on ART for 12-15 months (Cohort A) or 24-36 months (Cohort B). Plasma specimens with viral load \u22651000 copies/mL were defined as VF and genotyped for DRMs. RESULTS: A total of 1299 adults were included in the analysis. The prevalence of VF was 4.0% (95% CI 1.8-8.8) among 540 adults in Cohort A and 7.7% (95% CI 4.4-13.0) of 759 adults in Cohort B. Treatment with efavirenz was more likely to suppress viral load in Cohort A (P = 0.005). Independent predictors of VF for Cohort B included male gender, advanced WHO stage at ART initiation and treatment with stavudine or zidovudine compared with tenofovir. DRMs were detected in 89% of 123 specimens with VF, including M184I/V, K103N/S, K65N/R, V106A/M and Y181C. CONCLUSIONS: VF in adults in KZN was <8% up to 3 years post-ART initiation but was associated with a high frequency of DRMs. These data identify key groups for intensified adherence counselling and highlight the need to optimize first-line regimens to maintain viral suppression.",
+    "abstract": "BACKGROUND: KwaZulu-Natal (KZN) Province in South Africa has the highest HIV disease burden in the country, with an estimated population prevalence of 24.7%. A pilot sentinel surveillance project was undertaken in KZN to classify the proportion of adult patients failing first-line ART and to describe the patterns of drug resistance mutations (DRMs) in patients with virological failure (VF). METHODS: Cross-sectional surveillance of acquired HIV drug resistance was conducted in 15 sentinel ART clinics between August and November 2013. Two population groups were surveyed: on ART for 12-15 months (Cohort A) or 24-36 months (Cohort B). Plasma specimens with viral load ≥1000 copies/mL were defined as VF and genotyped for DRMs. RESULTS: A total of 1299 adults were included in the analysis. The prevalence of VF was 4.0% (95% CI 1.8-8.8) among 540 adults in Cohort A and 7.7% (95% CI 4.4-13.0) of 759 adults in Cohort B. Treatment with efavirenz was more likely to suppress viral load in Cohort A (P = 0.005). Independent predictors of VF for Cohort B included male gender, advanced WHO stage at ART initiation and treatment with stavudine or zidovudine compared with tenofovir. DRMs were detected in 89% of 123 specimens with VF, including M184I/V, K103N/S, K65N/R, V106A/M and Y181C. CONCLUSIONS: VF in adults in KZN was <8% up to 3 years post-ART initiation but was associated with a high frequency of DRMs. These data identify key groups for intensified adherence counselling and highlight the need to optimize first-line regimens to maintain viral suppression.",
     "keywords": [
       "Drug resistance",
       "Medicine",
@@ -263,7 +263,7 @@ window.AUTO_ABSTRACTS = [
     "database": "Old Database",
     "category": "Uncategorized",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [],
     "source": "None"
   },
@@ -303,7 +303,7 @@ window.AUTO_ABSTRACTS = [
     "database": "Old Database",
     "category": "Clustering (Statistics)",
     "litType": "Grey Literature (Other Report / News)",
-    "abstract": "Introduction Unhealthy weight, especially childhood obesity, is emerging as a growing epidemic and a challenge in developed and developing countries. Partnership with parents to promote healthy lifestyle changes may have a lifelong impact on weight-related outcomes in children. This study aims to determine the efficacy of an Interactive Malaysian Childhood Healthy Lifestyle ( i-MaCHeL ) intervention programme to change weight-related behaviour in preschool child-parent dyads. Materials and methods The i-MaCHeL programme is a single-blind, theory-driven intervention, two-group cluster randomised controlled trial that evaluates the efficacy of a 3-month health promotion intervention in preschool child-parent dyads. In recognition of the value of multiple theoretical approaches, the strong theoretical basis consists of Social Cognitive Theory, Health Belief Model, and Trans-Theoretical Model principles underpinning the development of the intervention programme. In total, 460 child-parent dyads from 12 preschools in Terengganu, Malaysia, will be recruited. The children in the intervention group will expose to the i-MaCHeL classroom activities, while the parents will access the i-MaCHeL Web-based educational programme and numerous parent-child home-based online activities. The children in the control group will continue with any existing health-related activities, while the parents will receive the link to the general health newsletters. BMI z-score, dietary intake, physical activity, screen time duration, health-related quality of life, parental self-efficacy, parental role modelling, and parental policies will be assessed at baseline, 3 months\u2019 post-baseline, and at 6 months\u2019 follow-up (9 months\u2019 post-baseline). General linear model repeated measure analysis will be used to determine differences between groups at the 3- and 9-month surveys with adjustment for potential covariates. Statistical analyses will follow intention-to-treat principles. Conclusion We hypothesise that the combination of the classroom and interactive Web-based activities will have a strong potential to be effective strategies to sustain child-parent engagement and participation in the weight-related behaviour change programme. Clinical trial registration ClinicalTrials.gov Identifier: NCT04711525 .",
+    "abstract": "Introduction Unhealthy weight, especially childhood obesity, is emerging as a growing epidemic and a challenge in developed and developing countries. Partnership with parents to promote healthy lifestyle changes may have a lifelong impact on weight-related outcomes in children. This study aims to determine the efficacy of an Interactive Malaysian Childhood Healthy Lifestyle ( i-MaCHeL ) intervention programme to change weight-related behaviour in preschool child-parent dyads. Materials and methods The i-MaCHeL programme is a single-blind, theory-driven intervention, two-group cluster randomised controlled trial that evaluates the efficacy of a 3-month health promotion intervention in preschool child-parent dyads. In recognition of the value of multiple theoretical approaches, the strong theoretical basis consists of Social Cognitive Theory, Health Belief Model, and Trans-Theoretical Model principles underpinning the development of the intervention programme. In total, 460 child-parent dyads from 12 preschools in Terengganu, Malaysia, will be recruited. The children in the intervention group will expose to the i-MaCHeL classroom activities, while the parents will access the i-MaCHeL Web-based educational programme and numerous parent-child home-based online activities. The children in the control group will continue with any existing health-related activities, while the parents will receive the link to the general health newsletters. BMI z-score, dietary intake, physical activity, screen time duration, health-related quality of life, parental self-efficacy, parental role modelling, and parental policies will be assessed at baseline, 3 months’ post-baseline, and at 6 months’ follow-up (9 months’ post-baseline). General linear model repeated measure analysis will be used to determine differences between groups at the 3- and 9-month surveys with adjustment for potential covariates. Statistical analyses will follow intention-to-treat principles. Conclusion We hypothesise that the combination of the classroom and interactive Web-based activities will have a strong potential to be effective strategies to sustain child-parent engagement and participation in the weight-related behaviour change programme. Clinical trial registration ClinicalTrials.gov Identifier: NCT04711525 .",
     "keywords": [
       "Intervention (counseling)",
       "Social cognitive theory",
@@ -524,7 +524,7 @@ window.AUTO_ABSTRACTS = [
     "database": "Old Database",
     "category": "Uncategorized",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "Joint Engagement Rating Inventory (JERI)",
       "naturalistic developmental behavioural interventions (NDBI)",
@@ -559,7 +559,7 @@ window.AUTO_ABSTRACTS = [
     "database": "Old Database",
     "category": "Uncategorized",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "autism",
       "COVID-19",
@@ -577,7 +577,7 @@ window.AUTO_ABSTRACTS = [
     "database": "Old Database",
     "category": "Uncategorized",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "autism spectrum disorder",
       "parents",
@@ -598,7 +598,7 @@ window.AUTO_ABSTRACTS = [
     "database": "Old Database",
     "category": "TPB Help-Seeking",
     "litType": "Grey Literature (Other Report / News)",
-    "abstract": "Alginate was modified with dodecenyl succinic anhydride (SAC12) in an aqueous reaction medium at neutral pH. The highest degree of succinylation (33.9\u00b13.5%) was obtained after 4h at 30\u00b0C, using four mole SAC12 per mol alginate monomer. Alginate was modified with succinic anhydride (SAC0) for comparison, and the structures and thermal properties of alg-SAC0 and alg-SAC12 were evaluated using FTIR, (1)H NMR, and DSC. Calcium-hydrogel beads were formed from native and modified alginates, in which lipases were encapsulated with a load of averagely 76\u03bcg lipase per mg alginate, irrespective of the type of alginate. Lipases with a \"lid\", which usually are dependent on interfacial activation, showed a 3-fold increase in specific activity toward water-soluble substrates when encapsulated in alg-SAC12, compared to the free lipase. Such hyperactivation was not observed for lipases independent of interfacial activation, or for lipases encapsulated in native alginate or alg-SAC0 hydrogels.",
+    "abstract": "Alginate was modified with dodecenyl succinic anhydride (SAC12) in an aqueous reaction medium at neutral pH. The highest degree of succinylation (33.9±3.5%) was obtained after 4h at 30°C, using four mole SAC12 per mol alginate monomer. Alginate was modified with succinic anhydride (SAC0) for comparison, and the structures and thermal properties of alg-SAC0 and alg-SAC12 were evaluated using FTIR, (1)H NMR, and DSC. Calcium-hydrogel beads were formed from native and modified alginates, in which lipases were encapsulated with a load of averagely 76μg lipase per mg alginate, irrespective of the type of alginate. Lipases with a \"lid\", which usually are dependent on interfacial activation, showed a 3-fold increase in specific activity toward water-soluble substrates when encapsulated in alg-SAC12, compared to the free lipase. Such hyperactivation was not observed for lipases independent of interfacial activation, or for lipases encapsulated in native alginate or alg-SAC0 hydrogels.",
     "keywords": [
       "Hyperactivation",
       "Encapsulation (networking)",
@@ -622,7 +622,7 @@ window.AUTO_ABSTRACTS = [
     "database": "Old Database",
     "category": "Uncategorized",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "autism spectrum disorder",
       "experiences",
@@ -640,7 +640,7 @@ window.AUTO_ABSTRACTS = [
     "database": "Old Database",
     "category": "Autism Caregiver",
     "litType": "Grey Literature (Other Report / News)",
-    "abstract": "Autism Spectrum Disorders (ASD) are neurodevelopmental disorders of increasing prevalence. People with ASD have multiple health, education, and community needs, yet there is little information about their situation in Chile. Objective: To learn about the demographic and clinical characteristics, caregiver\u2019s first concerns, and age of diagnosis of ASD individuals. Patients and Method: Participants were parents/caregivers of ASD persons, who answered the Caregiver Needs Survey, developed by Autism Speaks specifically for this purpose, and translated into Spanish. The survey is comprised of 4 sections: demographic information, characteristics of the ASD individual, past and present use of Health and Education Services, and parents/caregivers\u2019 perceptions of satisfaction, impact, stigma, What do we know about the subject matter of this study? At the time of publication of this paper, there are no reports on caregivers\u2019 perception of the concerns and age of diagnosis of indi- viduals on the autism spectrum. What does this study contribute to what is already known? It highlights the wide gap between the age of first concerns of the parents and the medical ASD diagnosis, which means a critical loss of treatment opportunities and may jeopardize the chances of a better future prognosis. 26 ORIGINAL ARTICLE Autism Spectrum - R. Garc\u00eda et al",
+    "abstract": "Autism Spectrum Disorders (ASD) are neurodevelopmental disorders of increasing prevalence. People with ASD have multiple health, education, and community needs, yet there is little information about their situation in Chile. Objective: To learn about the demographic and clinical characteristics, caregiver’s first concerns, and age of diagnosis of ASD individuals. Patients and Method: Participants were parents/caregivers of ASD persons, who answered the Caregiver Needs Survey, developed by Autism Speaks specifically for this purpose, and translated into Spanish. The survey is comprised of 4 sections: demographic information, characteristics of the ASD individual, past and present use of Health and Education Services, and parents/caregivers’ perceptions of satisfaction, impact, stigma, What do we know about the subject matter of this study? At the time of publication of this paper, there are no reports on caregivers’ perception of the concerns and age of diagnosis of indi- viduals on the autism spectrum. What does this study contribute to what is already known? It highlights the wide gap between the age of first concerns of the parents and the medical ASD diagnosis, which means a critical loss of treatment opportunities and may jeopardize the chances of a better future prognosis. 26 ORIGINAL ARTICLE Autism Spectrum - R. García et al",
     "keywords": [
       "Autism Spectrum Disorders",
       "Autism",
@@ -653,12 +653,12 @@ window.AUTO_ABSTRACTS = [
       "Chile",
       "education",
       "and community needs",
-      "caregiver\u2019s first concerns",
+      "caregiver’s first concerns",
       "who answered the Caregiver Needs Survey",
       "developed by Autism Speaks specifically for this purpose",
       "characteristics of the ASD individual",
       "past and present use of Health and Education Services",
-      "and parents/caregivers\u2019 perceptions of satisfaction",
+      "and parents/caregivers’ perceptions of satisfaction",
       "impact",
       "stigma"
     ],
@@ -673,7 +673,7 @@ window.AUTO_ABSTRACTS = [
     "database": "Old Database",
     "category": "Uncategorized",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "primary care givers",
       "quality of life",
@@ -692,7 +692,7 @@ window.AUTO_ABSTRACTS = [
     "database": "Old Database",
     "category": "Uncategorized",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "autism",
       "family-centred care",
@@ -738,7 +738,7 @@ window.AUTO_ABSTRACTS = [
     "database": "Old Database",
     "category": "TPB Help-Seeking",
     "litType": "Grey Literature (Other Report / News)",
-    "abstract": "Abstract After the binding of C9 to EAC1-8, a number of further reactions are required before cell lysis occurs and hemoglobin is released. The final step in this reaction sequence is the colloid osmotic step that occurs after the formation of a red cell intermediate (EAC1-9doomed) with a channel across its membrane. Whether an EAC1-9doomed cell will release its hemoglobin depends on the functional size of the transmembrane channel or channels and the size of the solute in which the cells are suspended. At low C9 to SAC1-8 ratios, the number of EAC1-9doomed cells that will release their hemoglobin decreases as the size of the solute in which the cells are suspended increases. Since SAC1-8 is multivalent for C9, different SAC1-9 complexes containing different numbers of C9 molecules can be formed depending on the C9 concentration used to prepare EAC1-9doomed. If the dimensions of a lytic channel are associated with the number of C9s in the complex, then differences in the extent of lysis from EAC1-9doomed prepared at varying SAC1-8:C9 ratios would be expected in solutes of differing molecular size. Although this explanation would account qualitatively for the data, a least squares fit of a mathematical formulation of the hypothesis shows severe deviation between the experimental and calculated results. The nature of the deviation between the calculated and experimental results suggested the possibility that the binding of C9 to SAC1-8 is negatively cooperative. We therefore extended the model to allow interaction between bound C9 molecules. In this model, an adjustable interaction parameter b is introduced such that b &amp;lt; 1 implies negative cooperativity and b &amp;gt; 1 implies positive cooperativity. This extended model provided a significantly better fit (99% confidence) to sets of data for which end point lysis was low (&amp;lt;35%; i.e., most erythrocytes had either 0 or 1 SAC1-8 complex). The value of b associated with the best fit was less than 1, implying that binding is negatively cooperative. The extended model was tested further against data for which end point lysis was high (&amp;gt;75%; i.e., a substantial portion of erythrocytes have more than 1 SAC18). Deviations between calculated and experimental points were severe, suggesting the possibility that SAC18 complexes do not act independently. A modified model, allowing SAC1-8 interactions, but with no additional parameters, gave an excellent fit to the data, and was significantly better (99.9% confidence) than the fit without aggregation. The average value of the equilibrium constant for C9 interacting with C8 sites in the absence of cooperativity (low degrees of occupancy) was found to be (4.3 \u00b1 0.7) \u00d7 1011 M\u22121.",
+    "abstract": "Abstract After the binding of C9 to EAC1-8, a number of further reactions are required before cell lysis occurs and hemoglobin is released. The final step in this reaction sequence is the colloid osmotic step that occurs after the formation of a red cell intermediate (EAC1-9doomed) with a channel across its membrane. Whether an EAC1-9doomed cell will release its hemoglobin depends on the functional size of the transmembrane channel or channels and the size of the solute in which the cells are suspended. At low C9 to SAC1-8 ratios, the number of EAC1-9doomed cells that will release their hemoglobin decreases as the size of the solute in which the cells are suspended increases. Since SAC1-8 is multivalent for C9, different SAC1-9 complexes containing different numbers of C9 molecules can be formed depending on the C9 concentration used to prepare EAC1-9doomed. If the dimensions of a lytic channel are associated with the number of C9s in the complex, then differences in the extent of lysis from EAC1-9doomed prepared at varying SAC1-8:C9 ratios would be expected in solutes of differing molecular size. Although this explanation would account qualitatively for the data, a least squares fit of a mathematical formulation of the hypothesis shows severe deviation between the experimental and calculated results. The nature of the deviation between the calculated and experimental results suggested the possibility that the binding of C9 to SAC1-8 is negatively cooperative. We therefore extended the model to allow interaction between bound C9 molecules. In this model, an adjustable interaction parameter b is introduced such that b &amp;lt; 1 implies negative cooperativity and b &amp;gt; 1 implies positive cooperativity. This extended model provided a significantly better fit (99% confidence) to sets of data for which end point lysis was low (&amp;lt;35%; i.e., most erythrocytes had either 0 or 1 SAC1-8 complex). The value of b associated with the best fit was less than 1, implying that binding is negatively cooperative. The extended model was tested further against data for which end point lysis was high (&amp;gt;75%; i.e., a substantial portion of erythrocytes have more than 1 SAC18). Deviations between calculated and experimental points were severe, suggesting the possibility that SAC18 complexes do not act independently. A modified model, allowing SAC1-8 interactions, but with no additional parameters, gave an excellent fit to the data, and was significantly better (99.9% confidence) than the fit without aggregation. The average value of the equilibrium constant for C9 interacting with C8 sites in the absence of cooperativity (low degrees of occupancy) was found to be (4.3 ± 0.7) × 1011 M−1.",
     "keywords": [
       "Hemolysis",
       "Immune system",
@@ -759,7 +759,7 @@ window.AUTO_ABSTRACTS = [
     "journal": "Unknown Journal",
     "year": 2026,
     "database": "Old Database",
-    "category": "Autism Caregiver",
+    "category": "Caregiver Burden",
     "litType": "Grey Literature (Other Report / News)",
     "abstract": "Purpose: to evaluate the burden of family caregivers of children with autism spectrum disorders, as perceived by themselves. Methods: 20 subjects participated, of both genders, aged between 22 and 60 years (mean = 32.6), ten families of children with autism spectrum disorders and, to compose the control group, ten family members of children with disorders language. The children were between three and ten years of age (Mean = 5.8). The control group was selected from the pairing of age, education and gender of children. In order to evaluate the caregiver burden Scale was used Burden Interview and sociodemographic data were collected from participants. The statistical analysis was performed from the Mann-Whitney and Spearman correlation analysis (p <.05). Results: mean overload index of family caregivers of both groups was 28, therefore, no difference was observed statistically significant and indicated that the G1 and G2 were moderately overloaded. Participant characteristics were not significant in overload index. Conclusions: caring for children with autism spectrum disorders can overwhelm their families similarly to the relatives of children with other disorders of development.",
     "keywords": [
@@ -781,7 +781,7 @@ window.AUTO_ABSTRACTS = [
     "database": "Old Database",
     "category": "Autism",
     "litType": "Grey Literature (Other Report / News)",
-    "abstract": "Objective: To know the experience of the family in the care of the child with Autism Spectrum Disorder (ASD) and to discuss possibilities of health care. Method: Descriptive research with qualitative approach, carried out with 15 families of children with ASD, living in two municipalities in the interior of the state of S\u00e3o Paulo, from October 2016 to March 2017. The Symbolic Interactionism was used as theoretical reference, and Narrative Analysis, as method. Results: Families perceive signs of autism, however, believe that there are not suspicious behaviors, but the child's personalities. When diagnosis is defined, family acceptance is painful and sad. The mother shows to be the main caretaker, while the father remains in the",
+    "abstract": "Objective: To know the experience of the family in the care of the child with Autism Spectrum Disorder (ASD) and to discuss possibilities of health care. Method: Descriptive research with qualitative approach, carried out with 15 families of children with ASD, living in two municipalities in the interior of the state of São Paulo, from October 2016 to March 2017. The Symbolic Interactionism was used as theoretical reference, and Narrative Analysis, as method. Results: Families perceive signs of autism, however, believe that there are not suspicious behaviors, but the child's personalities. When diagnosis is defined, family acceptance is painful and sad. The mother shows to be the main caretaker, while the father remains in the",
     "keywords": [
       "Autistic Disorder",
       "Family",
@@ -789,16 +789,16 @@ window.AUTO_ABSTRACTS = [
       "Child Care",
       "qualitativa",
       "entretanto",
-      "acredita que n\u00e3o existem comportamentos suspeitos",
-      "Fam\u00edlia",
+      "acredita que não existem comportamentos suspeitos",
+      "Família",
       "Enfermagem",
-      "Cuidado da Crian\u00e7a",
-      "realizada con 15 familias de ni\u00f1os con TEA",
+      "Cuidado da Criança",
+      "realizada con 15 familias de niños con TEA",
       "sin embargo",
       "Familia",
-      "Enfermer\u00eda",
-      "Cuidado del Ni\u00f1o",
-      "Ni\u00f1o. EAN www.scielo.br/"
+      "Enfermería",
+      "Cuidado del Niño",
+      "Niño. EAN www.scielo.br/"
     ],
     "source": "PDF"
   },
@@ -837,13 +837,13 @@ window.AUTO_ABSTRACTS = [
     "database": "Old Database",
     "category": "Clustering (Statistics)",
     "litType": "Grey Literature (Other Report / News)",
-    "abstract": "Research on atypical developing parenting usually investigates only the mother. This happens even if the investigation outcome points to the influence of the parenting style and the child\u2019s relationship with the father on his/her perception of well-being. This investigation aimed to understand the relationships between the behavior of children with Autistic Spectrum Disorder, parenting styles and coparenting of 45 biparental families with children aged, on mean, 59 months, according to defined profiles based on children\u2019s behavioral differences. Data was reviewed by hierarchical clustering. Among the four profiles found, those characterized by behavioral difficulties showed more authoritarian/permissive 2 Estud. psicol. I Campinas I 37 I e190143 2020 J.R.M. PORTES et al. parenting styles and negative impacts on coparenting; profiles with greater prosociability had a more authoritative parenting style and better coparenting quality. The behavioral assessment of children should drive the formulation of interventions/public policies to promote positive parenting in this population.",
+    "abstract": "Research on atypical developing parenting usually investigates only the mother. This happens even if the investigation outcome points to the influence of the parenting style and the child’s relationship with the father on his/her perception of well-being. This investigation aimed to understand the relationships between the behavior of children with Autistic Spectrum Disorder, parenting styles and coparenting of 45 biparental families with children aged, on mean, 59 months, according to defined profiles based on children’s behavioral differences. Data was reviewed by hierarchical clustering. Among the four profiles found, those characterized by behavioral difficulties showed more authoritarian/permissive 2 Estud. psicol. I Campinas I 37 I e190143 2020 J.R.M. PORTES et al. parenting styles and negative impacts on coparenting; profiles with greater prosociability had a more authoritative parenting style and better coparenting quality. The behavioral assessment of children should drive the formulation of interventions/public policies to promote positive parenting in this population.",
     "keywords": [
       "Autism spectrum disorder",
       "Child behavior",
       "Family relations",
       "Comportamento infantil",
-      "Rela\u00e7\u00f5es familiares",
+      "Relações familiares",
       "showing also restricted and repetitive patterns of behavior",
       "2014). Among the clinical manifestations",
       "Hastings",
@@ -853,12 +853,12 @@ window.AUTO_ABSTRACTS = [
       "2011)",
       "communication difficulties (Pereira",
       "Canal",
-      "Corr\u00eaa Silva",
+      "Corrêa Silva",
       "& Pimentel",
       "2019). In line with this scenario",
       "Karakurt",
-      "\u00c7ak\u0131r",
-      "& Karabekiro\u011flu",
+      "Çakır",
+      "& Karabekiroğlu",
       "2018). In addition",
       "according to Dunn",
       "Burbine",
@@ -882,7 +882,7 @@ window.AUTO_ABSTRACTS = [
       "among other factors",
       "Howie",
       "& Law",
-      "2010) and the mother\u2019s parenting style (Braunstein",
+      "2010) and the mother’s parenting style (Braunstein",
       "Peniston",
       "Perelman",
       "& Cassano",
@@ -904,9 +904,9 @@ window.AUTO_ABSTRACTS = [
     "journal": "Unknown Journal",
     "year": 2026,
     "database": "Old Database",
-    "category": "Autism Caregiver",
+    "category": "Systematic Literature Review",
     "litType": "Grey Literature (Other Report / News)",
-    "abstract": "Objective: To describe the challenges faced by families caring for children with autism spectrum disorder (ASD) in Brazil and the coping strategies employed. Sources: Systematic review of articles published until September of 2013, without language restrictions, using quality appraisal (AMSTAR and CASP/Oxford instruments). Summary of the \ufb01ndings: The literature shows parental emotional overload as one of the main challenges faced by families, especially mothers. The main stressors were diagnostic postpone- ment, dif\ufb01culty dealing with the diagnosis and associated symptoms, and poor access to health services and social support. The predominant coping strategies found included information exchange between affected families and integrated healthcare network for patient and family support. Conclusion: ASD exerts strong in\ufb02uence on family dynamics, resulting in caregiver overload, especially in mothers. The Brazilian Uni\ufb01ed Health System needs to provide comprehensive, continuous, and coordinated care to strengthen the patient-family dyad and promote the full development and societal inclusion of children with ASD. \u00a9 2014 Sociedade Brasileira de Pediatria. Published by Elsevier Editora Ltda. All rights reserved. \u0002 Please cite this article as: Gomes PT, Lima LH, Bueno MK, Ara\u00fajo LA, Souza NM. Autism in Brazil: a systematic review of family challenges and coping strategies. J Pediatr (Rio J). 2015;91:111---21. \u0002\u0002 Study conducted at Universidade Jos\u00e9 do Ros\u00e1rio Vellano (UNIFENAS), Belo Horizonte, MG, Brazil \u2217Corresponding author. E-mails: nathanmendes@hotmail.com, nameso@gmail.com (N.M. Souza). http://dx.doi.org/10.1016/j.jped.2014.08.009 0021-7557/\u00a9 2014 Sociedade Brasileira de Pediatria. Published by Elsevier Editora Ltda. All rights reserved. 112 Gomes PT et al. PALAVRAS CHAVE Transtorno Aut\u00edstico; Autismo; Relac\u00b8\u00f5es Familiares; Cuidadores; Sistema \u00danico de Sa\u00fade Autismo no Brasil, desa\ufb01os familiares e estrat\u00e9gias de superac\u00b8\u00e3o: revis\u00e3o sistem\u00e1tica Resumo Objetivo: Descrever os desa\ufb01os encontrados pelas fam\u00edlias na conviv\u00eancia com crianc\u00b8as por- tadoras de transtorno do espectro autista (TEA) no Brasil e as estrat\u00e9gias de superac\u00b8\u00e3o empregadas. Fonte dos dados: Revis\u00e3o sistem\u00e1tica da literatura com inclus\u00e3o de artigos publicados at\u00e9 setembro de 2013, sem restric\u00b8\u00f5es de idioma. Os artigos inclu\u00eddos foram submetidos \u00e0 avaliac\u00b8\u00e3o de qualidade metodol\u00f3gica atrav\u00e9s do AMSTAR e CASP/Oxford. S\u00edntese dos dados: Inclui-se estudos provenientes de S\u00e3o Paulo e Rio Grande do Sul com alta e moderada qualidade metodol\u00f3gica. A literatura mostra sobrecarga emocional dos pais como um dos principais desa\ufb01os encontrados pelas fam\u00edlias, inclusive com grande tens\u00e3o sobre as m\u00e3es. Dentre os fatores relacionados ao estresse est\u00e3o: postergac\u00b8\u00e3o diagn\u00f3stica, di\ufb01culdade de lidar com o diagn\u00f3stico e com os sintomas associados, acesso prec\u00e1rio ao servic\u00b8o de sa\u00fade e suporte social. Dentre as",
+    "abstract": "Objective: To describe the challenges faced by families caring for children with autism spectrum disorder (ASD) in Brazil and the coping strategies employed. Sources: Systematic review of articles published until September of 2013, without language restrictions, using quality appraisal (AMSTAR and CASP/Oxford instruments). Summary of the ﬁndings: The literature shows parental emotional overload as one of the main challenges faced by families, especially mothers. The main stressors were diagnostic postpone- ment, difﬁculty dealing with the diagnosis and associated symptoms, and poor access to health services and social support. The predominant coping strategies found included information exchange between affected families and integrated healthcare network for patient and family support. Conclusion: ASD exerts strong inﬂuence on family dynamics, resulting in caregiver overload, especially in mothers. The Brazilian Uniﬁed Health System needs to provide comprehensive, continuous, and coordinated care to strengthen the patient-family dyad and promote the full development and societal inclusion of children with ASD. © 2014 Sociedade Brasileira de Pediatria. Published by Elsevier Editora Ltda. All rights reserved. \u0002 Please cite this article as: Gomes PT, Lima LH, Bueno MK, Araújo LA, Souza NM. Autism in Brazil: a systematic review of family challenges and coping strategies. J Pediatr (Rio J). 2015;91:111---21. \u0002\u0002 Study conducted at Universidade José do Rosário Vellano (UNIFENAS), Belo Horizonte, MG, Brazil ∗Corresponding author. E-mails: nathanmendes@hotmail.com, nameso@gmail.com (N.M. Souza). http://dx.doi.org/10.1016/j.jped.2014.08.009 0021-7557/© 2014 Sociedade Brasileira de Pediatria. Published by Elsevier Editora Ltda. All rights reserved. 112 Gomes PT et al. PALAVRAS CHAVE Transtorno Autístico; Autismo; Relac¸ões Familiares; Cuidadores; Sistema Único de Saúde Autismo no Brasil, desaﬁos familiares e estratégias de superac¸ão: revisão sistemática Resumo Objetivo: Descrever os desaﬁos encontrados pelas famílias na convivência com crianc¸as por- tadoras de transtorno do espectro autista (TEA) no Brasil e as estratégias de superac¸ão empregadas. Fonte dos dados: Revisão sistemática da literatura com inclusão de artigos publicados até setembro de 2013, sem restric¸ões de idioma. Os artigos incluídos foram submetidos à avaliac¸ão de qualidade metodológica através do AMSTAR e CASP/Oxford. Síntese dos dados: Inclui-se estudos provenientes de São Paulo e Rio Grande do Sul com alta e moderada qualidade metodológica. A literatura mostra sobrecarga emocional dos pais como um dos principais desaﬁos encontrados pelas famílias, inclusive com grande tensão sobre as mães. Dentre os fatores relacionados ao estresse estão: postergac¸ão diagnóstica, diﬁculdade de lidar com o diagnóstico e com os sintomas associados, acesso precário ao servic¸o de saúde e suporte social. Dentre as",
     "keywords": [],
     "source": "PDF"
   },
@@ -919,7 +919,7 @@ window.AUTO_ABSTRACTS = [
     "database": "Old Database",
     "category": "Uncategorized",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "Autism",
       "lived experiences",
@@ -938,7 +938,7 @@ window.AUTO_ABSTRACTS = [
     "database": "Old Database",
     "category": "Uncategorized",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "ASD",
       "caregivers",
@@ -957,7 +957,7 @@ window.AUTO_ABSTRACTS = [
     "database": "Old Database",
     "category": "Autism",
     "litType": "Grey Literature (Other Report / News)",
-    "abstract": "Objective: This study analyzes subjective aspects associated with parents\u2019 perception of the changes that have affected their lives since the birth of their child with autism spectrum disorder (ASD). Methods: A qualitative study, using a narrative approach. Semi-structured interviews were conducted with 7 fathers and 16 mothers of children with ASD enrolled in a special needs school in Salvador, Bahia, Brazil. The interviews were transcribed, analyti\u00ad cal categories were defined, and data interpreted. Results: Five categories were identified: \u201cEmotional and Health-Related Effects\u201d, \u201cEffects on Daily/Professional and Academic Life\u201d, \u201cEffects on Marital and/or Affective/Sexual Life\u201d, \u201cEffects on Social Life\u201d, \u201cAdaptation Strate\u00ad gies\u201d. The analysis showed that, despite the impacts suffered, social support, professional help can facilitate parents\u2019 adjustment to life changes following the birth of a child with ASD. Conclusion: The physical and emotional demands of living with and parenting a child with ASD are enormous, include changes in social roles and in couples\u2019 social and affective/sexual lives, highlighting the need for parents to receive support from healthcare professionals, par\u00ad ticularly mental health professionals. Care strategies need to be implemented for parents, in addition to the healthcare provided to their children, in order to improve the comprehensive care given to the child with ASD. RESUMO Objetivo: Este estudo buscou analisar os aspectos subjetivos associados \u00e0 percep\u00e7\u00e3o dos pais sobre as mudan\u00e7as ocorridas em suas vidas ap\u00f3s o nascimento de seu filho com transtor\u00ad no do espectro autista (TEA). M\u00e9todos: Estudo qualitativo, com abordagem metodol\u00f3gica de narrativa. Foram feitas entrevistas semiestruturadas com 7 pais e 16 m\u00e3es de crian\u00e7as com TEA em escola especial, Salvador-Bahia. As entrevistas foram transcritas, as categorias de an\u00e1\u00ad lise, elaboradas e os dados, interpretados. Resultados: Foram identificadas cinco categorias: \u201cimpacto emocional e na sa\u00fade\u201d, \u201cimpacto na vida di\u00e1ria/profissional e acad\u00eamica\u201d, \u201cimpacto na vida do casal e/ou afetiva/sexual\u201d, \u201cimpacto na vida social\u201d e \u201cestrat\u00e9gias de adapta\u00e7\u00e3o\u201d. A an\u00e1lise revelou que, apesar dos impactos sofridos, apoio social e ajuda profissional podem facilitar uma adapta\u00e7\u00e3o \u00e0s mudan\u00e7as na vida dos pais, a partir do nascimento do filho com TEA. Conclus\u00e3o: Conviver e ser m\u00e3e ou pai de crian\u00e7a com TEA produz grande demanda 1 Bahia State University. Bahia School of Medicine and Public Health. Laboratory for Research in Autism (LABIRINTO), Salvador, BA, Brazil. 2 Bahia School of Medicine and Public Health. Multidisciplinary Laboratory for Research in Autism (LABIRINTO), Salvador, BA, Brazil. Address for correspondence: M\u00e1rcia de Aguiar Av. Dom Jo\u00e3o",
+    "abstract": "Objective: This study analyzes subjective aspects associated with parents’ perception of the changes that have affected their lives since the birth of their child with autism spectrum disorder (ASD). Methods: A qualitative study, using a narrative approach. Semi-structured interviews were conducted with 7 fathers and 16 mothers of children with ASD enrolled in a special needs school in Salvador, Bahia, Brazil. The interviews were transcribed, analyti­ cal categories were defined, and data interpreted. Results: Five categories were identified: “Emotional and Health-Related Effects”, “Effects on Daily/Professional and Academic Life”, “Effects on Marital and/or Affective/Sexual Life”, “Effects on Social Life”, “Adaptation Strate­ gies”. The analysis showed that, despite the impacts suffered, social support, professional help can facilitate parents’ adjustment to life changes following the birth of a child with ASD. Conclusion: The physical and emotional demands of living with and parenting a child with ASD are enormous, include changes in social roles and in couples’ social and affective/sexual lives, highlighting the need for parents to receive support from healthcare professionals, par­ ticularly mental health professionals. Care strategies need to be implemented for parents, in addition to the healthcare provided to their children, in order to improve the comprehensive care given to the child with ASD. RESUMO Objetivo: Este estudo buscou analisar os aspectos subjetivos associados à percepção dos pais sobre as mudanças ocorridas em suas vidas após o nascimento de seu filho com transtor­ no do espectro autista (TEA). Métodos: Estudo qualitativo, com abordagem metodológica de narrativa. Foram feitas entrevistas semiestruturadas com 7 pais e 16 mães de crianças com TEA em escola especial, Salvador-Bahia. As entrevistas foram transcritas, as categorias de aná­ lise, elaboradas e os dados, interpretados. Resultados: Foram identificadas cinco categorias: “impacto emocional e na saúde”, “impacto na vida diária/profissional e acadêmica”, “impacto na vida do casal e/ou afetiva/sexual”, “impacto na vida social” e “estratégias de adaptação”. A análise revelou que, apesar dos impactos sofridos, apoio social e ajuda profissional podem facilitar uma adaptação às mudanças na vida dos pais, a partir do nascimento do filho com TEA. Conclusão: Conviver e ser mãe ou pai de criança com TEA produz grande demanda 1 Bahia State University. Bahia School of Medicine and Public Health. Laboratory for Research in Autism (LABIRINTO), Salvador, BA, Brazil. 2 Bahia School of Medicine and Public Health. Multidisciplinary Laboratory for Research in Autism (LABIRINTO), Salvador, BA, Brazil. Address for correspondence: Márcia de Aguiar Av. Dom João",
     "keywords": [
       "Autism spectrum disorder"
     ],
@@ -972,27 +972,27 @@ window.AUTO_ABSTRACTS = [
     "database": "Old Database",
     "category": "Uncategorized",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "Social Isolation",
       "Autism Spectrum Disorder",
       "Caregivers",
       "Family",
       "no processamento sensorial",
-      "na cogni\u00e7\u00e3o e na linguagem",
+      "na cognição e na linguagem",
       "que afetam seu desempenho ocupacional",
-      "necessitando de acesso a servi\u00e7os escolares",
+      "necessitando de acesso a serviços escolares",
       "descritivo",
-      "15 casais e dois pais de crian\u00e7as com TEA. Das 60 crian\u00e7as",
+      "15 casais e dois pais de crianças com TEA. Das 60 crianças",
       "46 (76",
       "7%) eram meninos",
       "com idade de 3 a 5 anos (53",
-      "6 \u00b110",
+      "6 ±10",
       "rigidez e hiperfoco",
-      "mas h\u00e1 relato de estresse",
+      "mas há relato de estresse",
       "Transtorno do Espectro Autista",
       "Cuidadores",
-      "Fam\u00edlia",
+      "Família",
       "Atividades Cotidianas."
     ],
     "source": "PDF"
@@ -1012,15 +1012,15 @@ window.AUTO_ABSTRACTS = [
       "ASD",
       "family",
       "family relationships",
-      "emp\u00edricos",
+      "empíricos",
       "com delineamento qualitativo",
       "realizados com cuidadores",
-      "desafios e manuten\u00e7\u00e3o das rela\u00e7\u00f5es familiares (n= 38)",
-      "recursos e estrat\u00e9gias para enfrentar os desafios (n= 29)",
+      "desafios e manutenção das relações familiares (n= 38)",
+      "recursos e estratégias para enfrentar os desafios (n= 29)",
       "subsistema fraterno (n= 10)",
       "TEA",
-      "Fam\u00edlia",
-      "rela\u00e7\u00f5es familiares"
+      "Família",
+      "relações familiares"
     ],
     "source": "PDF"
   },
@@ -1033,7 +1033,7 @@ window.AUTO_ABSTRACTS = [
     "database": "Old Database",
     "category": "Autism Caregiver",
     "litType": "Grey Literature (Other Report / News)",
-    "abstract": "This study assessed the influence of sociodemographic conditions, oral hygiene habits, and the socio-psychological need for orthodontic treatment on the emotions of caregivers of children with and without autism spectrum disorder (ASD). We conducted a comparative cross-sectional study with families of individuals aged 6 to 14 years at a reference center for neurodevelopmental disorders and two dental school clinics in northeastern Brazil. Caregiver emotions were assessed using the \u2018Parental Emotions\u2019 domain of the Family Impact Scale (FIS). We analyzed sociodemographic variables, oral hygiene habits, and sociopsychological need for orthodontic treatment using the esthetic component of the Index of Orthodontic Treatment Need (IOTN). We used descriptive and hierarchical Poisson regression analyses with robust variance (\u03b1 = 5%). The study included 144 families evenly distributed across the groups. The caregiver group with ASD demonstrated a higher total score for parental emotions (p < 0.001). Factors associated with this factor included caregiver responsible for brushing (PR = 1.34; 95%CI: 1.12\u20131.59), mandatory need for orthodontic treatment (PR = 1.25; 95%CI: 1.07\u20131.46), and caregivers\u2019 education up to 8 years (PR = 1.45; 95%CI: 1.02\u20132.07). Caregivers with lower income showed a lower prevalence of parental emotions (PR = 0.57; 95%CI: 0.35\u20130.93). Caregivers of children with ASD exhibited a higher emotional burden. Factors associated with parental emotions included responsibility for tooth brushing attributed to caregivers, sociopsychological need for orthodontic treatment, and family income.",
+    "abstract": "This study assessed the influence of sociodemographic conditions, oral hygiene habits, and the socio-psychological need for orthodontic treatment on the emotions of caregivers of children with and without autism spectrum disorder (ASD). We conducted a comparative cross-sectional study with families of individuals aged 6 to 14 years at a reference center for neurodevelopmental disorders and two dental school clinics in northeastern Brazil. Caregiver emotions were assessed using the ‘Parental Emotions’ domain of the Family Impact Scale (FIS). We analyzed sociodemographic variables, oral hygiene habits, and sociopsychological need for orthodontic treatment using the esthetic component of the Index of Orthodontic Treatment Need (IOTN). We used descriptive and hierarchical Poisson regression analyses with robust variance (α = 5%). The study included 144 families evenly distributed across the groups. The caregiver group with ASD demonstrated a higher total score for parental emotions (p < 0.001). Factors associated with this factor included caregiver responsible for brushing (PR = 1.34; 95%CI: 1.12–1.59), mandatory need for orthodontic treatment (PR = 1.25; 95%CI: 1.07–1.46), and caregivers’ education up to 8 years (PR = 1.45; 95%CI: 1.02–2.07). Caregivers with lower income showed a lower prevalence of parental emotions (PR = 0.57; 95%CI: 0.35–0.93). Caregivers of children with ASD exhibited a higher emotional burden. Factors associated with parental emotions included responsibility for tooth brushing attributed to caregivers, sociopsychological need for orthodontic treatment, and family income.",
     "keywords": [
       "Autism Spectrum Disorder",
       "Mental Health",
@@ -1051,7 +1051,7 @@ window.AUTO_ABSTRACTS = [
     "database": "Old Database",
     "category": "Clustering (Statistics)",
     "litType": "Grey Literature (Other Report / News)",
-    "abstract": "The main purpose of the study was to examine the cluster com- position of the analysis on the effect of gender and age of the Strengths and Difficulties Questionnaire (SDQ) in a large school-based sample of high school adolescents ranging from 14 to 18 years old (N = 1474). In order to do this, a K-means iterative cluster analysis was performed. A five-cluster solution turned out to be the most parsimonious in the differ- entiation of emotional and behavioural patterns. A five-cluster solution yielded the following patterns: \u201cNo difficulties and high prosocial scores\u201d (n = 418; 28.36%), \u201chigh difficulties and low prosocial scores\u201d (n = 239; 16.21%), \u201chigh on hyperactivity, low on the rest of the difficulties sub- scales, and high in prosocial capabilities\u201d (n = 302; 20.49%), \u201chigh on emotional and peer problems, relatively low on conduct and hyperactivity, and high in prosocial capabilities\u201d (n = 275; 18.66%), and finally \u201chyperac- tivity problems and average in the others difficulties subscales, and in pro- social capabilities\u201d (n = 239; 16.21%). This cluster solution was replicated attending to the same gender and age groups. Nevertheless, differences in the distribution of the cluster composition suggest that difficulties differ by gender and age. The results allow for the conclusion that men reveal a greater number of problems of an externalizing nature whereas women in- dicate a greater degree of internalizing difficulties and prosocial skills.",
+    "abstract": "The main purpose of the study was to examine the cluster com- position of the analysis on the effect of gender and age of the Strengths and Difficulties Questionnaire (SDQ) in a large school-based sample of high school adolescents ranging from 14 to 18 years old (N = 1474). In order to do this, a K-means iterative cluster analysis was performed. A five-cluster solution turned out to be the most parsimonious in the differ- entiation of emotional and behavioural patterns. A five-cluster solution yielded the following patterns: “No difficulties and high prosocial scores” (n = 418; 28.36%), “high difficulties and low prosocial scores” (n = 239; 16.21%), “high on hyperactivity, low on the rest of the difficulties sub- scales, and high in prosocial capabilities” (n = 302; 20.49%), “high on emotional and peer problems, relatively low on conduct and hyperactivity, and high in prosocial capabilities” (n = 275; 18.66%), and finally “hyperac- tivity problems and average in the others difficulties subscales, and in pro- social capabilities” (n = 239; 16.21%). This cluster solution was replicated attending to the same gender and age groups. Nevertheless, differences in the distribution of the cluster composition suggest that difficulties differ by gender and age. The results allow for the conclusion that men reveal a greater number of problems of an externalizing nature whereas women in- dicate a greater degree of internalizing difficulties and prosocial skills.",
     "keywords": [
       "adolescence",
       "cluster analysis",
@@ -1070,7 +1070,7 @@ window.AUTO_ABSTRACTS = [
     "database": "Old Database",
     "category": "Autism Caregiver",
     "litType": "Grey Literature (Other Report / News)",
-    "abstract": "This is a pilot study on the psychological well-being of autistic child caregivers. The current study investigates the level of psychological well-being among caregivers of autism using a descriptive research design. Data on psychological well-being were obtained through a scale of psychological well-being given to 21 autistic child caregivers. Ryff\u2019s psychological well-being scale has been adapted to Indonesian and given to participants. The scale measures psychological well-being through six dimensions: autonomy, environmental mastery, personal growth, positive relation with others, purpose in life, and self-acceptance. The results showed that 51.7% of caregivers have psychological well-being in the middle level. Meanwhile, 42.9% of caregivers\u2019 psychological well-being is at the highest level. Furthermore, data analysis for each dimension varied, from lower to higher level. The finding leads to other investigations for future research to know more variables contributing to autistic caregiver\u2019s psychological well-being and the fit model of psychological well- being.",
+    "abstract": "This is a pilot study on the psychological well-being of autistic child caregivers. The current study investigates the level of psychological well-being among caregivers of autism using a descriptive research design. Data on psychological well-being were obtained through a scale of psychological well-being given to 21 autistic child caregivers. Ryff’s psychological well-being scale has been adapted to Indonesian and given to participants. The scale measures psychological well-being through six dimensions: autonomy, environmental mastery, personal growth, positive relation with others, purpose in life, and self-acceptance. The results showed that 51.7% of caregivers have psychological well-being in the middle level. Meanwhile, 42.9% of caregivers’ psychological well-being is at the highest level. Furthermore, data analysis for each dimension varied, from lower to higher level. The finding leads to other investigations for future research to know more variables contributing to autistic caregiver’s psychological well-being and the fit model of psychological well- being.",
     "keywords": [
       "Autism",
       "Autonomy",
@@ -1093,7 +1093,7 @@ window.AUTO_ABSTRACTS = [
     "database": "OpenAlex",
     "category": "PDFs",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "Confounding",
       "Biology",
@@ -1113,14 +1113,14 @@ window.AUTO_ABSTRACTS = [
   },
   {
     "id": "abs-3eda5ca4093c20d0",
-    "filename": "Autism spectrum disorders\u2014A genetics review.pdf",
-    "title": "Autism spectrum disorders\u2014A genetics review",
+    "filename": "Autism spectrum disorders—A genetics review.pdf",
+    "title": "Autism spectrum disorders—A genetics review",
     "journal": "Unknown Journal",
     "year": 2026,
     "database": "OpenAlex",
     "category": "PDFs",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "Autism is an etiologically and clinically heterogeneous group of disorders, diagnosed solely by the complex behavioral phenotype. On the basis of the high-heritability index, geneticists are con\ufb01dent that autism will be the \ufb01rst behavioral disorder for which the genetic basis can be well established. Although it was initially assumed that major genome-wide and candidate gene association studies would lead most directly to common autism genes, progress has been slow. Rather, most discoveries have come from studies of known genetic disorders associated with the behavioral phenotype. New technology, especially array chromosomal genomic hy- bridization, has both increased the identi\ufb01cation of putative autism genes and raised to approximately 25%, the percentage of children for whom an autism-related genetic change can be identi\ufb01ed. Incorporating clinical ge- neticists into the diagnostic and autism research arenas is vital to the \ufb01eld. Interpreting this new technology and deciphering autism\u2019s genetic montage require the skill set of the clinical geneticist including knowing how to acquire and interpret family pedigrees, how to analyze complex morpho- logic, neurologic, and medical phenotypes, sorting out heterogeneity, de- veloping rational genetic models, and designing studies. The current em- phasis on deciphering autism spectrum disorders has accelerated the \ufb01eld of neuroscience and demonstrated the necessity of multidisciplinary research that must include clinical geneticists both in the clinics and in the design and implementation of basic, clinical, and translational research. Genet Med 2011:13(4):278\u2013294.",
+    "abstract": "Autism is an etiologically and clinically heterogeneous group of disorders, diagnosed solely by the complex behavioral phenotype. On the basis of the high-heritability index, geneticists are conﬁdent that autism will be the ﬁrst behavioral disorder for which the genetic basis can be well established. Although it was initially assumed that major genome-wide and candidate gene association studies would lead most directly to common autism genes, progress has been slow. Rather, most discoveries have come from studies of known genetic disorders associated with the behavioral phenotype. New technology, especially array chromosomal genomic hy- bridization, has both increased the identiﬁcation of putative autism genes and raised to approximately 25%, the percentage of children for whom an autism-related genetic change can be identiﬁed. Incorporating clinical ge- neticists into the diagnostic and autism research arenas is vital to the ﬁeld. Interpreting this new technology and deciphering autism’s genetic montage require the skill set of the clinical geneticist including knowing how to acquire and interpret family pedigrees, how to analyze complex morpho- logic, neurologic, and medical phenotypes, sorting out heterogeneity, de- veloping rational genetic models, and designing studies. The current em- phasis on deciphering autism spectrum disorders has accelerated the ﬁeld of neuroscience and demonstrated the necessity of multidisciplinary research that must include clinical geneticists both in the clinics and in the design and implementation of basic, clinical, and translational research. Genet Med 2011:13(4):278–294.",
     "keywords": [
       "autism",
       "genetics",
@@ -1131,7 +1131,7 @@ window.AUTO_ABSTRACTS = [
       "the latter sib recurrence risk was 8.6%",
       "and for families with two or more affected children",
       "in practice",
-      "autism does not \ufb01t known inheritance patterns",
+      "autism does not ﬁt known inheritance patterns",
       "as Division of Medical Genetics",
       "Department of Child Health",
       "Thompson Center for Autism and Neurodevelopmental Disorders",
@@ -1160,7 +1160,7 @@ window.AUTO_ABSTRACTS = [
     "database": "OpenAlex",
     "category": "PDFs",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "Autism",
       "Psychosocial",
@@ -1187,7 +1187,7 @@ window.AUTO_ABSTRACTS = [
     "database": "OpenAlex",
     "category": "PDFs",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "This study aimed at investigating the fecal microbiota and metabolome of children with Pervasive Developmental Disorder Not Otherwise Specified (PDD-NOS) and autism (AD) in comparison to healthy children (HC). Bacterial tag- encoded FLX-titanium amplicon pyrosequencing (bTEFAP) of the 16S rDNA and 16S rRNA analyses were carried out to determine total bacteria (16S rDNA) and metabolically active bacteria (16S rRNA), respectively. The main bacterial phyla (Firmicutes, Bacteroidetes, Fusobacteria and Verrucomicrobia) significantly (P<0.05) changed among the three groups of children. As estimated by rarefaction, Chao and Shannon diversity index, the highest microbial diversity was found in AD children. Based on 16S-rRNA and culture-dependent data, Faecalibacterium and Ruminococcus were present at the highest level in fecal samples of PDD-NOS and HC children. Caloramator, Sarcina and Clostridium genera were the highest in AD children. Compared to HC, the composition of Lachnospiraceae family also differed in PDD-NOS and, especially, AD children. Except for Eubacterium siraeum, the lowest level of Eubacteriaceae was found on fecal samples of AD children. The level of Bacteroidetes genera and some Alistipes and Akkermansia species were almost the highest in PDD-NOS or AD children as well as almost all the identified Sutterellaceae and Enterobacteriaceae were the highest in AD. Compared to HC children, Bifidobacterium species decreased in AD. As shown by Canonical Discriminant Analysis of Principal Coordinates, the levels of free amino acids and volatile organic compounds of fecal samples were markedly affected in PDD-NOS and, especially, AD children. If the gut microbiota differences among AD and PDD-NOS and HC children are one of the concomitant causes or the consequence of autism, they may have implications regarding specific diagnostic test, and/or for treatment and prevention. Citation: De Angelis M, Piccolo M, Vannini L, Siragusa S, De Giacomo A, et al. (2013) Fecal Microbiota and Metabolome of Children with Autism and Pervasive Developmental Disorder Not Otherwise Specified . PLoS ONE 8(10): e76993. doi:10.1371/journal.pone.0076993 Editor: Markus M. Heimesaat, Charit\u00e9, Campus Benjamin Franklin, Germany Received June 19, 2013; Accepted August 28, 2013; Published October 9, 2013 Copyright: \u00a9 2013 De Angelis et al. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited. Funding: The work was funded by the Department of Soil, Plant and Food Science. The funders had no role in study design, data collection and analysis, decision to",
+    "abstract": "This study aimed at investigating the fecal microbiota and metabolome of children with Pervasive Developmental Disorder Not Otherwise Specified (PDD-NOS) and autism (AD) in comparison to healthy children (HC). Bacterial tag- encoded FLX-titanium amplicon pyrosequencing (bTEFAP) of the 16S rDNA and 16S rRNA analyses were carried out to determine total bacteria (16S rDNA) and metabolically active bacteria (16S rRNA), respectively. The main bacterial phyla (Firmicutes, Bacteroidetes, Fusobacteria and Verrucomicrobia) significantly (P<0.05) changed among the three groups of children. As estimated by rarefaction, Chao and Shannon diversity index, the highest microbial diversity was found in AD children. Based on 16S-rRNA and culture-dependent data, Faecalibacterium and Ruminococcus were present at the highest level in fecal samples of PDD-NOS and HC children. Caloramator, Sarcina and Clostridium genera were the highest in AD children. Compared to HC, the composition of Lachnospiraceae family also differed in PDD-NOS and, especially, AD children. Except for Eubacterium siraeum, the lowest level of Eubacteriaceae was found on fecal samples of AD children. The level of Bacteroidetes genera and some Alistipes and Akkermansia species were almost the highest in PDD-NOS or AD children as well as almost all the identified Sutterellaceae and Enterobacteriaceae were the highest in AD. Compared to HC children, Bifidobacterium species decreased in AD. As shown by Canonical Discriminant Analysis of Principal Coordinates, the levels of free amino acids and volatile organic compounds of fecal samples were markedly affected in PDD-NOS and, especially, AD children. If the gut microbiota differences among AD and PDD-NOS and HC children are one of the concomitant causes or the consequence of autism, they may have implications regarding specific diagnostic test, and/or for treatment and prevention. Citation: De Angelis M, Piccolo M, Vannini L, Siragusa S, De Giacomo A, et al. (2013) Fecal Microbiota and Metabolome of Children with Autism and Pervasive Developmental Disorder Not Otherwise Specified . PLoS ONE 8(10): e76993. doi:10.1371/journal.pone.0076993 Editor: Markus M. Heimesaat, Charité, Campus Benjamin Franklin, Germany Received June 19, 2013; Accepted August 28, 2013; Published October 9, 2013 Copyright: © 2013 De Angelis et al. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited. Funding: The work was funded by the Department of Soil, Plant and Food Science. The funders had no role in study design, data collection and analysis, decision to",
     "keywords": [],
     "source": "PDF"
   },
@@ -1200,7 +1200,7 @@ window.AUTO_ABSTRACTS = [
     "database": "OpenAlex",
     "category": "PDFs",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [],
     "source": "None"
   },
@@ -1213,7 +1213,7 @@ window.AUTO_ABSTRACTS = [
     "database": "OpenAlex",
     "category": "PDFs",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "Highlights d 102 genes implicated in risk for autism spectrum disorder (ASD genes, FDR % 0.1) d Most are expressed and enriched early in excitatory and inhibitory neuronal lineages d Most affect synapses or regulate other genes; how these roles dovetail is unknown d Some ASD genes alter early development broadly, others appear more speci\ufb01c to ASD Authors F. Kyle Satterstrom, Jack A. Kosmicki, Jiebiao Wang, ..., Kathryn Roeder, Mark J. Daly, Joseph D. Buxbaum Correspondence joseph.buxbaum@mssm.edu (J.D.B.), stephan.sanders@ucsf.edu (S.J.S.), roeder@andrew.cmu.edu (K.R.), mjdaly@broadinstitute.org (M.J.D.) In Brief Large-scale sequencing of patients with autism allows identi\ufb01cation of over 100 putative ASD-associated genes, the majority of which are neuronally expressed, and investigation of distinct genetic in\ufb02uences on ASD compared with other neurodevelopmental disorders. Satterstrom et al., 2020, Cell 180, 568\u2013584 February 6, 2020 \u00aa 2020 Elsevier Inc. https://doi.org/10.1016/j.cell.2019.12.036 Article Large-Scale Exome Sequencing Study Implicates Both Developmental and Functional Changes in the Neurobiology of Autism F. Kyle Satterstrom,1,2,3,37 Jack A. Kosmicki,1,2,3,4,5,37 Jiebiao Wang,6,37 Michael S. Breen,7,8,9 Silvia De Rubeis,7,8,9 Joon-Yong An,10,11 Minshi Peng,6 Ryan Collins,5,12 Jakob Grove,13,14,15 Lambertus Klei,16 Christine Stevens,1,3,4,5 Jennifer Reichert,7,8 Maureen S. Mulhern,7,8 Mykyta Artomov,1,3,4,5 Sherif Gerges,1,3,4,5 Brooke Sheppard,10 Xinyi Xu,7,8 Aparna Bhaduri,17,18 Utku Norman,19 Harrison Brand,5 Grace Schwartz,10 Rachel Nguyen,20 Elizabeth E. Guerrero,21 (Author list continued on next page) SUMMARY We present the largest exome sequencing study of autism spectrum disorder (ASD) to date (n = 35,584 total samples, 11,986 with ASD). Using an enhanced analytical framework to integrate de novo and case- control rare variation, we identify 102 risk genes at a false discovery rate of 0.1 or less. Of these genes, 49 show higher frequencies of disruptive de novo vari- ants in individuals ascertained to have severe neuro- developmental delay, whereas 53 show higher fre- quencies in individuals ascertained to have ASD; comparing ASD cases with mutations in these groups reveals phenotypic differences. Expressed early in brain development, most risk genes have roles in regulation of gene expression or neuronal communication (i.e., mutations effect neurodevelop- mental and neurophysiological changes), and 13 fall within loci recurrently hit by copy number variants. In cells from the human cortex, expression of risk genes is enriched in excitatory and inhibitory neuronal lineages, consistent with multiple paths to an excitatory-inhibitory imbalance underlying ASD.",
+    "abstract": "Highlights d 102 genes implicated in risk for autism spectrum disorder (ASD genes, FDR % 0.1) d Most are expressed and enriched early in excitatory and inhibitory neuronal lineages d Most affect synapses or regulate other genes; how these roles dovetail is unknown d Some ASD genes alter early development broadly, others appear more speciﬁc to ASD Authors F. Kyle Satterstrom, Jack A. Kosmicki, Jiebiao Wang, ..., Kathryn Roeder, Mark J. Daly, Joseph D. Buxbaum Correspondence joseph.buxbaum@mssm.edu (J.D.B.), stephan.sanders@ucsf.edu (S.J.S.), roeder@andrew.cmu.edu (K.R.), mjdaly@broadinstitute.org (M.J.D.) In Brief Large-scale sequencing of patients with autism allows identiﬁcation of over 100 putative ASD-associated genes, the majority of which are neuronally expressed, and investigation of distinct genetic inﬂuences on ASD compared with other neurodevelopmental disorders. Satterstrom et al., 2020, Cell 180, 568–584 February 6, 2020 ª 2020 Elsevier Inc. https://doi.org/10.1016/j.cell.2019.12.036 Article Large-Scale Exome Sequencing Study Implicates Both Developmental and Functional Changes in the Neurobiology of Autism F. Kyle Satterstrom,1,2,3,37 Jack A. Kosmicki,1,2,3,4,5,37 Jiebiao Wang,6,37 Michael S. Breen,7,8,9 Silvia De Rubeis,7,8,9 Joon-Yong An,10,11 Minshi Peng,6 Ryan Collins,5,12 Jakob Grove,13,14,15 Lambertus Klei,16 Christine Stevens,1,3,4,5 Jennifer Reichert,7,8 Maureen S. Mulhern,7,8 Mykyta Artomov,1,3,4,5 Sherif Gerges,1,3,4,5 Brooke Sheppard,10 Xinyi Xu,7,8 Aparna Bhaduri,17,18 Utku Norman,19 Harrison Brand,5 Grace Schwartz,10 Rachel Nguyen,20 Elizabeth E. Guerrero,21 (Author list continued on next page) SUMMARY We present the largest exome sequencing study of autism spectrum disorder (ASD) to date (n = 35,584 total samples, 11,986 with ASD). Using an enhanced analytical framework to integrate de novo and case- control rare variation, we identify 102 risk genes at a false discovery rate of 0.1 or less. Of these genes, 49 show higher frequencies of disruptive de novo vari- ants in individuals ascertained to have severe neuro- developmental delay, whereas 53 show higher fre- quencies in individuals ascertained to have ASD; comparing ASD cases with mutations in these groups reveals phenotypic differences. Expressed early in brain development, most risk genes have roles in regulation of gene expression or neuronal communication (i.e., mutations effect neurodevelop- mental and neurophysiological changes), and 13 fall within loci recurrently hit by copy number variants. In cells from the human cortex, expression of risk genes is enriched in excitatory and inhibitory neuronal lineages, consistent with multiple paths to an excitatory-inhibitory imbalance underlying ASD.",
     "keywords": [],
     "source": "PDF"
   },
@@ -1246,7 +1246,7 @@ window.AUTO_ABSTRACTS = [
     "database": "OpenAlex",
     "category": "PDFs",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "Autism spectrum disorders (ASD)",
       "Fecal microbiota transplant (FMT)",
@@ -1267,7 +1267,7 @@ window.AUTO_ABSTRACTS = [
     "database": "OpenAlex",
     "category": "PDFs",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "Asperger",
       "amygdaloid complex",
@@ -1310,7 +1310,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Uncategorized",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "increasing weather extremes",
       "skilled labor shortages",
@@ -1328,7 +1328,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Uncategorized",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "autism spectrum disorder",
       "intervention",
@@ -1349,7 +1349,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Uncategorized",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [],
     "source": "Crossref"
   },
@@ -1362,13 +1362,13 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Uncategorized",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "ITAE by 28.5%",
       "ITSE by 43.78%",
       "IAE by 30.61%",
       "and ITSE by 47.72%",
-      "utilizing a time step of 50 \u00b5s",
+      "utilizing a time step of 50 µs",
       "are consistent with the simulation outcomes"
     ],
     "source": "PDF"
@@ -1382,7 +1382,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "TPB Help-Seeking",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "Maintenance planning and control refers to the coordinated activities for determining maintenance needs, scheduling maintenance work, and ensuring that maintenance execution aligns with operational requirements. In public transport sectors, maintenance planning and control is critical for efficient operations, yet their maintenance workshops still use traditional computerized maintenance management software and lack advanced decision support tools. In this regards, this paper proposes an artificial intelligence based maintenance planning and control (AI-MPC) platform that aims to intelligently optimize maintenance workflows in maintenance workshops. The proposed platform considers a holistic approach and integrates maintenance planning with maintenance control in a unified system. As a systematic methodology, focus group workshop with industry and academic experts is conducted to gather the requirements and an expert view on the development of the platform. The focus group was organized around four key dimensions i.e., practicality and usability, integration and adaptability, functional and structural feasibility, and framework completeness. The expert feedbacks were properly analyzed and based on that a comprehensive multi-layer platform architecture is developed that highlight the important aspects of integration, intelligence, and user interface, etc., as suggested by the experts. According to our knowledge, there is no such solution available and that, our proposed AI-MPC is a novel comprehensive maintenance platform that can enable real-time, data-driven maintenance planning and control, reducing unplanned downtime and improving resource utilization in maintenance facilities. Mubashir Hayat et al. / Transportation Research Procedia 96 (2026) 580\u2013587\b 581",
+    "abstract": "Maintenance planning and control refers to the coordinated activities for determining maintenance needs, scheduling maintenance work, and ensuring that maintenance execution aligns with operational requirements. In public transport sectors, maintenance planning and control is critical for efficient operations, yet their maintenance workshops still use traditional computerized maintenance management software and lack advanced decision support tools. In this regards, this paper proposes an artificial intelligence based maintenance planning and control (AI-MPC) platform that aims to intelligently optimize maintenance workflows in maintenance workshops. The proposed platform considers a holistic approach and integrates maintenance planning with maintenance control in a unified system. As a systematic methodology, focus group workshop with industry and academic experts is conducted to gather the requirements and an expert view on the development of the platform. The focus group was organized around four key dimensions i.e., practicality and usability, integration and adaptability, functional and structural feasibility, and framework completeness. The expert feedbacks were properly analyzed and based on that a comprehensive multi-layer platform architecture is developed that highlight the important aspects of integration, intelligence, and user interface, etc., as suggested by the experts. According to our knowledge, there is no such solution available and that, our proposed AI-MPC is a novel comprehensive maintenance platform that can enable real-time, data-driven maintenance planning and control, reducing unplanned downtime and improving resource utilization in maintenance facilities. Mubashir Hayat et al. / Transportation Research Procedia 96 (2026) 580–587\b 581",
     "keywords": [
       "Artificial intelligence",
       "Maintenance planning",
@@ -1414,7 +1414,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Uncategorized",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "such as image processing",
       "pattern recognition",
@@ -1435,7 +1435,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "TPB Help-Seeking",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "and an evaluative outcome. The review focussed on teaching quality improvement methodology. We therefore included studies if one of the most common quality improvement models in healthcare was reported: (Total Quality Management, Continuous Quality Improvement, Business Process Reengineering, Model for Improvement/Plan-Do- L. Armstrong et al. International Journal of Nursing Studies 73 (2017) 70\u201384 71 Study-Act, Lean Thinking or Six Sigma) (Powell et al., 2009). The protocol was amended to remove geographical limitations, in order to gain insight from international best practice. Given the",
+    "abstract": "and an evaluative outcome. The review focussed on teaching quality improvement methodology. We therefore included studies if one of the most common quality improvement models in healthcare was reported: (Total Quality Management, Continuous Quality Improvement, Business Process Reengineering, Model for Improvement/Plan-Do- L. Armstrong et al. International Journal of Nursing Studies 73 (2017) 70–84 71 Study-Act, Lean Thinking or Six Sigma) (Powell et al., 2009). The protocol was amended to remove geographical limitations, in order to gain insight from international best practice. Given the",
     "keywords": [],
     "source": "PDF"
   },
@@ -1448,9 +1448,9 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Uncategorized",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
-      "the more they are open to \u201cnew mobilities\u201d",
+      "the more they are open to “new mobilities”",
       "the greater their technological capabilities and curiosity",
       "and the lower their cost sensitivity",
       "unimodal travellers"
@@ -1466,7 +1466,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Clustering (Statistics)",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "This paper provided a review of 210 studies on AI-enhanced special education from 2013 to 2023. Through bibliometric analysis, this review aimed to explore trends, focus areas, developments, and evolving themes of the field of AI for enhancing spe- cial education. Several noteworthy findings emerged from our analysis. The trend analysis of publications and citations revealed distinct phases, including an initial exploratory phase (2013\u20132016) followed by a period of rapid development (2017\u2013 2023). keyword co-occurrence networks and emergent word mapping highlight AI\u2019s transformative potential, especially in autism spectrum disorder interventions and advancements in learning environments. Emerging trends focus on mathematics learning outcomes and educational equity, evolving through phases of understand- ing AI\u2019s support and integrating advanced tools like virtual reality and educational robots. Topic clustering analysis revealed categories including cognitive rehabili- tation and ethical AI integration, emphasizing personalized instructional environ- ments. Implications for research stress the need to bolster foundational skills and explore innovative teaching methods, including addressing challenges in gamified learning and integrating AI seamlessly. The review reveals a need for larger sample sizes and longitudinal studies to enhance statistical robustness and real-world rele- vance. In educational practices, using AI tools like apps, robots, and simulations can boost engagement and support social and academic progress. Tailored interventions for specific learning difficulties, such as dyslexia and dyscalculia, through intelli- gent tutoring systems, offer promise for positive learning outcomes. Policymakers are crucial in facilitating technology integration by ensuring comprehensive teacher training, increased funding for tech infrastructure, and strong leadership. Initiatives targeting underserved communities aim to promote equity and access to transforma- tive resources. This study highlights AI\u2019s transformative potential in special educa- tion, advocating for inclusive and personalized learning environments with ethical Al solutions to address unique challenges faced by special needs students. Extended author information available on the last page of the article 1130 International Journal of Artificial Intelligence in Education (2025) 35:1129\u20131177",
+    "abstract": "This paper provided a review of 210 studies on AI-enhanced special education from 2013 to 2023. Through bibliometric analysis, this review aimed to explore trends, focus areas, developments, and evolving themes of the field of AI for enhancing spe- cial education. Several noteworthy findings emerged from our analysis. The trend analysis of publications and citations revealed distinct phases, including an initial exploratory phase (2013–2016) followed by a period of rapid development (2017– 2023). keyword co-occurrence networks and emergent word mapping highlight AI’s transformative potential, especially in autism spectrum disorder interventions and advancements in learning environments. Emerging trends focus on mathematics learning outcomes and educational equity, evolving through phases of understand- ing AI’s support and integrating advanced tools like virtual reality and educational robots. Topic clustering analysis revealed categories including cognitive rehabili- tation and ethical AI integration, emphasizing personalized instructional environ- ments. Implications for research stress the need to bolster foundational skills and explore innovative teaching methods, including addressing challenges in gamified learning and integrating AI seamlessly. The review reveals a need for larger sample sizes and longitudinal studies to enhance statistical robustness and real-world rele- vance. In educational practices, using AI tools like apps, robots, and simulations can boost engagement and support social and academic progress. Tailored interventions for specific learning difficulties, such as dyslexia and dyscalculia, through intelli- gent tutoring systems, offer promise for positive learning outcomes. Policymakers are crucial in facilitating technology integration by ensuring comprehensive teacher training, increased funding for tech infrastructure, and strong leadership. Initiatives targeting underserved communities aim to promote equity and access to transforma- tive resources. This study highlights AI’s transformative potential in special educa- tion, advocating for inclusive and personalized learning environments with ethical Al solutions to address unique challenges faced by special needs students. Extended author information available on the last page of the article 1130 International Journal of Artificial Intelligence in Education (2025) 35:1129–1177",
     "keywords": [
       "transformative potential",
       "especially in autism spectrum disorder interventions and"
@@ -1482,7 +1482,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Uncategorized",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "AAL",
       "graph construction",
@@ -1504,7 +1504,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Uncategorized",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "ASD-HybridNet"
     ],
@@ -1519,7 +1519,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Uncategorized",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "we propose ASD-Mamba"
     ],
@@ -1561,9 +1561,9 @@ window.AUTO_ABSTRACTS = [
     "journal": "Unknown Journal",
     "year": 2026,
     "database": "ScienceDirect",
-    "category": "Autism",
+    "category": "Systematic Literature Review",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "Autism Spectrum Disorder (ASD) is a complex neurodevelopmental condition characterised by challenges in social interaction, communication, and restrictive or repetitive behaviours, prompting global research efforts to better understand its prevalence and underlying mechanisms. Among the key contributors to ASD etiologies are common environmental factors, including prenatal, perinatal, and postnatal influences, which play a significant role in the development of the disorder. This study explores key risk factors associated with ASD through the application of feature selection and ensemble learning techniques, with a particular focus on evaluating the impact of environmental variables. We employed Recursive Feature Elimination to identify and rank the most influential factors contributing to ASD based on their effect on model performance. To improve the accuracy and robustness of predictions, we integrated multiple classifiers within an ensemble learning framework. Our approach enhances the reliability of the findings and offers a scalable, data-driven methodology for future research on the multifactorial nature of ASD risk. \u00a9 2025 The Authors. Published by Elsevier B.V. This is an open access article under the CC BY-NC-ND license (https://creativecommons.org/licenses/by-nc-nd/4.0) Peer-review under responsibility of the scientific committee of the KES International. 5102 Amira Rachah et al. / Procedia Computer Science 270 (2025) 5101\u20135110 Extensive efforts have been undertaken to determine ASD prevalence across different countries [24], highlighting its growing significance as a public health concern. A comprehensive systematic review by Adak et al. [25] under- scored substantial variations in ASD prevalence, which were found to be influenced by a range of factors, including geographic region, socio-economic status, gender, country, continent, and the diagnostic tools and methodologies em- ployed in various studies. ASD presents enduring challenges with significant personal, societal, and economic implications [26, 27, 28]. The in- creasing prevalence rates and associated societal costs highlight the urgent need for a deeper understanding of ASD\u2019s origins and more effective methods for identifying high-risk populations [29, 30]. While the exact causes of ASD remain unclear, research suggests it arises from a complex interplay of genetic, environmental, and biological factors. There is no single cause of ASD; instead, multiple contributing elements have been identified that may increase the likelihood of a child developing the condition. These include genetic predispositions, such as polygenic inheritance or specific genetic conditions like fragile X syndrome and tuberous sclerosis, as well as environmental influences and complications during birth. Additionally, having a sibling with ASD is recognized as a significant risk factor [14, 15,",
+    "abstract": "Autism Spectrum Disorder (ASD) is a complex neurodevelopmental condition characterised by challenges in social interaction, communication, and restrictive or repetitive behaviours, prompting global research efforts to better understand its prevalence and underlying mechanisms. Among the key contributors to ASD etiologies are common environmental factors, including prenatal, perinatal, and postnatal influences, which play a significant role in the development of the disorder. This study explores key risk factors associated with ASD through the application of feature selection and ensemble learning techniques, with a particular focus on evaluating the impact of environmental variables. We employed Recursive Feature Elimination to identify and rank the most influential factors contributing to ASD based on their effect on model performance. To improve the accuracy and robustness of predictions, we integrated multiple classifiers within an ensemble learning framework. Our approach enhances the reliability of the findings and offers a scalable, data-driven methodology for future research on the multifactorial nature of ASD risk. © 2025 The Authors. Published by Elsevier B.V. This is an open access article under the CC BY-NC-ND license (https://creativecommons.org/licenses/by-nc-nd/4.0) Peer-review under responsibility of the scientific committee of the KES International. 5102 Amira Rachah et al. / Procedia Computer Science 270 (2025) 5101–5110 Extensive efforts have been undertaken to determine ASD prevalence across different countries [24], highlighting its growing significance as a public health concern. A comprehensive systematic review by Adak et al. [25] under- scored substantial variations in ASD prevalence, which were found to be influenced by a range of factors, including geographic region, socio-economic status, gender, country, continent, and the diagnostic tools and methodologies em- ployed in various studies. ASD presents enduring challenges with significant personal, societal, and economic implications [26, 27, 28]. The in- creasing prevalence rates and associated societal costs highlight the urgent need for a deeper understanding of ASD’s origins and more effective methods for identifying high-risk populations [29, 30]. While the exact causes of ASD remain unclear, research suggests it arises from a complex interplay of genetic, environmental, and biological factors. There is no single cause of ASD; instead, multiple contributing elements have been identified that may increase the likelihood of a child developing the condition. These include genetic predispositions, such as polygenic inheritance or specific genetic conditions like fragile X syndrome and tuberous sclerosis, as well as environmental influences and complications during birth. Additionally, having a sibling with ASD is recognized as a significant risk factor [14, 15,",
     "keywords": [
       "Autism spectrum disorder",
       "risk factors",
@@ -1582,7 +1582,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Uncategorized",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "effectiveness",
       "policymakers"
@@ -1598,7 +1598,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Autism",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "Autism is often being associated with the deficits in social communication, interaction as well as imagination. Autistic patients may experience the impairment in social interaction usually being related to their inability to interpret others\u2019 emotion and even to express their own feelings. As a result, children with autism are often been labeled as lacking the ability to express their emotion. The main objective of this paper is to present a pilot study in studying the autistic children\u2019s\u2019 emotions and feelings upon being triggered by the humanoid-robot, NAO. Kansei Engineering, which is a powerful emotion extraction mechanism is adopted in the study to assess the children\u2019s\u2019 emotion. The experiment involved two autistic children and one normal child who were given four interaction modules in separate intervention session. The experiment conducted is to observe how robot triggers the emotion of these children. The result shows that different types of modules which would trigger different emotional reactions. This result provides a basis for further investigation of the assessment of autistic children\u2019s feeling and emotion. The result will ultimately contribute to finding best possible therapy for autistic children towards the used of humanoid-robot. \u00a9 2015 The Authors. Published by Elsevier B.V. Peer-review under responsibility of organizing committee of the 2015 IEEE International Symposium on Robotics and Intelligent Sensors (IRIS 2015).",
+    "abstract": "Autism is often being associated with the deficits in social communication, interaction as well as imagination. Autistic patients may experience the impairment in social interaction usually being related to their inability to interpret others’ emotion and even to express their own feelings. As a result, children with autism are often been labeled as lacking the ability to express their emotion. The main objective of this paper is to present a pilot study in studying the autistic children’s’ emotions and feelings upon being triggered by the humanoid-robot, NAO. Kansei Engineering, which is a powerful emotion extraction mechanism is adopted in the study to assess the children’s’ emotion. The experiment involved two autistic children and one normal child who were given four interaction modules in separate intervention session. The experiment conducted is to observe how robot triggers the emotion of these children. The result shows that different types of modules which would trigger different emotional reactions. This result provides a basis for further investigation of the assessment of autistic children’s feeling and emotion. The result will ultimately contribute to finding best possible therapy for autistic children towards the used of humanoid-robot. © 2015 The Authors. Published by Elsevier B.V. Peer-review under responsibility of organizing committee of the 2015 IEEE International Symposium on Robotics and Intelligent Sensors (IRIS 2015).",
     "keywords": [
       "Autism Spectrum Disorder",
       "Humanoid-robot intervention",
@@ -1616,7 +1616,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "TPB Help-Seeking",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "search in the database Scopus. For articles from the economic journal list we applied the search string with the sustainability eco- nomic dimensions (\u201cNAT AND FUT AND NORM\u201d), as articles published in economics journals should have a genuine economic focus as such. For articles from non-economics journals, we applied all four (\u201cNAT AND FUT AND NORM AND ECON\u201d) search dimensions. This search strategy, summarized in Fig. 1, yields 4855 peer-reviewed papers that are potentially relevant for sustainability economics.7 Due to our generous keyword-selection criteria, this pool of poten- tially relevant articles contained a number of papers that are not of relevance for sustainability economics due to buzzword use or out-of- context hits.8 To be able to manually judge the relevancy of a paper to sustainability economics, we drew a random sample of 1000 papers from this set of 4855 papers of potential relevance to sustainability economics. We performed a weak relevancy test of these 1000 papers. If a paper was clearly not relevant to the above definition of sustainability economics, e.g. due to buzzword use, we excluded it from our sample. Two authors rated papers to be relevant or irrelevant. In cases of dis- agreement, two further authors examined those cases where the first two disagreed. A paper was excluded if both of the latter two judged it to be irrelevant and included otherwise, to err on the side of being inclusive. Roughly two-thirds of the 1000 randomly drawn papers did not pass this weak-relevancy test, leaving us with 370 papers that make relevant contributions to sustainability economics.9 We acquired full- text PDFs of the relevant papers using reference manager software. As some PDFs could not be obtained or were not in a format that allowed computerized analyses, our full-text analysis is based on a final set of Table 1 List of search-",
+    "abstract": "search in the database Scopus. For articles from the economic journal list we applied the search string with the sustainability eco- nomic dimensions (“NAT AND FUT AND NORM”), as articles published in economics journals should have a genuine economic focus as such. For articles from non-economics journals, we applied all four (“NAT AND FUT AND NORM AND ECON”) search dimensions. This search strategy, summarized in Fig. 1, yields 4855 peer-reviewed papers that are potentially relevant for sustainability economics.7 Due to our generous keyword-selection criteria, this pool of poten- tially relevant articles contained a number of papers that are not of relevance for sustainability economics due to buzzword use or out-of- context hits.8 To be able to manually judge the relevancy of a paper to sustainability economics, we drew a random sample of 1000 papers from this set of 4855 papers of potential relevance to sustainability economics. We performed a weak relevancy test of these 1000 papers. If a paper was clearly not relevant to the above definition of sustainability economics, e.g. due to buzzword use, we excluded it from our sample. Two authors rated papers to be relevant or irrelevant. In cases of dis- agreement, two further authors examined those cases where the first two disagreed. A paper was excluded if both of the latter two judged it to be irrelevant and included otherwise, to err on the side of being inclusive. Roughly two-thirds of the 1000 randomly drawn papers did not pass this weak-relevancy test, leaving us with 370 papers that make relevant contributions to sustainability economics.9 We acquired full- text PDFs of the relevant papers using reference manager software. As some PDFs could not be obtained or were not in a format that allowed computerized analyses, our full-text analysis is based on a final set of Table 1 List of search-",
     "keywords": [
       "(b) the long-term uncertain future",
       "(c) normative orientation towards sustainability",
@@ -1636,7 +1636,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Uncategorized",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "Education",
       "and Psychology",
@@ -1654,7 +1654,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Uncategorized",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "allowing travelers to adjust activities",
       "schedules",
@@ -1674,7 +1674,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Uncategorized",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "on the perceptions",
       "knowledge",
@@ -1706,7 +1706,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Uncategorized",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "storage",
       "other factors require grid infrastructure improvement",
@@ -1732,7 +1732,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Uncategorized",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "the relationships between attitude",
       "subjective norms",
@@ -1741,7 +1741,7 @@ window.AUTO_ABSTRACTS = [
       "in which 635 upper primary school children (i.e.",
       "subjective norms",
       "2008). Cyberbullying",
-      "de\ufb01ned as \u201can aggressive",
+      "deﬁned as “an aggressive",
       "intentional act carried out by a group or individual",
       "using electronic forms of contact",
       "2008",
@@ -1779,7 +1779,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Autism",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "Children born with disabilities are now under the spotlight where researchers worldwide are exploring the applications of robots for possible intervention methods. However, these children are in the most \u2018vulnerable\u2019 group of research subjects and ethical considerations are paramount towards research developments in human-robot interaction (HRI) that are accurate and responsible. Based on prior and current experiences, this paper focuses specifically on the clinical applications of robots in therapy for children with autism. A set of procedures is proposed to serve as guidelines to researchers who are looking into this research area. Considerations of the technical and ethical context, plus the role of multidisciplinary teams from engineering and medical backgrounds need to come together to fulfill the research aim. Then only the increased validity of robotic applications in therapeutic context for autism intervention can be established. \u00a9 2014 The Authors. Published by Elsevier B.V. Peer-review under responsibility of the Center for Humanoid Robots and Bio-Sensing (HuRoBs).",
+    "abstract": "Children born with disabilities are now under the spotlight where researchers worldwide are exploring the applications of robots for possible intervention methods. However, these children are in the most ‘vulnerable’ group of research subjects and ethical considerations are paramount towards research developments in human-robot interaction (HRI) that are accurate and responsible. Based on prior and current experiences, this paper focuses specifically on the clinical applications of robots in therapy for children with autism. A set of procedures is proposed to serve as guidelines to researchers who are looking into this research area. Considerations of the technical and ethical context, plus the role of multidisciplinary teams from engineering and medical backgrounds need to come together to fulfill the research aim. Then only the increased validity of robotic applications in therapeutic context for autism intervention can be established. © 2014 The Authors. Published by Elsevier B.V. Peer-review under responsibility of the Center for Humanoid Robots and Bio-Sensing (HuRoBs).",
     "keywords": [
       "humanoid robot",
       "rehabilitation robotics"
@@ -1795,7 +1795,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Uncategorized",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "environmental responses",
       "risk assessment",
@@ -1816,7 +1816,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Malaysian Context",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "This research deals with the fundamental study on the social effects of robotic interaction to children with autism. Autism is a developmental disorder caused by abnormal development of the brain. It is characterized by deficits in social and communication skills and also behavior stereotypies. Robotic intervention has been identified as one of the methods that are producing encouraging outcome in the rehabilitation of children with autism. The main purpose of this project is to design interactive scenarios according to its level of complexity using a humanoid robot based on the pre-school curriculum for children with special needs by the Ministry of Education Malaysia. Expertise from related field including rehabilitation and special education are involved to ensure that the scenarios\u2019 designs meet the requirement and needs of children with autistic characteristics. Focusing on language skills, the interaction aims to facilitate autistic children who face difficulties in communication and socializing. This shall help them to express themselves better to their peers and other people. \u00a9 2014 The Authors. Published by Elsevier B.V. Peer-review under responsibility of the Center for Humanoid Robots and Bio-Sensing (HuRoBs).",
+    "abstract": "This research deals with the fundamental study on the social effects of robotic interaction to children with autism. Autism is a developmental disorder caused by abnormal development of the brain. It is characterized by deficits in social and communication skills and also behavior stereotypies. Robotic intervention has been identified as one of the methods that are producing encouraging outcome in the rehabilitation of children with autism. The main purpose of this project is to design interactive scenarios according to its level of complexity using a humanoid robot based on the pre-school curriculum for children with special needs by the Ministry of Education Malaysia. Expertise from related field including rehabilitation and special education are involved to ensure that the scenarios’ designs meet the requirement and needs of children with autistic characteristics. Focusing on language skills, the interaction aims to facilitate autistic children who face difficulties in communication and socializing. This shall help them to express themselves better to their peers and other people. © 2014 The Authors. Published by Elsevier B.V. Peer-review under responsibility of the Center for Humanoid Robots and Bio-Sensing (HuRoBs).",
     "keywords": [
       "humanoid robot",
       "rehabilitation robotics"
@@ -1832,7 +1832,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Uncategorized",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "while ensuring efficient model solving."
     ],
@@ -1847,7 +1847,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Malaysian Context",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "In this paper, we propose a method for EEG emotion recognition which is tested based on 2 dimensional models of emotions, (1) the rSASM, and (2) the 12-PAC model. EEG data were collected from 5 preschoolers aged 5 years old while watching emotional faces from the Radboud Faces Database (RafD). Features were extracted using KSDE and MFCC and classified using MLP. Results show that EEG emotion recognition using the 12-PAC model gives the highest accuracy for both feature extraction methods. Results indicated that the accuracy of EEG emotion recognition is increased with the precision of the dimensional models. \u00a9 2013 The Authors. Published by Elsevier Ltd. Selection and/or peer-review under responsibility of the Universiti Malaysia Sarawak",
+    "abstract": "In this paper, we propose a method for EEG emotion recognition which is tested based on 2 dimensional models of emotions, (1) the rSASM, and (2) the 12-PAC model. EEG data were collected from 5 preschoolers aged 5 years old while watching emotional faces from the Radboud Faces Database (RafD). Features were extracted using KSDE and MFCC and classified using MLP. Results show that EEG emotion recognition using the 12-PAC model gives the highest accuracy for both feature extraction methods. Results indicated that the accuracy of EEG emotion recognition is increased with the precision of the dimensional models. © 2013 The Authors. Published by Elsevier Ltd. Selection and/or peer-review under responsibility of the Universiti Malaysia Sarawak",
     "keywords": [
       "brain signals",
       "valence-arousal model",
@@ -1888,7 +1888,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Uncategorized",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "such as Lagrangian relaxation",
       "000 reefers",
@@ -1906,7 +1906,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Uncategorized",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "focus",
       "confidence",
@@ -1926,11 +1926,11 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Uncategorized",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "increasing backpressure",
       "reducing produc- tion",
-      "with great signi\ufb01cance for e\ufb03cient shale gas development."
+      "with great signiﬁcance for eﬃcient shale gas development."
     ],
     "source": "PDF"
   },
@@ -1943,7 +1943,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Malaysian Context",
     "litType": "Grey Literature (NASOM)",
-    "abstract": "Lacking of eye contact in social interaction and communication is one of the impairments that being diagnosed with some of the children with Autism Spectrum Disorder (ASD). This paper presents the initial response of eye contact time between humanoid robot NAO and ASD children in Robot-based Intervention Program (RBIP) interaction and normal classroom interaction. Twelve ASD children from National Autism Society of Malaysia (NASOM) based on inclusive criteria and certain ASD characteristics are being selected to participate in this intervention program. The interaction between humanoid robot NAO and ASD children is being recorded for both RBIP interaction and normal classroom setup. The eye contact time in both interactions for each child is being observed and recorded. The eye contact of the ASD child is often seen in RBIP interaction as compared to the normal classroom interaction. \u00a9 2012 The Authors. Published by Elsevier Ltd. Selection and/or peer-review under responsibility of the Centre of Humanoid Robots and Bio-Sensor (HuRoBs), Faculty of Mechanical Engineering, Universiti Teknologi MARA.",
+    "abstract": "Lacking of eye contact in social interaction and communication is one of the impairments that being diagnosed with some of the children with Autism Spectrum Disorder (ASD). This paper presents the initial response of eye contact time between humanoid robot NAO and ASD children in Robot-based Intervention Program (RBIP) interaction and normal classroom interaction. Twelve ASD children from National Autism Society of Malaysia (NASOM) based on inclusive criteria and certain ASD characteristics are being selected to participate in this intervention program. The interaction between humanoid robot NAO and ASD children is being recorded for both RBIP interaction and normal classroom setup. The eye contact time in both interactions for each child is being observed and recorded. The eye contact of the ASD child is often seen in RBIP interaction as compared to the normal classroom interaction. © 2012 The Authors. Published by Elsevier Ltd. Selection and/or peer-review under responsibility of the Centre of Humanoid Robots and Bio-Sensor (HuRoBs), Faculty of Mechanical Engineering, Universiti Teknologi MARA.",
     "keywords": [
       "Rehabilitation Robotics",
       "Humanoid Robot NAO",
@@ -1962,7 +1962,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "TPB Help-Seeking",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "The in\ufb02uence of social norms on child feeding is recognized, but guidance is lacking on how to address norms and related perceptions that hinder or support positive nutrition practices. We reviewed recent peer-reviewed and grey literature to summarize social norms relevant to complementary feeding (CF), intervention approaches that address norms, and their impacts on social norms and CF outcomes. Many reports described various norms, customs, and perceptions related to appropriate foods for young children, parenting practices, gender, and family roles, but rarely explored how they motivated behavior. Community engagement and media interventions addressed norms through facilitated discussions, challenging negative norms, portraying positive norms, engaging emotions, and correcting misperceptions. Evaluations of norms-focused interventions reported improved CF practices, but few assessed impacts on social norms. Although multiple contextual factors in\ufb02uence CF practices, evidence suggests the feasibility and effectiveness of addressing social norms as one component of programs to improve CF practices. Curr Dev Nutr 2021;5:nzab001.",
+    "abstract": "The inﬂuence of social norms on child feeding is recognized, but guidance is lacking on how to address norms and related perceptions that hinder or support positive nutrition practices. We reviewed recent peer-reviewed and grey literature to summarize social norms relevant to complementary feeding (CF), intervention approaches that address norms, and their impacts on social norms and CF outcomes. Many reports described various norms, customs, and perceptions related to appropriate foods for young children, parenting practices, gender, and family roles, but rarely explored how they motivated behavior. Community engagement and media interventions addressed norms through facilitated discussions, challenging negative norms, portraying positive norms, engaging emotions, and correcting misperceptions. Evaluations of norms-focused interventions reported improved CF practices, but few assessed impacts on social norms. Although multiple contextual factors inﬂuence CF practices, evidence suggests the feasibility and effectiveness of addressing social norms as one component of programs to improve CF practices. Curr Dev Nutr 2021;5:nzab001.",
     "keywords": [
       "multisectoral nutrition",
       "gender norms",
@@ -2027,7 +2027,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "TPB Help-Seeking",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "Abstract The initial hype and fanfare from the Meta Platforms view of how the metaverse could be brought to life has evolved into an ongoing discussion of not only the metaverse's impact on users and organizations but also the societal and cultural implications of widespread usage. The potential of consumer interaction with brands within the metaverse has engendered significant debate within the marketing\u2010focused discourse on the key challenges and transformative opportunities for marketers. Drawing on insights from expert contributors, this study examines the marketing implications of the hypothetical widespread adoption of the metaverse. We identify new research directions and propose a new framework offering valuable contributions for academia, practice, and policy makers. Our future research agenda culminates in a checklist for researchers which clarifies how the metaverse can be beneficial to digital marketing and advertising, branding, services, value creation, and consumer wellbeing.",
+    "abstract": "Abstract The initial hype and fanfare from the Meta Platforms view of how the metaverse could be brought to life has evolved into an ongoing discussion of not only the metaverse's impact on users and organizations but also the societal and cultural implications of widespread usage. The potential of consumer interaction with brands within the metaverse has engendered significant debate within the marketing‐focused discourse on the key challenges and transformative opportunities for marketers. Drawing on insights from expert contributors, this study examines the marketing implications of the hypothetical widespread adoption of the metaverse. We identify new research directions and propose a new framework offering valuable contributions for academia, practice, and policy makers. Our future research agenda culminates in a checklist for researchers which clarifies how the metaverse can be beneficial to digital marketing and advertising, branding, services, value creation, and consumer wellbeing.",
     "keywords": [
       "Metaverse",
       "Transformative learning",
@@ -2049,7 +2049,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "TPB Help-Seeking",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "Lowenfeld developed sandplay therapy as a technique that allows children\u2019s multidimensional thoughts and emotions to be expressed more freely, while at the same time combining not only visual but also tactile and sensory factors. Since then, sandplay therapy has been used as a psychotherapy technique in various clinical settings around the world, but there has been no evidence-based research on sandplay therapy and sensory processing ability. This study investigated the clinical effects of school sandplay group counseling on sensory processing abilities in 20 sixth-grade elementary school students with suicide ideation. School sandplay group counseling was conducted for 8 sessions in 12 weeks, from March 2023, to June 2023. The subjects were sixth-grade students with suicide ideation from an elementary school in Chungcheongbuk-do, South Korea, with a single group of 10 males (50%) and 10 females (50%) without a control group. The average age of the participants was 11.74, with a range of 11.25-12.15. The Korean version of the SIQ-JR and the Korean version of the AASP were used as pretest and posttest instruments. The data were analyzed using SPSS 29.0. the paired-sample t-tests indicated statistically significant changes in low registration (p = .025), and suicide ideation (p = 0.017). The results of this study suggest that school sandplay group counseling may have clinical effects on sensory processing abilities and suicide ideation in elementary school children with suicide ideation.",
+    "abstract": "Lowenfeld developed sandplay therapy as a technique that allows children’s multidimensional thoughts and emotions to be expressed more freely, while at the same time combining not only visual but also tactile and sensory factors. Since then, sandplay therapy has been used as a psychotherapy technique in various clinical settings around the world, but there has been no evidence-based research on sandplay therapy and sensory processing ability. This study investigated the clinical effects of school sandplay group counseling on sensory processing abilities in 20 sixth-grade elementary school students with suicide ideation. School sandplay group counseling was conducted for 8 sessions in 12 weeks, from March 2023, to June 2023. The subjects were sixth-grade students with suicide ideation from an elementary school in Chungcheongbuk-do, South Korea, with a single group of 10 males (50%) and 10 females (50%) without a control group. The average age of the participants was 11.74, with a range of 11.25-12.15. The Korean version of the SIQ-JR and the Korean version of the AASP were used as pretest and posttest instruments. The data were analyzed using SPSS 29.0. the paired-sample t-tests indicated statistically significant changes in low registration (p = .025), and suicide ideation (p = 0.017). The results of this study suggest that school sandplay group counseling may have clinical effects on sensory processing abilities and suicide ideation in elementary school children with suicide ideation.",
     "keywords": [
       "Psychology",
       "Suicidal ideation",
@@ -2073,7 +2073,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Uncategorized",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [],
     "source": "Crossref"
   },
@@ -2114,12 +2114,12 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Uncategorized",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
-      "CBS2499 (flocculant) and UMY321 (non-floc\u00ad culant)",
+      "CBS2499 (flocculant) and UMY321 (non-floc­ culant)",
       "testing the impact of pH",
       "ethanol",
-      "especially ethanol and SO\u2082"
+      "especially ethanol and SO₂"
     ],
     "source": "PDF"
   },
@@ -2132,7 +2132,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Clustering (Statistics)",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "The authors test the popular thesis of some of the most in\ufb02uential theorists of contemporary societies about the erosion of the social structuring of consumption choices and their consequent individualisation in westernised societies, using the example of food practices. The analysis is based on data obtained from a random sample of the Slovenian population within a research project entitled \u2018Lifestyles in a Mediated Society.\u2019 The aims of the analysis were: (a) to explore the role of socio-demographic variables in food practices, and (b) to discover the inherent logic that motivates each particular set offood practices and which makes them meaningful for the individual, by studying an association of respondents\u2019 food practices with their worldview and cultural consumption. A cluster analysis revealed six food cultures (Male traditionalists, Yes-sayers, Male modernists, Weight-watchers, Carefree hedonists, and Health-conscious hedonists) lying along a continuum where traditionalism occupies one end and post-traditionalism the other. The authors conclude that although two out of six food cultures crosscut socio-demographic af\ufb01liationsand transform food consumption into a constituent part of a lifestyle as an identity project, there is still a signi\ufb01cant in\ufb02uence of socio- demographic characteristics (particularly gender and formal education) on food practices in contemporary Slovenia. Furthermore, signi\ufb01cant associations exist between food practices, on the one hand, and the respondent\u2019s worldview and cultural consumption, on the other. q 2004 Elsevier Ltd. All rights reserved.",
+    "abstract": "The authors test the popular thesis of some of the most inﬂuential theorists of contemporary societies about the erosion of the social structuring of consumption choices and their consequent individualisation in westernised societies, using the example of food practices. The analysis is based on data obtained from a random sample of the Slovenian population within a research project entitled ‘Lifestyles in a Mediated Society.’ The aims of the analysis were: (a) to explore the role of socio-demographic variables in food practices, and (b) to discover the inherent logic that motivates each particular set offood practices and which makes them meaningful for the individual, by studying an association of respondents’ food practices with their worldview and cultural consumption. A cluster analysis revealed six food cultures (Male traditionalists, Yes-sayers, Male modernists, Weight-watchers, Carefree hedonists, and Health-conscious hedonists) lying along a continuum where traditionalism occupies one end and post-traditionalism the other. The authors conclude that although two out of six food cultures crosscut socio-demographic afﬁliationsand transform food consumption into a constituent part of a lifestyle as an identity project, there is still a signiﬁcant inﬂuence of socio- demographic characteristics (particularly gender and formal education) on food practices in contemporary Slovenia. Furthermore, signiﬁcant associations exist between food practices, on the one hand, and the respondent’s worldview and cultural consumption, on the other. q 2004 Elsevier Ltd. All rights reserved.",
     "keywords": [
       "Food practices",
       "Food culture",
@@ -2153,12 +2153,12 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Uncategorized",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "GABA",
       "the major inhibitory neurotransmitter in the adult brain",
       "the increased expression of the chloride exporter KCC2",
-      "shifts GABA\u2019s action from depolarizing to hyperpolarizing",
+      "shifts GABA’s action from depolarizing to hyperpolarizing",
       "as well as aberrant formation/function of AIS",
       "considering various models of ASD",
       "we discuss the multifaceted role of GABA",
@@ -2176,7 +2176,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Uncategorized",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "sometimes by chance",
       "high temperatures",
@@ -2200,7 +2200,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Uncategorized",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "techno-optimist",
       "active environmentalist",
@@ -2217,7 +2217,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Uncategorized",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "Indonesia",
       "lead (Pb)",
@@ -2226,16 +2226,16 @@ window.AUTO_ABSTRACTS = [
       "family history of ASD",
       "maternal dietary habits",
       "use of skin-whitening creams",
-      "95 % CI: 1.78\u2013533",
+      "95 % CI: 1.78–533",
       "p = 0.0312)",
-      "95 % CI: 0.0215\u20130.980",
+      "95 % CI: 0.0215–0.980",
       "p = 0.0569)",
       "a positive family history of ASD (OR = 24.7",
-      "95 % CI: 2.20\u20131195",
+      "95 % CI: 2.20–1195",
       "p = 0.0338) emerged as a robust predictor",
       "while maternal use of skin-whitening creams (OR = 0.119",
-      "95 % CI: 0.0121\u20130.806",
-      "95 % CI: 1.38\u2013193"
+      "95 % CI: 0.0121–0.806",
+      "95 % CI: 1.38–193"
     ],
     "source": "PDF"
   },
@@ -2248,7 +2248,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Uncategorized",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "and identifies three clusters of students",
       "walking",
@@ -2265,7 +2265,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Uncategorized",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "we propose a novel framework"
     ],
@@ -2280,7 +2280,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Uncategorized",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "ASD stigma",
       "2023). Unfortunately",
@@ -2291,7 +2291,7 @@ window.AUTO_ABSTRACTS = [
       "2023",
       "Trundle et al.",
       "2020). Despite the importance of this topic",
-      "where one\u2019s personal and family reputation are paramount",
+      "where one’s personal and family reputation are paramount",
       "subsequently",
       "2022). Unfortunately",
       "much of this maltreatment is perpetrated by caregivers",
@@ -2313,12 +2313,12 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Uncategorized",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "social and behavior change",
       "nutrition",
       "gender norms",
-      "women\u2019s dietary diversity",
+      "women’s dietary diversity",
       "health systems",
       "food systems"
     ],
@@ -2333,7 +2333,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Autism",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "This paper discuss about mock experiment on a typically developed child. The mock experiment is based on the previous work of the experimental framework on ASKNAO intervention. This is conducted as a preparation for the main experiment and to fine-tune the framework so that undesirable elements from the framework can be avoided. A typically developed child is used rather than an autism child because the typically developed child is able to handle the stress that occurs and capable of expressing his emotions freely. The findings of the experiment shows that the several adjustment need to be made on the previous framework in order to achieve a better result for the main experiment on an autism child. \u00a9 2016 The Authors. Published by Elsevier B.V. Peer-review under responsibility of organizing committee of the 2016 IEEE International Symposium on Robotics and Intelligent Sensors (IRIS 2016).",
+    "abstract": "This paper discuss about mock experiment on a typically developed child. The mock experiment is based on the previous work of the experimental framework on ASKNAO intervention. This is conducted as a preparation for the main experiment and to fine-tune the framework so that undesirable elements from the framework can be avoided. A typically developed child is used rather than an autism child because the typically developed child is able to handle the stress that occurs and capable of expressing his emotions freely. The findings of the experiment shows that the several adjustment need to be made on the previous framework in order to achieve a better result for the main experiment on an autism child. © 2016 The Authors. Published by Elsevier B.V. Peer-review under responsibility of organizing committee of the 2016 IEEE International Symposium on Robotics and Intelligent Sensors (IRIS 2016).",
     "keywords": [
       "Humanoid Robot Nao",
       "Autism",
@@ -2352,7 +2352,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Autism",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "This report presents the findings from our pilot study on the initial behavior of autistic children of moderately impaired intelligence when exposed to simple human-robot interaction (HRI) modules executed by a humanoid robot NAO. All 5 children have been specifically assessed using the Autism Diagnostic Observation Schedule (ADOS) and their diagnosis is classified as autistic disorder. We hypothesize that NAO\u2019s human-like appearance, its capability to blink its eyes, speak and play music; coupled with the simplicity of the HRI modules will be able to entice the children\u2019s interest to engage in communication. Hence, this would significantly reduce the children\u2019s autistic characteristics in communication behavior compared to the usual class setting. In this study, the principal result shows that 4 out of the 5 children exhibited a decrease of autistic behavior (in communication subscale) when the robot is executing HRI modules during the single session of child-robot interaction. This promising outcome indicates that the NAO robot were able to attract the children\u2019s attention, keep each child engaged with the robot during interaction and hence give positive impact to the children\u2019s communication behavior. Relating this to the children\u2019s FSIQ, it can be deducted that autistic children with FSIQ of moderately impaired (from 40-54) are receptive to robot- based intervention. This is again showed by the lower autistic traits observed during the HRI modules compared to in-class setting. Overall, this research suggests that autistic children of moderately impaired intelligence show good response to robot-based intervention. This finding is crucial to form a solid foundation and proof on the positive utilization of the humanoid robot NAO for the children affected by autism. \u00a9 2012 The Authors. Published by Elsevier Ltd. Selection and/or peer-review under responsibility of the Centre of Humanoid Robots and Bio-Sensor (HuRoBs), Faculty of Mechanical Engineering, Universiti Teknologi MARA.",
+    "abstract": "This report presents the findings from our pilot study on the initial behavior of autistic children of moderately impaired intelligence when exposed to simple human-robot interaction (HRI) modules executed by a humanoid robot NAO. All 5 children have been specifically assessed using the Autism Diagnostic Observation Schedule (ADOS) and their diagnosis is classified as autistic disorder. We hypothesize that NAO’s human-like appearance, its capability to blink its eyes, speak and play music; coupled with the simplicity of the HRI modules will be able to entice the children’s interest to engage in communication. Hence, this would significantly reduce the children’s autistic characteristics in communication behavior compared to the usual class setting. In this study, the principal result shows that 4 out of the 5 children exhibited a decrease of autistic behavior (in communication subscale) when the robot is executing HRI modules during the single session of child-robot interaction. This promising outcome indicates that the NAO robot were able to attract the children’s attention, keep each child engaged with the robot during interaction and hence give positive impact to the children’s communication behavior. Relating this to the children’s FSIQ, it can be deducted that autistic children with FSIQ of moderately impaired (from 40-54) are receptive to robot- based intervention. This is again showed by the lower autistic traits observed during the HRI modules compared to in-class setting. Overall, this research suggests that autistic children of moderately impaired intelligence show good response to robot-based intervention. This finding is crucial to form a solid foundation and proof on the positive utilization of the humanoid robot NAO for the children affected by autism. © 2012 The Authors. Published by Elsevier Ltd. Selection and/or peer-review under responsibility of the Centre of Humanoid Robots and Bio-Sensor (HuRoBs), Faculty of Mechanical Engineering, Universiti Teknologi MARA.",
     "keywords": [
       "human-robot interaction (HRI)",
       "Autism Spectrum Disorder (ASD)",
@@ -2370,7 +2370,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Uncategorized",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "low",
       "elicited social norms",
@@ -2387,7 +2387,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Autism",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "The evolution of human-robot interaction (HRI) is now expanding its wings to aid children with Autism Spectrum Disorders (ASD) in areas of socialization, communication and playful behavior through robot-based intervention. Herein we present our holistic, long- standing goal to contribute to the lives of children with ASD; who suffer a lifelong developmental disability. The purpose of this paper is to elaborate on a case study in our pilot experiment where a child with ASD is exposed to the humanoid robot NAO in order to gauge his initial response and behavior in the presence of a robot. NAO robot is the chosen robotic agent as it is a commercially available humanoid with simpler in appearance compared to real humans, thus appears more approachable to children with ASD. The pilot procedures involve the robot executing basic, simple components of interaction through a series of 5 different modules. In this study, the principal results show that the basic HRI carried out by the robot is able to suppress the child\u2019s autistic behavior during the child-robot interaction. Also, more eye contact is observed between the child and robot compared to the child with his teacher during regular class session. Relating this to the child\u2019s IQ which falls in the moderate category, it is suggested that children with ASD in the same IQ group will be receptive to robot-based intervention even in the first interaction session. Hence, it can be concluded that the humanoid robot NAO has potential to serve as a platform to support and initiate interaction in children with ASD. \u00a9 2012 The Authors. Published by Elsevier Ltd. Selection and/or peer-review under responsibility of the Centre of Humanoid Robots and Bio-Sensor (HuRoBs), Faculty of Mechanical Engineering, Universiti Teknologi MARA.",
+    "abstract": "The evolution of human-robot interaction (HRI) is now expanding its wings to aid children with Autism Spectrum Disorders (ASD) in areas of socialization, communication and playful behavior through robot-based intervention. Herein we present our holistic, long- standing goal to contribute to the lives of children with ASD; who suffer a lifelong developmental disability. The purpose of this paper is to elaborate on a case study in our pilot experiment where a child with ASD is exposed to the humanoid robot NAO in order to gauge his initial response and behavior in the presence of a robot. NAO robot is the chosen robotic agent as it is a commercially available humanoid with simpler in appearance compared to real humans, thus appears more approachable to children with ASD. The pilot procedures involve the robot executing basic, simple components of interaction through a series of 5 different modules. In this study, the principal results show that the basic HRI carried out by the robot is able to suppress the child’s autistic behavior during the child-robot interaction. Also, more eye contact is observed between the child and robot compared to the child with his teacher during regular class session. Relating this to the child’s IQ which falls in the moderate category, it is suggested that children with ASD in the same IQ group will be receptive to robot-based intervention even in the first interaction session. Hence, it can be concluded that the humanoid robot NAO has potential to serve as a platform to support and initiate interaction in children with ASD. © 2012 The Authors. Published by Elsevier Ltd. Selection and/or peer-review under responsibility of the Centre of Humanoid Robots and Bio-Sensor (HuRoBs), Faculty of Mechanical Engineering, Universiti Teknologi MARA.",
     "keywords": [
       "human-robot interaction (HRI)",
       "Autism Spectrum Disorders (ASD)",
@@ -2405,12 +2405,12 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Uncategorized",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "they often disregard that this allows learning about others",
       "laying the ground for policy design. While peer effects",
       "on average",
-      "increase individuals\u2019 willingness to provide personal data"
+      "increase individuals’ willingness to provide personal data"
     ],
     "source": "PDF"
   },
@@ -2423,7 +2423,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Uncategorized",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [],
     "source": "Crossref"
   },
@@ -2436,7 +2436,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Uncategorized",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "via shortening of C1 with constant glottal gesture"
     ],
@@ -2451,7 +2451,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Uncategorized",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "Informal institutions",
       "Social norms",
@@ -2469,9 +2469,9 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Uncategorized",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
-      "500 \u00b1 12",
+      "500 ± 12",
       "500 MP/L)",
       "which decreased to 10",
       "Received in revised form 29 December 2025",
@@ -2490,7 +2490,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Uncategorized",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "also termed multimodality"
     ],
@@ -2505,7 +2505,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Uncategorized",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "better- functioning working environment for everyone."
     ],
@@ -2520,7 +2520,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Uncategorized",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "communication",
       "particularly microglia and astrocytes"
@@ -2536,7 +2536,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Uncategorized",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "1. INTRODUCTION"
     ],
@@ -2572,7 +2572,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Uncategorized",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "PV consumption rate"
     ],
@@ -2587,9 +2587,9 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Uncategorized",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
-      "key participants\u2019 networking patterns",
+      "key participants’ networking patterns",
       "communication strategies",
       "issue participation",
       "foreign practitioners dominate the NGOs",
@@ -2608,9 +2608,9 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Uncategorized",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
-      "a dominant source of urban NOX emis\u00ad sions",
+      "a dominant source of urban NOX emis­ sions",
       "meteorological conditions",
       "and optimal receptor placement"
     ],
@@ -2625,7 +2625,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Uncategorized",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "additional energy requirements",
       "effective",
@@ -2642,7 +2642,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Uncategorized",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "however",
       "for not fully capturing true farmer behaviour"
@@ -2687,7 +2687,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Uncategorized",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [],
     "source": "Crossref"
   },
@@ -2700,7 +2700,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Uncategorized",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "involving the basic",
       "emotional",
@@ -2729,7 +2729,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Uncategorized",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "namely subjective corrective accident human factors",
       "perceived corrective accident human factors",
@@ -2747,7 +2747,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Uncategorized",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "such as financial inclusion programs",
       "vocational train- ing",
@@ -2767,7 +2767,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Uncategorized",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "patterns"
     ],
@@ -2782,7 +2782,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "TPB Help-Seeking",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "This study explores the impact of karmic beliefs on the work attitude of entrepreneurs in the Mysuru District. The study employs a survey of 250 entrepreneurs, utilizing structured questionnaires to gather data on their karmic beliefs and work attitudes. De- scriptive statistics, t-test, ANOVA, correlation matrix, and Principal Component Matrix were employed to derive the results. The findings reveal a moderate level of belief in karma and work attitude exists among entrepreneurs and a significant relationship be- tween karmic beliefs and work attitudes, with no significant differences based on gender and substantial variance differences noted based on business location. The results indicate that while the belief in karma influences entrepreneurial work attitudes, variations in business location significantly impact the extent of this influence, highlighting the need for location-specific strategies in un- derstanding work behaviors. The research explores the link between karma belief and entrepreneurial work attitudes, highlighting the impact of ethical views on decision-making, resilience, interpersonal relationships, and work-life balance, fostering trust with stakeholders and ultimately leading to business sustainability. \u00a9 2025 The Authors. Published by Elsevier B.V. This is an open access article under the CC BY-NC-ND license (https://creativecommons.org/licenses/by-nc-nd/4.0) Peer-review under responsibility of the scientific committee of the International Conference on Machine Learning and Data Engineering 3660 Rethy B Menon et al. / Procedia Computer Science 258 (2025) 3659\u20133671 Ongoing research explores how the karmic belief will affect the business the ideology of the work, and the intentions towards the social welfare. [1]. Practicing karmic principles can help entrepreneurs develop ethical businesses that promote transparency and trust, encouraging them to view challenges as opportunities for growth and learning [2]. A recent study has highlighted the potential of karma-based techniques in entrepreneurship and workplace interactions. Karma orientation among sales employees can improve client interactions, selling effectiveness, and ethical behaviors [4]. The philosophy of karma yoga, which emphasizes doing work without connection to outcomes, can alleviate stress and produce a more meaningful life [5]. This study aims to investigate the relationship between belief in karma and work behaviors among entrepreneurs in the Mysuru District, shedding light on the impact of ethical views on busi- ness performance and social well-being. To further understand the impact of karmic beliefs on entrepreneurial work attitudes, a comprehensive analysis was conducted, involving several key stages. The frequency distribution of cate- gorical variables such as business location, gender, and education levels provided valuable insights into the dataset\u2019s",
+    "abstract": "This study explores the impact of karmic beliefs on the work attitude of entrepreneurs in the Mysuru District. The study employs a survey of 250 entrepreneurs, utilizing structured questionnaires to gather data on their karmic beliefs and work attitudes. De- scriptive statistics, t-test, ANOVA, correlation matrix, and Principal Component Matrix were employed to derive the results. The findings reveal a moderate level of belief in karma and work attitude exists among entrepreneurs and a significant relationship be- tween karmic beliefs and work attitudes, with no significant differences based on gender and substantial variance differences noted based on business location. The results indicate that while the belief in karma influences entrepreneurial work attitudes, variations in business location significantly impact the extent of this influence, highlighting the need for location-specific strategies in un- derstanding work behaviors. The research explores the link between karma belief and entrepreneurial work attitudes, highlighting the impact of ethical views on decision-making, resilience, interpersonal relationships, and work-life balance, fostering trust with stakeholders and ultimately leading to business sustainability. © 2025 The Authors. Published by Elsevier B.V. This is an open access article under the CC BY-NC-ND license (https://creativecommons.org/licenses/by-nc-nd/4.0) Peer-review under responsibility of the scientific committee of the International Conference on Machine Learning and Data Engineering 3660 Rethy B Menon et al. / Procedia Computer Science 258 (2025) 3659–3671 Ongoing research explores how the karmic belief will affect the business the ideology of the work, and the intentions towards the social welfare. [1]. Practicing karmic principles can help entrepreneurs develop ethical businesses that promote transparency and trust, encouraging them to view challenges as opportunities for growth and learning [2]. A recent study has highlighted the potential of karma-based techniques in entrepreneurship and workplace interactions. Karma orientation among sales employees can improve client interactions, selling effectiveness, and ethical behaviors [4]. The philosophy of karma yoga, which emphasizes doing work without connection to outcomes, can alleviate stress and produce a more meaningful life [5]. This study aims to investigate the relationship between belief in karma and work behaviors among entrepreneurs in the Mysuru District, shedding light on the impact of ethical views on busi- ness performance and social well-being. To further understand the impact of karmic beliefs on entrepreneurial work attitudes, a comprehensive analysis was conducted, involving several key stages. The frequency distribution of cate- gorical variables such as business location, gender, and education levels provided valuable insights into the dataset’s",
     "keywords": [
       "Karmic Beliefs",
       "Entrepreneurial Behavior",
@@ -2802,7 +2802,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Autism",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "The development and research on Human-Robot Interaction (HRI) between the humanoid robot and autistic children is new and innovative. This paper presents the initial response of stereotyped behavior in HRI between Humanoid Robot NAO and children with Autism Spectrum Disorder (ASD) during the Robot-based Intervention Program (RBIP) and normal class session. The presence of stereotyped behavior in children with ASD is being evaluated during the RBIP interaction and normal class session interaction. Humanoid Robot NAO is being utilized for the interaction in RBIP. The relationship between initial response of stereotyped behavior and the intelligence level of ASD children were analyzed during two interaction set-up, which were RBIP and normal classroom interaction, from which these findings are discussed in this paper. Our focus of discussion in this research is the initial response of autistic children exhibiting stereotyped behavior in RBIP and normal classroom session \u00a9 2012 The Authors. Published by Elsevier Ltd. Selection and/or peer-review under responsibility of the Centre of Humanoid Robots and Bio-Sensor (HuRoBs), Faculty of Mechanical Engineering, Universiti Teknologi MARA.",
+    "abstract": "The development and research on Human-Robot Interaction (HRI) between the humanoid robot and autistic children is new and innovative. This paper presents the initial response of stereotyped behavior in HRI between Humanoid Robot NAO and children with Autism Spectrum Disorder (ASD) during the Robot-based Intervention Program (RBIP) and normal class session. The presence of stereotyped behavior in children with ASD is being evaluated during the RBIP interaction and normal class session interaction. Humanoid Robot NAO is being utilized for the interaction in RBIP. The relationship between initial response of stereotyped behavior and the intelligence level of ASD children were analyzed during two interaction set-up, which were RBIP and normal classroom interaction, from which these findings are discussed in this paper. Our focus of discussion in this research is the initial response of autistic children exhibiting stereotyped behavior in RBIP and normal classroom session © 2012 The Authors. Published by Elsevier Ltd. Selection and/or peer-review under responsibility of the Centre of Humanoid Robots and Bio-Sensor (HuRoBs), Faculty of Mechanical Engineering, Universiti Teknologi MARA.",
     "keywords": [
       "Rehabilitation Robotics",
       "Human-Robot Interaction",
@@ -2821,7 +2821,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "TPB Help-Seeking",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "Abstract As digital access expands rapidly among children worldwide, technology-facilitated child sexual exploitation and abuse (CSEA), including online grooming, sexual solicitation, non-consensual image sharing and sexual extortion, has emerged as urgent yet underexamined category of digital harms 1 . Despite growing policy attention to online safety, evidence remains limited, particularly in low- and middle-income countries, where most of the world\u2019s children live 2 . We analysed nationally representative survey data from 11,912 children aged 12\u201317 years across 12 countries in eastern and southern Africa and Southeast Asia, collected through the Disrupting Harm project in 2020\u20132021. We found that one in six internet-using children experienced at least one form of technology-facilitated CSEA, equivalent to over 10 million children. Despite this scale, many experiences went undisclosed, pointing to disclosure as a critical pathway for protection in the digital age. When children did disclose, they relied primarily on informal channels, especially friends, rather than formal reporting mechanisms such as police or helplines. Using Bayesian hierarchical models accounting for cross-country heterogeneity, we find that older children were less likely to disclose, whereas enabling parental mediation of online activities and children\u2019s knowledge of where to seek help after sexual harassment or assault were associated with higher rates of disclosure. These findings provide population-level evidence to inform prevention and response across low- and middle-income countries, where coordinated action by policymakers, law enforcement and technology companies is urgently needed to protect all children.",
+    "abstract": "Abstract As digital access expands rapidly among children worldwide, technology-facilitated child sexual exploitation and abuse (CSEA), including online grooming, sexual solicitation, non-consensual image sharing and sexual extortion, has emerged as urgent yet underexamined category of digital harms 1 . Despite growing policy attention to online safety, evidence remains limited, particularly in low- and middle-income countries, where most of the world’s children live 2 . We analysed nationally representative survey data from 11,912 children aged 12–17 years across 12 countries in eastern and southern Africa and Southeast Asia, collected through the Disrupting Harm project in 2020–2021. We found that one in six internet-using children experienced at least one form of technology-facilitated CSEA, equivalent to over 10 million children. Despite this scale, many experiences went undisclosed, pointing to disclosure as a critical pathway for protection in the digital age. When children did disclose, they relied primarily on informal channels, especially friends, rather than formal reporting mechanisms such as police or helplines. Using Bayesian hierarchical models accounting for cross-country heterogeneity, we find that older children were less likely to disclose, whereas enabling parental mediation of online activities and children’s knowledge of where to seek help after sexual harassment or assault were associated with higher rates of disclosure. These findings provide population-level evidence to inform prevention and response across low- and middle-income countries, where coordinated action by policymakers, law enforcement and technology companies is urgently needed to protect all children.",
     "keywords": [
       "Harm",
       "Harassment",
@@ -2843,7 +2843,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Uncategorized",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "namely",
       "accredited social health activists (ASHAs)",
@@ -2862,7 +2862,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Clustering (Statistics)",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "Abstract Introduction Acute myeloid leukemia(AML) is a heterogeneous malignancy marked by impaired myeloid differentiation and resistance to apoptosis. Venetoclax, a selective BCL-2 inhibitor that restores apoptotic signaling, has shown improved outcomes when combined with hypomethylating agents in older or unfit patients; however, many remain refractory or experience relapse. We used single-cell RNA sequencing(scRNA-seq) to compare bone marrow samples from patients with AML before and during venetoclax-based therapy with those from healthy controls, focusing on cellular type diversity and gene expression dynamics. Methods We analyzed 10 bone marrow samples from patients with AML treated with venetoclax plus azacitidine or decitabine, as well as from healthy donors at the University of Iowa. These included samples from 3 healthy controls, 4 responders (1 diagnostic[RD1] and 4 during treatment[RT1-RT4]), and 2 non-responders(1 diagnostic[NRD1] and 1 during treatment[NRT1]). scRNA-seq was performed using 10X Genomics 3' v3 chemistry, sequenced on an Illumina NovaSeq 6000, and processed with Cell Ranger v8.0.0. We excluded cells with &amp;lt;100 or &amp;gt;7,500 genes or &amp;gt;75% mitochondrial reads. Seurat (v5.0.1) was used for normalization, scaling, integration, clustering(resolution = 0.1), and UMAP reduction using the top 30 principal components. Cell type annotation used SCINA with references from Human Cell Atlas ((https://doi.org/10.1016/j.exphem.2018.09.004)). We focused on CD34+ cells to study stem cells and early hematopoietic progenitors. Results We identified various hematopoietic populations, including hematopoietic stem cells(HSCs), multilineage-primed(Multi-Lin) cells, monocyte-dendritic progenitors(MDP-1 and MDP-2), megakaryocyte-erythroid progenitors(MEPs), and other early progenitors, as well as mature blood cells. Control samples showed consistent distributions with expected proportions of early progenitors, while AML samples displayed distinct cellular profiles. RD1 sample was dominated by a high percentage of blasts(47%) and extensive expansion of MDP-2 cells(~90%). Refractory samples(NRD1 and NRT1) exhibited elevated blasts(60% and 12%) and significant expansion of immature T progenitors(pre-T cells, 33\u201349%). RT1 had residual blasts(7%) and showed increased numbers of Multi-Lin cells(34%) and MEPs(7%), which may indicate the persistence of immature leukemic clones. RT2, RT3, and RT4 were negative for blasts, with recovery of diverse hematopoietic populations, notably an expansion of MDP-2(13\u201370%) and lymphoid cells, consistent with marrow recovery. In differential gene expression analysis, a consistent finding across multiple cell types was the downregulation of FKBP5, a glucocorticoid-responsive gene involved in stress signaling and resistance to apoptosis. In HSCs, we observed BCL2 downregulation along with upregulation of pro-apoptotic genes(BAX, BAK, CASP7, CASP9). There was suppression of STAT5(growth-promoting) and SMAD3(growth-inhibitory) signals in HSCs, which may indicate disrupted stem cell signaling and early commitment or exhaustion. Downregulation of PTGER4, IL3RA, and IL12RB2 suggested decreased signaling through pro-survival and proliferative cytokine pathways. Additionally, ribosomal protein downregulation was observed, a phenomenon commonly associated with apoptosis, quiescence, or differentiation, where protein synthesis was actively suppressed. CD14 was upregulated in HSCs and MDP cell types, indicating monocytic skewing. In MDP-1 cells, heat shock proteins(HSPA1A and HSPA1B) were downregulated, and DUSP7(a MAPK phosphatase) was suppressed, pointing to impaired stress-response signaling. Changes in the expression of RASA1, RASA2, and MAP3K family genes suggest disrupted Ras-MAPK pathway activity. In MDP-2 cells, decreased CD1B coupled with increased CD14 expression marked a shift away from dendritic differentiation toward an aberrant monocytic identity. Conclusion Venetoclax-based therapy is associated with transcriptional remodeling across different cell types in bone marrow. Downregulation of pro-survival and stress-related genes and upregulation of differentiation and apoptotic programs were observed. Distinct transcriptional programs in MDP-1 vs. MDP-2 suggest functional remodeling in different lineages during therapy. These data provide insight into how venetoclax can reshape the bone marrow microenvironment in AML and may help identify early markers of treatment response.",
+    "abstract": "Abstract Introduction Acute myeloid leukemia(AML) is a heterogeneous malignancy marked by impaired myeloid differentiation and resistance to apoptosis. Venetoclax, a selective BCL-2 inhibitor that restores apoptotic signaling, has shown improved outcomes when combined with hypomethylating agents in older or unfit patients; however, many remain refractory or experience relapse. We used single-cell RNA sequencing(scRNA-seq) to compare bone marrow samples from patients with AML before and during venetoclax-based therapy with those from healthy controls, focusing on cellular type diversity and gene expression dynamics. Methods We analyzed 10 bone marrow samples from patients with AML treated with venetoclax plus azacitidine or decitabine, as well as from healthy donors at the University of Iowa. These included samples from 3 healthy controls, 4 responders (1 diagnostic[RD1] and 4 during treatment[RT1-RT4]), and 2 non-responders(1 diagnostic[NRD1] and 1 during treatment[NRT1]). scRNA-seq was performed using 10X Genomics 3' v3 chemistry, sequenced on an Illumina NovaSeq 6000, and processed with Cell Ranger v8.0.0. We excluded cells with &amp;lt;100 or &amp;gt;7,500 genes or &amp;gt;75% mitochondrial reads. Seurat (v5.0.1) was used for normalization, scaling, integration, clustering(resolution = 0.1), and UMAP reduction using the top 30 principal components. Cell type annotation used SCINA with references from Human Cell Atlas ((https://doi.org/10.1016/j.exphem.2018.09.004)). We focused on CD34+ cells to study stem cells and early hematopoietic progenitors. Results We identified various hematopoietic populations, including hematopoietic stem cells(HSCs), multilineage-primed(Multi-Lin) cells, monocyte-dendritic progenitors(MDP-1 and MDP-2), megakaryocyte-erythroid progenitors(MEPs), and other early progenitors, as well as mature blood cells. Control samples showed consistent distributions with expected proportions of early progenitors, while AML samples displayed distinct cellular profiles. RD1 sample was dominated by a high percentage of blasts(47%) and extensive expansion of MDP-2 cells(~90%). Refractory samples(NRD1 and NRT1) exhibited elevated blasts(60% and 12%) and significant expansion of immature T progenitors(pre-T cells, 33–49%). RT1 had residual blasts(7%) and showed increased numbers of Multi-Lin cells(34%) and MEPs(7%), which may indicate the persistence of immature leukemic clones. RT2, RT3, and RT4 were negative for blasts, with recovery of diverse hematopoietic populations, notably an expansion of MDP-2(13–70%) and lymphoid cells, consistent with marrow recovery. In differential gene expression analysis, a consistent finding across multiple cell types was the downregulation of FKBP5, a glucocorticoid-responsive gene involved in stress signaling and resistance to apoptosis. In HSCs, we observed BCL2 downregulation along with upregulation of pro-apoptotic genes(BAX, BAK, CASP7, CASP9). There was suppression of STAT5(growth-promoting) and SMAD3(growth-inhibitory) signals in HSCs, which may indicate disrupted stem cell signaling and early commitment or exhaustion. Downregulation of PTGER4, IL3RA, and IL12RB2 suggested decreased signaling through pro-survival and proliferative cytokine pathways. Additionally, ribosomal protein downregulation was observed, a phenomenon commonly associated with apoptosis, quiescence, or differentiation, where protein synthesis was actively suppressed. CD14 was upregulated in HSCs and MDP cell types, indicating monocytic skewing. In MDP-1 cells, heat shock proteins(HSPA1A and HSPA1B) were downregulated, and DUSP7(a MAPK phosphatase) was suppressed, pointing to impaired stress-response signaling. Changes in the expression of RASA1, RASA2, and MAP3K family genes suggest disrupted Ras-MAPK pathway activity. In MDP-2 cells, decreased CD1B coupled with increased CD14 expression marked a shift away from dendritic differentiation toward an aberrant monocytic identity. Conclusion Venetoclax-based therapy is associated with transcriptional remodeling across different cell types in bone marrow. Downregulation of pro-survival and stress-related genes and upregulation of differentiation and apoptotic programs were observed. Distinct transcriptional programs in MDP-1 vs. MDP-2 suggest functional remodeling in different lineages during therapy. These data provide insight into how venetoclax can reshape the bone marrow microenvironment in AML and may help identify early markers of treatment response.",
     "keywords": [],
     "source": "Crossref"
   },
@@ -2875,7 +2875,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "TPB Help-Seeking",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "Alzheimer\u2019s disease (AD) is the most common type of dementia, which has a substantial genetic component. AD affects predominantly older people. Accordingly, the prevalence of dementia has been rising as the population ages. To date, there are no effective interventions that can cure or halt the progression of AD. The only available treatments are the management of certain symptoms and consequences of dementia. The current state-of-the-art medical care for AD comprises three simple principles: prevent the preventable, achieve early diagnosis, and manage the manageable symptoms. This review provides a summary of the current state of knowledge of risk factors for AD, biological diagnostic testing and prospects for treatment. Special emphasis is given to recent advances in genetics of AD and the way genomic data may support prevention, early intervention and development of effective pharmacological treatments. Mutations in the APP, PSEN1, and PSEN2 genes cause early onset AD (EOAD) that follows a Mendelian inheritance pattern. For late onset AD (LOAD), APOE4 was identified as a major risk allele more than two decades ago. Population-based genome-wide association studies (GWAS) of late onset AD have now additionally identified common variants at roughly 30 genetic loci. Furthermore, rare variants (allele frequency <1%) that influence the risk for LOAD have been identified in several genes. These genetic advances have broadened our insights into the biological underpinnings of AD. Moreover, the known genetic risk variants could be used to identify presymptomatic individuals at risk for AD and support diagnostic assessment of symptomatic subjects. Genetic knowledge may also facilitate precision medicine. The goal of precision medicine is to use biological knowledge and other health information to predict individual disease risk, understand disease etiology, identify disease subcategories, improve diagnosis, and provide personalized treatment strategies. We discuss the potential role of genetics in advancing precision medicine for AD along with its ethical challenges. We outline strategies to implement genomics into translational clinical research that will not only improve accuracy of dementia diagnosis, thus enabling more personalized treatment strategies, but may also speed up the discovery of novel drugs and interventions.",
+    "abstract": "Alzheimer’s disease (AD) is the most common type of dementia, which has a substantial genetic component. AD affects predominantly older people. Accordingly, the prevalence of dementia has been rising as the population ages. To date, there are no effective interventions that can cure or halt the progression of AD. The only available treatments are the management of certain symptoms and consequences of dementia. The current state-of-the-art medical care for AD comprises three simple principles: prevent the preventable, achieve early diagnosis, and manage the manageable symptoms. This review provides a summary of the current state of knowledge of risk factors for AD, biological diagnostic testing and prospects for treatment. Special emphasis is given to recent advances in genetics of AD and the way genomic data may support prevention, early intervention and development of effective pharmacological treatments. Mutations in the APP, PSEN1, and PSEN2 genes cause early onset AD (EOAD) that follows a Mendelian inheritance pattern. For late onset AD (LOAD), APOE4 was identified as a major risk allele more than two decades ago. Population-based genome-wide association studies (GWAS) of late onset AD have now additionally identified common variants at roughly 30 genetic loci. Furthermore, rare variants (allele frequency <1%) that influence the risk for LOAD have been identified in several genes. These genetic advances have broadened our insights into the biological underpinnings of AD. Moreover, the known genetic risk variants could be used to identify presymptomatic individuals at risk for AD and support diagnostic assessment of symptomatic subjects. Genetic knowledge may also facilitate precision medicine. The goal of precision medicine is to use biological knowledge and other health information to predict individual disease risk, understand disease etiology, identify disease subcategories, improve diagnosis, and provide personalized treatment strategies. We discuss the potential role of genetics in advancing precision medicine for AD along with its ethical challenges. We outline strategies to implement genomics into translational clinical research that will not only improve accuracy of dementia diagnosis, thus enabling more personalized treatment strategies, but may also speed up the discovery of novel drugs and interventions.",
     "keywords": [
       "Dementia",
       "Disease",
@@ -2906,7 +2906,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Uncategorized",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [],
     "source": "None"
   },
@@ -2919,7 +2919,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Uncategorized",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "(2) identify technology types",
       "contexts of use",
@@ -2938,9 +2938,9 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Uncategorized",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
-      "quantitative review of ante\u00ad cedents",
+      "quantitative review of ante­ cedents",
       "outcomes",
       "1999)"
     ],
@@ -2955,7 +2955,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Uncategorized",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "non-acceptance/ suppression of negative emotions",
       "after and two/ three months after the in-class MT)",
@@ -3010,7 +3010,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Uncategorized",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "Control",
       "Co-operation"
@@ -3026,7 +3026,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Uncategorized",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "motor",
       "which includes reinforcement",
@@ -3044,7 +3044,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Uncategorized",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "improve public knowledge and understanding of sharks",
       "and to mitigate fear",
@@ -3062,7 +3062,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Uncategorized",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "living standards",
       "we document several key findings. First",
@@ -3083,7 +3083,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Uncategorized",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "Polio Outbreak Vaccination Vaccine Somalia a b s t r a c t"
     ],
@@ -3098,7 +3098,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Uncategorized",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "including Office-dominated",
       "Labo- ratory-dominated",
@@ -3118,7 +3118,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Uncategorized",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "Cell clustering",
       "HIV-1 vaccine",
@@ -3138,9 +3138,9 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Uncategorized",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
-      "by combining the \ud835\udc592"
+      "by combining the 𝑙2"
     ],
     "source": "PDF"
   },
@@ -3153,7 +3153,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Uncategorized",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "but are still rather insufficiently studied",
       "stronger perceived control and greater WTP for VCO"
@@ -3169,7 +3169,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Uncategorized",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "surveillance systems in China",
       "the Republic of Korea",
@@ -3191,7 +3191,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Malaysian Context",
     "litType": "Grey Literature (NASOM)",
-    "abstract": "Autism spectrum disorder (ASD) is a neural developmental disorder characterized by impaired social interaction, communication difficulties, and restricted behaviours. Understanding the disorder and providing necessary social support for guidance and assistance is vital for caregivers, including educators, parents, and the public. The aim of this research is to design and develop a social support mobile app for autistic children\u2019s caregivers named IHEART2U. We design the app by incorporating the empowerment-based design elements to ensure it provides practical assistance but also foster a sense of empowerment and control over their child's development and well-being. Caregivers can feel more confident, informed, and supported in their role. For the design and development, we used the Mobile Development Life Cycle (MADLC) as the methodological approach. During the requirements gathering, we conducted interviews in collaboration with the National Autism Society of Malaysia (NASOM), a private school for children with autism and caretakers. Through thematic analysis, we incorporate four empowerment-based design elements: information support, emotional support, companion, customization, and personalization in the user interface (UI) design of the mobile app. Upon completion of the high-fidelity prototype, we conducted usability testing using the System Usability Scale (SUS) to obtain feedback from the stakeholders. The score was 90.83 above average. The respondents provide constructive feedback on how to improve the app. In conclusion, we believe that by integrating these empowerment design elements, the IHEART2U social support mobile app becomes a source of empowerment, support, and guidance tool for caregivers, helping them navigate the challenges of raising and caring for children with autism. Future work will involve iterative user testing and feedback to further refine and enhance the app's effectiveness.",
+    "abstract": "Autism spectrum disorder (ASD) is a neural developmental disorder characterized by impaired social interaction, communication difficulties, and restricted behaviours. Understanding the disorder and providing necessary social support for guidance and assistance is vital for caregivers, including educators, parents, and the public. The aim of this research is to design and develop a social support mobile app for autistic children’s caregivers named IHEART2U. We design the app by incorporating the empowerment-based design elements to ensure it provides practical assistance but also foster a sense of empowerment and control over their child's development and well-being. Caregivers can feel more confident, informed, and supported in their role. For the design and development, we used the Mobile Development Life Cycle (MADLC) as the methodological approach. During the requirements gathering, we conducted interviews in collaboration with the National Autism Society of Malaysia (NASOM), a private school for children with autism and caretakers. Through thematic analysis, we incorporate four empowerment-based design elements: information support, emotional support, companion, customization, and personalization in the user interface (UI) design of the mobile app. Upon completion of the high-fidelity prototype, we conducted usability testing using the System Usability Scale (SUS) to obtain feedback from the stakeholders. The score was 90.83 above average. The respondents provide constructive feedback on how to improve the app. In conclusion, we believe that by integrating these empowerment design elements, the IHEART2U social support mobile app becomes a source of empowerment, support, and guidance tool for caregivers, helping them navigate the challenges of raising and caring for children with autism. Future work will involve iterative user testing and feedback to further refine and enhance the app's effectiveness.",
     "keywords": [],
     "source": "Crossref"
   },
@@ -3204,7 +3204,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Uncategorized",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "however",
       "TaqI (rs731236)",
@@ -3228,7 +3228,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Uncategorized",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [],
     "source": "Crossref"
   },
@@ -3239,9 +3239,9 @@ window.AUTO_ABSTRACTS = [
     "journal": "Unknown Journal",
     "year": 2026,
     "database": "ScienceDirect",
-    "category": "TPB Help-Seeking",
+    "category": "Systematic Literature Review",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "pruning (Bhardwaj & Sharma, 2022; Jaswal et al., 2024; Kumar et al., 2025), which resulted in the reduction of the outcomes to 185 articles. Including journals ranked by SSCI and CABS AJG enhances the credibility, methodological rigor, and depth of insights in systematic reviews (Srivastava et al., 2020). However, this emphasis on journal prestige may favor specific methodological preferences (e.g., positivist or quantitative research), resulting in the underrepresentation of qual\u00ad itative or practice-oriented studies (Kraus et al., 2022). For a comprehensive assessment, articles were further evaluated through the following criteria: (a) empirical, (b) an assessment of WFC, and (c) encompassed a factor as an antecedent or consequence of WFC. Table 1 Previous reviews of work\u2013family conflict. Authors and year Source title Type of review Data source Number of articles reviewed Interval time Pascucci et al. (2022) European Journal of Management and Business Economics Bibliometric Web of Science and Scopus 437 1986\u20132021 Michel et al. (2011) Journal of Organizational Behavior Meta-analysis ABI/INFORM, ERIC, and PsycINFO 142 1987\u20132008 Mesmer-Magnus and Viswesvaran (2005) Journal of Vocational Behavior Meta-analysis ABI/INFORM and PsycINFO 25 1987\u20132003 Byron (2005) Journal of Organizational Behavior Meta-analysis PsycINFO 60 1987\u20132002 Allen et al. (2000) Journal of Occupational Health Psychology Narrative PsycLJT and OVID 67 1977\u20131998 A. Sohal et al. European Management Journal xxx (xxxx) xxx 2 When all 185 articles were scrutinized, only 86 passed our criteria for further assessment. 2.1.3. Assessment The final stage of the protocol involved assessing and documenting the selected articles. For assessment, a bibliometric performance analysis was conducted, following the approach of Casado-Belmonte et al. (2021). The analysis examines the publication trend, most relevant articles and journals, and influential",
+    "abstract": "pruning (Bhardwaj & Sharma, 2022; Jaswal et al., 2024; Kumar et al., 2025), which resulted in the reduction of the outcomes to 185 articles. Including journals ranked by SSCI and CABS AJG enhances the credibility, methodological rigor, and depth of insights in systematic reviews (Srivastava et al., 2020). However, this emphasis on journal prestige may favor specific methodological preferences (e.g., positivist or quantitative research), resulting in the underrepresentation of qual­ itative or practice-oriented studies (Kraus et al., 2022). For a comprehensive assessment, articles were further evaluated through the following criteria: (a) empirical, (b) an assessment of WFC, and (c) encompassed a factor as an antecedent or consequence of WFC. Table 1 Previous reviews of work–family conflict. Authors and year Source title Type of review Data source Number of articles reviewed Interval time Pascucci et al. (2022) European Journal of Management and Business Economics Bibliometric Web of Science and Scopus 437 1986–2021 Michel et al. (2011) Journal of Organizational Behavior Meta-analysis ABI/INFORM, ERIC, and PsycINFO 142 1987–2008 Mesmer-Magnus and Viswesvaran (2005) Journal of Vocational Behavior Meta-analysis ABI/INFORM and PsycINFO 25 1987–2003 Byron (2005) Journal of Organizational Behavior Meta-analysis PsycINFO 60 1987–2002 Allen et al. (2000) Journal of Occupational Health Psychology Narrative PsycLJT and OVID 67 1977–1998 A. Sohal et al. European Management Journal xxx (xxxx) xxx 2 When all 185 articles were scrutinized, only 86 passed our criteria for further assessment. 2.1.3. Assessment The final stage of the protocol involved assessing and documenting the selected articles. For assessment, a bibliometric performance analysis was conducted, following the approach of Casado-Belmonte et al. (2021). The analysis examines the publication trend, most relevant articles and journals, and influential",
     "keywords": [
       "evolving family and workplace structures",
       "identify research gaps",
@@ -3294,7 +3294,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [],
     "source": "None"
   },
@@ -3307,7 +3307,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [],
     "source": "None"
   },
@@ -3320,10 +3320,10 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "Affordance",
-      "Human\u2013computer interaction",
+      "Human–computer interaction",
       "Perception",
       "Task (project management)",
       "Cognitive psychology",
@@ -3343,7 +3343,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "non-autistic student sample in terms of academic",
       "mental health",
@@ -3352,10 +3352,10 @@ window.AUTO_ABSTRACTS = [
       "SD=7.55) reported autism",
       "and relative to the control group",
       "enrolled in every faculty",
-      "achieve an \u2018A\u2019 grade",
-      "and report \u2018excellent/very good\u2019 health",
+      "achieve an ‘A’ grade",
+      "and report ‘excellent/very good’ health",
       "academic and faculty issues",
-      "and university belongingness. How\u00ad ever",
+      "and university belongingness. How­ ever",
       "suicidality risk",
       "social exclusion/isolation",
       "problems with peers",
@@ -3380,7 +3380,7 @@ window.AUTO_ABSTRACTS = [
       "Memorial University of Newfoundland",
       "5th Floor",
       "University Centre (UC-5000)",
-      "St. John\u2019s",
+      "St. John’s",
       "NL",
       "A1C 5S7"
     ],
@@ -3395,7 +3395,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "<\u7279\u96c6>\u30b7\u30b9\u30c6\u30e0\u958b\u767a\u30fb\u30bd\u30d5\u30c8\u30a6\u30a7\u30a2\u958b\u767a\u8ad6\u6587",
+    "abstract": "<特集>システム開発・ソフトウェア開発論文",
     "keywords": [
       "Cognitive radio",
       "Field (mathematics)",
@@ -3415,7 +3415,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [],
     "source": "None"
   },
@@ -3457,7 +3457,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [],
     "source": "None"
   },
@@ -3495,7 +3495,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "PubMed (Medline)",
       "Scopus",
@@ -3573,9 +3573,9 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
-      "rather than the mother\u2019s assessment"
+      "rather than the mother’s assessment"
     ],
     "source": "PDF"
   },
@@ -3588,7 +3588,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [],
     "source": "None"
   },
@@ -3601,7 +3601,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "2011",
       "Vasa et al.",
@@ -3630,7 +3630,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "National University of Ireland",
       "Galway"
@@ -3646,7 +3646,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "however",
       "because of the openness of the auditory system. As a result",
@@ -3666,7 +3666,7 @@ window.AUTO_ABSTRACTS = [
       "2020",
       "Granovetter et al.",
       "2020",
-      "Happ\u00b4e & Frith",
+      "Happ´e & Frith",
       "2006",
       "Lin et al.",
       "2015)",
@@ -3681,7 +3681,7 @@ window.AUTO_ABSTRACTS = [
       "2016",
       "Remington & Fairnie",
       "* Correspondence to: Witten/Herdecke University",
-      "Alfred-Herrhausen-Stra\u00dfe 50",
+      "Alfred-Herrhausen-Straße 50",
       "Witten 58455",
       "Received in revised form 31 August 2024"
     ],
@@ -3696,9 +3696,9 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
-      "(ii) providing evidence of TARPA test\u2013retest reliability",
+      "(ii) providing evidence of TARPA test–retest reliability",
       "lisawalsh31@gmail.com (L. Walsh)",
       "ian.stewart@nuigalway.ie (I. Stewart)",
       "johnmcelwee@comcast.net (J. McElwee)"
@@ -3714,7 +3714,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [],
     "source": "None"
   },
@@ -3727,7 +3727,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [],
     "source": "None"
   },
@@ -3740,11 +3740,11 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
-      "\u2019\u2019 \u2018\u2018what",
+      "’’ ‘‘what",
       "answering the question",
-      "\u2019\u2019 e.g.",
+      "’’ e.g.",
       "associations of noun types",
       "between the ages of 10 and 12",
       "noun-class stimuli",
@@ -3762,17 +3762,17 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "including PubMed",
-      "ScienceDir\u00ad ect",
+      "ScienceDir­ ect",
       "Scopus",
       "APA PsycArticles",
       "Google Scholar",
       "and APA PsycInfo",
       "without restrictions on sample size",
       "gender",
-      "901ar\u00ad ticles were identified",
+      "901ar­ ticles were identified",
       "and after screening and applying the inclusion criteria"
     ],
     "source": "PDF"
@@ -3786,7 +3786,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [],
     "source": "None"
   },
@@ -3799,7 +3799,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [],
     "source": "None"
   },
@@ -3812,7 +3812,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [],
     "source": "None"
   },
@@ -3825,7 +3825,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [],
     "source": "None"
   },
@@ -3838,7 +3838,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "among other forms of relational responding",
       "have been found to underlie complex behavior",
@@ -3858,7 +3858,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [],
     "source": "None"
   },
@@ -3871,12 +3871,12 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "collecting information on developmental history",
       "biomedical",
       "sensory",
-      "and commu\u00ad nicative factors",
+      "and commu­ nicative factors",
       "including inhibition",
       "cognitive flexibility",
       "working memory",
@@ -3894,7 +3894,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [],
     "source": "None"
   },
@@ -3907,7 +3907,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "irrespective of their cultural"
     ],
@@ -3922,7 +3922,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [],
     "source": "None"
   },
@@ -3935,7 +3935,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "such as healthcare",
       "referral"
@@ -3951,7 +3951,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "2121 Towne Centre Place",
       "Ste 330",
@@ -3969,7 +3969,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [],
     "source": "None"
   },
@@ -3982,7 +3982,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "in the absence of reinforcement",
       "Swansea University",
@@ -4001,13 +4001,13 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "high prevalence of co-occurring psychiatric disorders",
       "in addition to core behavioral characteristics",
       "have been associated with ASD in children and adolescents",
       "20 males",
-      "mean age 33.57 \u00b1 10.2 y) and 34 NC (18 females",
+      "mean age 33.57 ± 10.2 y) and 34 NC (18 females",
       "16 males",
       "intervention",
       "and remediation."
@@ -4023,7 +4023,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [],
     "source": "None"
   },
@@ -4036,7 +4036,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "gay",
       "bisexual",
@@ -4057,7 +4057,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [],
     "source": "None"
   },
@@ -4070,7 +4070,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [],
     "source": "None"
   },
@@ -4083,7 +4083,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [],
     "source": "None"
   },
@@ -4096,7 +4096,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "visual",
       "phonological",
@@ -4115,7 +4115,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "Abstract Current endeavors are being made to develop substitute asphalt binders using different biomass sources for upcoming flexible pavement construction, propelled by sustainability and the escalating expenses of traditional petroleum-centered asphalt. The primary objective of this research is to explore the feasibility of employing activated carbon (ATC) produced from biowaste, specifically walnut shells and sawdust, as a modification for petroleum-based virgin asphalt binders through chemical, physical, and rheological assessments. A comprehensive array of evaluations was carried out, encompassing examinations of homogeneity, physical characteristics, Carbon, Hydrogen, Nitrogen, Sulphur, and Oxygen (CHNSO) analysis, proximate analysis, infrared spectroscopy, multiple stress creep and recovery (MSCR), rheological attributes, and temperature sweep. The CHNSO analysis provided the elemental composition and helped develop molecular formulas for ATC. The results show that binders modified with ATC exhibited a heightening carbon content proportionate to the AC ratio, analyzed at 5%, 10%, and 15%. Temperature sweep tests revealed that adding AC significantly increased binder stiffness in accordance with the complex modulus (G*) and phase angle (\u03b4). This increased rigidity from the ATC modification declines the temperature susceptibility of the modified binders.",
+    "abstract": "Abstract Current endeavors are being made to develop substitute asphalt binders using different biomass sources for upcoming flexible pavement construction, propelled by sustainability and the escalating expenses of traditional petroleum-centered asphalt. The primary objective of this research is to explore the feasibility of employing activated carbon (ATC) produced from biowaste, specifically walnut shells and sawdust, as a modification for petroleum-based virgin asphalt binders through chemical, physical, and rheological assessments. A comprehensive array of evaluations was carried out, encompassing examinations of homogeneity, physical characteristics, Carbon, Hydrogen, Nitrogen, Sulphur, and Oxygen (CHNSO) analysis, proximate analysis, infrared spectroscopy, multiple stress creep and recovery (MSCR), rheological attributes, and temperature sweep. The CHNSO analysis provided the elemental composition and helped develop molecular formulas for ATC. The results show that binders modified with ATC exhibited a heightening carbon content proportionate to the AC ratio, analyzed at 5%, 10%, and 15%. Temperature sweep tests revealed that adding AC significantly increased binder stiffness in accordance with the complex modulus (G*) and phase angle (δ). This increased rigidity from the ATC modification declines the temperature susceptibility of the modified binders.",
     "keywords": [
       "Rheology",
       "Asphalt",
@@ -4140,7 +4140,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "Extra information, such as hierarchical entity types, entity descriptions or some text corpus are recently used to enhance Knowledge Graph Completion (KGC). A typical task in this setting is building entities\u2019 description information into some embedding models. Existing approaches under this task usually use simple embedding models, which have difficulty in handling the complex structures of the knowledge graphs. These models are also limited in the way where description representation is combined with structure representation, which requires an impractical large set of weight parameters increasing in proportion to the number of entities in the knowledge graph. This paper aims at developing more effective embedding models that jointly represent the structure information of the knowledge base with the description of entities. We propose more principled approaches named Dimensional Attentive Combination (DAC) for the composition of structure representation and description representation with fixed-size parameters independent of entity amount, and the composition builds upon more powerful knowledge graph embedding models. The proposed model significantly reduces the weight parameters and can extend to KGs with a large set of entities or involving sparse data. Experimental comparison on link prediction and relation prediction shows that our approaches, even under a simple description-encoding model, improve upon the baselines by a significant margin.",
+    "abstract": "Extra information, such as hierarchical entity types, entity descriptions or some text corpus are recently used to enhance Knowledge Graph Completion (KGC). A typical task in this setting is building entities’ description information into some embedding models. Existing approaches under this task usually use simple embedding models, which have difficulty in handling the complex structures of the knowledge graphs. These models are also limited in the way where description representation is combined with structure representation, which requires an impractical large set of weight parameters increasing in proportion to the number of entities in the knowledge graph. This paper aims at developing more effective embedding models that jointly represent the structure information of the knowledge base with the description of entities. We propose more principled approaches named Dimensional Attentive Combination (DAC) for the composition of structure representation and description representation with fixed-size parameters independent of entity amount, and the composition builds upon more powerful knowledge graph embedding models. The proposed model significantly reduces the weight parameters and can extend to KGs with a large set of entities or involving sparse data. Experimental comparison on link prediction and relation prediction shows that our approaches, even under a simple description-encoding model, improve upon the baselines by a significant margin.",
     "keywords": [
       "Embedding",
       "Computer science",
@@ -4168,7 +4168,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [],
     "source": "None"
   },
@@ -4181,7 +4181,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "sensory processes and ASD status",
       "food profile",
@@ -4200,7 +4200,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [],
     "source": "None"
   },
@@ -4213,7 +4213,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "problem solving, perspective taking, and analogical reasoning, to name a few (see e.g., Stewart, McElwee, & Ming, 2013). In the meantime, however, underlining once again the importance of the conservative movement from simple to complex, results from the world of basic research have identi\ufb01ed an important empirical phenomenon that seems to be very relevant for understanding and promoting advanced performances including generativity. This phenomenon is derived relational responding (DRR). Research in Autism Spectrum Disorders 19 (2015) 1\u20136 Contents lists available at ScienceDirect Research in Autism Spectrum Disorders Jo ur n al h o mep ag e: ht tp ://ees.els evier.c o m/RA SD/d efau lt.asp http://dx.doi.org/10.1016/j.rasd.2015.06.005 1750-9467/\u0002 2015 Published by Elsevier Ltd. Sidman (1971) reported the \ufb01rst empirical example of arbitrary derived relations. After training a minimally verbal participant in a set of related conditional discriminative performances between pictures, text, and spoken words, the participant derived several further responses in the absence of training, effectively responding as if particular sets of spoken words, pictures, and printed words were the same as or equivalent to each other. Sidman termed this pattern stimulus equivalence, and over ensuing decades, he and other behavior analysts conducted substantial empirical investigation into it. A key motivator and emergent theme of this research was the link between derived equivalence and language. For example, derived equivalence responding exhibits key features of language including bi-directionality and generativity (Fields, Verhave, & Fath, 1984). Furthermore, empirical \ufb01ndings have shown that it develops in parallel with language in typically developing children (e.g., Lipkens, Hayes, & Hayes, 1993); that nonhumans and nonverbal humans seem unable to show it (e.g., Devany, Hayes, & Nelson, 1986; Dugdale & Lowe, 2000); and that equivalence and language tasks produce functionally similar outcomes (e.g., Dickins et al., 2001; Ogawa, Yamazaki, Ueno, Cheng, & Iriki, 2010). This link was intriguing and exciting for behavior analysts for both theoretical and practical reasons, and hence, a number of theories were advanced in an attempt to explain it. These have included relational frame theory (RFT; e.g., Hayes, Barnes-Holmes, & Roche, 2001), naming theory (e.g., Horne & Lowe, 1996), joint control (e.g., Lowenkron, 2006), and the basic stimulus account (e.g., Sidman, 2000). At this point, the account provided by RFT stands out from the others in terms of the amount of empirical evidence that has accumulated in its favor. As an example, although the call for papers for this special issue explicitly welcomed",
+    "abstract": "problem solving, perspective taking, and analogical reasoning, to name a few (see e.g., Stewart, McElwee, & Ming, 2013). In the meantime, however, underlining once again the importance of the conservative movement from simple to complex, results from the world of basic research have identiﬁed an important empirical phenomenon that seems to be very relevant for understanding and promoting advanced performances including generativity. This phenomenon is derived relational responding (DRR). Research in Autism Spectrum Disorders 19 (2015) 1–6 Contents lists available at ScienceDirect Research in Autism Spectrum Disorders Jo ur n al h o mep ag e: ht tp ://ees.els evier.c o m/RA SD/d efau lt.asp http://dx.doi.org/10.1016/j.rasd.2015.06.005 1750-9467/\u0002 2015 Published by Elsevier Ltd. Sidman (1971) reported the ﬁrst empirical example of arbitrary derived relations. After training a minimally verbal participant in a set of related conditional discriminative performances between pictures, text, and spoken words, the participant derived several further responses in the absence of training, effectively responding as if particular sets of spoken words, pictures, and printed words were the same as or equivalent to each other. Sidman termed this pattern stimulus equivalence, and over ensuing decades, he and other behavior analysts conducted substantial empirical investigation into it. A key motivator and emergent theme of this research was the link between derived equivalence and language. For example, derived equivalence responding exhibits key features of language including bi-directionality and generativity (Fields, Verhave, & Fath, 1984). Furthermore, empirical ﬁndings have shown that it develops in parallel with language in typically developing children (e.g., Lipkens, Hayes, & Hayes, 1993); that nonhumans and nonverbal humans seem unable to show it (e.g., Devany, Hayes, & Nelson, 1986; Dugdale & Lowe, 2000); and that equivalence and language tasks produce functionally similar outcomes (e.g., Dickins et al., 2001; Ogawa, Yamazaki, Ueno, Cheng, & Iriki, 2010). This link was intriguing and exciting for behavior analysts for both theoretical and practical reasons, and hence, a number of theories were advanced in an attempt to explain it. These have included relational frame theory (RFT; e.g., Hayes, Barnes-Holmes, & Roche, 2001), naming theory (e.g., Horne & Lowe, 1996), joint control (e.g., Lowenkron, 2006), and the basic stimulus account (e.g., Sidman, 2000). At this point, the account provided by RFT stands out from the others in terms of the amount of empirical evidence that has accumulated in its favor. As an example, although the call for papers for this special issue explicitly welcomed",
     "keywords": [],
     "source": "PDF"
   },
@@ -4226,7 +4226,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "for the first time",
       "researchers",
@@ -4246,10 +4246,10 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "however",
-      "paedi\u00ad atric sleep",
+      "paedi­ atric sleep",
       "the panel endorsed 75 strategies",
       "covering topics such as setting bedtime routines",
       "creating a sleep-promoting environment"
@@ -4265,7 +4265,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [],
     "source": "None"
   },
@@ -4278,7 +4278,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [],
     "source": "None"
   },
@@ -4291,7 +4291,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [],
     "source": "None"
   },
@@ -4304,7 +4304,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [],
     "source": "None"
   },
@@ -4317,7 +4317,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [],
     "source": "None"
   },
@@ -4330,11 +4330,11 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
-      "731 individuals aged 61 to 68 over the years 2006\u20132014",
+      "731 individuals aged 61 to 68 over the years 2006–2014",
       "deductible choices remain largely unaffected",
-      "many con\u00ad sumers still choose dominated options"
+      "many con­ sumers still choose dominated options"
     ],
     "source": "PDF"
   },
@@ -4347,7 +4347,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "171 autistic children",
       "autism",
@@ -4375,7 +4375,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "a manualised social skills group training program",
       "to an Australian high school setting",
@@ -4393,7 +4393,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "Curiosity",
       "Exploring",
@@ -4430,7 +4430,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [],
     "source": "None"
   },
@@ -4443,7 +4443,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [],
     "source": "None"
   },
@@ -4456,7 +4456,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "especially when focusing on stories of hope",
       "healing",
@@ -4475,12 +4475,12 @@ window.AUTO_ABSTRACTS = [
       "Stack",
       "2005). Importantly",
       "the media can be considered a double-edged sword",
-      "termed the \u201cWerther effect\u201d (Phillips",
+      "termed the “Werther effect” (Phillips",
       "1974)",
       "especially the role of media depictions of stories of hope",
       "healing",
       "University of Vienna",
-      "W\u00a8ahringer Stra\u00dfe 29",
+      "W¨ahringer Straße 29",
       "1090",
       "Vienna",
       "Received in revised form 5 February 2025"
@@ -4496,7 +4496,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "This literature review explores how digital technologies can support the development of social communication skills in autistic children and adolescents. Guided by sociocultural and activity theory, it analyzes thirty-one peer-reviewed articles to understand how technologies help build these skills. The skills were grouped into five categories based on the definitions in the reviewed articles. The findings show that different technologies, such as virtual reality, have been used to deliver interventions that support social communication skills, like initiating conversations. Some studies found that combining two technologies led to even better outcomes for certain skills. However, while many of these technologies show positive results, no single tool can improve all skills. This highlights the need for personalized interventions that use the right tool for each child\u2019s specific needs. Overall, the review provides valuable * Corresponding author. E-mail addresses: xij001@ucsd.edu (X. Jiang), src004@ucsd.edu (S.R. Cohen). 1 Department of Education Studies, University of California, San Diego, 9500 Gilman Drive, La Jolla, CA, US, 92093 2 https://orcid.org/0009\u20130007-1074\u20138134 3 Department of Education Studies, University of California, San Diego, 9500 Gilman Drive, 0070, La Jolla, CA, US, 92093 4 https://orcid.org/0000\u20130002-1760\u20131780 Contents lists available at ScienceDirect Research in Autism journal homepage: www.elsevier.com/locate/rasd https://doi.org/10.1016/j.reia.2025.202750 Received 20 September 2024; Received in revised form 10 November 2025; Accepted 20 November 2025 130 (2026) 202750 Available online 27 November 2025 3050-6565/\u00a9 2025 The Author(s). Published by Elsevier Ltd. This is an open access article under the CC BY-NC license ( http://creativecommons.org/licenses/by-nc/4.0/ ). insights for researchers, caregivers, and educators on the potential of digital technologies to support autistic children and adolescents\u2019 development. It also emphasizes the need for future research to explore which technologies work best for specific skills and to better understand which characteristics make children and adolescents more likely to benefit from technology-based interventions. Autistic children and adolescents may engage in social interactions and communication differently from their neurotypical peers (American Psychiatric Association, 2013; Wetherby et al., 2007). Research shows that societal norms for social interactions often do not align with the strengths of autistic children and adolescents. A two-year longitudinal study by Feldman et al. (2022) found that over 51.9 % of autistic children aged 4\u20138, who attended preschool through 2nd grade, experienced peer rejection. Social skills predicted peer acceptance, with children who had stronger skills showing greater improvements in acceptance. When autistic children do not conform to societal norms for social interactions, they may face peer rejection and social",
+    "abstract": "This literature review explores how digital technologies can support the development of social communication skills in autistic children and adolescents. Guided by sociocultural and activity theory, it analyzes thirty-one peer-reviewed articles to understand how technologies help build these skills. The skills were grouped into five categories based on the definitions in the reviewed articles. The findings show that different technologies, such as virtual reality, have been used to deliver interventions that support social communication skills, like initiating conversations. Some studies found that combining two technologies led to even better outcomes for certain skills. However, while many of these technologies show positive results, no single tool can improve all skills. This highlights the need for personalized interventions that use the right tool for each child’s specific needs. Overall, the review provides valuable * Corresponding author. E-mail addresses: xij001@ucsd.edu (X. Jiang), src004@ucsd.edu (S.R. Cohen). 1 Department of Education Studies, University of California, San Diego, 9500 Gilman Drive, La Jolla, CA, US, 92093 2 https://orcid.org/0009–0007-1074–8134 3 Department of Education Studies, University of California, San Diego, 9500 Gilman Drive, 0070, La Jolla, CA, US, 92093 4 https://orcid.org/0000–0002-1760–1780 Contents lists available at ScienceDirect Research in Autism journal homepage: www.elsevier.com/locate/rasd https://doi.org/10.1016/j.reia.2025.202750 Received 20 September 2024; Received in revised form 10 November 2025; Accepted 20 November 2025 130 (2026) 202750 Available online 27 November 2025 3050-6565/© 2025 The Author(s). Published by Elsevier Ltd. This is an open access article under the CC BY-NC license ( http://creativecommons.org/licenses/by-nc/4.0/ ). insights for researchers, caregivers, and educators on the potential of digital technologies to support autistic children and adolescents’ development. It also emphasizes the need for future research to explore which technologies work best for specific skills and to better understand which characteristics make children and adolescents more likely to benefit from technology-based interventions. Autistic children and adolescents may engage in social interactions and communication differently from their neurotypical peers (American Psychiatric Association, 2013; Wetherby et al., 2007). Research shows that societal norms for social interactions often do not align with the strengths of autistic children and adolescents. A two-year longitudinal study by Feldman et al. (2022) found that over 51.9 % of autistic children aged 4–8, who attended preschool through 2nd grade, experienced peer rejection. Social skills predicted peer acceptance, with children who had stronger skills showing greater improvements in acceptance. When autistic children do not conform to societal norms for social interactions, they may face peer rejection and social",
     "keywords": [
       "such as virtual reality",
       "such as augmented reality and video modeling",
@@ -4529,7 +4529,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [],
     "source": "None"
   },
@@ -4542,7 +4542,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "physical abuse/neglect",
       "emotional abuse/neglect",
@@ -4555,7 +4555,7 @@ window.AUTO_ABSTRACTS = [
       "Medline",
       "Pubmed",
       "Scopus) was conducted. After removal of duplicates",
-      "95% CI [0.22\u20130.37]",
+      "95% CI [0.22–0.37]",
       "namely sexual abuse",
       "physical abuse",
       "physical neglect",
@@ -4576,7 +4576,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "graduate students",
       "p < 0.001",
@@ -4593,7 +4593,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [],
     "source": "None"
   },
@@ -4606,7 +4606,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "their coping self-efficacy",
       "independent samples t test",
@@ -4632,7 +4632,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [],
     "source": "None"
   },
@@ -4645,7 +4645,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "ADHD",
       "Intellectual Disability",
@@ -4675,7 +4675,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "the AQ-28",
       "the TAS-20",
@@ -4694,7 +4694,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "upstream",
       "such as universality versus targeting"
@@ -4710,7 +4710,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "17-week cognitive-behavioral and mindfulness-based program",
       "including social motivation",
@@ -4736,7 +4736,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [],
     "source": "None"
   },
@@ -4749,7 +4749,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "Medline",
       "CINAHL",
@@ -4766,7 +4766,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "speaker behavior) and receptively discriminate (i.e.",
       "Inc. in Sacramento",
@@ -4791,7 +4791,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "or may already improve",
       "low levels of wellbeing (Abbeduto et.al",
@@ -4817,7 +4817,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Cluster",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "Syndecan 1",
       "Angiogenesis",
@@ -4848,10 +4848,10 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Cluster",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "adjusting for sociodemographic",
-      "biomed\u00ad ical",
+      "biomed­ ical",
       "and psychological factors",
       "43% female)",
       "moderate (n = 151",
@@ -4859,7 +4859,7 @@ window.AUTO_ABSTRACTS = [
       "and severe (n = 46",
       "6.4 (SD = 3.4) for moderate",
       "12.2 (SD = 4.2) for moderate",
-      "anxiety severity: p \u2264.001)"
+      "anxiety severity: p ≤.001)"
     ],
     "source": "PDF"
   },
@@ -4872,7 +4872,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Cluster",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "BACKGROUND: . RESULTS: SCB18 exhibited a 29.8% increase in total cellulase activity and a 51.3-fold enhancement in BGL activity (up to 103.9 IU/mL). We observed that the cellulase system of SCB18 showed significantly higher saccharification efficiency toward differently pretreated corncob residues than the control strains SDC11 and SP4. Moreover, the crude enzyme preparation from SCB18 with high BGL activity possessed strong transglycosylation ability to synthesize \u03b2-disaccharides from glucose. The transglycosylation product was finally utilized as the inducer for cellulase production, which provided a 63.0% increase in total cellulase activity compared to the frequently used soluble inducer, lactose. CONCLUSIONS: for efficient biomass saccharification and powerful cellulase inducer synthesis by combinational genetic manipulation of three distinct types of genes to achieve the customized cellulase production, thus providing a viable strategy for further strain improvement to reduce the cost of biomass-based biofuel production.",
+    "abstract": "BACKGROUND: . RESULTS: SCB18 exhibited a 29.8% increase in total cellulase activity and a 51.3-fold enhancement in BGL activity (up to 103.9 IU/mL). We observed that the cellulase system of SCB18 showed significantly higher saccharification efficiency toward differently pretreated corncob residues than the control strains SDC11 and SP4. Moreover, the crude enzyme preparation from SCB18 with high BGL activity possessed strong transglycosylation ability to synthesize β-disaccharides from glucose. The transglycosylation product was finally utilized as the inducer for cellulase production, which provided a 63.0% increase in total cellulase activity compared to the frequently used soluble inducer, lactose. CONCLUSIONS: for efficient biomass saccharification and powerful cellulase inducer synthesis by combinational genetic manipulation of three distinct types of genes to achieve the customized cellulase production, thus providing a viable strategy for further strain improvement to reduce the cost of biomass-based biofuel production.",
     "keywords": [
       "Cellulase",
       "Trichoderma reesei",
@@ -4900,7 +4900,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Cluster",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "Singhealth Diabetes Registry cohort ALT LDL Age BMI TG HbA1c Wenzhou Real-World cohort ALT LDL Age BMI TG HbA1c Hong Kong CDARS cohort ALT LDL Age BMI TG HbA1c MACE Wenzhou Real-World cohort: HR = 1.315 (1.251-1.382) LRE Wenzhou Real-World cohort: HR = 1.578 (1.186-2.100) T2DM Wenzhou Real-World cohort: HR = 3.426 (3.145-3.733) Clinical outcomes Liver-specific vs. control Cardiometabolic vs. control Cardiometabolic vs. control Hong Kong CDARS cohort: HR = 2.816 (2.311-3.433) Hong Kong CDARS cohort: HR = 1.557 (1.218-1.990) Singhealth Diabetes Registry cohort: HR = 2.403 (2.026-2.850) Hong Kong CDARS cohort: HR = 1.559 (1.347-1.804) Singhealth Diabetes Registry cohort: HR = 1.262 (1.188-1.340) Clustering analysis Based on six clinical variables: age, BMI, HbA1c, ALT, LDL cholesterol, and triglycerides. 3 Asian cohorts Wenzhou Real-World cohort n = 57,813 Hong Kong CDARS cohort n = 21,547 Singhealth Diabetes Registry cohort n = 39,972 Study population Clusters characteristics Control Cardiometabolic Liver-specific Highlights: \u2022 MASLD is a heterogeneous disease with diverse car- diometabolic and liver outcomes. \u2022 A data-driven MASLD clustering model was validated in three large Asian cohorts. \u2022 Cardiometabolic cluster carried the highest MACE risk; liver-specific cluster carried the highest LRE risk. \u2022 The model supports phenotype-based risk stratification and personalized MASLD management. Impact and implications: This study provides scientific justification for applying a vali- dated clustering model to metabolic dysfunction-associated steatotic liver disease (MASLD), demonstrating that patient subgroups identified by data-driven methods carry distinct risks for cardiovascular and liver-related outcomes. These findings are important for clinicians, researchers, and policy- makers as they highlight that MASLD is not a uniform disease but rather comprises heterogeneous subgroups with differing prognoses. In practice, this work supports subgroup-based strategies to personalize treatment, improve risk stratifica- tion, and optimize the allocation of healthcare resources. The results also offer a foundation for future research into targeted therapeutic interventions while acknowledging the need for further validation in diverse populations. https://doi.org/10.1016/j.jhepr.2025.101645 \u00a9 2025 The Author(s). Published by Elsevier B.V. on behalf of European Association for the Study of the Liver (EASL). This is an open access article under the CC BY- NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/). JHEP Reports, 2026, 8, 1\u201312 Research article Validation of a data-driven clustering model for MASLD: Evidence from three large-scale Asian cohorts Xiao-Dong Zhou 1,2,\u2020 , Sherlot Juan Song 3,4,\u2020 , Chloe Yitian Guo 5,6,\u2020 , Qin-Fen Chen 7,8 , Grace Lai-Hung Wong 3,4 , Ting-Ran Ye 1,2 , George Boon Bee Goh 5,9 ,",
+    "abstract": "Singhealth Diabetes Registry cohort ALT LDL Age BMI TG HbA1c Wenzhou Real-World cohort ALT LDL Age BMI TG HbA1c Hong Kong CDARS cohort ALT LDL Age BMI TG HbA1c MACE Wenzhou Real-World cohort: HR = 1.315 (1.251-1.382) LRE Wenzhou Real-World cohort: HR = 1.578 (1.186-2.100) T2DM Wenzhou Real-World cohort: HR = 3.426 (3.145-3.733) Clinical outcomes Liver-specific vs. control Cardiometabolic vs. control Cardiometabolic vs. control Hong Kong CDARS cohort: HR = 2.816 (2.311-3.433) Hong Kong CDARS cohort: HR = 1.557 (1.218-1.990) Singhealth Diabetes Registry cohort: HR = 2.403 (2.026-2.850) Hong Kong CDARS cohort: HR = 1.559 (1.347-1.804) Singhealth Diabetes Registry cohort: HR = 1.262 (1.188-1.340) Clustering analysis Based on six clinical variables: age, BMI, HbA1c, ALT, LDL cholesterol, and triglycerides. 3 Asian cohorts Wenzhou Real-World cohort n = 57,813 Hong Kong CDARS cohort n = 21,547 Singhealth Diabetes Registry cohort n = 39,972 Study population Clusters characteristics Control Cardiometabolic Liver-specific Highlights: • MASLD is a heterogeneous disease with diverse car- diometabolic and liver outcomes. • A data-driven MASLD clustering model was validated in three large Asian cohorts. • Cardiometabolic cluster carried the highest MACE risk; liver-specific cluster carried the highest LRE risk. • The model supports phenotype-based risk stratification and personalized MASLD management. Impact and implications: This study provides scientific justification for applying a vali- dated clustering model to metabolic dysfunction-associated steatotic liver disease (MASLD), demonstrating that patient subgroups identified by data-driven methods carry distinct risks for cardiovascular and liver-related outcomes. These findings are important for clinicians, researchers, and policy- makers as they highlight that MASLD is not a uniform disease but rather comprises heterogeneous subgroups with differing prognoses. In practice, this work supports subgroup-based strategies to personalize treatment, improve risk stratifica- tion, and optimize the allocation of healthcare resources. The results also offer a foundation for future research into targeted therapeutic interventions while acknowledging the need for further validation in diverse populations. https://doi.org/10.1016/j.jhepr.2025.101645 © 2025 The Author(s). Published by Elsevier B.V. on behalf of European Association for the Study of the Liver (EASL). This is an open access article under the CC BY- NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/). JHEP Reports, 2026, 8, 1–12 Research article Validation of a data-driven clustering model for MASLD: Evidence from three large-scale Asian cohorts Xiao-Dong Zhou 1,2,† , Sherlot Juan Song 3,4,† , Chloe Yitian Guo 5,6,† , Qin-Fen Chen 7,8 , Grace Lai-Hung Wong 3,4 , Ting-Ran Ye 1,2 , George Boon Bee Goh 5,9 ,",
     "keywords": [],
     "source": "PDF"
   },
@@ -4913,7 +4913,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Cluster",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "\"students who care about food waste\"",
       "Cluster 2",
@@ -4935,7 +4935,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Cluster",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "sleep apnea",
       "such as frequency and amount of alcohol consumption",
@@ -4961,7 +4961,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Cluster",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "whether through taxis or memory"
     ],
@@ -4976,7 +4976,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Cluster",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "anxiety",
       "cluster analysis",
@@ -4996,7 +4996,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Cluster",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "Recent events such as the COVID-19 pandemic or rising energy prices have resulted in behavioral changes regarding everyday mobility. Transport models should be able to capture such effects to forecast future behavior and the effects of transport policy measures more precisely. In the status quo, models incorporate \u201cbehaviorally homogeneous groups\u201d derived from travel surveys. In previous studies, researchers used a variety of statistical approaches to determine behaviorally homogenous groups. However, variable selection was often only weakly grounded in theory and not always consistent with the four-stage model of transport. The objective of this paper is to present a five-step approach to identify behaviorally homogenous groups according to multiple stages of the four-stage model. We base our analysis on mobility behavior captured in trip diaries within a Germany-wide representative survey. In line with the four-stage model, we perform k-means clustering to group respondents separately according to trip purposes and mode choices. We find seven unique clusters on either stage. We explain cluster assignment with sociodemographic variables using multinomial logit (MNL) models and analyze feedback effects. The measures of fit indicate the necessity to include feedback effects in transport models. Transport modelers can use the identified significant sociodemographic variables to segment the underlying (synthetic) population accordingly. \u00a9 2024 The Authors. Published by ELSEVIER B.V. This is an open access article under the CC BY-NC-ND license (https://creativecommons.org/licenses/by-nc-nd/4.0) Peer-review under responsibility of the scientific committee of the 16th World Conference on Transport Research",
+    "abstract": "Recent events such as the COVID-19 pandemic or rising energy prices have resulted in behavioral changes regarding everyday mobility. Transport models should be able to capture such effects to forecast future behavior and the effects of transport policy measures more precisely. In the status quo, models incorporate “behaviorally homogeneous groups” derived from travel surveys. In previous studies, researchers used a variety of statistical approaches to determine behaviorally homogenous groups. However, variable selection was often only weakly grounded in theory and not always consistent with the four-stage model of transport. The objective of this paper is to present a five-step approach to identify behaviorally homogenous groups according to multiple stages of the four-stage model. We base our analysis on mobility behavior captured in trip diaries within a Germany-wide representative survey. In line with the four-stage model, we perform k-means clustering to group respondents separately according to trip purposes and mode choices. We find seven unique clusters on either stage. We explain cluster assignment with sociodemographic variables using multinomial logit (MNL) models and analyze feedback effects. The measures of fit indicate the necessity to include feedback effects in transport models. Transport modelers can use the identified significant sociodemographic variables to segment the underlying (synthetic) population accordingly. © 2024 The Authors. Published by ELSEVIER B.V. This is an open access article under the CC BY-NC-ND license (https://creativecommons.org/licenses/by-nc-nd/4.0) Peer-review under responsibility of the scientific committee of the 16th World Conference on Transport Research",
     "keywords": [
       "travel behavior",
       "segmentation",
@@ -5015,7 +5015,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Cluster",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "the planogram) has a strong impact on customer behavior",
       "it is of fundamental importance",
@@ -5040,7 +5040,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Cluster",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "Flexible Working Arrangements (FWAs) allow workers to adjust their schedules and locations, primarily to support work\u2013life balance, while also indirectly influencing traffic conditions. However, their impact on travel behaviour remains inconclusive. Some studies suggest reductions in traffic congestion and vehicle miles travelled (VMT), whereas others report increases, likely due to latent behavioural differences among workers. Although clustering 2 techniques have been employed to study these dynamics, factors such as trip chaining, peak- hour demand, and VMT are often overlooked, leading to overestimates of the benefits of FWAs. Moreover, limited research has analysed workers\u2019 behavioural shifts under varying levels of FWAs. Therefore, this study focuses on the impacts of FWAs on travel behaviour and peak- hour congestion, examining how FWAs can be used as a Travel Demand Management (TDM) strategy. This study addresses these gaps using data collected from Greater Kuala Lumpur, Malaysia, applying Mutual Information Maximisation Clustering with Random Effects (MIMC-RE) and Deep Neural Network (DNN). This integrated predictive framework identifies latent behavioural clusters and forecasts travel behaviour under FWAs. It represents the first application of this approach to travel behaviour analysis, enabling the exploration of relationships between FWAs and behavioural shifts. The findings reveal that the heterogeneous impacts of FWAs stem from latent behavioural differences across worker groups and underscore the need to account for these patterns in transport planning. Scenario analysis demonstrates that offering flex-time to 40% of fixed-time non-teleworkers can shift 24% of peak-hour home-based work trips to off-peak hours, reduce travel time by 33%, and decrease travel distance by 21% per trip, while increasing public transport use. These results offer evidence-based guidance for developing TDM strategies that optimise travel demand, alleviate peak-hour congestion, and support sustainable transport planning in the post\u2013COVID-19 pandemic era.",
+    "abstract": "Flexible Working Arrangements (FWAs) allow workers to adjust their schedules and locations, primarily to support work–life balance, while also indirectly influencing traffic conditions. However, their impact on travel behaviour remains inconclusive. Some studies suggest reductions in traffic congestion and vehicle miles travelled (VMT), whereas others report increases, likely due to latent behavioural differences among workers. Although clustering 2 techniques have been employed to study these dynamics, factors such as trip chaining, peak- hour demand, and VMT are often overlooked, leading to overestimates of the benefits of FWAs. Moreover, limited research has analysed workers’ behavioural shifts under varying levels of FWAs. Therefore, this study focuses on the impacts of FWAs on travel behaviour and peak- hour congestion, examining how FWAs can be used as a Travel Demand Management (TDM) strategy. This study addresses these gaps using data collected from Greater Kuala Lumpur, Malaysia, applying Mutual Information Maximisation Clustering with Random Effects (MIMC-RE) and Deep Neural Network (DNN). This integrated predictive framework identifies latent behavioural clusters and forecasts travel behaviour under FWAs. It represents the first application of this approach to travel behaviour analysis, enabling the exploration of relationships between FWAs and behavioural shifts. The findings reveal that the heterogeneous impacts of FWAs stem from latent behavioural differences across worker groups and underscore the need to account for these patterns in transport planning. Scenario analysis demonstrates that offering flex-time to 40% of fixed-time non-teleworkers can shift 24% of peak-hour home-based work trips to off-peak hours, reduce travel time by 33%, and decrease travel distance by 21% per trip, while increasing public transport use. These results offer evidence-based guidance for developing TDM strategies that optimise travel demand, alleviate peak-hour congestion, and support sustainable transport planning in the post–COVID-19 pandemic era.",
     "keywords": [
       "Deep Neural Network",
       "flexible working arrangements",
@@ -5059,7 +5059,7 @@ window.AUTO_ABSTRACTS = [
     "database": "ScienceDirect",
     "category": "Cluster",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "Biochar",
       "Hydrothermal liquefaction",
@@ -5117,7 +5117,7 @@ window.AUTO_ABSTRACTS = [
     "database": "Scopus",
     "category": "Uncategorized",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [],
     "source": "Crossref"
   },
@@ -5130,7 +5130,7 @@ window.AUTO_ABSTRACTS = [
     "database": "Scopus",
     "category": "Uncategorized",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "Environmental Behavior Single-use Plastic Packaging Goals",
       "the theory of reasoned goal pursuit (TRGP)",
@@ -5154,7 +5154,7 @@ window.AUTO_ABSTRACTS = [
     "database": "Scopus",
     "category": "Malaysian Context",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "Purpose \u2013 The purpose of this paper is to serve as groundwork to investigate the determinants of ethnic food consumption intention in the context of developing markets. Using the theory of planned behaviour as the underlying basis, it is aimed to explain the effect of attitude, subjective norm and perceived behaviour control on consumption intention towards Dayak food. Since Dayak food is relatively unfamiliar compared to conventional food in Malaysia, food neophobia is incorporated into the model so as to assess its moderation effect on every postulated relationship. Design/methodology/approach \u2013 A quantitative approach via self-administered questionnaire was adopted. In all, 300 copies of the questionnaire were distributed to non-Dayak Malaysians, and 211 usable copies were subsequently collected, suggesting that non-response bias was not a major issue. A post hoc Harman single-factor analysis was also performed to ensure the variance in the data was not explained by one single factor, thus addressing the common method bias. Structural equation modelling using partial least squares approach was then utilized to assess the relationships of variables under investigation and the moderation effect of food neophobia. Findings \u2013 After ensuring the data have acceptable reliability and validity, structural model assessment was performed to test the hypotheses. The findings show that attitude, subjective norm and perceived behavioural control all have positive effect on consumption intention of non-Dayak Malaysians towards Dayak food. However, food neophobia is only found to have a moderation effect on the relationship between subjective norm and consumption intention. Research limitations/implications \u2013 First, the sample is largely consisted of college and university students in Malaysia who are believed to be more daring to try new things, including new food. Second and more importantly, the dearth of literature and empirical studies on Dayak food and ethnic food in Malaysia might have actually pointed to the limitation in using only quantitative questionnaire in the study. As salient beliefs are the antecedents in the theory of planned behaviour, knowing consumers\u2019 specific beliefs about Dayak food would have provided a more detailed and comprehensive understanding of consumption intention and the moderating effect of food neophobia. British Food Journal Vol. 118 No. 11, 2016 pp. 2781-2797 \u00a9 Emerald Group Publishing Limited 0007-070X DOI 10.1108/BFJ-12-2015-0492 Received 23 December 2015 Revised 5 August 2016 Accepted 5 August 2016 The current issue and full text archive of this journal is available on Emerald Insight at: www.emeraldinsight.com/0007-070X.htm This paper is based on research",
+    "abstract": "Purpose – The purpose of this paper is to serve as groundwork to investigate the determinants of ethnic food consumption intention in the context of developing markets. Using the theory of planned behaviour as the underlying basis, it is aimed to explain the effect of attitude, subjective norm and perceived behaviour control on consumption intention towards Dayak food. Since Dayak food is relatively unfamiliar compared to conventional food in Malaysia, food neophobia is incorporated into the model so as to assess its moderation effect on every postulated relationship. Design/methodology/approach – A quantitative approach via self-administered questionnaire was adopted. In all, 300 copies of the questionnaire were distributed to non-Dayak Malaysians, and 211 usable copies were subsequently collected, suggesting that non-response bias was not a major issue. A post hoc Harman single-factor analysis was also performed to ensure the variance in the data was not explained by one single factor, thus addressing the common method bias. Structural equation modelling using partial least squares approach was then utilized to assess the relationships of variables under investigation and the moderation effect of food neophobia. Findings – After ensuring the data have acceptable reliability and validity, structural model assessment was performed to test the hypotheses. The findings show that attitude, subjective norm and perceived behavioural control all have positive effect on consumption intention of non-Dayak Malaysians towards Dayak food. However, food neophobia is only found to have a moderation effect on the relationship between subjective norm and consumption intention. Research limitations/implications – First, the sample is largely consisted of college and university students in Malaysia who are believed to be more daring to try new things, including new food. Second and more importantly, the dearth of literature and empirical studies on Dayak food and ethnic food in Malaysia might have actually pointed to the limitation in using only quantitative questionnaire in the study. As salient beliefs are the antecedents in the theory of planned behaviour, knowing consumers’ specific beliefs about Dayak food would have provided a more detailed and comprehensive understanding of consumption intention and the moderating effect of food neophobia. British Food Journal Vol. 118 No. 11, 2016 pp. 2781-2797 © Emerald Group Publishing Limited 0007-070X DOI 10.1108/BFJ-12-2015-0492 Received 23 December 2015 Revised 5 August 2016 Accepted 5 August 2016 The current issue and full text archive of this journal is available on Emerald Insight at: www.emeraldinsight.com/0007-070X.htm This paper is based on research",
     "keywords": [
       "Paper type Research paper"
     ],
@@ -5169,7 +5169,7 @@ window.AUTO_ABSTRACTS = [
     "database": "Scopus",
     "category": "Uncategorized",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "Systematic review",
       "Attitude",
@@ -5202,7 +5202,7 @@ window.AUTO_ABSTRACTS = [
     "database": "Scopus",
     "category": "TPB Help-Seeking",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "Proper segregation of medical waste is crucial for environmental safety, public health and preventing the spread of infectious diseases, making it a significant challenge to study health workers\u2019 adherence. Since effective waste management depends on indi- vidual actions, this study uses environmental psychology principles to examine the cognitive and moral factors that influence medical waste management behaviour. Despite acknowledging the significance of these factors, the existing literature reveals a notable gap. It notably lacks a comprehensive framework that combines rational and moral drivers of behaviour. Specifically, the integrated use of the Theory of Planned Behaviour (TPB) and the Norm Activation Model (NAM) has been insufficiently explored among healthcare workers. Therefore, the primary objective of this study is to investigate the psychological factors \u2013 such as perceived behavioural control, sub- jective norms and personal moral norms \u2013 that influence the intentions and actual behaviours of healthcare workers regarding the segregation of medical waste. A quan- titative, cross-sectional study was conducted using a structured questionnaire survey. The measurement tool used multiple-item scales adapted from validated sources to assess all variables, with responses recorded on a five-point Likert scale. Data were collected through an online survey using convenience sampling among healthcare workers in Bahrain over a 3-month period, resulting in 144 valid responses. Analysis was conducted using Partial Least Squares Structural Equation Modelling (PLS-SEM) with SmartPLS software. The results revealed that the integrated NAM-TPB model pro- vides valuable insights into motivations, explaining 70% of the total variance in segre- gation intention. Also, Perceived Behavioural Control and Personal Norms are significant predictors of segregation intentions, and importantly, both personal norms and intention are key predictors of the final segregation action. In conclusion, this study confirms a strong, integrated behavioural model with significant theoretical and practical implications for developing theory-based interventions that focus on reinforc- ing personal norms and moral obligations rather than procedural compliance, thereby enhancing medical waste management practices. ARTICLE HISTORY Received 16 June 2025 Revised 10 November 2025 Accepted 23 November 2025",
+    "abstract": "Proper segregation of medical waste is crucial for environmental safety, public health and preventing the spread of infectious diseases, making it a significant challenge to study health workers’ adherence. Since effective waste management depends on indi- vidual actions, this study uses environmental psychology principles to examine the cognitive and moral factors that influence medical waste management behaviour. Despite acknowledging the significance of these factors, the existing literature reveals a notable gap. It notably lacks a comprehensive framework that combines rational and moral drivers of behaviour. Specifically, the integrated use of the Theory of Planned Behaviour (TPB) and the Norm Activation Model (NAM) has been insufficiently explored among healthcare workers. Therefore, the primary objective of this study is to investigate the psychological factors – such as perceived behavioural control, sub- jective norms and personal moral norms – that influence the intentions and actual behaviours of healthcare workers regarding the segregation of medical waste. A quan- titative, cross-sectional study was conducted using a structured questionnaire survey. The measurement tool used multiple-item scales adapted from validated sources to assess all variables, with responses recorded on a five-point Likert scale. Data were collected through an online survey using convenience sampling among healthcare workers in Bahrain over a 3-month period, resulting in 144 valid responses. Analysis was conducted using Partial Least Squares Structural Equation Modelling (PLS-SEM) with SmartPLS software. The results revealed that the integrated NAM-TPB model pro- vides valuable insights into motivations, explaining 70% of the total variance in segre- gation intention. Also, Perceived Behavioural Control and Personal Norms are significant predictors of segregation intentions, and importantly, both personal norms and intention are key predictors of the final segregation action. In conclusion, this study confirms a strong, integrated behavioural model with significant theoretical and practical implications for developing theory-based interventions that focus on reinforc- ing personal norms and moral obligations rather than procedural compliance, thereby enhancing medical waste management practices. ARTICLE HISTORY Received 16 June 2025 Revised 10 November 2025 Accepted 23 November 2025",
     "keywords": [
       "Environmental risks",
       "pro-"
@@ -5218,7 +5218,7 @@ window.AUTO_ABSTRACTS = [
     "database": "Scopus",
     "category": "Uncategorized",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "brief counseling",
       "implementation science",
@@ -5238,7 +5238,7 @@ window.AUTO_ABSTRACTS = [
     "database": "Scopus",
     "category": "TPB Help-Seeking",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "This study examines how platform-based artificial intelligence resources (PAIRs) influence sustainable performance in e-business ecosystems by shaping stakeholder cognition and behavior. Guided by the Resource-Based View (RBV), the Theory of Planned Behavior (TPB), and institutional theory, we examine the psychological mechanisms\u2014particularly trust in AI and environmental identity\u2014that mediate the relationship between PAIRs and green value co-creation (GVC), with sustainable development (SD) acting as a moderating factor. Drawing on survey data from 466 platform managers in China\u2019s digital economy hubs (Yangtze River Delta, Pearl River Delta, Beijing-Tianjin), covering diverse industries (e-commerce, consumer goods, healthcare), our data suggest that PAIRs may influence firm performance via GVC, and that this association appears to be stronger under high- SD contexts. Our results underscore the importance of responsible and psychologically informed AI design\u2014such as algorithmic transparency, cognitive load reduction, and ethical calibration\u2014to facilitate stakeholder trust and pro-environmental engagement. This research contributes both theoretically and practically to elucidating how AI integration in e-business can be leveraged for responsible innovation and sustainable value creation.",
+    "abstract": "This study examines how platform-based artificial intelligence resources (PAIRs) influence sustainable performance in e-business ecosystems by shaping stakeholder cognition and behavior. Guided by the Resource-Based View (RBV), the Theory of Planned Behavior (TPB), and institutional theory, we examine the psychological mechanisms—particularly trust in AI and environmental identity—that mediate the relationship between PAIRs and green value co-creation (GVC), with sustainable development (SD) acting as a moderating factor. Drawing on survey data from 466 platform managers in China’s digital economy hubs (Yangtze River Delta, Pearl River Delta, Beijing-Tianjin), covering diverse industries (e-commerce, consumer goods, healthcare), our data suggest that PAIRs may influence firm performance via GVC, and that this association appears to be stronger under high- SD contexts. Our results underscore the importance of responsible and psychologically informed AI design—such as algorithmic transparency, cognitive load reduction, and ethical calibration—to facilitate stakeholder trust and pro-environmental engagement. This research contributes both theoretically and practically to elucidating how AI integration in e-business can be leveraged for responsible innovation and sustainable value creation.",
     "keywords": [
       "platform AI resources",
       "green value co-creation",
@@ -5271,7 +5271,7 @@ window.AUTO_ABSTRACTS = [
     "database": "Springer Nature",
     "category": "Autism Caregiver",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "This paper presents the findings of a longitudinal study conducted in South Africa that investigated the perspectives and experiences of informal caregivers in assisting youth with intellectual disabilities and/or autism as they transitioned from residential care towards young adulthood. This was a component of a larger study that examined the transition of six care-leavers. This paper focuses only on the interviews conducted with caregivers. The study utilised a qualitative research design to uncover participants\u2019 experiences and perceptions. The three informal caregivers of youth with intellectual dis\u00ad abilities and/or autism were each interviewed thrice over 18 months. Five core themes emerged from the thematic analysis of caregiver interview data: inadequate transitional planning and preparation; limited aftercare opportunities; barriers to accessing formal support; caregiver unmet support needs; and the value of informal relational support. Caregivers play a crucial role in the lives of care-leavers with intellectual disabilities and/or autism as they transition towards young adult\u00ad hood. However, they often report insufficient support, compounded by challenges in transitional planning and gaps in aftercare support for the young person in their care.",
+    "abstract": "This paper presents the findings of a longitudinal study conducted in South Africa that investigated the perspectives and experiences of informal caregivers in assisting youth with intellectual disabilities and/or autism as they transitioned from residential care towards young adulthood. This was a component of a larger study that examined the transition of six care-leavers. This paper focuses only on the interviews conducted with caregivers. The study utilised a qualitative research design to uncover participants’ experiences and perceptions. The three informal caregivers of youth with intellectual dis­ abilities and/or autism were each interviewed thrice over 18 months. Five core themes emerged from the thematic analysis of caregiver interview data: inadequate transitional planning and preparation; limited aftercare opportunities; barriers to accessing formal support; caregiver unmet support needs; and the value of informal relational support. Caregivers play a crucial role in the lives of care-leavers with intellectual disabilities and/or autism as they transition towards young adult­ hood. However, they often report insufficient support, compounded by challenges in transitional planning and gaps in aftercare support for the young person in their care.",
     "keywords": [
       "Received: 1 July 2025 / Accepted: 1 March 2026"
     ],
@@ -5286,7 +5286,7 @@ window.AUTO_ABSTRACTS = [
     "database": "Springer Nature",
     "category": "Uncategorized",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "Expressive language",
       "Pragmatic language",
@@ -5302,9 +5302,9 @@ window.AUTO_ABSTRACTS = [
     "journal": "Unknown Journal",
     "year": 2026,
     "database": "Springer Nature",
-    "category": "Autism Caregiver",
+    "category": "Caregiver Burden",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "For Cognitive Behavioral Therapy to best meet the specific needs of autistic youth with co-occurring anxiety and to continue to grow as a sustainable treatment option, it is important to incorporate caregiver perspectives and feedback. Data were drawn from a randomized controlled trial and included 148 caregivers of autistic youth (ages 7\u201313 years, M = 9.89, SD = 1.79; 23% female; 77.7% White) with co-occurring anxiety disorders randomized to one of two active treatment conditions (Coping Cat, n = 72, or Behavioral Interventions for Anxiety in Children with Autism [BIACA], n = 76). A systematic inductive thematic analysis was used to code open-ended parent responses on the Consumer Satisfaction Questionnaire to identify what caregivers of autistic children with co-occurring anxiety liked most and least about their child\u2019s treatment. Satisfac- tion with treatment was high (M = 64.98, SD = 5.48). Caregivers\u2019 most-liked treatment features across treatments included (a) tools and coping skills, (b) therapeutic alliance, (c) caregiver support and involvement, (d) personalized treatment, and (e) treatment efficacy. Least-liked features of treatment and family participation included (a) the commute to the clinic, (b) treatment length, (c) commitment required at home, (d) questionnaires, and (e) scheduling. Treatment responders endorsed therapeutic alliance more frequently. Caregivers in BIACA endorsed caregiver support and involvement at higher rates, in addition to commitment required at home. Caregiver responses indicated a preference for more sessions and highlighted the importance of balancing need for caregiver involvement in treatment while reducing caregiver burden.",
+    "abstract": "For Cognitive Behavioral Therapy to best meet the specific needs of autistic youth with co-occurring anxiety and to continue to grow as a sustainable treatment option, it is important to incorporate caregiver perspectives and feedback. Data were drawn from a randomized controlled trial and included 148 caregivers of autistic youth (ages 7–13 years, M = 9.89, SD = 1.79; 23% female; 77.7% White) with co-occurring anxiety disorders randomized to one of two active treatment conditions (Coping Cat, n = 72, or Behavioral Interventions for Anxiety in Children with Autism [BIACA], n = 76). A systematic inductive thematic analysis was used to code open-ended parent responses on the Consumer Satisfaction Questionnaire to identify what caregivers of autistic children with co-occurring anxiety liked most and least about their child’s treatment. Satisfac- tion with treatment was high (M = 64.98, SD = 5.48). Caregivers’ most-liked treatment features across treatments included (a) tools and coping skills, (b) therapeutic alliance, (c) caregiver support and involvement, (d) personalized treatment, and (e) treatment efficacy. Least-liked features of treatment and family participation included (a) the commute to the clinic, (b) treatment length, (c) commitment required at home, (d) questionnaires, and (e) scheduling. Treatment responders endorsed therapeutic alliance more frequently. Caregivers in BIACA endorsed caregiver support and involvement at higher rates, in addition to commitment required at home. Caregiver responses indicated a preference for more sessions and highlighted the importance of balancing need for caregiver involvement in treatment while reducing caregiver burden.",
     "keywords": [
       "Systematic inductive thematic analysis"
     ],
@@ -5319,7 +5319,7 @@ window.AUTO_ABSTRACTS = [
     "database": "Springer Nature",
     "category": "Autism",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "Hospitals are motivated to create more autism friendly environments to optimise access and experience for the community. However, there is a lack of clarity in what the term autism friendly in hospital settings means. We conducted a scoping review of four online databases and eleven national autism organisations to determine existing definitions for autism friendly within hospital settings. To operationalise the meaning of autism friendly hospital care, we then reviewed barri\u00ad ers and facilitators to hospital care from the perspective of autistic patients. Within the seven studies that considered the meaning of autism friendly, we found that the term autism friendly within a hospital context is undefined. To operationalise the meaning of autism friendly within hospitals, we identified barriers and facilitators in 16 studies that examined the hospital experience of autistic patients. We identified 19 facilitators and 23 barriers across three categories: people, place, and time. Flexibility underpinned the three categories, with flexible people, flexible place, and flexible timing reported as being integral to improving the hospital experience of patients with autism. Our findings provide clear guidance for creating autism friendly hospital care.",
+    "abstract": "Hospitals are motivated to create more autism friendly environments to optimise access and experience for the community. However, there is a lack of clarity in what the term autism friendly in hospital settings means. We conducted a scoping review of four online databases and eleven national autism organisations to determine existing definitions for autism friendly within hospital settings. To operationalise the meaning of autism friendly hospital care, we then reviewed barri­ ers and facilitators to hospital care from the perspective of autistic patients. Within the seven studies that considered the meaning of autism friendly, we found that the term autism friendly within a hospital context is undefined. To operationalise the meaning of autism friendly within hospitals, we identified barriers and facilitators in 16 studies that examined the hospital experience of autistic patients. We identified 19 facilitators and 23 barriers across three categories: people, place, and time. Flexibility underpinned the three categories, with flexible people, flexible place, and flexible timing reported as being integral to improving the hospital experience of patients with autism. Our findings provide clear guidance for creating autism friendly hospital care.",
     "keywords": [
       "disparities"
     ],
@@ -5334,7 +5334,7 @@ window.AUTO_ABSTRACTS = [
     "database": "Springer Nature",
     "category": "Autism Caregiver",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "Purpose The use of mobile technology to support clinical practice (mHealth) has the potential to support access to caregiver- mediated interventions for autistic children, improving accessibility, scalability, and cost-effectiveness. However, rarely stakeholders\u2019 perspectives have been integrated in the development of mHealth tools. This study aims to investigate stake\u00ad holders\u2019 needs, attitudes, and expectations regarding a to-be-developed mHealth caregiver-mediated intervention based on the WHO Caregiver Skills Training program. Methods We conducted focus groups and interviews with 13 caregivers and 14 clinicians. Results Thematic analysis identified four main themes: \u201cUsage scenarios\u201d, \u201cPurposes\u201d, \u201cThreats to app success\u201d, and \u201cStrat\u00ad egies for app success\u201d. Stakeholders emphasized the need for an app that could support caregivers at different stages and roles, regardless of previous exposure to in-person CST. Stakeholders expected an app that could integrate psychoeducation, support home practice, and promote psychological wellbeing. Perceived threats to the app\u2019s effectiveness pertained to the self-directed delivery, in absence of a therapist; while strategies proposed to counter such threats included incorporating engaging content, gamification and customization features, and overall ease of use of the app. Conclusion Findings are discussed in relation to the development of a prototype based on caregivers\u2019 needs and recom\u00ad mendations from expert clinicians. Future directions involve conducting formal usability testing of the initial prototype and evaluating the app\u2019s acceptability and effectiveness.",
+    "abstract": "Purpose The use of mobile technology to support clinical practice (mHealth) has the potential to support access to caregiver- mediated interventions for autistic children, improving accessibility, scalability, and cost-effectiveness. However, rarely stakeholders’ perspectives have been integrated in the development of mHealth tools. This study aims to investigate stake­ holders’ needs, attitudes, and expectations regarding a to-be-developed mHealth caregiver-mediated intervention based on the WHO Caregiver Skills Training program. Methods We conducted focus groups and interviews with 13 caregivers and 14 clinicians. Results Thematic analysis identified four main themes: “Usage scenarios”, “Purposes”, “Threats to app success”, and “Strat­ egies for app success”. Stakeholders emphasized the need for an app that could support caregivers at different stages and roles, regardless of previous exposure to in-person CST. Stakeholders expected an app that could integrate psychoeducation, support home practice, and promote psychological wellbeing. Perceived threats to the app’s effectiveness pertained to the self-directed delivery, in absence of a therapist; while strategies proposed to counter such threats included incorporating engaging content, gamification and customization features, and overall ease of use of the app. Conclusion Findings are discussed in relation to the development of a prototype based on caregivers’ needs and recom­ mendations from expert clinicians. Future directions involve conducting formal usability testing of the initial prototype and evaluating the app’s acceptability and effectiveness.",
     "keywords": [
       "Accepted: 11 May 2025"
     ],
@@ -5364,7 +5364,7 @@ window.AUTO_ABSTRACTS = [
     "database": "Springer Nature",
     "category": "Autism",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "Purpose Since COVID-19, tele-based methods of autism assessment have been relied upon to a previously unparalleled degree; however, the need for such advancements is not new. Observation-based measures are a crucial component of face-to-face autism diagnostic evaluations, but few validated observation tools exist for remotely assessing autism across childhood, offering minimal guidance for older children and adolescents. Sanchez and Constantino previously validated a brief, face-to-face, clinician-facilitated observation coded according to the Childhood Autism Rating Scale, Second Edition (CARS-2). During the pandemic, this measure was adapted as a remote observation, but has yet to be validated in this format. Methods The current study validated this remote observation against the in-person Autism Diagnostic Observation Sched\u00ad ule, Second Edition (ADOS-2), in a sample of 30 children ages 1-16 years (M = 7.25, SD = 4.05). Results The remote observation was highly correlated with the ADOS-2 (r = .75, p < .001) and Social Responsiveness Scale, Second Edition (r = .74, p < .001), and demonstrated acceptable sensitivity (88.9%) and specificity (80%) in predict\u00ad ing research diagnostic classification. The remote observation correctly predicted whether a child met criteria for a research diagnosis of autism in 82.8% of cases, and the same classification as the ADOS-2 in 72.4% of cases. Conclusions This pilot study offers preliminary support for the validity of this brief, accessible, remote autism observation. This is a crucial step in ensuring uniform training and clinical procedures for tele-assessment of autism, to help mitigate long-standing barriers to service access (e.g., geography, cost, availability).",
+    "abstract": "Purpose Since COVID-19, tele-based methods of autism assessment have been relied upon to a previously unparalleled degree; however, the need for such advancements is not new. Observation-based measures are a crucial component of face-to-face autism diagnostic evaluations, but few validated observation tools exist for remotely assessing autism across childhood, offering minimal guidance for older children and adolescents. Sanchez and Constantino previously validated a brief, face-to-face, clinician-facilitated observation coded according to the Childhood Autism Rating Scale, Second Edition (CARS-2). During the pandemic, this measure was adapted as a remote observation, but has yet to be validated in this format. Methods The current study validated this remote observation against the in-person Autism Diagnostic Observation Sched­ ule, Second Edition (ADOS-2), in a sample of 30 children ages 1-16 years (M = 7.25, SD = 4.05). Results The remote observation was highly correlated with the ADOS-2 (r = .75, p < .001) and Social Responsiveness Scale, Second Edition (r = .74, p < .001), and demonstrated acceptable sensitivity (88.9%) and specificity (80%) in predict­ ing research diagnostic classification. The remote observation correctly predicted whether a child met criteria for a research diagnosis of autism in 82.8% of cases, and the same classification as the ADOS-2 in 72.4% of cases. Conclusions This pilot study offers preliminary support for the validity of this brief, accessible, remote autism observation. This is a crucial step in ensuring uniform training and clinical procedures for tele-assessment of autism, to help mitigate long-standing barriers to service access (e.g., geography, cost, availability).",
     "keywords": [
       "Received: 29 April 2025 / Accepted: 23 October 2025"
     ],
@@ -5379,7 +5379,7 @@ window.AUTO_ABSTRACTS = [
     "database": "Springer Nature",
     "category": "Autism Caregiver",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "Purpose The COVID-19 pandemic and subsequent mitigation efforts impacted communities in many ways and placed immense strain on the health care system, impacting access to services. The purpose of this study was to examine changes in prevalence of child health care, child health, and caregiver and household health within children with autism and children with special health care needs (CSHCN) pre-pandemic to early pandemic years. Methods We examined data from the National Survey of Children\u2019s Health to examine changes in child health care, child health, and caregiver and household health for autistic children and CSHCN from 2018 to 2021. Results About one-third of children with autism and CSHCN missed preventive checkups due to the COVID-19 pandemic and half had virtual care in 2021. Parents of children with autism had less help with care coordination in 2020 compared to previous years. In CSHCN prevalence of anxiety increased from 2018/2019 to 2021, with a concurrent increase in need for mental health care, this was not seen in children with autism. Finally, difficulty paying medical bills and for food was less common in 2020 and 2021 (compared to 2018/2019). Conclusions The COVID-19 pandemic changed the healthcare landscape for everyone, including children with autism and CSHCN as highlighted in this study. Understanding the disruptions and how they impacted populations differently can be helpful in informing plans long-term emergency preparedness. This planning should involve disability inclusive policies, to ensure the most vulnerable groups retain health care access as needed. Significance The COVID-19 pandemic impacted physical health, mental health, and access to health care for children with special health care needs. The specific impact of the pandemic on autistic children and their families is not thoroughly documented. What this study adds: Children with autism experienced disruptions to health care during the COVID-19 pandemic. As a group with great health care and service needs, disruptions could be overly impactful to health trajectories, strengthening the need for continuous, accessible care.",
+    "abstract": "Purpose The COVID-19 pandemic and subsequent mitigation efforts impacted communities in many ways and placed immense strain on the health care system, impacting access to services. The purpose of this study was to examine changes in prevalence of child health care, child health, and caregiver and household health within children with autism and children with special health care needs (CSHCN) pre-pandemic to early pandemic years. Methods We examined data from the National Survey of Children’s Health to examine changes in child health care, child health, and caregiver and household health for autistic children and CSHCN from 2018 to 2021. Results About one-third of children with autism and CSHCN missed preventive checkups due to the COVID-19 pandemic and half had virtual care in 2021. Parents of children with autism had less help with care coordination in 2020 compared to previous years. In CSHCN prevalence of anxiety increased from 2018/2019 to 2021, with a concurrent increase in need for mental health care, this was not seen in children with autism. Finally, difficulty paying medical bills and for food was less common in 2020 and 2021 (compared to 2018/2019). Conclusions The COVID-19 pandemic changed the healthcare landscape for everyone, including children with autism and CSHCN as highlighted in this study. Understanding the disruptions and how they impacted populations differently can be helpful in informing plans long-term emergency preparedness. This planning should involve disability inclusive policies, to ensure the most vulnerable groups retain health care access as needed. Significance The COVID-19 pandemic impacted physical health, mental health, and access to health care for children with special health care needs. The specific impact of the pandemic on autistic children and their families is not thoroughly documented. What this study adds: Children with autism experienced disruptions to health care during the COVID-19 pandemic. As a group with great health care and service needs, disruptions could be overly impactful to health trajectories, strengthening the need for continuous, accessible care.",
     "keywords": [
       "Introduction"
     ],
@@ -5394,7 +5394,7 @@ window.AUTO_ABSTRACTS = [
     "database": "Springer Nature",
     "category": "Uncategorized",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "Caregiver psychiatric symptoms",
       "assessment"
@@ -5410,7 +5410,7 @@ window.AUTO_ABSTRACTS = [
     "database": "Springer Nature",
     "category": "Uncategorized",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "Functional performance",
       "Children with disabilities"
@@ -5450,7 +5450,7 @@ window.AUTO_ABSTRACTS = [
     "database": "Springer Nature",
     "category": "Autism Caregiver",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "We conducted a scoping review of attachment in children with autism spectrum disorder (ASD). Searches of Scopus, Web of Science, and PubMed, with no year limits, identified 23 studies, chiefly using the Strange Situation Procedure (often modified; protocol variants documented) and, less often, the Attachment Q-Sort. Across Strange Situation studies, secure classifications ranged 31.5%\u201359.0%, with disorganization frequently elevated relative to typical comparison groups. Caregiver sensitivity and insightfulness were associated with greater security; limited longitudinal evidence linked early security with later social inclusion and empathic concern. Overall, children with ASD form organized attachments, yet validity concerns around modified laboratory protocols and the promise of home-based assessments justify dual-method, longitudinal designs and rigorously evaluated sensitivity-focused interventions.",
+    "abstract": "We conducted a scoping review of attachment in children with autism spectrum disorder (ASD). Searches of Scopus, Web of Science, and PubMed, with no year limits, identified 23 studies, chiefly using the Strange Situation Procedure (often modified; protocol variants documented) and, less often, the Attachment Q-Sort. Across Strange Situation studies, secure classifications ranged 31.5%–59.0%, with disorganization frequently elevated relative to typical comparison groups. Caregiver sensitivity and insightfulness were associated with greater security; limited longitudinal evidence linked early security with later social inclusion and empathic concern. Overall, children with ASD form organized attachments, yet validity concerns around modified laboratory protocols and the promise of home-based assessments justify dual-method, longitudinal designs and rigorously evaluated sensitivity-focused interventions.",
     "keywords": [
       "sensitivity",
       "Disorganized attachment"
@@ -5464,9 +5464,9 @@ window.AUTO_ABSTRACTS = [
     "journal": "Unknown Journal",
     "year": 2026,
     "database": "Springer Nature",
-    "category": "Autism Caregiver",
+    "category": "Systematic Literature Review",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "Autism spectrum disorders (ASD) significantly impact children\u2019s development, making early intervention necessary for improving social communication and reducing symptom severity. Autistic children often exhibit less secure attachment styles due to challenges in reciprocity and joint attention, among others. Therefore, interventions aimed at enhancing attachment quality may strengthen caregiver-child interactions, and positively influence core autism symptoms by improv\u00ad ing socioemotional outcomes. We conducted a systematic review to synthesize the evidence derived from attachment-based interventions for autistic children. Seventeen articles (15 studies) met the inclusion criteria. Reviewed findings showed that promoting caregivers\u2019 sensitivity and reflective function improves the relationship quality and enhances children\u2019s joint attention along with the suitable use of parents as a safe haven. Moreover, changes in parent-child interaction were explained mainly by modifications in maternal responses. The reviewed treatments enhanced children\u2019s adaptive behavior, language expression, and communication skills. The role of caregivers is discussed, highlighting that attachment-based treatments involve them as co-therapists and yield benefits, including improved attachment quality.",
+    "abstract": "Autism spectrum disorders (ASD) significantly impact children’s development, making early intervention necessary for improving social communication and reducing symptom severity. Autistic children often exhibit less secure attachment styles due to challenges in reciprocity and joint attention, among others. Therefore, interventions aimed at enhancing attachment quality may strengthen caregiver-child interactions, and positively influence core autism symptoms by improv­ ing socioemotional outcomes. We conducted a systematic review to synthesize the evidence derived from attachment-based interventions for autistic children. Seventeen articles (15 studies) met the inclusion criteria. Reviewed findings showed that promoting caregivers’ sensitivity and reflective function improves the relationship quality and enhances children’s joint attention along with the suitable use of parents as a safe haven. Moreover, changes in parent-child interaction were explained mainly by modifications in maternal responses. The reviewed treatments enhanced children’s adaptive behavior, language expression, and communication skills. The role of caregivers is discussed, highlighting that attachment-based treatments involve them as co-therapists and yield benefits, including improved attachment quality.",
     "keywords": [
       "Received: 12 August 2024 / Accepted: 12 April 2026"
     ],
@@ -5481,7 +5481,7 @@ window.AUTO_ABSTRACTS = [
     "database": "Springer Nature",
     "category": "Autism",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "Autism spectrum disorder (ASD) is a complex neurodevelopmental condition with a steadily increasing global prevalence, yet its etiology remains largely unclear. Emerging evidence suggests that oral microbiome dysbiosis may contribute to the pathogenesis of ASD, potentially through the oral-gut-brain axis, although the exact role and causality remain to be fully established. In this narrative review, we synthesize recent clinical and metagenomic evidence on oral microbiome alterations in ASD and critically evaluate the potential pathways through which these microbial imbalances may impact neurodevelopmental outcomes. We summarize the key host\u2013microbe interactions, including inflammatory signaling, epithelial barrier disruption, and immune-neural crosstalk, while emphasizing that direct causal evidence is still limited. Dysbiosis in individuals with ASD is characterized by altered microbial communities, including increased Streptococcus and decreased Prevotella , which correlate with clinical symptom severity. Moreover, metagenomic profiling has indicated the presence of potential biomarkers in the oral microbiome, which may serve as promising noninvasive diagnostic tools for ASD. While the clinical applications of oral microbiome diagnostics are still in the early stages, we explore the challenges and opportunities for developing these biomarkers for risk stratification. Finally, we outline future research directions that could enhance the understanding of the oral microbiome\u2019s role in ASD and facilitate the development of personalized intervention strategies.",
+    "abstract": "Autism spectrum disorder (ASD) is a complex neurodevelopmental condition with a steadily increasing global prevalence, yet its etiology remains largely unclear. Emerging evidence suggests that oral microbiome dysbiosis may contribute to the pathogenesis of ASD, potentially through the oral-gut-brain axis, although the exact role and causality remain to be fully established. In this narrative review, we synthesize recent clinical and metagenomic evidence on oral microbiome alterations in ASD and critically evaluate the potential pathways through which these microbial imbalances may impact neurodevelopmental outcomes. We summarize the key host–microbe interactions, including inflammatory signaling, epithelial barrier disruption, and immune-neural crosstalk, while emphasizing that direct causal evidence is still limited. Dysbiosis in individuals with ASD is characterized by altered microbial communities, including increased Streptococcus and decreased Prevotella , which correlate with clinical symptom severity. Moreover, metagenomic profiling has indicated the presence of potential biomarkers in the oral microbiome, which may serve as promising noninvasive diagnostic tools for ASD. While the clinical applications of oral microbiome diagnostics are still in the early stages, we explore the challenges and opportunities for developing these biomarkers for risk stratification. Finally, we outline future research directions that could enhance the understanding of the oral microbiome’s role in ASD and facilitate the development of personalized intervention strategies.",
     "keywords": [
       "Dysbiosis",
       "Microbiome",
@@ -5530,7 +5530,7 @@ window.AUTO_ABSTRACTS = [
     "database": "Springer Nature",
     "category": "Uncategorized",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "world",
       "Developmental milestones",
@@ -5547,7 +5547,7 @@ window.AUTO_ABSTRACTS = [
     "database": "Web of Science",
     "category": "Uncategorized",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "Autism spectrum disorder",
       "Restricted and repetitive behaviors",
@@ -5575,7 +5575,7 @@ window.AUTO_ABSTRACTS = [
     "database": "Web of Science",
     "category": "Autism Caregiver",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "Family members of those with a mental health disorder also suffer the consequences of social stigma and self-stigma, internalising social prejudices and stereotypes and suffering the effects of discrimination. In the case of Autism Spectrum Disorder (ASD), given the high levels of dependency it generates, the levels of self-stigma among family members are particularly high and its consequences devastating. The aim of the present study was to analyse the relationships between self-stigma and depression, stress, anxiety, psychological well-being and resilience. The sample consisted of 328 parents of children diagnosed with ASD in the province of Almer\u00eda and Murcia, aged between 27 and 58 years (M = 37.32; SD = 9.06). Participants completed the Spanish adaptation of the Self-Stigma in Relatives of people with Mental Illness, the Depression, Anxiety and Stress scale, the Psychological Well-being Scale and the Resilience questionnaire, whose responses were analysed using structural equation modelling. The results showed that self-stigma correlated positively with stress, anxiety and depression. On the other hand, these three variables were inversely related to psychological well-being. Finally, a positive correlation was found between psychological well-being and resilience. Therefore, the impact of self-stigma has been con\ufb01rmed, highlighting the need to provide social support and resources as well as to raise awareness of these disorders.",
+    "abstract": "Family members of those with a mental health disorder also suffer the consequences of social stigma and self-stigma, internalising social prejudices and stereotypes and suffering the effects of discrimination. In the case of Autism Spectrum Disorder (ASD), given the high levels of dependency it generates, the levels of self-stigma among family members are particularly high and its consequences devastating. The aim of the present study was to analyse the relationships between self-stigma and depression, stress, anxiety, psychological well-being and resilience. The sample consisted of 328 parents of children diagnosed with ASD in the province of Almería and Murcia, aged between 27 and 58 years (M = 37.32; SD = 9.06). Participants completed the Spanish adaptation of the Self-Stigma in Relatives of people with Mental Illness, the Depression, Anxiety and Stress scale, the Psychological Well-being Scale and the Resilience questionnaire, whose responses were analysed using structural equation modelling. The results showed that self-stigma correlated positively with stress, anxiety and depression. On the other hand, these three variables were inversely related to psychological well-being. Finally, a positive correlation was found between psychological well-being and resilience. Therefore, the impact of self-stigma has been conﬁrmed, highlighting the need to provide social support and resources as well as to raise awareness of these disorders.",
     "keywords": [],
     "source": "PDF"
   },
@@ -5588,7 +5588,7 @@ window.AUTO_ABSTRACTS = [
     "database": "Web of Science",
     "category": "Autism Caregiver",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "Objective This study aims to examine the prevalence of anxiety and depression among parents of children diagnosed with autism spectrum disorder and identify potential influencing factors. Method A total of 411(352 boys, 59 girls) children diagnosed with autism spectrum disorder and their parents were enrolled from the Department of Developmental Behavior at the Affiliated Children\u2019s Hospital of Zhejiang University School of Medicine between January and July 2022. Depression, anxiety symptoms, psychological resilience, and the severity of autism symptoms of their children are reported by parents. Hierarchical multiple regression was utilized to analyze the relationships between the mental health of the parents and factors such as psychological resilience (internal), demographic data, and the severity of autism symptoms (external). Results Psychological resilience was identified as the most significant predictor of both depression (B = \u2212 0.11, SE = 0.01, p < 0.001) and anxiety (B = -6.81, SE = 0.61, p < 0.001) among parents, while controlling demographic variables and the severity of the children\u2019s symptoms. However, the severity of autism symptoms was not related to parents\u2019 mental health problems. Conclusion Attention to the mental well-being of parents with autism spectrum disorder children and enhancement of their psychological resilience are potential ways to improve the family\u2019s mental health.",
+    "abstract": "Objective This study aims to examine the prevalence of anxiety and depression among parents of children diagnosed with autism spectrum disorder and identify potential influencing factors. Method A total of 411(352 boys, 59 girls) children diagnosed with autism spectrum disorder and their parents were enrolled from the Department of Developmental Behavior at the Affiliated Children’s Hospital of Zhejiang University School of Medicine between January and July 2022. Depression, anxiety symptoms, psychological resilience, and the severity of autism symptoms of their children are reported by parents. Hierarchical multiple regression was utilized to analyze the relationships between the mental health of the parents and factors such as psychological resilience (internal), demographic data, and the severity of autism symptoms (external). Results Psychological resilience was identified as the most significant predictor of both depression (B = − 0.11, SE = 0.01, p < 0.001) and anxiety (B = -6.81, SE = 0.61, p < 0.001) among parents, while controlling demographic variables and the severity of the children’s symptoms. However, the severity of autism symptoms was not related to parents’ mental health problems. Conclusion Attention to the mental well-being of parents with autism spectrum disorder children and enhancement of their psychological resilience are potential ways to improve the family’s mental health.",
     "keywords": [
       "Internal and external factors related to anxiety"
     ],
@@ -5603,7 +5603,7 @@ window.AUTO_ABSTRACTS = [
     "database": "Web of Science",
     "category": "Autism Caregiver",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [],
     "source": "Crossref"
   },
@@ -5616,7 +5616,7 @@ window.AUTO_ABSTRACTS = [
     "database": "Web of Science",
     "category": "Autism Caregiver",
     "litType": "White Literature (Academic Journal)",
-    "abstract": "No abstract found \u2014 please add manually.",
+    "abstract": "No abstract found — please add manually.",
     "keywords": [
       "*Correspondence:"
     ],
