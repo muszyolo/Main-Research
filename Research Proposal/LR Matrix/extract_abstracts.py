@@ -277,7 +277,11 @@ for db_folder in database_folders:
 
             if category == "Uncategorized" and abstract_text:
                 lower_abs = abstract_text.lower()
-                if re.search(r'\b(cluster|clustering)\b', lower_abs):
+                if re.search(r'\b(systematic review|systematic literature review|meta-analysis)\b', lower_abs):
+                    category = "Systematic Literature Review"
+                elif re.search(r'\b(caregiver burden|parental burden)\b', lower_abs):
+                    category = "Caregiver Burden"
+                elif re.search(r'\b(cluster|clustering)\b', lower_abs):
                     if re.search(r'\b(machine learning|neural network|svm|deep learning|random forest|decision tree)\b', lower_abs):
                         category = "Clustering (Machine Learning)"
                     else:
