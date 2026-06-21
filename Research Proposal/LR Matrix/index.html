@@ -1562,7 +1562,7 @@ window.updateAutomatedPrisma = function() {
     const abstractRejects = Object.values(decisions).filter(val => val === 'rejected').length;
     
     // 3. Excluded during Full-Text Screening
-    const articles = JSON.parse(localStorage.getItem('lr_shield_articles') || '[]');
+    const articles = JSON.parse(localStorage.getItem('lr_matrix_articles') || '[]');
     const fullTextRejects = articles.filter(a => a.tier === 'Reject').length;
     
     // 4. Manual Inputs for top-of-funnel PRISMA steps
@@ -2391,7 +2391,7 @@ document.querySelectorAll('.nav-btn').forEach(btn => {
 <script>
     (function(){
         try {
-            const localD = JSON.parse(localStorage.getItem('lr_shield_articles') || '[]');
+            const d = JSON.parse(localStorage.getItem('lr_matrix_articles') || '[]');
             let modified = false;
             
             const fixMap = {
@@ -2404,7 +2404,7 @@ document.querySelectorAll('.nav-btn').forEach(btn => {
                 "s10803-025-07126-x.pdf": {title: "Autism Assessment From Home: Piloting a Brief, Remote Autism Observation for Children", authors: "Bertollo, Fok, Martino, DeLucia, Bunis, Scarpa", doi: "10.1007/s10803-025-07126-x"}
             };
 
-            localD.forEach(art => {
+            d.forEach(art => {
                 if(art._filename && fixMap[art._filename] && art.title.startsWith("s10")) {
                     art.title = fixMap[art._filename].title;
                     art.authors = fixMap[art._filename].authors;
@@ -2427,8 +2427,8 @@ document.querySelectorAll('.nav-btn').forEach(btn => {
                 const fileMap = new Map();
                 const titleFallbackMap = new Map();
                 
-                // Sort localD so items with tiers are processed last and thus take precedence in maps
-                localD.sort((a,b) => {
+                // Sort d so items with tiers are processed last and thus take precedence in maps
+                d.sort((a,b) => {
                     const aHasTier = a.tier && a.tier !== 'Unscreened' ? 1 : 0;
                     const bHasTier = b.tier && b.tier !== 'Unscreened' ? 1 : 0;
                     return aHasTier - bHasTier;
@@ -2483,12 +2483,12 @@ document.querySelectorAll('.nav-btn').forEach(btn => {
                 });
                 const ultraFinal = Array.from(absoluteUnique.values());
                 
-                if (localD.length !== ultraFinal.length) modified = true;
-                localD.length = 0;
-                ultraFinal.forEach(v => localD.push(v));
+                if (d.length !== ultraFinal.length) modified = true;
+                d.length = 0;
+                ultraFinal.forEach(v => d.push(v));
             }
             if(modified) {
-                localStorage.setItem('lr_shield_articles', JSON.stringify(localD));
+                localStorage.setItem('lr_matrix_articles', JSON.stringify(d));
             }
         } catch(e) {
             console.error(e);
