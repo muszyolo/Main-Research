@@ -10,7 +10,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "Old Database",
     "category": "Autism Caregiver",
-    "subcategories": "Malaysian Context, Autism, Cluster 1 (Attitude-Focused), Systematic Literature Review",
+    "subcategories": "Malaysian Context, Autism, Cluster 1 (Attitude-Focused)",
     "litType": "Grey Literature (Other Report / News)",
     "notes": "Database: Old Database | Category: Autism Caregiver\nAuto-ingested from file: HRAC1.pdf\n\n\n--- EXTRACTED ABSTRACT ---\nThis study explored the emotional and financial challenges faced by fathers in Malaysia when raising and managing children with autism. This qualitative study adopted a phenomenological research design and involved a total of seven fathers in Kedah, Malaysia. The sampling method used in this study was purposive sampling. This study used the interview method entirely as the data collection approach. Meanwhile, semi-structured interviews were conducted to obtain data from participants. The results showed that the fathers of children with autism faced numerous emotional and financial challenges in handling children with special needs. The findings provide more direction and insights for future research to study and explore various aspects of parenting children or individuals with autism. The outcomes also make it necessary for the relevant authorities to enhance the facilities and provision for better management of these children.",
     "qualityChecks": [
@@ -281,7 +281,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "Old Database",
     "category": "Autism Caregiver",
-    "subcategories": "Autism, Cluster 3 (Control-Focused), Systematic Literature Review",
+    "subcategories": "Autism, Cluster 3 (Control-Focused)",
     "litType": "Grey Literature (Other Report / News)",
     "notes": "Database: Old Database | Category: Autism Caregiver\nAuto-ingested from file: 2017AutismReport.pdf\n\nDetected Sample Size: N=2",
     "qualityChecks": [
@@ -308,7 +308,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "Old Database",
     "category": "Autism Caregiver",
-    "subcategories": "Malaysian Context, Autism, Cluster 1 (Attitude-Focused), Systematic Literature Review",
+    "subcategories": "Malaysian Context, Autism, Cluster 1 (Attitude-Focused)",
     "litType": "Grey Literature (NASOM)",
     "notes": "Database: Old Database | Category: Autism Caregiver\nAuto-ingested from file: tr-asdr-in-malaysia.pdf\n\nDetected Sample Size: N=85",
     "qualityChecks": [
@@ -496,7 +496,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "Old Database",
     "category": "Malaysian Context",
-    "subcategories": "Systematic Literature Review",
+    "subcategories": "",
     "litType": "Grey Literature (NHMS)",
     "notes": "Database: Old Database | Category: Malaysian Context\nAuto-ingested from file: NHMS2014-MANS-VOLUME-2 - Survey Findings.pdf\n\nDetected Sample Size: N=1299",
     "qualityChecks": [
@@ -578,7 +578,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "Old Database",
     "category": "Autism Caregiver",
-    "subcategories": "Virtual Counseling, Malaysian Context, Autism, Systematic Literature Review, Caregiver Burden",
+    "subcategories": "Virtual Counseling, Malaysian Context, Autism, Caregiver Burden",
     "litType": "Grey Literature (Other Report / News)",
     "notes": "Database: Old Database | Category: Autism Caregiver\nAuto-ingested from file: SAC10.pdf\n\nDetected Sample Size: N=2204",
     "qualityChecks": [
@@ -606,7 +606,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "Old Database",
     "category": "Autism Caregiver",
-    "subcategories": "Autism, Systematic Literature Review, Caregiver Burden",
+    "subcategories": "Autism, Caregiver Burden",
     "litType": "Grey Literature (Other Report / News)",
     "notes": "Database: Old Database | Category: Autism Caregiver\nAuto-ingested from file: SAC11.pdf\n\nDetected Sample Size: N=10",
     "qualityChecks": [
@@ -633,7 +633,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "Old Database",
     "category": "Autism Caregiver",
-    "subcategories": "Autism, Systematic Literature Review, Caregiver Burden",
+    "subcategories": "Autism, Caregiver Burden",
     "litType": "Grey Literature (World Health Organization)",
     "notes": "Database: Old Database | Category: Autism Caregiver\nAuto-ingested from file: SAC12.pdf\n\nDetected Sample Size: N=35",
     "qualityChecks": [
@@ -661,7 +661,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "Old Database",
     "category": "Autism Caregiver",
-    "subcategories": "Virtual Counseling, Malaysian Context, Autism, Systematic Literature Review",
+    "subcategories": "Virtual Counseling, Malaysian Context, Autism",
     "litType": "Grey Literature (Other Report / News)",
     "notes": "Database: Old Database | Category: Autism Caregiver\nAuto-ingested from file: SAC13.pdf",
     "qualityChecks": [
@@ -688,7 +688,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "Old Database",
     "category": "Autism Caregiver",
-    "subcategories": "Autism, Systematic Literature Review",
+    "subcategories": "Autism",
     "litType": "Grey Literature (Other Report / News)",
     "notes": "Database: Old Database | Category: Autism Caregiver\nAuto-ingested from file: SAC14.pdf\n\n\n--- EXTRACTED ABSTRACT ---\nAutism Spectrum Disorders (ASD) are neurodevelopmental disorders of increasing prevalence. People with ASD have multiple health, education, and community needs, yet there is little information about their situation in Chile. Objective: To learn about the demographic and clinical characteristics, caregiver\u2019s first concerns, and age of diagnosis of ASD individuals. Patients and Method: Participants were parents/caregivers of ASD persons, who answered the Caregiver Needs Survey, developed by Autism Speaks specifically for this purpose, and translated into Spanish. The survey is comprised of 4 sections: demographic information, characteristics of the ASD individual, past and present use of Health and Education Services, and parents/caregivers\u2019 perceptions of satisfaction, impact, stigma, What do we know about the subject matter of this study? At the time of publication of this paper, there are no reports on caregivers\u2019 perception of the concerns and age of diagnosis of indi- viduals on the autism spectrum. What does this study contribute to what is already known? It highlights the wide gap between the age of first concerns of the parents and the medical ASD diagnosis, which means a critical loss of treatment opportunities and may jeopardize the chances of a better future prognosis. 26 ORIGINAL ARTICLE Autism Spectrum - R. Garc\u00eda et al",
     "qualityChecks": [
@@ -716,7 +716,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "Old Database",
     "category": "Autism Caregiver",
-    "subcategories": "Autism, Cluster 2 (Norm-Focused), Systematic Literature Review",
+    "subcategories": "Autism, Cluster 2 (Norm-Focused)",
     "litType": "Grey Literature (World Health Organization)",
     "notes": "Database: Old Database | Category: Autism Caregiver\nAuto-ingested from file: SAC15.pdf\n\nDetected Sample Size: N=61",
     "qualityChecks": [
@@ -744,7 +744,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "Old Database",
     "category": "Autism Caregiver",
-    "subcategories": "Autism, Instrument Validation, Systematic Literature Review, Caregiver Burden",
+    "subcategories": "Autism, Instrument Validation, Caregiver Burden",
     "litType": "Grey Literature (Other Report / News)",
     "notes": "Database: Old Database | Category: Autism Caregiver\nAuto-ingested from file: SAC16.pdf\n\nDetected Sample Size: N=34",
     "qualityChecks": [
@@ -879,7 +879,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "Old Database",
     "category": "Clustering (Statistics)",
-    "subcategories": "Autism, Systematic Literature Review",
+    "subcategories": "Autism",
     "litType": "Grey Literature (Other Report / News)",
     "notes": "Database: Old Database | Category: Clustering (Statistics)\nAuto-ingested from file: SAC20.pdf\n\n\n--- EXTRACTED ABSTRACT ---\nThe association of family cases of epilepsy and intellectual disability in women was reported in 1971. In 2008, the role of pathogenic variants of the PCDH19 gene in some families were identified. The disease presents with febrile seizure clusters, intellectual disability, and autistic features. Most cases are due to de novo variants, however, there are some inherited cases, with an atypical way of X-linked transmission. Objective: To report the case of a patient with epilepsy carrier of a pathogenic variant of the PCDH19 gene, reviewing the natural history of this condition and the available evidence for its management. Clinical Case: Female patient, with normal history of pregnancy and perinatal period. At 6 months, while febrile, she presented focal motor seizure clusters that repeated at 14, 18, 21 months and 3 years old, always associated with fever, even presenting status epilepticus. She is on therapy with topiramate and valproic acid, achieving 13 seizure-free years. The analysis of the SCN1A Correspondence: Viviana Venegas Silva vivi.venegas.s@gmail.com How to cite this article: Rev Chil Pediatr. 2020;91(5):761-766. DOI: 10.32641/rchped.vi91i5.1490 What do we know about the subject matter of this study? Epilepsies of genetic etiology are new in the neurological field. Although some genetic epilepsies are more recognized, epilepsies associated with the PCDH19 gene mutation are poorly reported despite that they occur with easily recognizable clinical features. What does this study contribute to what is already known? This clinical case presents the natural history of genetic epilepsy, whose diagnosis, evolution, and complications allow to assess the importance of early diagnosis to establish therapeutic strategies that improve the quality of life of patients and their families. 762 Clinical Case Epilepsy - V. Venegas Silva et al",
     "qualityChecks": [
@@ -959,7 +959,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "Old Database",
     "category": "Autism Caregiver",
-    "subcategories": "Autism, Cluster 2 (Norm-Focused), Cluster 3 (Control-Focused), Systematic Literature Review",
+    "subcategories": "Autism, Cluster 2 (Norm-Focused), Cluster 3 (Control-Focused)",
     "litType": "Grey Literature (Other Report / News)",
     "notes": "Database: Old Database | Category: Autism Caregiver\nAuto-ingested from file: SAC4.pdf\n\nDetected Sample Size: N=8",
     "qualityChecks": [
@@ -987,7 +987,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "Old Database",
     "category": "Autism Caregiver",
-    "subcategories": "Autism, Systematic Literature Review, Caregiver Burden",
+    "subcategories": "Autism, Caregiver Burden",
     "litType": "Grey Literature (Other Report / News)",
     "notes": "Database: Old Database | Category: Autism Caregiver\nAuto-ingested from file: SAC5.pdf\n\nDetected Sample Size: N=80",
     "qualityChecks": [
@@ -1016,7 +1016,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "Old Database",
     "category": "Autism Caregiver",
-    "subcategories": "Autism, Cluster 3 (Control-Focused), Systematic Literature Review",
+    "subcategories": "Autism, Cluster 3 (Control-Focused)",
     "litType": "Grey Literature (Other Report / News)",
     "notes": "Database: Old Database | Category: Autism Caregiver\nAuto-ingested from file: SAC6.pdf\n\n\n--- EXTRACTED ABSTRACT ---\nObjective: This study analyzes subjective aspects associated with parents\u2019 perception of the changes that have affected their lives since the birth of their child with autism spectrum disorder (ASD). Methods: A qualitative study, using a narrative approach. Semi-structured interviews were conducted with 7 fathers and 16 mothers of children with ASD enrolled in a special needs school in Salvador, Bahia, Brazil. The interviews were transcribed, analyti\u00ad cal categories were defined, and data interpreted. Results: Five categories were identified: \u201cEmotional and Health-Related Effects\u201d, \u201cEffects on Daily/Professional and Academic Life\u201d, \u201cEffects on Marital and/or Affective/Sexual Life\u201d, \u201cEffects on Social Life\u201d, \u201cAdaptation Strate\u00ad gies\u201d. The analysis showed that, despite the impacts suffered, social support, professional help can facilitate parents\u2019 adjustment to life changes following the birth of a child with ASD. Conclusion: The physical and emotional demands of living with and parenting a child with ASD are enormous, include changes in social roles and in couples\u2019 social and affective/sexual lives, highlighting the need for parents to receive support from healthcare professionals, par\u00ad ticularly mental health professionals. Care strategies need to be implemented for parents, in addition to the healthcare provided to their children, in order to improve the comprehensive care given to the child with ASD. RESUMO Objetivo: Este estudo buscou analisar os aspectos subjetivos associados \u00e0 percep\u00e7\u00e3o dos pais sobre as mudan\u00e7as ocorridas em suas vidas ap\u00f3s o nascimento de seu filho com transtor\u00ad no do espectro autista (TEA). M\u00e9todos: Estudo qualitativo, com abordagem metodol\u00f3gica de narrativa. Foram feitas entrevistas semiestruturadas com 7 pais e 16 m\u00e3es de crian\u00e7as com TEA em escola especial, Salvador-Bahia. As entrevistas foram transcritas, as categorias de an\u00e1\u00ad lise, elaboradas e os dados, interpretados. Resultados: Foram identificadas cinco categorias: \u201cimpacto emocional e na sa\u00fade\u201d, \u201cimpacto na vida di\u00e1ria/profissional e acad\u00eamica\u201d, \u201cimpacto na vida do casal e/ou afetiva/sexual\u201d, \u201cimpacto na vida social\u201d e \u201cestrat\u00e9gias de adapta\u00e7\u00e3o\u201d. A an\u00e1lise revelou que, apesar dos impactos sofridos, apoio social e ajuda profissional podem facilitar uma adapta\u00e7\u00e3o \u00e0s mudan\u00e7as na vida dos pais, a partir do nascimento do filho com TEA. Conclus\u00e3o: Conviver e ser m\u00e3e ou pai de crian\u00e7a com TEA produz grande demanda 1 Bahia State University. Bahia School of Medicine and Public Health. Laboratory for Research in Autism (LABIRINTO), Salvador, BA, Brazil. 2 Bahia School of Medicine and Public Health. Multidisciplinary Laboratory for Research in Autism (LABIRINTO), Salvador, BA, Brazil. Address for correspondence: M\u00e1rcia de Aguiar Av. Dom Jo\u00e3o",
     "qualityChecks": [
@@ -1072,7 +1072,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "Old Database",
     "category": "Autism Caregiver",
-    "subcategories": "Virtual Counseling, Malaysian Context, Autism, Systematic Literature Review",
+    "subcategories": "Virtual Counseling, Malaysian Context, Autism",
     "litType": "Grey Literature (Other Report / News)",
     "notes": "Database: Old Database | Category: Autism Caregiver\nAuto-ingested from file: SAC8.pdf\n\nDetected Sample Size: N=91",
     "qualityChecks": [
@@ -1099,7 +1099,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "Old Database",
     "category": "Autism Caregiver",
-    "subcategories": "Autism, Systematic Literature Review, Caregiver Burden",
+    "subcategories": "Autism, Caregiver Burden",
     "litType": "Grey Literature (Other Report / News)",
     "notes": "Database: Old Database | Category: Autism Caregiver\nAuto-ingested from file: SAC9.pdf\n\nDetected Sample Size: N=109\n\n--- EXTRACTED ABSTRACT ---\nThis study assessed the influence of sociodemographic conditions, oral hygiene habits, and the socio-psychological need for orthodontic treatment on the emotions of caregivers of children with and without autism spectrum disorder (ASD). We conducted a comparative cross-sectional study with families of individuals aged 6 to 14 years at a reference center for neurodevelopmental disorders and two dental school clinics in northeastern Brazil. Caregiver emotions were assessed using the \u2018Parental Emotions\u2019 domain of the Family Impact Scale (FIS). We analyzed sociodemographic variables, oral hygiene habits, and sociopsychological need for orthodontic treatment using the esthetic component of the Index of Orthodontic Treatment Need (IOTN). We used descriptive and hierarchical Poisson regression analyses with robust variance (\u03b1 = 5%). The study included 144 families evenly distributed across the groups. The caregiver group with ASD demonstrated a higher total score for parental emotions (p < 0.001). Factors associated with this factor included caregiver responsible for brushing (PR = 1.34; 95%CI: 1.12\u20131.59), mandatory need for orthodontic treatment (PR = 1.25; 95%CI: 1.07\u20131.46), and caregivers\u2019 education up to 8 years (PR = 1.45; 95%CI: 1.02\u20132.07). Caregivers with lower income showed a lower prevalence of parental emotions (PR = 0.57; 95%CI: 0.35\u20130.93). Caregivers of children with ASD exhibited a higher emotional burden. Factors associated with parental emotions included responsibility for tooth brushing attributed to caregivers, sociopsychological need for orthodontic treatment, and family income.",
     "qualityChecks": [
@@ -1129,7 +1129,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "Old Database",
     "category": "Clustering (Statistics)",
-    "subcategories": "Systematic Literature Review",
+    "subcategories": "",
     "litType": "Grey Literature (Other Report / News)",
     "notes": "Database: Old Database | Category: Clustering (Statistics)\nAuto-ingested from file: SC1.pdf\n\nDetected Sample Size: N=2000\n\n--- EXTRACTED ABSTRACT ---\nThe main purpose of the study was to examine the cluster com- position of the analysis on the effect of gender and age of the Strengths and Difficulties Questionnaire (SDQ) in a large school-based sample of high school adolescents ranging from 14 to 18 years old (N = 1474). In order to do this, a K-means iterative cluster analysis was performed. A five-cluster solution turned out to be the most parsimonious in the differ- entiation of emotional and behavioural patterns. A five-cluster solution yielded the following patterns: \u201cNo difficulties and high prosocial scores\u201d (n = 418; 28.36%), \u201chigh difficulties and low prosocial scores\u201d (n = 239; 16.21%), \u201chigh on hyperactivity, low on the rest of the difficulties sub- scales, and high in prosocial capabilities\u201d (n = 302; 20.49%), \u201chigh on emotional and peer problems, relatively low on conduct and hyperactivity, and high in prosocial capabilities\u201d (n = 275; 18.66%), and finally \u201chyperac- tivity problems and average in the others difficulties subscales, and in pro- social capabilities\u201d (n = 239; 16.21%). This cluster solution was replicated attending to the same gender and age groups. Nevertheless, differences in the distribution of the cluster composition suggest that difficulties differ by gender and age. The results allow for the conclusion that men reveal a greater number of problems of an externalizing nature whereas women in- dicate a greater degree of internalizing difficulties and prosocial skills. Key words: adolescence; cluster analysis; SDQ; emotional and behavioural problems; prosocial.",
     "qualityChecks": [
@@ -1158,7 +1158,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "Old Database",
     "category": "Autism Caregiver",
-    "subcategories": "Malaysian Context, Autism, Systematic Literature Review, Caregiver Burden",
+    "subcategories": "Malaysian Context, Autism, Caregiver Burden",
     "litType": "Grey Literature (Other Report / News)",
     "notes": "Database: Old Database | Category: Autism Caregiver\nAuto-ingested from file: SCAC1.pdf\n\nDetected Sample Size: N=21\n\n--- EXTRACTED ABSTRACT ---\nThis is a pilot study on the psychological well-being of autistic child caregivers. The current study investigates the level of psychological well-being among caregivers of autism using a descriptive research design. Data on psychological well-being were obtained through a scale of psychological well-being given to 21 autistic child caregivers. Ryff\u2019s psychological well-being scale has been adapted to Indonesian and given to participants. The scale measures psychological well-being through six dimensions: autonomy, environmental mastery, personal growth, positive relation with others, purpose in life, and self-acceptance. The results showed that 51.7% of caregivers have psychological well-being in the middle level. Meanwhile, 42.9% of caregivers\u2019 psychological well-being is at the highest level. Furthermore, data analysis for each dimension varied, from lower to higher level. The finding leads to other investigations for future research to know more variables contributing to autistic caregiver\u2019s psychological well-being and the fit model of psychological well- being. 1",
     "qualityChecks": [
@@ -1268,7 +1268,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "OpenAlex",
     "category": "Clustering (Statistics)",
-    "subcategories": "Autism, Systematic Literature Review",
+    "subcategories": "Autism",
     "litType": "White Literature (Academic Journal)",
     "notes": "Database: OpenAlex | Category: Clustering (Statistics)\nAuto-ingested from file: Fecal Microbiota and Metabolome of Children with Autism.pdf\n\nDetected Sample Size: N=6\n\n--- EXTRACTED ABSTRACT ---\nThis study aimed at investigating the fecal microbiota and metabolome of children with Pervasive Developmental Disorder Not Otherwise Specified (PDD-NOS) and autism (AD) in comparison to healthy children (HC). Bacterial tag- encoded FLX-titanium amplicon pyrosequencing (bTEFAP) of the 16S rDNA and 16S rRNA analyses were carried out to determine total bacteria (16S rDNA) and metabolically active bacteria (16S rRNA), respectively. The main bacterial phyla (Firmicutes, Bacteroidetes, Fusobacteria and Verrucomicrobia) significantly (P<0.05) changed among the three groups of children. As estimated by rarefaction, Chao and Shannon diversity index, the highest microbial diversity was found in AD children. Based on 16S-rRNA and culture-dependent data, Faecalibacterium and Ruminococcus were present at the highest level in fecal samples of PDD-NOS and HC children. Caloramator, Sarcina and Clostridium genera were the highest in AD children. Compared to HC, the composition of Lachnospiraceae family also differed in PDD-NOS and, especially, AD children. Except for Eubacterium siraeum, the lowest level of Eubacteriaceae was found on fecal samples of AD children. The level of Bacteroidetes genera and some Alistipes and Akkermansia species were almost the highest in PDD-NOS or AD children as well as almost all the identified Sutterellaceae and Enterobacteriaceae were the highest in AD. Compared to HC children, Bifidobacterium species decreased in AD. As shown by Canonical Discriminant Analysis of Principal Coordinates, the levels of free amino acids and volatile organic compounds of fecal samples were markedly affected in PDD-NOS and, especially, AD children. If the gut microbiota differences among AD and PDD-NOS and HC children are one of the concomitant causes or the consequence of autism, they may have implications regarding specific diagnostic test, and/or for treatment and prevention. Citation: De Angelis M, Piccolo M, Vannini L, Siragusa S, De Giacomo A, et al. (2013) Fecal Microbiota and Metabolome of Children with Autism and Pervasive Developmental Disorder Not Otherwise Specified . PLoS ONE 8(10): e76993. doi:10.1371/journal.pone.0076993 Editor: Markus M. Heimesaat, Charit\u00e9, Campus Benjamin Franklin, Germany Received June 19, 2013; Accepted August 28, 2013; Published October 9, 2013 Copyright: \u00a9 2013 De Angelis et al. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited. Funding: The work was funded by the Department of Soil, Plant and Food Science. The funders had no role in study design, data collection and analysis, decision to",
     "qualityChecks": [
@@ -1322,7 +1322,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "OpenAlex",
     "category": "Clustering (Statistics)",
-    "subcategories": "Autism, Systematic Literature Review",
+    "subcategories": "Autism",
     "litType": "White Literature (Academic Journal)",
     "notes": "Database: OpenAlex | Category: Clustering (Statistics)\nAuto-ingested from file: PIIS0092867419313984.pdf\n\nDetected Sample Size: N=6430\n\n--- EXTRACTED ABSTRACT ---\nHighlights d 102 genes implicated in risk for autism spectrum disorder (ASD genes, FDR % 0.1) d Most are expressed and enriched early in excitatory and inhibitory neuronal lineages d Most affect synapses or regulate other genes; how these roles dovetail is unknown d Some ASD genes alter early development broadly, others appear more speci\ufb01c to ASD Authors F. Kyle Satterstrom, Jack A. Kosmicki, Jiebiao Wang, ..., Kathryn Roeder, Mark J. Daly, Joseph D. Buxbaum Correspondence joseph.buxbaum@mssm.edu (J.D.B.), stephan.sanders@ucsf.edu (S.J.S.), roeder@andrew.cmu.edu (K.R.), mjdaly@broadinstitute.org (M.J.D.) In Brief Large-scale sequencing of patients with autism allows identi\ufb01cation of over 100 putative ASD-associated genes, the majority of which are neuronally expressed, and investigation of distinct genetic in\ufb02uences on ASD compared with other neurodevelopmental disorders. Satterstrom et al., 2020, Cell 180, 568\u2013584 February 6, 2020 \u00aa 2020 Elsevier Inc. https://doi.org/10.1016/j.cell.2019.12.036 Article Large-Scale Exome Sequencing Study Implicates Both Developmental and Functional Changes in the Neurobiology of Autism F. Kyle Satterstrom,1,2,3,37 Jack A. Kosmicki,1,2,3,4,5,37 Jiebiao Wang,6,37 Michael S. Breen,7,8,9 Silvia De Rubeis,7,8,9 Joon-Yong An,10,11 Minshi Peng,6 Ryan Collins,5,12 Jakob Grove,13,14,15 Lambertus Klei,16 Christine Stevens,1,3,4,5 Jennifer Reichert,7,8 Maureen S. Mulhern,7,8 Mykyta Artomov,1,3,4,5 Sherif Gerges,1,3,4,5 Brooke Sheppard,10 Xinyi Xu,7,8 Aparna Bhaduri,17,18 Utku Norman,19 Harrison Brand,5 Grace Schwartz,10 Rachel Nguyen,20 Elizabeth E. Guerrero,21 (Author list continued on next page) SUMMARY We present the largest exome sequencing study of autism spectrum disorder (ASD) to date (n = 35,584 total samples, 11,986 with ASD). Using an enhanced analytical framework to integrate de novo and case- control rare variation, we identify 102 risk genes at a false discovery rate of 0.1 or less. Of these genes, 49 show higher frequencies of disruptive de novo vari- ants in individuals ascertained to have severe neuro- developmental delay, whereas 53 show higher fre- quencies in individuals ascertained to have ASD; comparing ASD cases with mutations in these groups reveals phenotypic differences. Expressed early in brain development, most risk genes have roles in regulation of gene expression or neuronal communication (i.e., mutations effect neurodevelop- mental and neurophysiological changes), and 13 fall within loci recurrently hit by copy number variants. In cells from the human cortex, expression of risk genes is enriched in excitatory and inhibitory neuronal lineages, consistent with multiple paths to an excitatory-inhibitory imbalance underlying ASD.",
     "qualityChecks": [
@@ -1352,7 +1352,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "OpenAlex",
     "category": "Clustering (Statistics)",
-    "subcategories": "Autism, Data-Driven Approach, Systematic Literature Review",
+    "subcategories": "Autism, Data-Driven Approach",
     "litType": "White Literature (Academic Journal)",
     "notes": "Database: OpenAlex | Category: Clustering (Statistics)\nAuto-ingested from file: Psychosis and autism as diametrical disorders of t_2008.pdf\n\n\n--- EXTRACTED ABSTRACT ---\n\u2022 References Psychosis and autism as diametrical disorders of the social brain Published online by Cambridge University Press: 26 June 2008 Bernard Crespi and Christopher Badcock [image]Show author details Bernard Crespi Affiliation: Killam Research Professor, Department of Biosciences, Simon Fraser University, Burnaby, BC V5A 1S6, Canadacrespi@sfu.cahttp://www.sfu.ca/biology/faculty/ crespi/ Christopher Badcock Affiliation: Department of Sociology, London School of Economics, London WC2A 2AE, United KingdomC.Badcock@lse.ac.ukhttp://www.lse.ac.uk/ collections/sociology/whoswho/badcock.htm \u2022 Article \u2022 Metrics Article contents \u2022 Abstract \u2022 References Get access [image] Share [image] Cite [image]Rights & Permissions [Opens in a new window] Abstract Autistic-spectrum conditions and psychotic-spectrum conditions (mainly schizophrenia, bipolar disorder, and major depression) represent two major suites of disorders of human cognition, affect, and behavior that involve altered development and function of the social brain. We describe evidence that a large set of phenotypic traits exhibit diametrically opposite phenotypes in autistic-spectrum versus psychotic-spectrum conditions, with a focus on schizophrenia. This suite of traits is inter-correlated, in that autism involves a general pattern of constrained overgrowth, whereas schizophrenia involves undergrowth. These disorders also exhibit diametric patterns for traits related to social brain development, including aspects of gaze, agency, social cognition, local versus global processing, language, and behavior. Social cognition is thus underdeveloped in autistic-spectrum conditions and hyper- developed on the psychotic spectrum.;>We propose and evaluate a novel hypothesis that may help to explain these diametric phenotypes: that the development of these two sets of conditions is mediated in part by alterations of genomic imprinting. Evidence regarding the genetic, physiological, neurological, and psychological underpinnings of psychotic-spectrum conditions supports the hypothesis that the etiologies of these conditions involve biases towards increased relative effects from imprinted genes with maternal expression, which engender a general pattern of undergrowth. By contrast, autistic-spectrum conditions appear to involve increased relative bias towards effects of paternally expressed genes, which mediate overgrowth. This hypothesis provides a simple yet comprehensive theory, grounded in evolutionary biology and genetics, for understanding the causes and phenotypes of autistic-spectrum and psychotic-spectrum conditions.",
     "qualityChecks": [
@@ -1379,7 +1379,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "OpenAlex",
     "category": "Clustering (Statistics)",
-    "subcategories": "Autism, Systematic Literature Review",
+    "subcategories": "Autism",
     "litType": "Grey Literature (World Health Organization)",
     "notes": "Database: OpenAlex | Category: Clustering (Statistics)\nAuto-ingested from file: s40168-016-0225-7.pdf\n\nDetected Sample Size: N=5",
     "qualityChecks": [
@@ -1491,7 +1491,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "PubMed",
     "category": "TPB Help-Seeking",
-    "subcategories": "Clustering (Statistics), Instrument Validation, Systematic Literature Review",
+    "subcategories": "Clustering (Statistics), Instrument Validation",
     "litType": "White Literature (Academic Journal)",
     "notes": "Database: PubMed | Category: TPB Help-Seeking\nAuto-ingested from file: Household Food Waste Patterns Across Groups A Clustering.pdf\n\nDetected Sample Size: N=1066\n\n--- EXTRACTED ABSTRACT ---\nTheory of planned behavior (TPB) constructs and shopping routines are strong predictors of food waste behavior, while socio-demographic factors show mixed and weaker associations. We analyzed survey data from a nationally representative sample of 1066 U.S. households, measuring self-reported food waste frequency across meals, food types, and disposal meth- ods. We applied k-medoid clustering on 19 TPB constructs and 25 shopping characteristics to identify three distinct consumer segments. \u201cStructured Planners\u201d (Cluster 1) showed the most deliberate shopping habits and strongest engagement in food waste reduction. \u201cFlexible Planners\u201d (Cluster 2) shared similar waste outcomes but approached shopping with greater spontaneity, while \u201cYounger Wasters\u201d (Cluster 3) were younger, lower-income, and less educated, with casual shopping habits, lower ratings of TPB constructs, and the highest food waste frequency overall. These distinct behavioral profiles enable policy- makers to directly identify and target specific demographic segments for tailored food waste interventions. Particularly, \u201cYounger Wasters\u201d reported a significantly higher food waste frequency at 6.7 times per week, while \u201cStructured Planners\u201d and \u201cFlexible Planners\u201d were statistically similar at approximately 4.6 and 4.4 times per week. Dinner is the meal resulting in the most food waste across all groups, and \u201cYounger Wasters\u201d reported the highest frequency of waste in protein, oil, and grain. Post-clustering ANOVA analysis tested the predictive power of TPB, shopping characteristics, and cluster membership on food waste frequency. Results show that \u201cYounger Wasters\u201d, along with variables like attitude, store shopping frequency, and shopping behavior, are significantly positively associated with food waste frequency. This study demonstrates the potential of clustering analysis in exploring food waste determinants and suggests using clustered indices as proxies for respondents\u2019 overall traits.\n\n--- AI EXTRACTED TPB ADAPTATIONS ---\n1. Food Waste Behavior: Behavioral Theory and Methodology While several behavioral theories have been applied to consumer food waste contexts, TPB has served as a foundational framework in understanding food waste behaviors at the household level.\n2. FW Frequency = \u00b5 + Cluster 2 + Cluster 3 + ATTj + BBk + INl + PCm+ SPn + SFp + SRq + SB Planr + SB Impt + \u03f5 Foods 2025, 14, 3883 9 of 20 where ATT reflects average attitude toward food waste, BB captures behavioral beliefs, IN represents injunctive norms, and PC measures perceived behavioral control, all following the TPB framework; SP refers to pre-shopping behaviors, SF is shopping frequency for specific stores; SR captures store-related shopping motivations; Planned shopping behaviors (SB Plan) refer to behaviors associated with deliberate planning and reduced food waste, consisting of \u201cBuy only items on your shopping list\u201d (SB1) and \u201cCheck date labels on perishable items\u201d (SB6).\n3. Predicting household food waste reduction using an extended theory of planned behaviour.",
     "qualityChecks": [
@@ -1634,7 +1634,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "ScienceDirect",
     "category": "Clustering (Statistics)",
-    "subcategories": "Autism Caregiver, Virtual Counseling, Autism, Cluster 3 (Control-Focused), Systematic Literature Review",
+    "subcategories": "Autism Caregiver, Virtual Counseling, Autism, Cluster 3 (Control-Focused)",
     "litType": "White Literature (Academic Journal)",
     "notes": "Database: ScienceDirect | Category: Clustering (Statistics)\nAuto-ingested from file: 1-s2.0-S0031395522000372-am.pdf",
     "qualityChecks": [
@@ -1745,7 +1745,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "ScienceDirect",
     "category": "Clustering (Machine Learning)",
-    "subcategories": "Data-Driven Approach, Systematic Literature Review",
+    "subcategories": "Data-Driven Approach",
     "litType": "White Literature (Academic Journal)",
     "notes": "Database: ScienceDirect | Category: Clustering (Machine Learning)\nAuto-ingested from file: An-enhanced-Walrus-Optimizer-with-opposition-based-learning-and-mut_2025_Arr.pdf",
     "qualityChecks": [
@@ -1774,7 +1774,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "ScienceDirect",
     "category": "Clustering (Statistics)",
-    "subcategories": "Cluster 2 (Norm-Focused), Systematic Literature Review",
+    "subcategories": "Cluster 2 (Norm-Focused)",
     "litType": "White Literature (Academic Journal)",
     "notes": "Database: ScienceDirect | Category: Clustering (Statistics)\nAuto-ingested from file: An-evaluation-of-approaches-used-to-teach-quality-impr_2017_International-Jo.pdf\n\nDetected Sample Size: N=141\n\n--- EXTRACTED ABSTRACT ---\nand an evaluative outcome. The review focussed on teaching quality improvement methodology. We therefore included studies if one of the most common quality improvement models in healthcare was reported: (Total Quality Management, Continuous Quality Improvement, Business Process Reengineering, Model for Improvement/Plan-Do- L. Armstrong et al. International Journal of Nursing Studies 73 (2017) 70\u201384 71 Study-Act, Lean Thinking or Six Sigma) (Powell et al., 2009). The protocol was amended to remove geographical limitations, in order to gain insight from international best practice. Given the",
     "qualityChecks": [
@@ -1802,7 +1802,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "ScienceDirect",
     "category": "Clustering (Statistics)",
-    "subcategories": "Systematic Literature Review",
+    "subcategories": "",
     "litType": "White Literature (Academic Journal)",
     "notes": "Database: ScienceDirect | Category: Clustering (Statistics)\nAuto-ingested from file: Are-travellers-willing-to-adopt-MaaS--Exploring-attitudin_2021_Travel-Behavi.pdf\n\nDetected Sample Size: N=349",
     "qualityChecks": [
@@ -1890,7 +1890,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "ScienceDirect",
     "category": "Autism",
-    "subcategories": "Data-Driven Approach, Systematic Literature Review",
+    "subcategories": "Data-Driven Approach",
     "litType": "White Literature (Academic Journal)",
     "notes": "Database: ScienceDirect | Category: Autism\nAuto-ingested from file: ASD-HybridNet--A-hybrid-deep-learning-framework-for-det_2025_Magnetic-Resona.pdf",
     "qualityChecks": [
@@ -2006,7 +2006,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "ScienceDirect",
     "category": "Malaysian Context",
-    "subcategories": "Autism, Data-Driven Approach, Cluster 1 (Attitude-Focused), Systematic Literature Review",
+    "subcategories": "Autism, Data-Driven Approach, Cluster 1 (Attitude-Focused)",
     "litType": "White Literature (Academic Journal)",
     "notes": "Database: ScienceDirect | Category: Malaysian Context\nAuto-ingested from file: Autism-spectrum-disorder--ASD----An-analysis-of-th_2025_Research-in-Developm.pdf",
     "qualityChecks": [
@@ -2202,7 +2202,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "ScienceDirect",
     "category": "Clustering (Statistics)",
-    "subcategories": "Systematic Literature Review",
+    "subcategories": "",
     "litType": "White Literature (Academic Journal)",
     "notes": "Database: ScienceDirect | Category: Clustering (Statistics)\nAuto-ingested from file: Comparing-cyberbullying-perpetration-on-social-media-betwe_2017_Computers---.pdf",
     "qualityChecks": [
@@ -2342,7 +2342,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "ScienceDirect",
     "category": "Clustering (Machine Learning)",
-    "subcategories": "Data-Driven Approach, Systematic Literature Review",
+    "subcategories": "Data-Driven Approach",
     "litType": "White Literature (Academic Journal)",
     "notes": "Database: ScienceDirect | Category: Clustering (Machine Learning)\nAuto-ingested from file: Distributionally-robust-optimization-of-electric-thermal-hydrogen-i_2025_Ene.pdf",
     "qualityChecks": [
@@ -2538,7 +2538,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "ScienceDirect",
     "category": "Clustering (Statistics)",
-    "subcategories": "Autism Caregiver, Systematic Literature Review",
+    "subcategories": "Autism Caregiver",
     "litType": "Grey Literature (World Health Organization)",
     "notes": "Database: ScienceDirect | Category: Clustering (Statistics)\nAuto-ingested from file: Exploring-the-Influence-of-Social-Norms-on-Complementary-_2021_Current-Devel.pdf\n\nDetected Sample Size: N=2367\n\n--- EXTRACTED ABSTRACT ---\nThe in\ufb02uence of social norms on child feeding is recognized, but guidance is lacking on how to address norms and related perceptions that hinder or support positive nutrition practices. We reviewed recent peer-reviewed and grey literature to summarize social norms relevant to complementary feeding (CF), intervention approaches that address norms, and their impacts on social norms and CF outcomes. Many reports described various norms, customs, and perceptions related to appropriate foods for young children, parenting practices, gender, and family roles, but rarely explored how they motivated behavior. Community engagement and media interventions addressed norms through facilitated discussions, challenging negative norms, portraying positive norms, engaging emotions, and correcting misperceptions. Evaluations of norms-focused interventions reported improved CF practices, but few assessed impacts on social norms. Although multiple contextual factors in\ufb02uence CF practices, evidence suggests the feasibility and effectiveness of addressing social norms as one component of programs to improve CF practices. Curr Dev Nutr 2021;5:nzab001.",
     "qualityChecks": [
@@ -2594,7 +2594,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "ScienceDirect",
     "category": "Malaysian Context",
-    "subcategories": "Autism, Data-Driven Approach, Cluster 2 (Norm-Focused), Systematic Literature Review",
+    "subcategories": "Autism, Data-Driven Approach, Cluster 2 (Norm-Focused)",
     "litType": "White Literature (Academic Journal)",
     "notes": "Database: ScienceDirect | Category: Malaysian Context\nAuto-ingested from file: Facilitators-and-barriers-to-augmentative-and-alternative_2026_Research-in-D.pdf",
     "qualityChecks": [
@@ -2624,7 +2624,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
-    "subcategories": "Malaysian Context, Autism, Systematic Literature Review",
+    "subcategories": "Malaysian Context, Autism",
     "litType": "Grey Literature (NASOM)",
     "notes": "Database: ScienceDirect | Category: Autism Caregiver\nAuto-ingested from file: Factors-associated-with-autism-severity-among-Mala_2020_Research-in-Developm.pdf\n\nDetected Sample Size: N=224",
     "qualityChecks": [
@@ -2681,7 +2681,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
-    "subcategories": "Autism, Systematic Literature Review",
+    "subcategories": "Autism",
     "litType": "White Literature (Academic Journal)",
     "notes": "Database: ScienceDirect | Category: Autism Caregiver\nAuto-ingested from file: Fine-and-ultrafine-particulate-matter-components-and-a_2026_Environment-Inte.pdf\n\nDetected Sample Size: N=801",
     "qualityChecks": [
@@ -2765,7 +2765,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "ScienceDirect",
     "category": "Autism",
-    "subcategories": "Systematic Literature Review",
+    "subcategories": "",
     "litType": "White Literature (Academic Journal)",
     "notes": "Database: ScienceDirect | Category: Autism\nAuto-ingested from file: Gabaergic-signalling-in-Autism-Spectrum-disorders--ASD-_2025_Brain--Behavior.pdf",
     "qualityChecks": [
@@ -2818,7 +2818,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "ScienceDirect",
     "category": "Clustering (Statistics)",
-    "subcategories": "Systematic Literature Review",
+    "subcategories": "",
     "litType": "White Literature (Academic Journal)",
     "notes": "Database: ScienceDirect | Category: Clustering (Statistics)\nAuto-ingested from file: Greening-due-to-environmental-education--Environmental-knowle_2013_Journal-o.pdf",
     "qualityChecks": [
@@ -2845,7 +2845,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "ScienceDirect",
     "category": "Malaysian Context",
-    "subcategories": "Autism, Systematic Literature Review",
+    "subcategories": "Autism",
     "litType": "White Literature (Academic Journal)",
     "notes": "Database: ScienceDirect | Category: Malaysian Context\nAuto-ingested from file: Heavy-metals-exposure-and-risk-factors-for-autism-spectrum-dis_2025_Toxicolo.pdf\n\nDetected Sample Size: N=60",
     "qualityChecks": [
@@ -2874,7 +2874,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "ScienceDirect",
     "category": "Clustering (Statistics)",
-    "subcategories": "Systematic Literature Review",
+    "subcategories": "",
     "litType": "White Literature (Academic Journal)",
     "notes": "Database: ScienceDirect | Category: Clustering (Statistics)\nAuto-ingested from file: Heterogeneity-in-transport-mode-choice-of-college-stude_2024_Travel-Behaviou.pdf\n\nDetected Sample Size: N=594",
     "qualityChecks": [
@@ -2931,7 +2931,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
-    "subcategories": "Autism, Systematic Literature Review",
+    "subcategories": "Autism",
     "litType": "White Literature (Academic Journal)",
     "notes": "Database: ScienceDirect | Category: Autism Caregiver\nAuto-ingested from file: Honor-endorsement-predicts-both-negative-beliefs-abo_2025_Current-Research-i.pdf\n\nDetected Sample Size: N=1002",
     "qualityChecks": [
@@ -2960,7 +2960,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "ScienceDirect",
     "category": "Clustering (Statistics)",
-    "subcategories": "Cluster 2 (Norm-Focused), Systematic Literature Review",
+    "subcategories": "Cluster 2 (Norm-Focused)",
     "litType": "Grey Literature (World Health Organization)",
     "notes": "Database: ScienceDirect | Category: Clustering (Statistics)\nAuto-ingested from file: How-Do-Social-and-Behavioral-Change-Interventions-Respond-_2024_Current-Deve.pdf\n\n\n--- EXTRACTED ABSTRACT ---\nscreening and full-text review using Covidence Online Software [31]. Two re- viewers independently screened each abstract and reviewed full-text articles using checklist tools developed for ensuring consistency in the study selection process. Con\ufb02icts or un- certainties at each stage were resolved by a third voter or group consensus. Data extraction and synthesis of results Six reviewers independently extracted data using a pretested extraction form created in Covidence. If multiple articles from the same study or intervention were identi\ufb01ed, data were extracted and reported together. Results Summary of identi\ufb01ed articles We screened 6274 abstracts and identi\ufb01ed 27 articles from 25 distinct projects or studies describing intervention approaches related to social norms and women\u2019s dietary practices (Figure 1). Some articles used the terms \u201csocial norms\u201d or \u201cgender norms,\u201d whereas others described norms using phrases such as \u201ccultural beliefs\u201d or \u201cfood-related beliefs.\u201d Articles that met the screening criteria described in the protocol were included, regardless of the authors\u2019 terminology. The 25 projects included intervention approaches designed and/or implemented in sub-Saharan Africa (n \u00bc 9) and Asia (n \u00bc 16), including 11 in South Asia and 5 in FIGURE 1. Flow chart of search and screening results of scoping review of interventions to improve practices related to women\u2019s diet and social and gender norms. LMIC, low- and middle-income country; WRA, women of reproductive age. K. Litvin et al. Current Developments in Nutrition 8 (2024) 103772 3 East and Southeast Asia. No articles were identi\ufb01ed between 1990 and 1999, 2 articles (7%) were published between 2000 and 2009, 10 (37%) were published between 2010 and 2019, and 14 (52%) between 2019 and 2023. We summarized the range of social norms addressed in the articles by grouping norms into 2 categories: food-focused social norms and gender norms (Table 1) [32\u201357]. These categories overlap, as all norms related to women\u2019s diets may have a gendered element, by de\ufb01nition, with some directly related to food and others more related to expectations around women\u2019s and men\u2019s roles or food distribution within the household. Food-focused norms included those related to food selection or choice, food quantity, and perceived value of foods. Gender norms includes those related to women\u2019s roles and household decision making, intrahousehold food allocation, and ideals and expectations related to gender. Only one project targeted urban communities only; 16 were conducted in rural areas and 8 in both rural and urban areas (Table 2) [32\u201338, 40\u201359]. Almost all",
     "qualityChecks": [
@@ -2987,7 +2987,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "ScienceDirect",
     "category": "Malaysian Context",
-    "subcategories": "Autism, Systematic Literature Review",
+    "subcategories": "Autism",
     "litType": "Grey Literature (NASOM)",
     "notes": "Database: ScienceDirect | Category: Malaysian Context\nAuto-ingested from file: HRI-Assessment-of-ASKNAO-Intervention-Framework-via-T_2017_Procedia-Computer.pdf\n\n\n--- EXTRACTED ABSTRACT ---\nThis paper discuss about mock experiment on a typically developed child. The mock experiment is based on the previous work of the experimental framework on ASKNAO intervention. This is conducted as a preparation for the main experiment and to fine-tune the framework so that undesirable elements from the framework can be avoided. A typically developed child is used rather than an autism child because the typically developed child is able to handle the stress that occurs and capable of expressing his emotions freely. The findings of the experiment shows that the several adjustment need to be made on the previous framework in order to achieve a better result for the main experiment on an autism child. \u00a9 2016 The Authors. Published by Elsevier B.V. Peer-review under responsibility of organizing committee of the 2016 IEEE International Symposium on Robotics and Intelligent Sensors (IRIS 2016).",
     "qualityChecks": [
@@ -3093,10 +3093,10 @@ window.AUTO_IMPORT_ARTICLES = [
     "year": 2026,
     "doi": "",
     "database": "ScienceDirect",
-    "category": "Systematic Literature Review",
+    "category": "Uncategorized",
     "subcategories": "",
     "litType": "White Literature (Academic Journal)",
-    "notes": "Database: ScienceDirect | Category: Systematic Literature Review\nAuto-ingested from file: Keep-them-out-of-It--How-information-externalities-affe_2025_Journal-of-Econ.pdf",
+    "notes": "Database: ScienceDirect | Category: Uncategorized\nAuto-ingested from file: Keep-them-out-of-It--How-information-externalities-affe_2025_Journal-of-Econ.pdf",
     "qualityChecks": [
       "q4",
       "q5",
@@ -3262,10 +3262,10 @@ window.AUTO_IMPORT_ARTICLES = [
     "year": 2026,
     "doi": "",
     "database": "ScienceDirect",
-    "category": "Systematic Literature Review",
+    "category": "Uncategorized",
     "subcategories": "Data-Driven Approach",
     "litType": "White Literature (Academic Journal)",
-    "notes": "Database: ScienceDirect | Category: Systematic Literature Review\nAuto-ingested from file: Niceness-or-toughness--Gendered-norms-as-regulators-o_2025_Social-Sciences--.pdf",
+    "notes": "Database: ScienceDirect | Category: Uncategorized\nAuto-ingested from file: Niceness-or-toughness--Gendered-norms-as-regulators-o_2025_Social-Sciences--.pdf",
     "qualityChecks": [
       "q4",
       "q5",
@@ -3290,7 +3290,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "ScienceDirect",
     "category": "Autism",
-    "subcategories": "Systematic Literature Review",
+    "subcategories": "",
     "litType": "White Literature (Academic Journal)",
     "notes": "Database: ScienceDirect | Category: Autism\nAuto-ingested from file: Non-neuronal-mechanisms-in-autism-spectrum-disorder--ASD_2026_Brain--Behavio.pdf",
     "qualityChecks": [
@@ -3344,7 +3344,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "ScienceDirect",
     "category": "Clustering (Statistics)",
-    "subcategories": "Malaysian Context, Instrument Validation, Systematic Literature Review",
+    "subcategories": "Malaysian Context, Instrument Validation",
     "litType": "White Literature (Academic Journal)",
     "notes": "Database: ScienceDirect | Category: Clustering (Statistics)\nAuto-ingested from file: Perceived-knowledge--attitudes--practices--and-compliance_2026_Social-Scienc.pdf\n\nDetected Sample Size: N=400",
     "qualityChecks": [
@@ -3569,7 +3569,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "ScienceDirect",
     "category": "Clustering (Machine Learning)",
-    "subcategories": "Data-Driven Approach, Systematic Literature Review",
+    "subcategories": "Data-Driven Approach",
     "litType": "White Literature (Academic Journal)",
     "notes": "Database: ScienceDirect | Category: Clustering (Machine Learning)\nAuto-ingested from file: Research-on-learner--emotion-behavior-ability--charac_2025_Information-Proce.pdf\n\n\n--- EXTRACTED ABSTRACT ---\nproblems such as perception, memory, attention, thinking, and imagination, which are typically measured through standardized tests. Non-cognitive abilities refer to skills or personality traits outside of intelligence and subject knowledge (Brunello & Schlotter, 2010). Non-cognitive abilities are generally not measurable through exams. Based on previous research (Zhang et al., 2021) and considering the characteristics of MOOC online education and the features of the obtained data, this study selects perseverance, engagement level, and learning motivation to represent the non-cognitive abilities of learners. These three non-cognitive ability indicators can reflect the learning ability characteristics of MOOC learners participating in online learning. (1)Perseverance. Perseverance refers to the intense passion and strong perseverance required to achieve long-term goals (Zhang et al., 2021). Students with high perseverance are more capable of reaching the long-term goals they set. In this study, the perseverance of learners is measured by the average learning duration per course and the completion certificate attainment rate. The Pearson correlation coefficient between the two indicators, average course duration per course and completion certificate attainment rate, is 0.007, indicating no significant correlation between them. After standardization using the Sigmoid function, the perseverance of learner \ud835\udc56is calculated using Eq. (7), \ud835\udc43\ud835\udc56= \ud835\udf06\u00d7 \ud835\udc3e\ud835\udc56 \ud835\udc56\ud835\udc5b\ud835\udc51 \ud835\udc52\ud835\udc65+ \ud835\udf11\u00d7 \ud835\udc44\ud835\udc56 \ud835\udc56\ud835\udc5b\ud835\udc51 \ud835\udc52\ud835\udc65 (7) where, \ud835\udc43\ud835\udc56represents the perseverance of learner \ud835\udc56, \ud835\udc3e\ud835\udc56 \ud835\udc56\ud835\udc5b\ud835\udc51 \ud835\udc52\ud835\udc65is the average learning duration per course for learner \ud835\udc56, and \ud835\udc5e\ud835\udc56 \ud835\udc56\ud835\udc5b\ud835\udc51 \ud835\udc52\ud835\udc65is the completion certificate attainment rate for learner \ud835\udc56. \ud835\udf06and \ud835\udf11are the corresponding indicators\u2019 weights and are set to 1 in this context. After calculating the perseverance of learners, they are sorted in ascending order and classified into hierarchical levels, as shown in Table 8. (2)Engagement level. Engagement level refers to the degree of commitment to an activity, and in the context of learning, it primarily includes the time and effort invested in studying. Engagement level emphasizes the energy devoted to learning, which is further divided into engagement time and quality. The total learning duration represents engagement time, while engagement quality is defined by the course excellence rate and the average UGC per course. Similar to the previous analysis, we examined whether the total learning duration impacts the course excellence rate and the average UGC per course. As shown in Table 7, the results indicate no significant correlation between them. Therefore, the formula for calculating the engagement level of learner user \ud835\udc56is defined as Eq. (8), \ud835\udc38\ud835\udc56= \ud835\udc63\u00d7 \ud835\udc3b2 \ud835\udc56\ud835\udc5b\ud835\udc51 \ud835\udc52\ud835\udc65,\ud835\udc56+ \u2211 \ud835\udc5d=1,2",
     "qualityChecks": [
@@ -3739,7 +3739,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "ScienceDirect",
     "category": "Clustering (Statistics)",
-    "subcategories": "Autism Caregiver, Systematic Literature Review",
+    "subcategories": "Autism Caregiver",
     "litType": "White Literature (Academic Journal)",
     "notes": "Database: ScienceDirect | Category: Clustering (Statistics)\nAuto-ingested from file: Role-of-social-norms-on-early-child-marriage-decisions-among_2026_Child-Prot.pdf\n\nDetected Sample Size: N=254",
     "qualityChecks": [
@@ -3768,7 +3768,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "ScienceDirect",
     "category": "Clustering (Statistics)",
-    "subcategories": "Autism, Systematic Literature Review",
+    "subcategories": "Autism",
     "litType": "White Literature (Academic Journal)",
     "notes": "Database: ScienceDirect | Category: Clustering (Statistics)\nAuto-ingested from file: Screening-of-toddlers-at-risk-for-autism-spectrum-disorder_2025_Clinical-Epi.pdf",
     "qualityChecks": [
@@ -3850,7 +3850,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "ScienceDirect",
     "category": "Clustering (Statistics)",
-    "subcategories": "Autism, Systematic Literature Review",
+    "subcategories": "Autism",
     "litType": "White Literature (Academic Journal)",
     "notes": "Database: ScienceDirect | Category: Clustering (Statistics)\nAuto-ingested from file: Support-values-through-the-eyes-of-the-patient--An-explorator_2018_Epilepsy-.pdf\n\nDetected Sample Size: N=175",
     "qualityChecks": [
@@ -3938,7 +3938,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "ScienceDirect",
     "category": "Clustering (Statistics)",
-    "subcategories": "Instrument Validation, Cluster 1 (Attitude-Focused), Systematic Literature Review",
+    "subcategories": "Instrument Validation, Cluster 1 (Attitude-Focused)",
     "litType": "White Literature (Academic Journal)",
     "notes": "Database: ScienceDirect | Category: Clustering (Statistics)\nAuto-ingested from file: The-effect-of-universal-school-based-mindfulness-on-anhedonia_2023_Behaviour.pdf\n\nDetected Sample Size: N=118",
     "qualityChecks": [
@@ -3995,7 +3995,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "ScienceDirect",
     "category": "Autism",
-    "subcategories": "Data-Driven Approach, Systematic Literature Review",
+    "subcategories": "Data-Driven Approach",
     "litType": "White Literature (Academic Journal)",
     "notes": "Database: ScienceDirect | Category: Autism\nAuto-ingested from file: The-impact-of-physical-activities-on-physical-literacy-and-c_2025_Early-Huma.pdf",
     "qualityChecks": [
@@ -4195,7 +4195,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "ScienceDirect",
     "category": "Clustering (Statistics)",
-    "subcategories": "Systematic Literature Review",
+    "subcategories": "",
     "litType": "White Literature (Academic Journal)",
     "notes": "Database: ScienceDirect | Category: Clustering (Statistics)\nAuto-ingested from file: Using-an-extended-theory-of-planned-behaviour-to-explain-will_2021_Ecologica.pdf\n\nDetected Sample Size: N=905\n\n--- AI EXTRACTED TPB ADAPTATIONS ---\n1. Methodological and Ideological Options Using an extended theory of planned behaviour to explain willingness towards voluntary carbon offsetting among Chinese consumers Yujie Tao, Maosheng Duan *, Zhe Deng Institute of Energy, Environment and Economy, Tsinghua University, Beijing 100084, China A R T I C L E I N F O Keywords: Voluntary carbon offsetting Willingness to offset Willingness to pay Theory of planned behaviour High-carbon-emitting consumer Structural equation model A B S T R A C T Voluntary carbon offsetting (VCO) is an important means of controlling rapidly growing household consumption emissions.\n2. This paper adopts an extended theory of planned behaviour (TPB) to explore the influencing mechanism of Chinese consumers\u2019 willingness to offset.\n3. (2015) extended the original TPB model by adding variables such as anticipa\u00ad tion and behavioural desire.\n4. To narrow these research gaps, the present study extends the TPB by including variables of personal moral norm and knowledge and adopts the extended model to thoroughly study the influencing mechanism of willingness to offset among Chinese consumers with a focus on high\u2011carbon consumers.\n5. The explained variance was raised from 55.9% by the original TPB model to 58.1% by the extended TPB model, which verifies the predictive validity of the proposed framework for understanding carbon offsetting behaviour.\n6. The extent of SN internalization in different social contexts also differs, which leads to different relative importance of PMN within the extended TPB model (Botetzagias et al., 2015).\n7. Conclusion The present research has demonstrated the effectiveness and appli\u00ad cability of the extended TPB in determining consumers\u2019 willingness to\u00ad wards VCO products in the Chinese context.\n8. knowledge and personal moral norm in the TPB, as the extended model performs better than the original version in predicting willingness to offset.",
     "qualityChecks": [
@@ -4225,7 +4225,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "ScienceDirect",
     "category": "Clustering (Machine Learning)",
-    "subcategories": "Systematic Literature Review",
+    "subcategories": "",
     "litType": "Grey Literature (World Health Organization)",
     "notes": "Database: ScienceDirect | Category: Clustering (Machine Learning)\nAuto-ingested from file: Vaccine-value-profile-for-severe-fever-with-thrombocytopenia-synd_2026_Vacci.pdf",
     "qualityChecks": [
@@ -4362,7 +4362,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
-    "subcategories": "Autism, Systematic Literature Review",
+    "subcategories": "Autism",
     "litType": "White Literature (Academic Journal)",
     "notes": "Database: ScienceDirect | Category: Autism Caregiver\nAuto-ingested from file: SDAC1.pdf\n\nDetected Sample Size: N=8",
     "qualityChecks": [
@@ -4476,7 +4476,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
-    "subcategories": "Autism, Systematic Literature Review",
+    "subcategories": "Autism",
     "litType": "White Literature (Academic Journal)",
     "notes": "Database: ScienceDirect | Category: Autism Caregiver\nAuto-ingested from file: SDAC13.pdf\n\nDetected Sample Size: N=2294",
     "qualityChecks": [
@@ -4537,7 +4537,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
-    "subcategories": "Autism, Systematic Literature Review",
+    "subcategories": "Autism",
     "litType": "White Literature (Academic Journal)",
     "notes": "Database: ScienceDirect | Category: Autism Caregiver\nAuto-ingested from file: SDAC15.pdf\n\nDetected Sample Size: N=10\n\n--- EXTRACTED ABSTRACT ---\nconcepts like empowerment, which might seem distant or less tangible to them, while professionals may focus on long-term outcomes. Indeed, there are indications that autistic clients prefer learning tangible strategies to address their mental health problems (Di Marco et al., 2025), while the care provided does not always correspond with these or other client-identified needs (Di Marco et al., 2025). This highlights the need to identify outcomes of mental health interventions that are meaningful to autistic clients, both for clinicians working with individual clients and for research seeking to improve autism care more broadly. Future evaluations should carefully weigh the potential burden of the RG method against its benefits, and explore strategies that can assist autistic clients in the RG process such as adequate assistance to clients in explaining to network members what an RG is and how this could increase their empowerment. Also, participants anticipated that the RG method would improve and simplify coordination among care providers, which could contribute to a better experience for autistic clients. In the long-term, increased coordination could have more far-reaching effects by improving access to mental healthcare for autistic people. That is, it may encourage more professionals to provide care to autistic clients, because studies show that professionals feel uncertain to adapt mental health interventions to autistic clients and feel a strong need to collaborate with others in this regard (Moore et al., 2024). Given the long waiting lists and provider shortage autistic people encounter for mental healthcare (Crane et al., 2019; Mazurek et al., 2021), the potential avenues increased interprofessional collaboration offers for improving access to care warrants further exploration. Comparing the identified barriers with a widely used implementation framework, such as the Consolidated Framework for Implementation Research (Damschroder et al., 2009), it is notable that the perceived competencies of healthcare providers are not seen as a barrier. This may be influenced by the study\u2019s setting (i.e., a highly specialized facility) and the professionals' considerable working experience. Another explanation may be that the RG method is a combination of elements already in use in some settings, structured in a formal methodology to support their application within the work routine. Continuity of the RG, one of its core elements, emerged as expected barrier of the applying the RG method as intended. Although including stakeholder perspectives could contribute to successful implementation, for sustaining an innovation more factors play a role (C\u02c6ot\u00b4e-Boileau et al., 2019;",
     "qualityChecks": [
@@ -4565,7 +4565,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
-    "subcategories": "Autism, Systematic Literature Review",
+    "subcategories": "Autism",
     "litType": "White Literature (Academic Journal)",
     "notes": "Database: ScienceDirect | Category: Autism Caregiver\nAuto-ingested from file: SDAC16.pdf\n\nDetected Sample Size: N=610",
     "qualityChecks": [
@@ -4595,7 +4595,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
-    "subcategories": "Systematic Literature Review",
+    "subcategories": "",
     "litType": "White Literature (Academic Journal)",
     "notes": "Database: ScienceDirect | Category: Autism Caregiver\nAuto-ingested from file: SDAC17.pdf\n\nDetected Sample Size: N=5781",
     "qualityChecks": [
@@ -4624,7 +4624,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
-    "subcategories": "Autism, Systematic Literature Review",
+    "subcategories": "Autism",
     "litType": "White Literature (Academic Journal)",
     "notes": "Database: ScienceDirect | Category: Autism Caregiver\nAuto-ingested from file: SDAC18.pdf\n\nDetected Sample Size: N=1683",
     "qualityChecks": [
@@ -4652,7 +4652,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
-    "subcategories": "Malaysian Context, Autism, Systematic Literature Review",
+    "subcategories": "Malaysian Context, Autism",
     "litType": "Grey Literature (World Health Organization)",
     "notes": "Database: ScienceDirect | Category: Autism Caregiver\nAuto-ingested from file: SDAC19.pdf\n\nDetected Sample Size: N=9909",
     "qualityChecks": [
@@ -4682,7 +4682,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
-    "subcategories": "Autism, Systematic Literature Review",
+    "subcategories": "Autism",
     "litType": "Grey Literature (World Health Organization)",
     "notes": "Database: ScienceDirect | Category: Autism Caregiver\nAuto-ingested from file: SDAC2.pdf\n\nDetected Sample Size: N=63",
     "qualityChecks": [
@@ -4711,7 +4711,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
-    "subcategories": "Clustering (Statistics), Data-Driven Approach, Systematic Literature Review",
+    "subcategories": "Clustering (Statistics), Data-Driven Approach",
     "litType": "White Literature (Academic Journal)",
     "notes": "Database: ScienceDirect | Category: Autism Caregiver\nAuto-ingested from file: SDAC20.pdf\n\nDetected Sample Size: N=3383",
     "qualityChecks": [
@@ -4739,7 +4739,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
-    "subcategories": "Instrument Validation, Cluster 2 (Norm-Focused), Systematic Literature Review",
+    "subcategories": "Instrument Validation, Cluster 2 (Norm-Focused)",
     "litType": "White Literature (Academic Journal)",
     "notes": "Database: ScienceDirect | Category: Autism Caregiver\nAuto-ingested from file: SDAC21.pdf",
     "qualityChecks": [
@@ -4767,7 +4767,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
-    "subcategories": "Autism, Cluster 1 (Attitude-Focused), Systematic Literature Review",
+    "subcategories": "Autism, Cluster 1 (Attitude-Focused)",
     "litType": "White Literature (Academic Journal)",
     "notes": "Database: ScienceDirect | Category: Autism Caregiver\nAuto-ingested from file: SDAC22.pdf",
     "qualityChecks": [
@@ -4796,7 +4796,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
-    "subcategories": "Autism, Cluster 1 (Attitude-Focused), Systematic Literature Review",
+    "subcategories": "Autism, Cluster 1 (Attitude-Focused)",
     "litType": "White Literature (Academic Journal)",
     "notes": "Database: ScienceDirect | Category: Autism Caregiver\nAuto-ingested from file: SDAC23.pdf",
     "qualityChecks": [
@@ -5154,7 +5154,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
-    "subcategories": "Data-Driven Approach, Systematic Literature Review",
+    "subcategories": "Data-Driven Approach",
     "litType": "Grey Literature (World Health Organization)",
     "notes": "Database: ScienceDirect | Category: Autism Caregiver\nAuto-ingested from file: SDAC35.pdf\n\n\n--- EXTRACTED ABSTRACT ---\nof the articles (only titles in the case of articles retrieved from HeinOnline) ranking them as relevant, irrelevant, or unsure. Articles ranked as irrelevant by both reviewers were excluded, while in case of disagreement, and when at least one author ranked the record as unsure, there was an open discussion. Articles ranked as relevant were obtained in full text version and screened for inclusion. The reference list of each included article was checked in order to identify any other relevant reference. Disagreements were resolved through discussion with one of the senior authors. Following the PRISMA-ScR, there was no quality assessment of the included studies. 2.5. Data extraction and synthesis The following information was double extracted independently by pairs of authors: first author, year of publication, country(es) of authors\u2019 affiliations, relevant topic (ethical, legal, or both), ethical framework, population and setting, aim(s) of the study, terminologies employed to denote the technologies, types of devices mentioned, and recorded body variables mentioned. Disagreement between extractors was resolved by consensus between them. A thematic synthesis approach was used to identify and summarize ethical and legal issues. First, for validity purposes, two authors inde\u00ad pendently read four of the included articles; they marked all ethical and legal issues in the text, labelling them as codes and subcodes that were then gathered into categories following an inductive approach, without relying on pre-defined categories. This was an iterative process, in which themes, categories, codes, and subcodes were constantly adjusted as new information was added. To ensure accuracy and consistency, this process involved multiple read\u00ad ings of the articles and discussions between the authors regarding emerging categories and themes organization. After developing a pre\u00ad liminary codebook, one author coded the remaining 8 articles. The same inductive approach was followed for the extraction and synthesis of ethical and legal recommendations. The implementation of the coding framework was aided by the utilization of the software NVivo (https:// lumivero.com/products/nvivo/), into which all the articles were imported. The findings are presented in a descriptive manner through tables and a narrative summary clarifies the outcomes. The findings are dis\u00ad cussed from a multidisciplinary perspective and their implications for clinical and research practice, ethical reflection, and future research are considered. 3. Results 3.1. Results of the search Fig. 1 shows a PRISMA flow diagram of the selection procedure. In overall, the search produced 7767 records and, after 1425 duplicates Fig. 1. Prisma flowchart. E.",
     "qualityChecks": [
@@ -5183,7 +5183,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
-    "subcategories": "Autism, Systematic Literature Review",
+    "subcategories": "Autism",
     "litType": "White Literature (Academic Journal)",
     "notes": "Database: ScienceDirect | Category: Autism Caregiver\nAuto-ingested from file: SDAC36.pdf\n\nDetected Sample Size: N=305",
     "qualityChecks": [
@@ -5213,7 +5213,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
-    "subcategories": "Systematic Literature Review",
+    "subcategories": "",
     "litType": "White Literature (Academic Journal)",
     "notes": "Database: ScienceDirect | Category: Autism Caregiver\nAuto-ingested from file: SDAC37.pdf\n\nDetected Sample Size: N=3",
     "qualityChecks": [
@@ -5241,7 +5241,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
-    "subcategories": "Autism, Systematic Literature Review",
+    "subcategories": "Autism",
     "litType": "White Literature (Academic Journal)",
     "notes": "Database: ScienceDirect | Category: Autism Caregiver\nAuto-ingested from file: SDAC38.pdf\n\n\n--- EXTRACTED ABSTRACT ---\nreflection but from lived, embodied engagement with its environment. The researcher, as a being-in-the-world, cannot bracket off their context but instead brings a pre-understanding shaped by their own history and experience. This study therefore adopts a hermeneutic phenomenological approach, recognising the interpretive potential of the re\u00ad searcher\u2019s shared cultural, linguistic, and embodied experience as an immigrant. Rather than a source of bias, it is understood as a meaningful ground for interpreting the lived experiences of participants. Yin (2013) described the use of a well-known research technique as one of the ways to ensure trustworthiness. The researcher previously participated in post-graduate lectures on scientific research methods and qualitative research methods and had experience with qualitative research conducted through document analysis but had no experience using interviews as the main data collection method. To eliminate this limitation, regular meetings with the supervisor were conducted, expert opinions on the development of the interview questions were consulted, and at each step of the analysis, cooperation proceeded with the supervisor. 2.2. Participants Parents were eligible for the study if they (a) were first-generation immigrants born in T\u00fcrkiye and (b) had an autistic child who had been diagnosed in England to understand the intersection of the experiences of migration and having an autistic child. Eight parents who agreed to participate in the study were recruited via Turkish family social media groups and snowballing. An exemption was made for a mother, who was born in England, was recruited because she was willing to participate as the partner of the father participant and had shared experiences with him. Table 1 provided some descriptive information about each of the participant parents, who consist of seven mothers and one father. The families migrated to England after 2005 and now reside in various cities. 2.3. Data collection The research started after the approval of the [name of the university was deleted for blind review] School of Education and Social Care Research Ethics Panel [reference number deleted for blind review]. The study used semi-structured interviews as the primary data Table 1 Participant information. No Age of Educational status Monthly income Regions Year of the arrival UK Sibling parent child diagnosis 1 34 7 3 Bachelor 2000\u20132500 London 2006 1 2 3 42 41 14 6 Bachelor High school 1000\u20131500 North West 2005 Born in England 3 4 40 5 3 High school 2000\u20132500 East Midland 2007 1 5 28 3 2 Bachelor",
     "qualityChecks": [
@@ -5270,7 +5270,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
-    "subcategories": "Autism, Systematic Literature Review",
+    "subcategories": "Autism",
     "litType": "White Literature (Academic Journal)",
     "notes": "Database: ScienceDirect | Category: Autism Caregiver\nAuto-ingested from file: SDAC39.pdf\n\nDetected Sample Size: N=140",
     "qualityChecks": [
@@ -5299,7 +5299,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
-    "subcategories": "Autism, Systematic Literature Review",
+    "subcategories": "Autism",
     "litType": "White Literature (Academic Journal)",
     "notes": "Database: ScienceDirect | Category: Autism Caregiver\nAuto-ingested from file: SDAC4.pdf",
     "qualityChecks": [
@@ -5326,7 +5326,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
-    "subcategories": "Autism, Systematic Literature Review",
+    "subcategories": "Autism",
     "litType": "White Literature (Academic Journal)",
     "notes": "Database: ScienceDirect | Category: Autism Caregiver\nAuto-ingested from file: SDAC40.pdf",
     "qualityChecks": [
@@ -5383,7 +5383,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
-    "subcategories": "Autism, Data-Driven Approach, Systematic Literature Review",
+    "subcategories": "Autism, Data-Driven Approach",
     "litType": "White Literature (Academic Journal)",
     "notes": "Database: ScienceDirect | Category: Autism Caregiver\nAuto-ingested from file: SDAC42.pdf",
     "qualityChecks": [
@@ -5411,7 +5411,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
-    "subcategories": "Autism, Systematic Literature Review",
+    "subcategories": "Autism",
     "litType": "White Literature (Academic Journal)",
     "notes": "Database: ScienceDirect | Category: Autism Caregiver\nAuto-ingested from file: SDAC43.pdf\n\nDetected Sample Size: N=75",
     "qualityChecks": [
@@ -5468,7 +5468,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
-    "subcategories": "Malaysian Context, Systematic Literature Review",
+    "subcategories": "Malaysian Context",
     "litType": "White Literature (Academic Journal)",
     "notes": "Database: ScienceDirect | Category: Autism Caregiver\nAuto-ingested from file: SDAC45.pdf\n\nDetected Sample Size: N=790\n\n--- EXTRACTED ABSTRACT ---\nand full-text screening. Titles and abstracts, and subsequently full texts, of poten\u00ad tially relevant articles were independently screened by two reviewers (EMYW, and Research Assistant) for inclusion, with any conflicting votes resolved by a third reviewer (RCHC). Interrater reliability was 98.3% (Cohen\u2019s kappa = 0.66, substantial level of agreement) (Landis and Koch, 1977). 2.1.4. Data extraction and synthesis Two authors (SYT, and EMYW), with assistance from a postgraduate student (Research Assistant), conducted data extraction. Initial team meetings were held to discuss the nature of the data to be extracted, with three authors independently extracting data from several articles and reaching a consensus before proceeding to individually conduct extraction. Periodic meetings were held to discuss any uncertainties or differences in interpretation, and they were resolved by consensus. The following data were extracted for analysis from all included articles into a standardized spreadsheet: study characteristics (i.e., authors, publi\u00ad cation year, title), methods (e.g., qualitative, quantitative, mixed methods, commentary), focal populations (including country/jurisdic\u00ad tion, participant type [e.g., students, educators, etc.], sample size); and key study findings (e.g., student attitudes, factors affecting attitudes, suggestions/implications for education/curriculum; curriculum level [e. Y.T. Suen et al. Social Science & Medicine 370 (2025) 117822 3 g., undergraduate, postgraduate], prevalence of curriculum [e.g., % reporting SGM-related lectures, reported degree of integration of LGBTQ+ content]). As critical appraisal or risk of bias assessment are generally not recommended for scoping reviews, commensurate with the aims of exploring and mapping available evidence rather than providing an aggregated clinically meaningful answer to a specific question, we did not conduct individual study evaluations (Peters et al., 2020; Tricco et al., 2018). We then synthesized findings through descriptive analysis (e.g., frequency counts) of the publication year, methods, study location, and focal population (see Table 1) and qualitative analysis (i.e., descriptive thematic analysis) to determine the themes that emerged from the included articles. Characteristic of scoping reviews, we synthesized qualitative and quantitative findings into descriptive themes rather than using meta-analysis for separate quantitative synthesis and meta- aggregative approaches for qualitative data (Peters et al., 2020). Re\u00ad sults are reported in accordance with PRISMA-ScR guidelines (Tricco et al., 2018). 3. Results The search yielded 2844 articles after removing duplicates. Screening of titles and abstracts resulted in 59 articles included in the full-text review. After full-text screening based on the a priori inclusion and exclusion criteria, we identified 47 peer-reviewed articles for in\u00ad clusion in the scoping review.",
     "qualityChecks": [
@@ -5497,7 +5497,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
-    "subcategories": "Clustering (Statistics), Systematic Literature Review",
+    "subcategories": "Clustering (Statistics)",
     "litType": "Grey Literature (World Health Organization)",
     "notes": "Database: ScienceDirect | Category: Autism Caregiver\nAuto-ingested from file: SDAC46.pdf\n\nDetected Sample Size: N=2",
     "qualityChecks": [
@@ -5554,7 +5554,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
-    "subcategories": "Systematic Literature Review",
+    "subcategories": "",
     "litType": "White Literature (Academic Journal)",
     "notes": "Database: ScienceDirect | Category: Autism Caregiver\nAuto-ingested from file: SDAC48.pdf\n\nDetected Sample Size: N=36",
     "qualityChecks": [
@@ -5611,7 +5611,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
-    "subcategories": "Autism, Systematic Literature Review",
+    "subcategories": "Autism",
     "litType": "Grey Literature (World Health Organization)",
     "notes": "Database: ScienceDirect | Category: Autism Caregiver\nAuto-ingested from file: SDAC5.pdf\n\nDetected Sample Size: N=121",
     "qualityChecks": [
@@ -5639,7 +5639,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
-    "subcategories": "Clustering (Statistics), Autism, Systematic Literature Review",
+    "subcategories": "Clustering (Statistics), Autism",
     "litType": "White Literature (Academic Journal)",
     "notes": "Database: ScienceDirect | Category: Autism Caregiver\nAuto-ingested from file: SDAC50.pdf\n\nDetected Sample Size: N=123",
     "qualityChecks": [
@@ -5725,7 +5725,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
-    "subcategories": "Autism, Systematic Literature Review",
+    "subcategories": "Autism",
     "litType": "White Literature (Academic Journal)",
     "notes": "Database: ScienceDirect | Category: Autism Caregiver\nAuto-ingested from file: SDAC53.pdf\n\nDetected Sample Size: N=215",
     "qualityChecks": [
@@ -5780,7 +5780,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
-    "subcategories": "Autism, Cluster 2 (Norm-Focused), Systematic Literature Review",
+    "subcategories": "Autism, Cluster 2 (Norm-Focused)",
     "litType": "Grey Literature (World Health Organization)",
     "notes": "Database: ScienceDirect | Category: Autism Caregiver\nAuto-ingested from file: SDAC55.pdf\n\nDetected Sample Size: N=70",
     "qualityChecks": [
@@ -5808,7 +5808,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
-    "subcategories": "Virtual Counseling, Malaysian Context, Autism, Cluster 1 (Attitude-Focused), Systematic Literature Review",
+    "subcategories": "Virtual Counseling, Malaysian Context, Autism, Cluster 1 (Attitude-Focused)",
     "litType": "White Literature (Academic Journal)",
     "notes": "Database: ScienceDirect | Category: Autism Caregiver\nAuto-ingested from file: SDAC56.pdf\n\nDetected Sample Size: N=35",
     "qualityChecks": [
@@ -5835,7 +5835,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
-    "subcategories": "Clustering (Statistics), Systematic Literature Review",
+    "subcategories": "Clustering (Statistics)",
     "litType": "White Literature (Academic Journal)",
     "notes": "Database: ScienceDirect | Category: Autism Caregiver\nAuto-ingested from file: SDAC57.pdf\n\nDetected Sample Size: N=5558",
     "qualityChecks": [
@@ -5865,7 +5865,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
-    "subcategories": "Malaysian Context, Autism, Systematic Literature Review",
+    "subcategories": "Malaysian Context, Autism",
     "litType": "White Literature (Academic Journal)",
     "notes": "Database: ScienceDirect | Category: Autism Caregiver\nAuto-ingested from file: SDAC58.pdf\n\nDetected Sample Size: N=1263",
     "qualityChecks": [
@@ -5893,7 +5893,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
-    "subcategories": "Autism, Systematic Literature Review",
+    "subcategories": "Autism",
     "litType": "White Literature (Academic Journal)",
     "notes": "Database: ScienceDirect | Category: Autism Caregiver\nAuto-ingested from file: SDAC59.pdf\n\nDetected Sample Size: N=241",
     "qualityChecks": [
@@ -5922,7 +5922,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
-    "subcategories": "Virtual Counseling, Autism, Cluster 2 (Norm-Focused), Systematic Literature Review",
+    "subcategories": "Virtual Counseling, Autism, Cluster 2 (Norm-Focused)",
     "litType": "White Literature (Academic Journal)",
     "notes": "Database: ScienceDirect | Category: Autism Caregiver\nAuto-ingested from file: SDAC6.pdf\n\nDetected Sample Size: N=23",
     "qualityChecks": [
@@ -5950,7 +5950,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
-    "subcategories": "Autism, Systematic Literature Review",
+    "subcategories": "Autism",
     "litType": "Grey Literature (World Health Organization)",
     "notes": "Database: ScienceDirect | Category: Autism Caregiver\nAuto-ingested from file: SDAC60.pdf\n\nDetected Sample Size: N=180",
     "qualityChecks": [
@@ -6011,7 +6011,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
-    "subcategories": "Clustering (Statistics), Autism, Systematic Literature Review",
+    "subcategories": "Clustering (Statistics), Autism",
     "litType": "White Literature (Academic Journal)",
     "notes": "Database: ScienceDirect | Category: Autism Caregiver\nAuto-ingested from file: SDAC62.pdf\n\nDetected Sample Size: N=475",
     "qualityChecks": [
@@ -6040,7 +6040,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
-    "subcategories": "Autism, Cluster 1 (Attitude-Focused), Systematic Literature Review",
+    "subcategories": "Autism, Cluster 1 (Attitude-Focused)",
     "litType": "White Literature (Academic Journal)",
     "notes": "Database: ScienceDirect | Category: Autism Caregiver\nAuto-ingested from file: SDAC63.pdf\n\nDetected Sample Size: N=129",
     "qualityChecks": [
@@ -6069,7 +6069,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
-    "subcategories": "Autism, Cluster 1 (Attitude-Focused), Cluster 2 (Norm-Focused), Systematic Literature Review",
+    "subcategories": "Autism, Cluster 1 (Attitude-Focused), Cluster 2 (Norm-Focused)",
     "litType": "White Literature (Academic Journal)",
     "notes": "Database: ScienceDirect | Category: Autism Caregiver\nAuto-ingested from file: SDAC64.pdf\n\nDetected Sample Size: N=14",
     "qualityChecks": [
@@ -6128,7 +6128,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
-    "subcategories": "Autism, Systematic Literature Review",
+    "subcategories": "Autism",
     "litType": "White Literature (Academic Journal)",
     "notes": "Database: ScienceDirect | Category: Autism Caregiver\nAuto-ingested from file: SDAC66.pdf\n\nDetected Sample Size: N=862",
     "qualityChecks": [
@@ -6272,7 +6272,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
-    "subcategories": "Malaysian Context, Autism, Instrument Validation, Cluster 2 (Norm-Focused), Systematic Literature Review",
+    "subcategories": "Malaysian Context, Autism, Instrument Validation, Cluster 2 (Norm-Focused)",
     "litType": "White Literature (Academic Journal)",
     "notes": "Database: ScienceDirect | Category: Autism Caregiver\nAuto-ingested from file: SDAC70.pdf\n\nDetected Sample Size: N=672\n\n--- EXTRACTED ABSTRACT ---\nor stigmatized topics such as autism (\u02c7Sola et al., 2024). Research supports the use of VBIs for fostering positive social behaviours and attitudes toward individuals with autism (Le Cunff et al., 2024). Studies have demonstrated that VBIs can increase awareness and reduce biases by presenting relatable narratives or modelling inclusive behaviours in a non-threatening manner (Lopez Naranjo et al., 2024). For example, video modelling has been successfully used to teach social skills and enhance empathy among neurotypical peers. In educational settings, VBIs have also been employed to train staff and students on how to interact effectively with autistic individuals, improving both interpersonal dynamics and institutional inclusivity (McConnell et al., 2024). Method Procedure The study employed a pre-post quasi-experimental design to evaluate the impact of an autism awareness video intervention on neurodiversity acceptance. Recruitment occurred between October and December 2024 via a multi-channel strategy: (1) collaboration with instructors at 15 Chinese universities and research institutes, (2) social media outreach on WeChat, Bilibili and Red Note, and (3) campus bulletin postings. Eligible participants (aged \u226518 years) accessed the study through the Wenjuanxing survey distribution platform and Bilibili media platform, where they completed four steps: 1. Informed Consent: Digitally reviewed ethical protocols approved by Lancaster University Research Ethics Committee (reference ID: EdRes-2024\u20134559-EdAp-2). 2. Pre-Intervention Assessment: Completed the 17-item Autism Neurodiversity Attitudes Scale (ANAS) (VanDaalen et al., 2025). 3. Video Intervention: Viewed a 6-minute educational module (minimum 6-minute viewing time enforced) covering autism char\u00ad acteristics, neurodiversity principles, and academic inclusion strategies. 4. Post-Intervention Assessment: Repeated ANAS administration. Specifically, Steps 1 (Informed Consent) and 2 (Pre-Intervention ANAS) were completed sequentially in a single session. Steps 3 (Video Intervention) and 4 (Post-Intervention ANAS) were administered separately, with participants completing the post-assessment after viewing the video. The mean time interval between pre-assessment and intervention was 3 days (SD = 1.2 days), while the interval between intervention and post-assessment averaged 4 days (SD = 1.4 days). Data anonymization included IP masking and SSL encryption, with responses stored on password-protected university servers. Participants The final cohort comprised 1158 adults (63 % female, 37 % male; Mage = 21.0 years, SD = 1.4) recruited from 15 institutions across 10 Chinese provinces, ensuring geographic diversity. Participants represented three groups across science and social science disci\u00ad plines: undergraduates (58 %, n = 672) from 12 universities, graduate students (32 %, n = 371) across nine universities, university staff (7 %, n =",
     "qualityChecks": [
@@ -6331,7 +6331,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
-    "subcategories": "Autism, Cluster 1 (Attitude-Focused), Systematic Literature Review",
+    "subcategories": "Autism, Cluster 1 (Attitude-Focused)",
     "litType": "White Literature (Academic Journal)",
     "notes": "Database: ScienceDirect | Category: Autism Caregiver\nAuto-ingested from file: SDAC72.pdf\n\nDetected Sample Size: N=38",
     "qualityChecks": [
@@ -6388,7 +6388,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
-    "subcategories": "Autism, Systematic Literature Review",
+    "subcategories": "Autism",
     "litType": "White Literature (Academic Journal)",
     "notes": "Database: ScienceDirect | Category: Autism Caregiver\nAuto-ingested from file: SDAC74.pdf\n\nDetected Sample Size: N=363",
     "qualityChecks": [
@@ -6450,7 +6450,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
-    "subcategories": "Data-Driven Approach, Systematic Literature Review",
+    "subcategories": "Data-Driven Approach",
     "litType": "White Literature (Academic Journal)",
     "notes": "Database: ScienceDirect | Category: Autism Caregiver\nAuto-ingested from file: SDAC76.pdf\n\nDetected Sample Size: N=50\n\n--- EXTRACTED ABSTRACT ---\npolicies, such as those generally used in inequality aversion studies, do not necessarily transfer to actual policies (Ali et al., 2017). We know that different characteristics of income-based policies appeal to different people for different reasons: people across the political spectrum support UBI, drawing on libertarian and social justice argu- ments (Fleischer and Lehto, 2019; Standing, 2017). Preference-based studies about basic income also tell us that the precise nature of pol- icies matter. For example, who benefits from policies and conditionality influence the form of income-based policy the general public prefer (see Laenen (2023) for an overview). This suggests the existence of process utility. However, we know much less about how people trade-off the policy characteristics and outcomes of income-based policies. So far, only two preference-based studies about income-based pol- icies have examined the trade-offs people are willing to make between policy characteristics and outcomes. In the first, five policy character- istics (i.e. conditionality, financing, integration, level of payment and universality) and five non-health outcomes (i.e. entrepreneurship, in- come inequality, informal care, poverty and unemployment) were combined in a two-stage rating-based vignette experiment carried out in Belgium (Laenen, 2023). The most valued outcomes of income-based policies were reductions in income inequality, poverty and unemploy- ment. Both characteristics and outcomes were found to impact policy preferences. For example, less-popular income-based policies did not gain support even if they had positive poverty and unemployment out- comes but if these same outcomes were negatively impacted, support fell for popular income-based policy designs. In the second, six policy characteristics (i.e. size of monetary payment, rates of personal income tax, other forms of funding, means-testing, conditionality and univer- sality) and four outcomes (poverty, inequality, physical health and mental health) were included in a discrete choice conjoint experiment carried out in the UK (Nettle et al., 2024). The biggest influences on respondents\u2019 choices were changes to poverty and personal income taxes, while changes to health outcomes had some impact. Preferences for policy characteristics such as means-testing, conditionality and universality were weak or absent. Previous studies assume that preference tasks are completed as intended with respondents either rating or choosing policies based on weighing-up and trading-off all attributes. Yet it is not clear if this oc- curs. Both studies include 10 policy attributes describing complex con- cepts. Some attributes could also be perceived by respondents as overlapping (Hensher et al., 2015). For example, respondents\u2019 focus on poverty",
     "qualityChecks": [
@@ -6477,7 +6477,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
-    "subcategories": "Autism, Cluster 1 (Attitude-Focused), Systematic Literature Review",
+    "subcategories": "Autism, Cluster 1 (Attitude-Focused)",
     "litType": "White Literature (Academic Journal)",
     "notes": "Database: ScienceDirect | Category: Autism Caregiver\nAuto-ingested from file: SDAC77.pdf\n\nDetected Sample Size: N=11",
     "qualityChecks": [
@@ -6505,7 +6505,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "ScienceDirect",
     "category": "Autism Caregiver",
-    "subcategories": "Clustering (Statistics), Autism, Data-Driven Approach, Systematic Literature Review",
+    "subcategories": "Clustering (Statistics), Autism, Data-Driven Approach",
     "litType": "Grey Literature (World Health Organization)",
     "notes": "Database: ScienceDirect | Category: Autism Caregiver\nAuto-ingested from file: SDAC78.pdf\n\nDetected Sample Size: N=217",
     "qualityChecks": [
@@ -6617,7 +6617,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "ScienceDirect",
     "category": "Cluster",
-    "subcategories": "Clustering (Statistics), Malaysian Context, Instrument Validation, Systematic Literature Review",
+    "subcategories": "Clustering (Statistics), Malaysian Context, Instrument Validation",
     "litType": "White Literature (Academic Journal)",
     "notes": "Database: ScienceDirect | Category: Cluster\nAuto-ingested from file: SDC1.pdf\n\nDetected Sample Size: N=3578",
     "qualityChecks": [
@@ -6646,7 +6646,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "ScienceDirect",
     "category": "Cluster",
-    "subcategories": "Clustering (Statistics), Systematic Literature Review",
+    "subcategories": "Clustering (Statistics)",
     "litType": "White Literature (Academic Journal)",
     "notes": "Database: ScienceDirect | Category: Cluster\nAuto-ingested from file: SDC10.pdf\n\nDetected Sample Size: N=412",
     "qualityChecks": [
@@ -6677,7 +6677,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "ScienceDirect",
     "category": "Cluster",
-    "subcategories": "Clustering (Statistics), Systematic Literature Review",
+    "subcategories": "Clustering (Statistics)",
     "litType": "Grey Literature (World Health Organization)",
     "notes": "Database: ScienceDirect | Category: Cluster\nAuto-ingested from file: SDC11.pdf\n\nDetected Sample Size: N=4333",
     "qualityChecks": [
@@ -6706,7 +6706,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "ScienceDirect",
     "category": "Cluster",
-    "subcategories": "Clustering (Machine Learning), Data-Driven Approach, Systematic Literature Review",
+    "subcategories": "Clustering (Machine Learning), Data-Driven Approach",
     "litType": "White Literature (Academic Journal)",
     "notes": "Database: ScienceDirect | Category: Cluster\nAuto-ingested from file: SDC12.pdf\n\nDetected Sample Size: N=57\n\n--- EXTRACTED ABSTRACT ---\nSinghealth Diabetes Registry cohort ALT LDL Age BMI TG HbA1c Wenzhou Real-World cohort ALT LDL Age BMI TG HbA1c Hong Kong CDARS cohort ALT LDL Age BMI TG HbA1c MACE Wenzhou Real-World cohort: HR = 1.315 (1.251-1.382) LRE Wenzhou Real-World cohort: HR = 1.578 (1.186-2.100) T2DM Wenzhou Real-World cohort: HR = 3.426 (3.145-3.733) Clinical outcomes Liver-specific vs. control Cardiometabolic vs. control Cardiometabolic vs. control Hong Kong CDARS cohort: HR = 2.816 (2.311-3.433) Hong Kong CDARS cohort: HR = 1.557 (1.218-1.990) Singhealth Diabetes Registry cohort: HR = 2.403 (2.026-2.850) Hong Kong CDARS cohort: HR = 1.559 (1.347-1.804) Singhealth Diabetes Registry cohort: HR = 1.262 (1.188-1.340) Clustering analysis Based on six clinical variables: age, BMI, HbA1c, ALT, LDL cholesterol, and triglycerides. 3 Asian cohorts Wenzhou Real-World cohort n = 57,813 Hong Kong CDARS cohort n = 21,547 Singhealth Diabetes Registry cohort n = 39,972 Study population Clusters characteristics Control Cardiometabolic Liver-specific Highlights: \u2022 MASLD is a heterogeneous disease with diverse car- diometabolic and liver outcomes. \u2022 A data-driven MASLD clustering model was validated in three large Asian cohorts. \u2022 Cardiometabolic cluster carried the highest MACE risk; liver-specific cluster carried the highest LRE risk. \u2022 The model supports phenotype-based risk stratification and personalized MASLD management. Impact and implications: This study provides scientific justification for applying a vali- dated clustering model to metabolic dysfunction-associated steatotic liver disease (MASLD), demonstrating that patient subgroups identified by data-driven methods carry distinct risks for cardiovascular and liver-related outcomes. These findings are important for clinicians, researchers, and policy- makers as they highlight that MASLD is not a uniform disease but rather comprises heterogeneous subgroups with differing prognoses. In practice, this work supports subgroup-based strategies to personalize treatment, improve risk stratifica- tion, and optimize the allocation of healthcare resources. The results also offer a foundation for future research into targeted therapeutic interventions while acknowledging the need for further validation in diverse populations. https://doi.org/10.1016/j.jhepr.2025.101645 \u00a9 2025 The Author(s). Published by Elsevier B.V. on behalf of European Association for the Study of the Liver (EASL). This is an open access article under the CC BY- NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/). JHEP Reports, 2026, 8, 1\u201312 Research article Validation of a data-driven clustering model for MASLD: Evidence from three large-scale Asian cohorts Xiao-Dong Zhou 1,2,\u2020 , Sherlot Juan Song 3,4,\u2020 , Chloe Yitian Guo 5,6,\u2020 , Qin-Fen Chen 7,8 , Grace Lai-Hung Wong 3,4 , Ting-Ran Ye 1,2 , George Boon Bee Goh 5,9 ,",
     "qualityChecks": [
@@ -6734,7 +6734,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "ScienceDirect",
     "category": "Cluster",
-    "subcategories": "Clustering (Statistics), Malaysian Context, Systematic Literature Review",
+    "subcategories": "Clustering (Statistics), Malaysian Context",
     "litType": "White Literature (Academic Journal)",
     "notes": "Database: ScienceDirect | Category: Cluster\nAuto-ingested from file: SDC2.pdf\n\nDetected Sample Size: N=270",
     "qualityChecks": [
@@ -6765,7 +6765,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "ScienceDirect",
     "category": "Cluster",
-    "subcategories": "Clustering (Statistics), Systematic Literature Review",
+    "subcategories": "Clustering (Statistics)",
     "litType": "White Literature (Academic Journal)",
     "notes": "Database: ScienceDirect | Category: Cluster\nAuto-ingested from file: SDC3.pdf\n\nDetected Sample Size: N=7705",
     "qualityChecks": [
@@ -6879,7 +6879,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "ScienceDirect",
     "category": "Cluster",
-    "subcategories": "Clustering (Machine Learning), Data-Driven Approach, Systematic Literature Review",
+    "subcategories": "Clustering (Machine Learning), Data-Driven Approach",
     "litType": "White Literature (Academic Journal)",
     "notes": "Database: ScienceDirect | Category: Cluster\nAuto-ingested from file: SDC7.pdf",
     "qualityChecks": [
@@ -6908,7 +6908,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "ScienceDirect",
     "category": "Cluster",
-    "subcategories": "Clustering (Machine Learning), Malaysian Context, Data-Driven Approach, Systematic Literature Review",
+    "subcategories": "Clustering (Machine Learning), Malaysian Context, Data-Driven Approach",
     "litType": "White Literature (Academic Journal)",
     "notes": "Database: ScienceDirect | Category: Cluster\nAuto-ingested from file: SDC8.pdf\n\nDetected Sample Size: N=385\n\n--- EXTRACTED ABSTRACT ---\nFlexible Working Arrangements (FWAs) allow workers to adjust their schedules and locations, primarily to support work\u2013life balance, while also indirectly influencing traffic conditions. However, their impact on travel behaviour remains inconclusive. Some studies suggest reductions in traffic congestion and vehicle miles travelled (VMT), whereas others report increases, likely due to latent behavioural differences among workers. Although clustering 2 techniques have been employed to study these dynamics, factors such as trip chaining, peak- hour demand, and VMT are often overlooked, leading to overestimates of the benefits of FWAs. Moreover, limited research has analysed workers\u2019 behavioural shifts under varying levels of FWAs. Therefore, this study focuses on the impacts of FWAs on travel behaviour and peak- hour congestion, examining how FWAs can be used as a Travel Demand Management (TDM) strategy. This study addresses these gaps using data collected from Greater Kuala Lumpur, Malaysia, applying Mutual Information Maximisation Clustering with Random Effects (MIMC-RE) and Deep Neural Network (DNN). This integrated predictive framework identifies latent behavioural clusters and forecasts travel behaviour under FWAs. It represents the first application of this approach to travel behaviour analysis, enabling the exploration of relationships between FWAs and behavioural shifts. The findings reveal that the heterogeneous impacts of FWAs stem from latent behavioural differences across worker groups and underscore the need to account for these patterns in transport planning. Scenario analysis demonstrates that offering flex-time to 40% of fixed-time non-teleworkers can shift 24% of peak-hour home-based work trips to off-peak hours, reduce travel time by 33%, and decrease travel distance by 21% per trip, while increasing public transport use. These results offer evidence-based guidance for developing TDM strategies that optimise travel demand, alleviate peak-hour congestion, and support sustainable transport planning in the post\u2013COVID-19 pandemic era.",
     "qualityChecks": [
@@ -6967,10 +6967,10 @@ window.AUTO_IMPORT_ARTICLES = [
     "year": 2026,
     "doi": "",
     "database": "Scopus",
-    "category": "Systematic Literature Review",
+    "category": "Uncategorized",
     "subcategories": "",
     "litType": "White Literature (Academic Journal)",
-    "notes": "Database: Scopus | Category: Systematic Literature Review\nAuto-ingested from file: 1-s2.0-074959789190020T-main.pdf\n\n\n--- AI EXTRACTED TPB ADAPTATIONS ---\n1. The present article deals with the nature of these behavior-specific factors in the framework of the theory of planned behavior, a theory designed to predict and explain human behavior in specific contexts.\n2. The theory of planned behavior places the construct of self-efficacy belief or perceived behavioral control within a more general framework of the relations among beliefs, attitudes, inten- tions, and behavior.\n3. We thus turn to research con- ducted in the framework of the theory of planned behavior, research that has tried to predict behavior by combining intentions and perceived be- havioral control.\n4. Only when habit is defined indepen- dently of (past) behavior can it legitimately be added as an explanatory variable to the theory of planned behavior.\n5. \u2019 The increase in explained variance is significant at p < .05 .I3 .85 .20 .01* .68 .I8 ,866 .66 .I4 .21 .21 .44 .74 ,796 .29 .47 .26 .19 .46 .35 SO6 .38 .43 .49 .13* .14\u2019 .49 .49 .20 .68 .21 .02* .61 .42 ,716 206 ICEK AJZEN CONCLUSIONS In this article I have tried to show that the theory of planned behavior provides a useful conceptual framework for dealing with the complexities of human social behavior.",
+    "notes": "Database: Scopus | Category: Uncategorized\nAuto-ingested from file: 1-s2.0-074959789190020T-main.pdf\n\n\n--- AI EXTRACTED TPB ADAPTATIONS ---\n1. The present article deals with the nature of these behavior-specific factors in the framework of the theory of planned behavior, a theory designed to predict and explain human behavior in specific contexts.\n2. The theory of planned behavior places the construct of self-efficacy belief or perceived behavioral control within a more general framework of the relations among beliefs, attitudes, inten- tions, and behavior.\n3. We thus turn to research con- ducted in the framework of the theory of planned behavior, research that has tried to predict behavior by combining intentions and perceived be- havioral control.\n4. Only when habit is defined indepen- dently of (past) behavior can it legitimately be added as an explanatory variable to the theory of planned behavior.\n5. \u2019 The increase in explained variance is significant at p < .05 .I3 .85 .20 .01* .68 .I8 ,866 .66 .I4 .21 .21 .44 .74 ,796 .29 .47 .26 .19 .46 .35 SO6 .38 .43 .49 .13* .14\u2019 .49 .49 .20 .68 .21 .02* .61 .42 ,716 206 ICEK AJZEN CONCLUSIONS In this article I have tried to show that the theory of planned behavior provides a useful conceptual framework for dealing with the complexities of human social behavior.",
     "qualityChecks": [
       "q4",
       "q5",
@@ -6998,7 +6998,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "Scopus",
     "category": "Clustering (Statistics)",
-    "subcategories": "Systematic Literature Review",
+    "subcategories": "",
     "litType": "Grey Literature (World Health Organization)",
     "notes": "Database: Scopus | Category: Clustering (Statistics)\nAuto-ingested from file: 1-s2.0-S0260691721003695-main.pdf\n\nDetected Sample Size: N=102",
     "qualityChecks": [
@@ -7060,7 +7060,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "Scopus",
     "category": "Malaysian Context",
-    "subcategories": "Instrument Validation, Systematic Literature Review",
+    "subcategories": "Instrument Validation",
     "litType": "White Literature (Academic Journal)",
     "notes": "Database: Scopus | Category: Malaysian Context\nAuto-ingested from file: bfj-12-2015-0492.pdf\n\n\n--- EXTRACTED ABSTRACT ---\nPurpose \u2013 The purpose of this paper is to serve as groundwork to investigate the determinants of ethnic food consumption intention in the context of developing markets. Using the theory of planned behaviour as the underlying basis, it is aimed to explain the effect of attitude, subjective norm and perceived behaviour control on consumption intention towards Dayak food. Since Dayak food is relatively unfamiliar compared to conventional food in Malaysia, food neophobia is incorporated into the model so as to assess its moderation effect on every postulated relationship. Design/methodology/approach \u2013 A quantitative approach via self-administered questionnaire was adopted. In all, 300 copies of the questionnaire were distributed to non-Dayak Malaysians, and 211 usable copies were subsequently collected, suggesting that non-response bias was not a major issue. A post hoc Harman single-factor analysis was also performed to ensure the variance in the data was not explained by one single factor, thus addressing the common method bias. Structural equation modelling using partial least squares approach was then utilized to assess the relationships of variables under investigation and the moderation effect of food neophobia. Findings \u2013 After ensuring the data have acceptable reliability and validity, structural model assessment was performed to test the hypotheses. The findings show that attitude, subjective norm and perceived behavioural control all have positive effect on consumption intention of non-Dayak Malaysians towards Dayak food. However, food neophobia is only found to have a moderation effect on the relationship between subjective norm and consumption intention. Research limitations/implications \u2013 First, the sample is largely consisted of college and university students in Malaysia who are believed to be more daring to try new things, including new food. Second and more importantly, the dearth of literature and empirical studies on Dayak food and ethnic food in Malaysia might have actually pointed to the limitation in using only quantitative questionnaire in the study. As salient beliefs are the antecedents in the theory of planned behaviour, knowing consumers\u2019 specific beliefs about Dayak food would have provided a more detailed and comprehensive understanding of consumption intention and the moderating effect of food neophobia. British Food Journal Vol. 118 No. 11, 2016 pp. 2781-2797 \u00a9 Emerald Group Publishing Limited 0007-070X DOI 10.1108/BFJ-12-2015-0492 Received 23 December 2015 Revised 5 August 2016 Accepted 5 August 2016 The current issue and full text archive of this journal is available on Emerald Insight at: www.emeraldinsight.com/0007-070X.htm This paper is based on research\n\n--- AI EXTRACTED TPB ADAPTATIONS ---\n1. Originality/value \u2013 The present study has not only extended the use of theory of planned behaviour in the context of Dayak food consumption intention in a developing country, but it has also deepened the theory by incorporating food neophobia as the moderator to provide additional theoretical explanation to ethnic food consumption intention.\n2. Given the wealth of Asian culture, and its significant role in the global marketplace, the understanding of ethnic food consumption intention of the local and foreign consumers using the extended theory of planned behaviour would contribute knowledge not only to consumer behaviour, but also to food and service industry and tourism.",
     "qualityChecks": [
@@ -7121,7 +7121,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "Scopus",
     "category": "Instrument Validation",
-    "subcategories": "Cluster 2 (Norm-Focused), Systematic Literature Review",
+    "subcategories": "Cluster 2 (Norm-Focused)",
     "litType": "Grey Literature (World Health Organization)",
     "notes": "Database: Scopus | Category: Instrument Validation\nAuto-ingested from file: Investigation of medical waste segregation behaviours of healthcare workers  integration of the Theory of Planned Behaviour and Norm Activation Model.pdf\n\n\n--- EXTRACTED ABSTRACT ---\nProper segregation of medical waste is crucial for environmental safety, public health and preventing the spread of infectious diseases, making it a significant challenge to study health workers\u2019 adherence. Since effective waste management depends on indi- vidual actions, this study uses environmental psychology principles to examine the cognitive and moral factors that influence medical waste management behaviour. Despite acknowledging the significance of these factors, the existing literature reveals a notable gap. It notably lacks a comprehensive framework that combines rational and moral drivers of behaviour. Specifically, the integrated use of the Theory of Planned Behaviour (TPB) and the Norm Activation Model (NAM) has been insufficiently explored among healthcare workers. Therefore, the primary objective of this study is to investigate the psychological factors \u2013 such as perceived behavioural control, sub- jective norms and personal moral norms \u2013 that influence the intentions and actual behaviours of healthcare workers regarding the segregation of medical waste. A quan- titative, cross-sectional study was conducted using a structured questionnaire survey. The measurement tool used multiple-item scales adapted from validated sources to assess all variables, with responses recorded on a five-point Likert scale. Data were collected through an online survey using convenience sampling among healthcare workers in Bahrain over a 3-month period, resulting in 144 valid responses. Analysis was conducted using Partial Least Squares Structural Equation Modelling (PLS-SEM) with SmartPLS software. The results revealed that the integrated NAM-TPB model pro- vides valuable insights into motivations, explaining 70% of the total variance in segre- gation intention. Also, Perceived Behavioural Control and Personal Norms are significant predictors of segregation intentions, and importantly, both personal norms and intention are key predictors of the final segregation action. In conclusion, this study confirms a strong, integrated behavioural model with significant theoretical and practical implications for developing theory-based interventions that focus on reinforc- ing personal norms and moral obligations rather than procedural compliance, thereby enhancing medical waste management practices. ARTICLE HISTORY Received 16 June 2025 Revised 10 November 2025 Accepted 23 November 2025\n\n--- AI EXTRACTED TPB ADAPTATIONS ---\n1. Specifically, the integrated use of the Theory of Planned Behaviour (TPB) and the Norm Activation Model (NAM) has been insufficiently explored among healthcare workers.\n2. The results revealed that the integrated NAM-TPB model pro- vides valuable insights into motivations, explaining 70% of the total variance in segre- gation intention.\n3. This study aims to fill this gap by proposing an integrated framework that combines the TPB with the NAM.\n4. This study reveals a significant gap, the lack of a comprehensive framework that integra- tes the rational drivers explored by the TPB with the moral drivers depicted by the NAM in explaining MW segregation behaviour among healthcare workers.\n5. This study aims to address a notable gap by developing and evaluating a combined framework that integra- tes the TPB and the NAM.\n6. Among these, TPB, developed by Ajzen (1991), derived from the Theory of Reasoned Action (TRA) (Ajzen & Fishbein, 1988), has been proven as a robust framework and effective in accurate prediction, and extensively used for examining behaviours across different research fields as a highly popular socio- psychological theory (Arkorful, Hammond, et al., 2020; Arkorful et al., 2022; Armitage & Conner, 2001).\n7. As a versatile and impactful framework, the TPB offers a strong theoret- ical foundation for creating behavioural interventions (Diaz et al., 2020; Hao et al., 2024), providing Figure 1.\n8. The TPB is a well-established and widely used framework for predicting and impacting behaviour across various fields.\n9. By integrating the TPB and NAM models, a more comprehensive framework is created that captures various yet interconnected motives (Danesh-Pajooh et al., 2025).\n10. This combined approach provides a solid exploratory framework, encompassing practical considerations relevant to health workers, such as perceived ease of sorting and organizational mandates (TPB components), as well as the profound eth- ical responsibilities intrinsic to medical practice, including the professional moral duty to safeguard pub- lic health and the environment (NAM components) (Danesh-Pajooh et al., 2025).\n11. (2025) introduced an innovative framework combining the TPB and NAM, further extended by perceived risk and anticipated emotions, to analyze households\u2019 intentions and behaviours related to residential treated greywater.\n12. Similarly, in Waste Management, the integrated TPB-NAM model has been effectively used to examine intentions for recycling construction and demolition waste, affirming its relevance in waste-related behaviours (Ding et al., 2023).\n13. In the con- text of conservation behaviours, researchers have successfully integrated TPB and NAM frameworks to study farmers\u2019 intentions to use integrated pest management (Rezaei et al., 2019).\n14. Extended TPB models that include NAM, such as the model by Danesh-Pajooh et al.\n15. Partial Least Square Structural Equation Modelling (PLS-SEM) An integrated model composed of the TPB and the NAM was proposed to investigate the MW segrega- tion behaviour of health workers.\n16. The items were adapted from previ- ously validated and reliable sources (Arkorful, Lugu, et al., 2023; Letho et al., 2021) and from studies that applied TPB and NAM theories (Concari, 2023; Goh et al., 2022).\n17. (2025) in their integrated TPB-NAM framework, which was further enhanced by including anticipated emotions and risk perception for predicting residential greywater treatment adop- tion.\n18. (2021a) with an extended TPB model.\n19. (2024), who studied farmers\u2019 intentions to grow low-water-consuming medicinal plants with an extended TPB model.\n20. (2023) on recycling construction and demolition waste using an integrated TPB-NAM model.\n21. Conclusion Two theories, the TPB and NAM, were integrated and incorporated into the knowledge to investigate the behaviour of health workers towards MW segregation.\n22. Investigating the intention to use technology among medical students: An application of an extended model of the theory of planned behavior.\n23. Unearthing mask waste separation behavior in COVID-19 pandemic period: An empirical evidence from Ghana using an integrated theory of planned behavior and norm activation model.\n24. Investigating household waste separation behavior: The salience of an integrated norm activation model and the theory of planned behavior.\n25. Factors influencing farmers\u2019 intention to participate in the voluntary carbon market: An extended theory of planned behavior.\n26. Understanding waste separation behavior through the application of an extended form of the theory of planned behavior (TPB).\n27. Application of the extended theory of planned behavior to understand indi- vidual\u2019s energy saving behavior in workplaces.\n28. Youth and sustainable waste management: A SEM approach and extended theory of planned behavior.\n29. Revisiting the energy-saving behavior of hotel guests: An integrated model of TPB and NAM in Vietnam.\n30. Sharing economy perspective on an integrative framework of the NAM and TPB.\n31. Construction waste reduction behavior of contractor employees: An extended theory of planned behavior model approach.\n32. Drivers of farmers\u2019 intention to use integrated pest management: Integrating theory of planned behavior and norm activation model.\n33. Application of the extended theory of planned behavior in predicting the behav- ioral intentions of Iranian local communities toward forest conservation.\n34. Study on factors influencing public participation in river and lake gov- ernance in the context of the river chief system \u2013 Based on the integrated model of TPB-NAM.",
     "qualityChecks": [
@@ -7211,7 +7211,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "Scopus",
     "category": "Malaysian Context",
-    "subcategories": "Systematic Literature Review",
+    "subcategories": "",
     "litType": "Grey Literature (World Health Organization)",
     "notes": "Database: Scopus | Category: Malaysian Context\nAuto-ingested from file: WebBased-Nutrition-Education-for-Patients-with-Hypertension-A-Conceptual-Framework_2020_Institute-of-Physics-Publishing-helencravenioporg.pdf\n\n\n--- EXTRACTED ABSTRACT ---\n. Nutrition education is important for patients with hypertension to reduce the adverse outcomes of the disease. A web-based approach has the potential for improving the quality of nutrition education. This paper describes a conceptual framework for the development of a web- based nutrition education system for patients with hypertension, also known as the Web-based Approach on the dietary management and physical activity to control hypertension (W.A.t.C.H) in Malaysia. The website aims to improve the nutrition knowledge and promote behavioural changes among patients. The Theory of Planned Behaviours, Self-Determination theory and Cognitive Load Theory will be used in the development of the website. The website will (1) serve as a portable resource for patients on nutritional education for blood pressure control; (2) supplement the hypertension clinical care by providing an online educational tool for patient. This paper illustrates how learning and multimedia theories can be used in the development of the website.",
     "qualityChecks": [
@@ -7240,7 +7240,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "Springer Nature",
     "category": "Autism Caregiver",
-    "subcategories": "Autism, Cluster 2 (Norm-Focused), Cluster 3 (Control-Focused), Systematic Literature Review",
+    "subcategories": "Autism, Cluster 2 (Norm-Focused), Cluster 3 (Control-Focused)",
     "litType": "White Literature (Academic Journal)",
     "notes": "Database: Springer Nature | Category: Autism Caregiver\nAuto-ingested from file: s10560-026-01097-3.pdf\n\n\n--- EXTRACTED ABSTRACT ---\nThis paper presents the findings of a longitudinal study conducted in South Africa that investigated the perspectives and experiences of informal caregivers in assisting youth with intellectual disabilities and/or autism as they transitioned from residential care towards young adulthood. This was a component of a larger study that examined the transition of six care-leavers. This paper focuses only on the interviews conducted with caregivers. The study utilised a qualitative research design to uncover participants\u2019 experiences and perceptions. The three informal caregivers of youth with intellectual dis\u00ad abilities and/or autism were each interviewed thrice over 18 months. Five core themes emerged from the thematic analysis of caregiver interview data: inadequate transitional planning and preparation; limited aftercare opportunities; barriers to accessing formal support; caregiver unmet support needs; and the value of informal relational support. Caregivers play a crucial role in the lives of care-leavers with intellectual disabilities and/or autism as they transition towards young adult\u00ad hood. However, they often report insufficient support, compounded by challenges in transitional planning and gaps in aftercare support for the young person in their care.",
     "qualityChecks": [
@@ -7297,7 +7297,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "Springer Nature",
     "category": "Autism Caregiver",
-    "subcategories": "Virtual Counseling, Autism, Cluster 1 (Attitude-Focused), Systematic Literature Review, Caregiver Burden",
+    "subcategories": "Virtual Counseling, Autism, Cluster 1 (Attitude-Focused), Caregiver Burden",
     "litType": "White Literature (Academic Journal)",
     "notes": "Database: Springer Nature | Category: Autism Caregiver\nAuto-ingested from file: s10803-025-06725-y.pdf\n\nDetected Sample Size: N=77\n\n--- EXTRACTED ABSTRACT ---\nFor Cognitive Behavioral Therapy to best meet the specific needs of autistic youth with co-occurring anxiety and to continue to grow as a sustainable treatment option, it is important to incorporate caregiver perspectives and feedback. Data were drawn from a randomized controlled trial and included 148 caregivers of autistic youth (ages 7\u201313 years, M = 9.89, SD = 1.79; 23% female; 77.7% White) with co-occurring anxiety disorders randomized to one of two active treatment conditions (Coping Cat, n = 72, or Behavioral Interventions for Anxiety in Children with Autism [BIACA], n = 76). A systematic inductive thematic analysis was used to code open-ended parent responses on the Consumer Satisfaction Questionnaire to identify what caregivers of autistic children with co-occurring anxiety liked most and least about their child\u2019s treatment. Satisfac- tion with treatment was high (M = 64.98, SD = 5.48). Caregivers\u2019 most-liked treatment features across treatments included (a) tools and coping skills, (b) therapeutic alliance, (c) caregiver support and involvement, (d) personalized treatment, and (e) treatment efficacy. Least-liked features of treatment and family participation included (a) the commute to the clinic, (b) treatment length, (c) commitment required at home, (d) questionnaires, and (e) scheduling. Treatment responders endorsed therapeutic alliance more frequently. Caregivers in BIACA endorsed caregiver support and involvement at higher rates, in addition to commitment required at home. Caregiver responses indicated a preference for more sessions and highlighted the importance of balancing need for caregiver involvement in treatment while reducing caregiver burden.",
     "qualityChecks": [
@@ -7327,7 +7327,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "Springer Nature",
     "category": "Autism Caregiver",
-    "subcategories": "Autism, Systematic Literature Review",
+    "subcategories": "Autism",
     "litType": "White Literature (Academic Journal)",
     "notes": "Database: Springer Nature | Category: Autism Caregiver\nAuto-ingested from file: s10803-025-06781-4.pdf\n\n\n--- EXTRACTED ABSTRACT ---\nHospitals are motivated to create more autism friendly environments to optimise access and experience for the community. However, there is a lack of clarity in what the term autism friendly in hospital settings means. We conducted a scoping review of four online databases and eleven national autism organisations to determine existing definitions for autism friendly within hospital settings. To operationalise the meaning of autism friendly hospital care, we then reviewed barri\u00ad ers and facilitators to hospital care from the perspective of autistic patients. Within the seven studies that considered the meaning of autism friendly, we found that the term autism friendly within a hospital context is undefined. To operationalise the meaning of autism friendly within hospitals, we identified barriers and facilitators in 16 studies that examined the hospital experience of autistic patients. We identified 19 facilitators and 23 barriers across three categories: people, place, and time. Flexibility underpinned the three categories, with flexible people, flexible place, and flexible timing reported as being integral to improving the hospital experience of patients with autism. Our findings provide clear guidance for creating autism friendly hospital care.",
     "qualityChecks": [
@@ -7383,7 +7383,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "Springer Nature",
     "category": "Autism Caregiver",
-    "subcategories": "Autism, Systematic Literature Review",
+    "subcategories": "Autism",
     "litType": "White Literature (Academic Journal)",
     "notes": "Database: Springer Nature | Category: Autism Caregiver\nAuto-ingested from file: s10803-025-06928-3.pdf\n\nDetected Sample Size: N=23\n\n--- EXTRACTED ABSTRACT ---\nLow responsiveness to sensory stimuli, particularly stimuli that are social in nature (i.e., social hyporesponsiveness), predicts expressive language in autistic children and in infant siblings of autistic children (Sibs-autism), who are at high likelihood for a future diagnosis of autism and developmental language disorder. However, our understanding of whether social hypore- sponsiveness can be addressed via early intervention to improve expressive language outcomes of Sibs-autism is limited. This randomized controlled trial investigated whether Project ImPACT, a caregiver-implemented Naturalistic Developmental Behavioral Intervention (NDBI), has an indirect effect on expressive language outcomes by reducing social hyporesponsive- ness. Sibs-autism were randomized into a Project ImPACT group (n = 23) for 12 weeks of intervention, or into a non-Project ImPACT control group (n = 23). Social hyporesponsiveness was measured immediately following intervention, and expressive language was measured three months after the end of intervention. Project ImPACT indirectly influenced distal expressive language outcomes through social hyporesponsiveness, but only for infants whose caregivers had high levels of education at study entry. Clinical implications of the results are discussed.",
     "qualityChecks": [
@@ -7414,7 +7414,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "Springer Nature",
     "category": "Autism Caregiver",
-    "subcategories": "Virtual Counseling, Autism, Systematic Literature Review",
+    "subcategories": "Virtual Counseling, Autism",
     "litType": "White Literature (Academic Journal)",
     "notes": "Database: Springer Nature | Category: Autism Caregiver\nAuto-ingested from file: s10803-025-07126-x.pdf\n\nDetected Sample Size: N=307\n\n--- EXTRACTED ABSTRACT ---\nPurpose Since COVID-19, tele-based methods of autism assessment have been relied upon to a previously unparalleled degree; however, the need for such advancements is not new. Observation-based measures are a crucial component of face-to-face autism diagnostic evaluations, but few validated observation tools exist for remotely assessing autism across childhood, offering minimal guidance for older children and adolescents. Sanchez and Constantino previously validated a brief, face-to-face, clinician-facilitated observation coded according to the Childhood Autism Rating Scale, Second Edition (CARS-2). During the pandemic, this measure was adapted as a remote observation, but has yet to be validated in this format. Methods The current study validated this remote observation against the in-person Autism Diagnostic Observation Sched\u00ad ule, Second Edition (ADOS-2), in a sample of 30 children ages 1-16 years (M = 7.25, SD = 4.05). Results The remote observation was highly correlated with the ADOS-2 (r = .75, p < .001) and Social Responsiveness Scale, Second Edition (r = .74, p < .001), and demonstrated acceptable sensitivity (88.9%) and specificity (80%) in predict\u00ad ing research diagnostic classification. The remote observation correctly predicted whether a child met criteria for a research diagnosis of autism in 82.8% of cases, and the same classification as the ADOS-2 in 72.4% of cases. Conclusions This pilot study offers preliminary support for the validity of this brief, accessible, remote autism observation. This is a crucial step in ensuring uniform training and clinical procedures for tele-assessment of autism, to help mitigate long-standing barriers to service access (e.g., geography, cost, availability).",
     "qualityChecks": [
@@ -7443,7 +7443,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "Springer Nature",
     "category": "Autism Caregiver",
-    "subcategories": "Virtual Counseling, Autism, Systematic Literature Review, Caregiver Burden",
+    "subcategories": "Virtual Counseling, Autism, Caregiver Burden",
     "litType": "White Literature (Academic Journal)",
     "notes": "Database: Springer Nature | Category: Autism Caregiver\nAuto-ingested from file: s10995-024-04020-3.pdf\n\nDetected Sample Size: N=4136\n\n--- EXTRACTED ABSTRACT ---\nPurpose The COVID-19 pandemic and subsequent mitigation efforts impacted communities in many ways and placed immense strain on the health care system, impacting access to services. The purpose of this study was to examine changes in prevalence of child health care, child health, and caregiver and household health within children with autism and children with special health care needs (CSHCN) pre-pandemic to early pandemic years. Methods We examined data from the National Survey of Children\u2019s Health to examine changes in child health care, child health, and caregiver and household health for autistic children and CSHCN from 2018 to 2021. Results About one-third of children with autism and CSHCN missed preventive checkups due to the COVID-19 pandemic and half had virtual care in 2021. Parents of children with autism had less help with care coordination in 2020 compared to previous years. In CSHCN prevalence of anxiety increased from 2018/2019 to 2021, with a concurrent increase in need for mental health care, this was not seen in children with autism. Finally, difficulty paying medical bills and for food was less common in 2020 and 2021 (compared to 2018/2019). Conclusions The COVID-19 pandemic changed the healthcare landscape for everyone, including children with autism and CSHCN as highlighted in this study. Understanding the disruptions and how they impacted populations differently can be helpful in informing plans long-term emergency preparedness. This planning should involve disability inclusive policies, to ensure the most vulnerable groups retain health care access as needed. Significance The COVID-19 pandemic impacted physical health, mental health, and access to health care for children with special health care needs. The specific impact of the pandemic on autistic children and their families is not thoroughly documented. What this study adds: Children with autism experienced disruptions to health care during the COVID-19 pandemic. As a group with great health care and service needs, disruptions could be overly impactful to health trajectories, strengthening the need for continuous, accessible care.",
     "qualityChecks": [
@@ -7472,7 +7472,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "Springer Nature",
     "category": "Autism Caregiver",
-    "subcategories": "Autism, Cluster 3 (Control-Focused), Systematic Literature Review, Caregiver Burden",
+    "subcategories": "Autism, Cluster 3 (Control-Focused), Caregiver Burden",
     "litType": "White Literature (Academic Journal)",
     "notes": "Database: Springer Nature | Category: Autism Caregiver\nAuto-ingested from file: s12888-025-07403-0.pdf\n\nDetected Sample Size: N=171",
     "qualityChecks": [
@@ -7501,7 +7501,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "Springer Nature",
     "category": "Autism Caregiver",
-    "subcategories": "Virtual Counseling, Autism, Cluster 2 (Norm-Focused), Systematic Literature Review",
+    "subcategories": "Virtual Counseling, Autism, Cluster 2 (Norm-Focused)",
     "litType": "Grey Literature (World Health Organization)",
     "notes": "Database: Springer Nature | Category: Autism Caregiver\nAuto-ingested from file: s12913-026-14577-0.pdf\n\nDetected Sample Size: N=37",
     "qualityChecks": [
@@ -7617,7 +7617,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "Springer Nature",
     "category": "Clustering (Statistics)",
-    "subcategories": "Autism Caregiver, Autism, Systematic Literature Review",
+    "subcategories": "Autism Caregiver, Autism",
     "litType": "White Literature (Academic Journal)",
     "notes": "Database: Springer Nature | Category: Clustering (Statistics)\nAuto-ingested from file: s41522-025-00894-5.pdf\n\nDetected Sample Size: N=90",
     "qualityChecks": [
@@ -7648,7 +7648,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "Springer Nature",
     "category": "Autism Caregiver",
-    "subcategories": "Autism, Systematic Literature Review",
+    "subcategories": "Autism",
     "litType": "Grey Literature (World Health Organization)",
     "notes": "Database: Springer Nature | Category: Autism Caregiver\nAuto-ingested from file: s41598-025-27616-3.pdf\n\nDetected Sample Size: N=9",
     "qualityChecks": [
@@ -7677,7 +7677,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "Springer Nature",
     "category": "Clustering (Statistics)",
-    "subcategories": "Autism Caregiver, Malaysian Context, Autism, Systematic Literature Review",
+    "subcategories": "Autism Caregiver, Malaysian Context, Autism",
     "litType": "White Literature (Academic Journal)",
     "notes": "Database: Springer Nature | Category: Clustering (Statistics)\nAuto-ingested from file: s44192-026-00379-7.pdf\n\nDetected Sample Size: N=104",
     "qualityChecks": [
@@ -7735,7 +7735,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "Web of Science",
     "category": "Autism Caregiver",
-    "subcategories": "Autism, Systematic Literature Review",
+    "subcategories": "Autism",
     "litType": "White Literature (Academic Journal)",
     "notes": "Database: Web of Science | Category: Autism Caregiver\nAuto-ingested from file: s10826-025-03095-y.pdf\n\nDetected Sample Size: N=328\n\n--- EXTRACTED ABSTRACT ---\nFamily members of those with a mental health disorder also suffer the consequences of social stigma and self-stigma, internalising social prejudices and stereotypes and suffering the effects of discrimination. In the case of Autism Spectrum Disorder (ASD), given the high levels of dependency it generates, the levels of self-stigma among family members are particularly high and its consequences devastating. The aim of the present study was to analyse the relationships between self-stigma and depression, stress, anxiety, psychological well-being and resilience. The sample consisted of 328 parents of children diagnosed with ASD in the province of Almer\u00eda and Murcia, aged between 27 and 58 years (M = 37.32; SD = 9.06). Participants completed the Spanish adaptation of the Self-Stigma in Relatives of people with Mental Illness, the Depression, Anxiety and Stress scale, the Psychological Well-being Scale and the Resilience questionnaire, whose responses were analysed using structural equation modelling. The results showed that self-stigma correlated positively with stress, anxiety and depression. On the other hand, these three variables were inversely related to psychological well-being. Finally, a positive correlation was found between psychological well-being and resilience. Therefore, the impact of self-stigma has been con\ufb01rmed, highlighting the need to provide social support and resources as well as to raise awareness of these disorders.",
     "qualityChecks": [
@@ -7766,7 +7766,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "Web of Science",
     "category": "Autism Caregiver",
-    "subcategories": "Autism, Systematic Literature Review, Caregiver Burden",
+    "subcategories": "Autism, Caregiver Burden",
     "litType": "White Literature (Academic Journal)",
     "notes": "Database: Web of Science | Category: Autism Caregiver\nAuto-ingested from file: s12889-025-26140-3.pdf\n\nDetected Sample Size: N=352\n\n--- EXTRACTED ABSTRACT ---\nObjective This study aims to examine the prevalence of anxiety and depression among parents of children diagnosed with autism spectrum disorder and identify potential influencing factors. Method A total of 411(352 boys, 59 girls) children diagnosed with autism spectrum disorder and their parents were enrolled from the Department of Developmental Behavior at the Affiliated Children\u2019s Hospital of Zhejiang University School of Medicine between January and July 2022. Depression, anxiety symptoms, psychological resilience, and the severity of autism symptoms of their children are reported by parents. Hierarchical multiple regression was utilized to analyze the relationships between the mental health of the parents and factors such as psychological resilience (internal), demographic data, and the severity of autism symptoms (external). Results Psychological resilience was identified as the most significant predictor of both depression (B = \u2212 0.11, SE = 0.01, p < 0.001) and anxiety (B = -6.81, SE = 0.61, p < 0.001) among parents, while controlling demographic variables and the severity of the children\u2019s symptoms. However, the severity of autism symptoms was not related to parents\u2019 mental health problems. Conclusion Attention to the mental well-being of parents with autism spectrum disorder children and enhancement of their psychological resilience are potential ways to improve the family\u2019s mental health.",
     "qualityChecks": [
@@ -7796,7 +7796,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "Web of Science",
     "category": "Autism Caregiver",
-    "subcategories": "Autism, Cluster 1 (Attitude-Focused), Systematic Literature Review",
+    "subcategories": "Autism, Cluster 1 (Attitude-Focused)",
     "litType": "White Literature (Academic Journal)",
     "notes": "Database: Web of Science | Category: Autism Caregiver\nAuto-ingested from file: s40359-026-04298-8.pdf\n\nDetected Sample Size: N=400",
     "qualityChecks": [
@@ -7828,7 +7828,7 @@ window.AUTO_IMPORT_ARTICLES = [
     "doi": "",
     "database": "Web of Science",
     "category": "Autism Caregiver",
-    "subcategories": "Autism, Systematic Literature Review",
+    "subcategories": "Autism",
     "litType": "White Literature (Academic Journal)",
     "notes": "Database: Web of Science | Category: Autism Caregiver\nAuto-ingested from file: s43045-025-00526-w.pdf\n\nDetected Sample Size: N=87",
     "qualityChecks": [
