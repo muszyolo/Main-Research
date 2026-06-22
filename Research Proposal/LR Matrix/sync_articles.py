@@ -77,8 +77,12 @@ for db_folder in database_folders:
                 doc = fitz.open(filepath)
                 
                 full_text = ""
+                front_text = ""
                 for page_num in range(len(doc)):
-                    full_text += doc.load_page(page_num).get_text("text") + " \n"
+                    page_text = doc.load_page(page_num).get_text("text") + " \n"
+                    full_text += page_text
+                    if page_num < 3:
+                        front_text += page_text
                 print("  -> PDF Extracted", flush=True)
                     
                 clean_lines = [l.strip() for l in full_text.split('\n') if l.strip()]
@@ -141,7 +145,7 @@ for db_folder in database_folders:
                     subcats.append("Cluster 2 (Norm-Focused)")
                 if re.search(r'\b(problem-solving training|pst|respite|micro-interventions)\b', lower_text):
                     subcats.append("Cluster 3 (Control-Focused)")
-                if re.search(r'\b(systematic review|systematic literature review|meta-analysis)\b', lower_text):
+                if re.search(r'\b(systematic review|systematic literature review|meta-analysis)\b', front_text.lower()):
                     subcats.append("Systematic Literature Review")
                 if re.search(r'\b(caregiver burden|parental burden)\b', lower_text):
                     subcats.append("Caregiver Burden")
