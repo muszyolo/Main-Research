@@ -2632,44 +2632,74 @@ document.querySelectorAll('.nav-btn').forEach(btn => {
       </div>
     </div>
   </div>
-  <script>
+    <script>
     window.showSubcatModal = function(subcat) {
-        const modal = document.getElementById('subcat-modal');
-        document.getElementById('subcat-modal-title').innerText = subcat;
-        const tbody = document.getElementById('subcat-modal-body');
-        
-        const matches = d.filter(u => {
-            if(window.dashFilterDb && u.database!==window.dashFilterDb) return false;
-            if(window.dashFilterCat && u.category!==window.dashFilterCat) return false;
-            return u.subcategories && (Array.isArray(u.subcategories) ? u.subcategories : String(u.subcategories).split(',')).map(x=>x.trim()).includes(subcat);
-        });
-        
-        if (matches.length === 0) {
-            tbody.innerHTML = '<p style="color: var(--text-muted); text-align: center; padding: 20px;">No papers found for this subcategory under current filters.</p>';
-        } else {
-            let htmlStr = '<div style="display: flex; flex-direction: column; gap: 12px;">';
-            matches.forEach((m, idx) => {
-                const authors = m.authors || 'Unknown Authors';
-                const journal = m.journal || 'Unknown Journal';
-                const year = m.year || 'Unknown Year';
-                htmlStr += `
-                <div style="background: var(--overlay-bg); border: 1px solid var(--border-dark); padding: 16px; border-radius: 8px; transition: transform 0.2s;" onmouseover="this.style.transform='translateY(-2px)'" onmouseout="this.style.transform='translateY(0)'">
-                    <div style="font-weight: 700; font-size: 15px; margin-bottom: 8px; color: var(--text-light); line-height: 1.4;">${idx+1}. ${m.title}</div>
-                    <div style="color: var(--text-muted); margin-bottom: 6px; font-size: 13px;">${authors}</div>
-                    <div style="font-style: italic; color: var(--accent); font-size: 13px; margin-bottom: 10px;">${journal} (${year})</div>
-                    <div style="display: flex; flex-wrap: wrap; gap: 6px;">
-                        <span class="art-tag tag-db">${m.database}</span>
-                        <span class="art-tag tag-cat">${m.category}</span>
-                        ${m.tier ? '<span class="badge ' + (m.tier === 'Tier 1 (Core)' ? 't1-badge' : m.tier === 'Tier 2 (Supporting)' ? 't2-badge' : m.tier === 'Reject' ? 'reject-badge' : 't3-badge') + '" style="margin-top:4px;">' + m.tier + '</span>' : ''}
-                    </div>
-                </div>`;
+        try {
+            console.log("showSubcatModal called for", subcat);
+            const modal = document.getElementById('subcat-modal');
+            if(!modal) {
+                console.error("Modal element not found!");
+                return;
+            }
+            document.getElementById('subcat-modal-title').innerText = subcat;
+            const tbody = document.getElementById('subcat-modal-body');
+            
+            // Build the articles array manually to avoid scope issues
+            const saved = JSON.parse(localStorage.getItem('lr_matrix_articles') || '[]');
+            const auto = window.AUTO_IMPORT_ARTICLES || [];
+            const map = new Map();
+            auto.forEach(a => { if(a.title) map.set(a.title.toLowerCase().trim(), a); });
+            saved.forEach(a => { if(a.title) map.set(a.title.toLowerCase().trim(), a); });
+            const d = Array.from(map.values());
+            
+            const matches = d.filter(u => {
+                if(window.dashFilterDb && u.database!==window.dashFilterDb) return false;
+                if(window.dashFilterCat && u.category!==window.dashFilterCat) return false;
+                return u.subcategories && (Array.isArray(u.subcategories) ? u.subcategories : String(u.subcategories).split(',')).map(x=>x.trim()).includes(subcat);
             });
-            htmlStr += '</div>';
-            tbody.innerHTML = htmlStr;
+            
+            if (matches.length === 0) {
+                tbody.innerHTML = '<p style="color: var(--text-muted); text-align: center; padding: 20px;">No papers found for this subcategory under current filters.</p>';
+            } else {
+                let htmlStr = '<div style="display: flex; flex-direction: column; gap: 12px;">';
+                matches.forEach((m, idx) => {
+                    const authors = m.authors || 'Unknown Authors';
+                    const journal = m.journal || 'Unknown Journal';
+                    const year = m.year || 'Unknown Year';
+                    htmlStr += `
+                    <div style="background: var(--overlay-bg); border: 1px solid var(--border-dark); padding: 16px; border-radius: 8px; transition: transform 0.2s;" onmouseover="this.style.transform='translateY(-2px)'" onmouseout="this.style.transform='translateY(0)'">
+                        <div style="font-weight: 700; font-size: 15px; margin-bottom: 8px; color: var(--text-light); line-height: 1.4;">${idx+1}. ${m.title}</div>
+                        <div style="color: var(--text-muted); margin-bottom: 6px; font-size: 13px;">${authors}</div>
+                        <div style="font-style: italic; color: var(--accent); font-size: 13px; margin-bottom: 10px;">${journal} (${year})</div>
+                        <div style="display: flex; flex-wrap: wrap; gap: 6px;">
+                            <span class="art-tag tag-db">${m.database}</span>
+                            <span class="art-tag tag-cat">${m.category}</span>
+                            ${m.tier ? '<span class="badge ' + (m.tier === 'Tier 1 (Core)' ? 't1-badge' : m.tier === 'Tier 2 (Supporting)' ? 't2-badge' : m.tier === 'Reject' ? 'reject-badge' : 't3-badge') + '" style="margin-top:4px;">' + m.tier + '</span>' : ''}
+                        </div>
+                    </div>`;
+                });
+                htmlStr += '</div>';
+                tbody.innerHTML = htmlStr;
+            }
+            
+            modal.style.display = 'flex'; // explicitly set display
+            modal.classList.add('active');
+        } catch(err) {
+            console.error("Error in showSubcatModal:", err);
+            alert("Error showing modal: " + err.message);
         }
-        
-        modal.classList.add('active');
     };
+    
+    // Ensure close button works
+    document.addEventListener('click', function(e) {
+        if(e.target.matches('.btn-secondary') && e.target.innerText === 'Close') {
+            const modal = document.getElementById('subcat-modal');
+            if(modal) {
+                modal.classList.remove('active');
+                modal.style.display = 'none';
+            }
+        }
+    });
   </script>
 
 </body>
