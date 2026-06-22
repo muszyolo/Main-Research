@@ -2715,7 +2715,7 @@ document.querySelectorAll('.nav-btn').forEach(btn => {
                 let changed = false;
                 const spFiles = ["s10560-026-01097-3.pdf", "s10566-025-09874-4.pdf", "s10803-025-06725-y.pdf", "s10803-025-06781-4.pdf", "s10803-025-06890-0.pdf", "s10803-025-06928-3.pdf", "s10803-025-07126-x.pdf"];
                 d.forEach(art => {
-                    if (art._filename && spFiles.includes(art._filename)) {
+                    if ((art._filename && spFiles.includes(art._filename)) || (art.filename && spFiles.includes(art.filename))) {
                         if (!art.qualityChecks) art.qualityChecks = [];
                         if (!art.qualityChecks.includes("q5")) {
                             art.qualityChecks.push("q5");
