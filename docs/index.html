@@ -79,7 +79,7 @@ DB_GROUPS.forEach(grp=>{
         const op = (window.dashFilterSubcat&&!sel)?"0.4":"1";
         const bd = sel?"border-left: 4px solid var(--secondary); background: rgba(255,255,255,0.05); padding-left: 8px;":"";
         subDiv.innerHTML += `
-        <div class="progress-container" data-subcat="${c}" style="cursor: pointer; transition: all 0.2s; opacity: ${op}; ${bd}" onmouseover="this.style.transform='translateX(4px)'" onmouseout="this.style.transform='translateX(0)'" onclick="window.dashFilterSubcat = window.dashFilterSubcat === '${c}' ? null : '${c}'; window.$();">
+        <div class="progress-container" data-subcat="${c}" style="cursor: pointer; transition: all 0.2s; opacity: ${op}; ${bd}" onmouseover="this.style.transform='translateX(4px)'" onmouseout="this.style.transform='translateX(0)'" onclick="window.showSubcatModal('${c}')">
           <div class="progress-header">
             <span>${c}</span>
             <strong>${s}</strong>
@@ -2618,6 +2618,59 @@ document.querySelectorAll('.nav-btn').forEach(btn => {
         }
     })();
 </script>
+
+
+  <div class="modal" id="subcat-modal">
+    <div class="modal-content" style="width: 800px; max-width: 95%;">
+      <div class="modal-header">
+        <h3><img class="modal-header-emoji" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4d6/512.png" alt="Papers"> Papers for Subcategory: <span id="subcat-modal-title" style="color: var(--primary);"></span></h3>
+      </div>
+      <div class="modal-body" id="subcat-modal-body" style="max-height: 60vh; overflow-y: auto; font-size: 13px; background: var(--bg-deep);">
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" onclick="document.getElementById('subcat-modal').classList.remove('active')">Close</button>
+      </div>
+    </div>
+  </div>
+  <script>
+    window.showSubcatModal = function(subcat) {
+        const modal = document.getElementById('subcat-modal');
+        document.getElementById('subcat-modal-title').innerText = subcat;
+        const tbody = document.getElementById('subcat-modal-body');
+        
+        const matches = d.filter(u => {
+            if(window.dashFilterDb && u.database!==window.dashFilterDb) return false;
+            if(window.dashFilterCat && u.category!==window.dashFilterCat) return false;
+            return u.subcategories && (Array.isArray(u.subcategories) ? u.subcategories : String(u.subcategories).split(',')).map(x=>x.trim()).includes(subcat);
+        });
+        
+        if (matches.length === 0) {
+            tbody.innerHTML = '<p style="color: var(--text-muted); text-align: center; padding: 20px;">No papers found for this subcategory under current filters.</p>';
+        } else {
+            let htmlStr = '<div style="display: flex; flex-direction: column; gap: 12px;">';
+            matches.forEach((m, idx) => {
+                const authors = m.authors || 'Unknown Authors';
+                const journal = m.journal || 'Unknown Journal';
+                const year = m.year || 'Unknown Year';
+                htmlStr += `
+                <div style="background: var(--overlay-bg); border: 1px solid var(--border-dark); padding: 16px; border-radius: 8px; transition: transform 0.2s;" onmouseover="this.style.transform='translateY(-2px)'" onmouseout="this.style.transform='translateY(0)'">
+                    <div style="font-weight: 700; font-size: 15px; margin-bottom: 8px; color: var(--text-light); line-height: 1.4;">${idx+1}. ${m.title}</div>
+                    <div style="color: var(--text-muted); margin-bottom: 6px; font-size: 13px;">${authors}</div>
+                    <div style="font-style: italic; color: var(--accent); font-size: 13px; margin-bottom: 10px;">${journal} (${year})</div>
+                    <div style="display: flex; flex-wrap: wrap; gap: 6px;">
+                        <span class="art-tag tag-db">${m.database}</span>
+                        <span class="art-tag tag-cat">${m.category}</span>
+                        ${m.tier ? '<span class="badge ' + (m.tier === 'Tier 1 (Core)' ? 't1-badge' : m.tier === 'Tier 2 (Supporting)' ? 't2-badge' : m.tier === 'Reject' ? 'reject-badge' : 't3-badge') + '" style="margin-top:4px;">' + m.tier + '</span>' : ''}
+                    </div>
+                </div>`;
+            });
+            htmlStr += '</div>';
+            tbody.innerHTML = htmlStr;
+        }
+        
+        modal.classList.add('active');
+    };
+  </script>
 
 </body>
 </html>
