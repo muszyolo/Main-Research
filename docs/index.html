@@ -651,7 +651,11 @@ body.light-theme .vis-tooltip {
   </div>
   <div class="banner-right">&#128203; LR Shield &bull; Master by Research</div>
 </div>
-<script>document.body.classList.add('has-public-banner');</script>
+<script>
+document.body.classList.add('has-public-banner');
+localStorage.removeItem('lr_shield_articles');
+localStorage.removeItem('lr_shield_logs');
+</script>
 
   <div class="app-container">
     

@@ -189,7 +189,11 @@ PUBLIC_BANNER = """
   </div>
   <div class="banner-right">&#128203; LR Shield &bull; Master by Research</div>
 </div>
-<script>document.body.classList.add('has-public-banner');</script>
+<script>
+document.body.classList.add('has-public-banner');
+localStorage.removeItem('lr_shield_articles');
+localStorage.removeItem('lr_shield_logs');
+</script>
 """
 
 content = content.replace('<body>', '<body>\n' + PUBLIC_BANNER)
@@ -227,6 +231,6 @@ with open(out_html, 'w', encoding='utf-8') as f:
 shutil.copy('auto_import.js', os.path.join(docs_dir, 'auto_import.js'))
 shutil.copy('auto_abstracts_v2.js', os.path.join(docs_dir, 'auto_abstracts_v2.js'))
 
-print("✅ docs/index.html generated successfully.")
+print("docs/index.html generated successfully.")
 print("   - index.html is untouched.")
 print("   - JS dependencies copied to docs/.")
