@@ -150,7 +150,7 @@ window.setArchiveSort = function(col) {
     v();
 };
 
-function v(){const o=document.getElementById("articles-table-body"),e=document.getElementById("empty-table-state");o.innerHTML="";const a=document.getElementById("archive-search").value.toLowerCase().trim(),t=document.getElementById("filter-database").value,n=document.getElementById("filter-category").value,i=document.getElementById("filter-tier").value,c=d.filter(r=>{if(t&&r.database!==t||n&&r.category!==n||i&&r.tier!==i&&(i==="Reject"&&r.tier!=="Reject"||i!=="Reject"&&r.tier==="Reject"||r.tier!==i))return!1;if(a){const s=r.title.toLowerCase().includes(a),l=r.authors.toLowerCase().includes(a),u=r.journal.toLowerCase().includes(a),g=r.doi&&r.doi.toLowerCase().includes(a);if(!s&&!l&&!u&&!g)return!1}return!0});
+function v(){const o=document.getElementById("articles-table-body"),e=document.getElementById("empty-table-state");o.innerHTML="";const a=document.getElementById("archive-search").value.toLowerCase().trim(),t=document.getElementById("filter-database").value,n=document.getElementById("filter-category").value,i=document.getElementById("filter-tier").value,c=d.filter(r=>{if(t&&r.database!==t||n&&r.category!==n||i&&r.tier!==i&&(i==="Reject"&&r.tier!=="Reject"||i!=="Reject"&&r.tier==="Reject"||r.tier!==i))return!1;if(a){const s=(r.title||"").toLowerCase().includes(a),l=(r.authors||"").toLowerCase().includes(a),u=(r.journal||"").toLowerCase().includes(a),g=r.doi&&r.doi.toLowerCase().includes(a);if(!s&&!l&&!u&&!g)return!1}return!0});
     if(window.archiveSortCol) {
         c.sort((A,B) => {
             let valA = '', valB = '';
@@ -222,7 +222,7 @@ c.length===0?e.style.display="flex":(e.style.display="none",(()=>{let hStr="";c.
             let existing = d.find(e => e._filename === i._filename || (e.title && i.title && e.title.toLowerCase().trim() === i.title.toLowerCase().trim()));
             if(existing) {
                 let oldNotes=existing.notes||"";
-                if(!oldNotes.includes("EXTRACTED ABSTRACT") && i.notes.includes("EXTRACTED ABSTRACT")){
+                if(!oldNotes.includes("EXTRACTED ABSTRACT") && i.notes && i.notes.includes("EXTRACTED ABSTRACT")){
                     existing.notes = oldNotes + "\n\n" + i.notes;
                 }
             } else {
