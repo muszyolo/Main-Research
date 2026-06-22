@@ -2529,6 +2529,8 @@ document.querySelectorAll('.nav-btn').forEach(btn => {
                     art.title = fixMap[art._filename].title;
                     art.authors = fixMap[art._filename].authors;
                     art.doi = fixMap[art._filename].doi;
+                    if (!art.qualityChecks) { art.qualityChecks = []; }
+                    if (!art.qualityChecks.includes('q5')) { art.qualityChecks.push('q5'); }
                     modified = true;
                 }
             });
