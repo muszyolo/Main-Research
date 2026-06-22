@@ -42,7 +42,7 @@ articles = []
 total_processed = 0
 
 # ALWAYS ensure the core categories exist in the dropdown
-all_categories = {"Autism Caregiver", "Clustering (Statistics)", "Clustering (Machine Learning)", "Malaysian Context", "TPB Help-Seeking", "Virtual Counseling", "Autism", "Face Validity", "Content Validity"}
+all_categories = {"Autism Caregiver", "Clustering (Statistics)", "Clustering (Machine Learning)", "Malaysian Context", "TPB Help-Seeking", "Virtual Counseling", "Autism", "Face Validity", "Content Validity", "Systematic Literature Review", "Caregiver Burden"}
 all_lit_types = {"White Literature (Academic Journal)", "White Literature (Conference Proceeding)", "Grey Literature (World Health Organization)", "Grey Literature (NASOM)", "Grey Literature (NARC)", "Grey Literature (Kizzu Kids)", "Grey Literature (Other Report / News)"}
 
 def extract_sentences_with_keywords(text, primary_keywords, secondary_keywords):
@@ -65,8 +65,8 @@ for db_folder in database_folders:
         continue
         
     for root, dirs, files in os.walk(db_path):
-        if 'NHMS' in root or 'nhms' in root.lower():
-            continue
+        # if 'NHMS' in root or 'nhms' in root.lower():
+            # continue
         for file in files:
             if not file.endswith(".pdf"):
                 continue
@@ -141,6 +141,10 @@ for db_folder in database_folders:
                     subcats.append("Cluster 2 (Norm-Focused)")
                 if re.search(r'\b(problem-solving training|pst|respite|micro-interventions)\b', lower_text):
                     subcats.append("Cluster 3 (Control-Focused)")
+                if re.search(r'\b(systematic review|systematic literature review|meta-analysis)\b', lower_text):
+                    subcats.append("Systematic Literature Review")
+                if re.search(r'\b(caregiver burden|parental burden)\b', lower_text):
+                    subcats.append("Caregiver Burden")
 
                 # Core Category Assignment
                 folder_name = os.path.basename(root)
@@ -154,7 +158,7 @@ for db_folder in database_folders:
                     else:
                         found_core = False
                         for sc in subcats:
-                            if not sc.startswith("Cluster ") and "Validity" not in sc and "Validation" not in sc and "Approach" not in sc:
+                            if not sc.startswith("Cluster ") and "Approach" not in sc:
                                 category = sc
                                 found_core = True
                                 break
